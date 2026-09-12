@@ -1,12 +1,10 @@
-cmd-nutrition-error-player = You cannot use this command unless you are a player.
-cmd-nutrition-error-entity = You cannot use this command without an entity.
-cmd-nutrition-error-component = Your entity does not have a {$comp} component.
-
-cmd-hungry-desc = makes you hungry
-cmd-hungry-help = sets your hungry level to starving
-cmd-setnutrit-desc = modify hunger and thirst
-cmd-setnutrit-help = set your hunger or thirst to one of the built-in thresholds
-cmd-setnutrit-error-invalid-threshold = invalid {$thresholdType} `{$thresholdString}`
-
-cmd-thirsty-desc = makes you thirsty
-cmd-thirsty-help = sets your thirst level to partched
+cmd-nutrition-error-player = 除非你是玩家，否則無法使用此指令。
+cmd-nutrition-error-entity = 若未指定實體，則無法使用此指令。
+cmd-nutrition-error-component = 您的實體沒有 { $comp } 元件。
+cmd-hungry-desc = 讓人覺得餓了
+cmd-hungry-help = 將你的飢餓程度設為「飢腸轆轆」
+cmd-setnutrit-desc = 調整飢餓與口渴感
+cmd-setnutrit-help = 將您的飢餓或口渴程度設定為內建的閾值之一
+cmd-setnutrit-error-invalid-threshold = 無效 { $thresholdType } `{ $thresholdString }`
+cmd-thirsty-desc = 讓人口渴
+cmd-thirsty-help = 將你的口渴程度設定為「口乾舌燥」

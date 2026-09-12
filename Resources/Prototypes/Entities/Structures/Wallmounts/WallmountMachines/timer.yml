@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseWallmountMachine
   id: SignalTimer
-  name: signal timer
-  description: It's a timer for sending timed signals to things.
+  name: 訊號計時器
+  description: 這是一個用於向各種裝置發送定時訊號的計時器。
   components:
   - type: StationAiWhitelist
   - type: WallMount
@@ -58,8 +58,8 @@
 - type: entity
   id: ScreenTimer
   parent: SignalTimer
-  name: screen timer
-  description: It's a timer for sending timed signals to things, with a built-in screen.
+  name: 螢幕計時器
+  description: 這是一個用於向各種裝置發送定時訊號的計時器，並內建螢幕。
   components:
   - type: SignalTimer
     canEditLabel: true
@@ -86,8 +86,8 @@
 - type: entity
   id: BrigTimer
   parent: ScreenTimer
-  name: brig timer
-  description: It's a timer for brig cells.
+  name: 布里格計時器
+  description: 這是用於單人牢房的計時器。
   components:
   - type: AccessReader
     access: [["Security"]]
@@ -105,8 +105,8 @@
 - type: entity
   parent: BaseWallmountMetallic # Frontier: add parent: BaseWallmountMetallic
   id: TimerFrame
-  name: timer frame
-  description: A construction frame for a timer.
+  name: 計時幀
+  description: 計時器的結構框架。
   components:
   - type: Sprite
     drawdepth: WallMountedItems

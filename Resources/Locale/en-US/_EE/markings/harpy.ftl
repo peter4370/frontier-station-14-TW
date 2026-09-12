@@ -1,94 +1,67 @@
-marking-HarpyWingDefaultHuescale = Basic Wings (Huescale)
-marking-HarpyWingDefaultHuescale-huescale_harpy = Wings
-
-marking-HarpyWingDefaultWhitescale = Basic Wings (Whitescale)
+marking-HarpyWingDefaultHuescale = 基本翅膀（色階）
+marking-HarpyWingDefaultHuescale-huescale_harpy = 翅膀
+marking-HarpyWingDefaultWhitescale = 基礎之翼（白鱗）
 marking-HarpyWingDefaultWhitescale-whitescale_harpy = Wings
-
-marking-HarpyWingFoldedHuescale = Folded Wings (Huescale)
+marking-HarpyWingFoldedHuescale = 《摺疊的翅膀》（Huescale）
 marking-HarpyWingFoldedHuescale-huescale_harpy_folded = Wings
-
-marking-HarpyWingFoldedWhitescale = Folded Wings (Whitescale)
+marking-HarpyWingFoldedWhitescale = 《摺疊的翅膀》（白鱗）
 marking-HarpyWingFoldedWhitescale-whitescale_harpy_folded = Wings
-
-marking-HarpyWingOwlHuescale = Owl Wings (Huescale)
+marking-HarpyWingOwlHuescale = 《貓頭鷹之翼》（Huescale）
 marking-HarpyWingOwlHuescale-huescale_harpy_wing_owl = Wings
-
-marking-HarpyWingOwlWhitescale = Owl Wings (Whitescale)
+marking-HarpyWingOwlWhitescale = 貓頭鷹之翼（白鱗）
 marking-HarpyWingOwlWhitescale-whitescale_harpy_wing_owl = Wings
-
-marking-HarpyWingClassic = Classic Wings
+marking-HarpyWingClassic = 經典之翼
 marking-HarpyWingClassic-classic_harpy = Wings
-
-marking-HarpyWing2ToneClassic = Classic Two Tone Wings
-marking-HarpyWing2ToneClassic-harpy_2tone_1 = Top Half
-marking-HarpyWing2ToneClassic-harpy_2tone_2 = Bottom Half
-
-marking-HarpyWing3ToneClassic = Classic Three Tone Wings
-marking-HarpyWing3ToneClassic-harpy_3tone_1 = Top Third
-marking-HarpyWing3ToneClassic-harpy_3tone_2 = Middle Third
-marking-HarpyWing3ToneClassic-harpy_3tone_3 = Bottom Third
-
-marking-HarpyWingSpeckledClassic = Speckled Classic Wings
-marking-HarpyWingSpeckledClassic-harpy_speckled_1 = Main
-marking-HarpyWingSpeckledClassic-harpy_speckled_2 = Speckles
-
-marking-HarpyWingUndertoneClassic = Classic Wings with Undertone
-marking-HarpyWingUndertoneClassic-harpy_undertone_1 = Front
+marking-HarpyWing2ToneClassic = 經典雙色翼片
+marking-HarpyWing2ToneClassic-harpy_2tone_1 = 上半部分
+marking-HarpyWing2ToneClassic-harpy_2tone_2 = 下半部分
+marking-HarpyWing3ToneClassic = 經典三色翅膀
+marking-HarpyWing3ToneClassic-harpy_3tone_1 = 前三分之一
+marking-HarpyWing3ToneClassic-harpy_3tone_2 = 中段
+marking-HarpyWing3ToneClassic-harpy_3tone_3 = 底部三分之一
+marking-HarpyWingSpeckledClassic = 斑點經典翅膀
+marking-HarpyWingSpeckledClassic-harpy_speckled_1 = 主頁
+marking-HarpyWingSpeckledClassic-harpy_speckled_2 = 斑點
+marking-HarpyWingUndertoneClassic = 經典之翼，暗藏深意
+marking-HarpyWingUndertoneClassic-harpy_undertone_1 = 封面
 marking-HarpyWingUndertoneClassic-harpy_undertone_2 = Back
-
-marking-HarpyWingTipsClassic = Classic Wings with Feather Tips
+marking-HarpyWingTipsClassic = 經典翅膀，帶有羽毛尖端
 marking-HarpyWingTipsClassic-harpy_wingtip_1 = Main
-marking-HarpyWingTipsClassic-harpy_wingtip_2 = Feathertips
-
-marking-HarpyWingBat = Bat Wings (Whitescale)
-marking-HarpyWingBat-bat_wings_tone_1 = Limbs
-marking-HarpyWingBat-bat_wings_tone_2 = Membrane
-
-marking-HarpyWingBionic = Simple Bionic Wings (Whitescale)
+marking-HarpyWingTipsClassic-harpy_wingtip_2 = 羽毛筆尖
+marking-HarpyWingBat = 蝙蝠之翼（白鱗）
+marking-HarpyWingBat-bat_wings_tone_1 = 四肢
+marking-HarpyWingBat-bat_wings_tone_2 = 膜
+marking-HarpyWingBionic = 簡易仿生翅膀（白鱗）
 marking-HarpyWingBionic-bionic_wings_tone_1 = Wings
-marking-HarpyWingBionic-bionic_wings_tone_2 = Lights (Unshaded)
-
-marking-HarpyEarsDefault = Feather Tufts
-marking-HarpyEarsDefault-harpy_ears_default = Tufts
-
-marking-HarpyEarsLarge = Large Feather Tufts
+marking-HarpyWingBionic-bionic_wings_tone_2 = 燈具（無燈罩）
+marking-HarpyEarsDefault = 羽毛簇
+marking-HarpyEarsDefault-harpy_ears_default = 塔夫茨
+marking-HarpyEarsLarge = 大型羽毛簇
 marking-HarpyEarsLarge-harpy_ears_large = Tufts
-
-marking-HarpyTailPhoenix = Basic Tail
-marking-HarpyTailPhoenix-phoenix_tail = Tail
-
-marking-HarpyTailRooster = Rooster Tail
+marking-HarpyTailPhoenix = 基本尾部
+marking-HarpyTailPhoenix-phoenix_tail = 尾巴
+marking-HarpyTailRooster = 公雞尾
 marking-HarpyTailRooster-rooster_tail = Tail
-
-marking-HarpyTailFinch = Finch Tail
+marking-HarpyTailFinch = 金翅雀尾
 marking-HarpyTailFinch-finch_tail = Tail
-
-marking-HarpyTailForkedHuescale = Forked Tailfin (Huescale)
+marking-HarpyTailForkedHuescale = 分叉尾鰭（Huescale）
 marking-HarpyTailForkedHuescale-huescale_forked_tailfin = Tail
-
-marking-HarpyTailForkedWhitescale = Forked Tailfin (Whitescale)
+marking-HarpyTailForkedWhitescale = 分叉尾鰭（白鱗）
 marking-HarpyTailForkedWhitescale-whitescale_forked_tailfin = Tail
-
-marking-HarpyTailPeacock = Peacock Tail
-marking-HarpyTailPeacock-peacock_tail_feathers = Feathers
-marking-HarpyTailPeacock-peacock_tail_eyes = Eyes
-
-marking-HarpyTailHaven = Haven Tail (Whitescale)
-marking-HarpyTailHaven-haven_tone_1 = Outer Feathers
-marking-HarpyTailHaven-haven_tone_2 = Inner Feathers
-
-marking-HarpyTailForkedLong = Long Forked Tail (Whitescale)
+marking-HarpyTailPeacock = 孔雀尾
+marking-HarpyTailPeacock-peacock_tail_feathers = 羽毛
+marking-HarpyTailPeacock-peacock_tail_eyes = 眼睛
+marking-HarpyTailHaven = 海文尾（白鱗）
+marking-HarpyTailHaven-haven_tone_1 = 外層羽毛
+marking-HarpyTailHaven-haven_tone_2 = 內在的羽毛
+marking-HarpyTailForkedLong = 長分叉尾（白鱗）
 marking-HarpyTailForkedLong-forked_long = Tail
-
-marking-HarpyTailSwallow = Swallow Tail (Whitescale)
-
-marking-HarpyChestDefault = Wing & Groin Under-Clothes
-marking-HarpyChestDefault-upper = Wing Under-Clothes
-marking-HarpyChestDefault-lower = Groin Under-Clothes
-
-marking-HarpyLegsDefault = Avian Legs
-marking-HarpyLegsDefault-thighs = Thighs
-
-marking-HarpyFeetDefault = Avian Feet
-marking-HarpyFeetDefault-feet = Feet
-marking-HarpyFeetDefault-talons = Talons
+marking-HarpyTailSwallow = 燕尾（白鱗）
+marking-HarpyChestDefault = 翼型與胯部內褲
+marking-HarpyChestDefault-upper = 翼形內衣
+marking-HarpyChestDefault-lower = 胯下內衣
+marking-HarpyLegsDefault = 鳥類的腿
+marking-HarpyLegsDefault-thighs = 大腿
+marking-HarpyFeetDefault = 鳥類的腳
+marking-HarpyFeetDefault-feet = 腳
+marking-HarpyFeetDefault-talons = 「Talons」

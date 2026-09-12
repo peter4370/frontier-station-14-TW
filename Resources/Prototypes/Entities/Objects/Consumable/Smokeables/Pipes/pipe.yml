@@ -1,8 +1,8 @@
 - type: entity
   id: SmokingPipe
   parent: BaseSmokingPipe
-  name: pipe
-  description: Just like grandpappy used to smoke.
+  name: 管子
+  description: 就像爺爺以前抽菸那樣。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Smokeables/Pipes/pipe.rsi
@@ -31,7 +31,7 @@
   - type: ItemSlots
   - type: SmokingPipe
     bowl_slot:
-      name: smoking-pipe-slot-component-slot-name-bowl
+      name: 煙斗-插槽-元件-插槽名稱-煙斗碗
       startingItem: GroundTobacco
       whitelist:
         tags:

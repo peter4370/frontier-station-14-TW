@@ -1,6 +1,6 @@
 - type: entity
   name: handcuffs
-  description: Used to detain criminals and other assholes.
+  description: 用來關押罪犯和其他混蛋。
   id: Handcuffs
   parent: [BaseItem, BaseC1Contraband] # Frontier: BaseSecurityCommandContraband<BaseC1Contraband
   components:
@@ -33,8 +33,8 @@
     delay: 3
 
 - type: entity
-  name: makeshift handcuffs
-  description: Homemade handcuffs crafted from spare cables.
+  name: 臨時手銬
+  description: 利用閒置電纜製作的自製手銬。
   id: Cablecuffs
   parent: Handcuffs
   components:
@@ -74,8 +74,8 @@
     price: 6
 
 - type: entity
-  name: zipties
-  description: Tough single-use plastic zipties, ideal for restraining rowdy prisoners.
+  name: 束線帶
+  description: 堅固的一次性塑膠束帶，非常適合用來約束暴躁的囚犯。
   id: Zipties
   parent: Handcuffs
   components:
@@ -121,8 +121,8 @@
     price: 3 # Frontier: 1<3
 
 - type: entity
-  name: broken zipties
-  description: These zipties look like they tried to manage the wrong cables.
+  name: 斷裂的束線帶
+  description: 這些束線帶看起來好像是試圖整理錯了線材。
   id: ZiptiesBroken
   parent: BaseHandcuffsBroken
   components:
@@ -131,8 +131,8 @@
     state: cuff-broken
 
 - type: entity
-  name: broken cables
-  description: These cables are broken in several places and don't seem very useful.
+  name: 斷裂的電纜
+  description: 這些電纜有多處斷裂，看來沒什麼用處。
   id: CablecuffsBroken
   parent: BaseHandcuffsBroken
   components:
@@ -152,8 +152,8 @@
 - type: entity
   parent: Handcuffs
   id: ClothingOuterStraightjacket
-  name: straitjacket
-  description: Used to restrain those who may cause harm to themselves or others.
+  name: 束縛衣
+  description: 用於約束可能對自己或他人造成傷害的人。
   components:
   - type: Item
     size: Normal

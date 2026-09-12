@@ -2,8 +2,8 @@
   abstract: true
   parent: BaseItem
   id: Crayon
-  name: crayon
-  description: A colourful crayon. Looks tasty. Mmmm...
+  name: 蠟筆
+  description: 一支色彩繽紛的蠟筆。看起來真好吃。嗯……
   components:
   - type: Sprite
     sprite: Objects/Fun/crayons.rsi
@@ -52,7 +52,7 @@
 - type: entity
   parent: Crayon
   id: CrayonWhite
-  name: white crayon
+  name: 白色蠟筆
   components:
   - type: Sprite
     state: white
@@ -73,7 +73,7 @@
 - type: entity
   parent: Crayon
   id: CrayonMime
-  name: mime crayon
+  name: mime 蠟筆
   components:
   - type: Sprite
     state: mime
@@ -94,7 +94,7 @@
 - type: entity
   parent: Crayon
   id: CrayonRainbow
-  name: rainbow crayon
+  name: 彩虹蠟筆
   components:
   - type: Sprite
     state: rainbow
@@ -158,7 +158,7 @@
 - type: entity
   parent: Crayon
   id: CrayonOrange
-  name: orange crayon
+  name: 橘色蠟筆
   components:
   - type: Sprite
     state: orange
@@ -200,7 +200,7 @@
 - type: entity
   parent: Crayon
   id: CrayonGreen
-  name: green crayon
+  name: 綠色蠟筆
   components:
   - type: Sprite
     state: green
@@ -221,7 +221,7 @@
 - type: entity
   parent: Crayon
   id: CrayonBlue
-  name: blue crayon
+  name: 藍色蠟筆
   components:
   - type: Sprite
     state: blue
@@ -263,8 +263,8 @@
 - type: entity
   parent: BoxCardboard
   id: CrayonBox
-  name: crayon box
-  description: It's a box of crayons.
+  name: 蠟筆盒
+  description: 這是一盒蠟筆。
   components:
   - type: Sprite
     sprite: Objects/Fun/crayons.rsi

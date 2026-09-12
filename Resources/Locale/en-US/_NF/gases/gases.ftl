@@ -1,3 +1,3 @@
-gas-fallback = Gas #{number}
+gas-fallback = Gas #{ number }
 gases-respiron = Respiron
-gases-helium = Helium
+gases-helium = 氦

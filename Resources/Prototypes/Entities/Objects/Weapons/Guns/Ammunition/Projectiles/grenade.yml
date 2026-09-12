@@ -1,6 +1,6 @@
 - type: entity
   id: PelletClusterRubber
-  name: pellet (ball, rubber)
+  name: 膠球（球狀、橡膠製）
   categories: [ HideSpawnMenu ]
   parent: BaseBullet
   components:
@@ -19,7 +19,7 @@
 
 - type: entity
   id: PelletClusterLethal
-  name: pellet (ball, lethal)
+  name: 子彈（圓形、致命）
   categories: [ HideSpawnMenu ]
   parent: BaseBullet
   components:
@@ -36,7 +36,7 @@
 
 - type: entity
   id: PelletClusterIncendiary
-  name: pellet (ball, incendiary)
+  name: 彈丸（球形、燃燒彈）
   categories: [ HideSpawnMenu ]
   parent: BaseBulletIncendiary
   components:
@@ -57,7 +57,7 @@
 
 - type: entity
   id: PelletClusterLessLethal
-  name: pellet (ball, less lethal)
+  name: 彈丸（球形，非致命性）
   categories: [ HideSpawnMenu ]
   parent: BaseBullet
   components:

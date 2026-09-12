@@ -6,7 +6,7 @@
   id: CableStack
   abstract: true
   parent: BaseItem
-  name: cable stack
+  name: 纜線堆疊
   suffix: Full
   components:
   - type: Tag
@@ -37,9 +37,9 @@
 - type: entity
   id: CableHVStack
   parent: CableStack
-  name: HV cable coil
+  name: 高壓電纜線圈
   suffix: Full
-  description: HV cables for connecting engines to heavy duty machinery, SMESes, and substations.
+  description: 用於將發電機連接至重型機械、中小型發電廠（SMES）及變電站的高壓電纜。
   components:
   - type: Stack
     stackType: CableHV
@@ -95,9 +95,9 @@
 - type: entity
   parent: CableStack
   id: CableMVStack
-  name: MV cable coil
+  name: MV 電纜線圈
   suffix: Full
-  description: MV cables for connecting substations to APCs, and also powering a select few things like emitters.
+  description: 用於將變電站連接至 APC 的中壓電纜，同時也為少數設備（例如發射器）供電。
   components:
   - type: Stack
     stackType: CableMV
@@ -151,8 +151,8 @@
 - type: entity
   parent: CableStack
   id: CableApcStack
-  name: LV cable coil
-  description: Low-Voltage stack of wires for connecting APCs to machines and other purposes.
+  name: LV 纜線線圈
+  description: 用於將 APC 連接至機器及其他用途的低電壓線纜組。
   suffix: Full
   components:
   - type: Sprite

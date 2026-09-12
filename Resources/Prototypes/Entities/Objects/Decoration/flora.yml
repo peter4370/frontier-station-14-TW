@@ -1,7 +1,7 @@
 - type: entity
   id: BaseRock
-  name: boulder
-  description: Heavy as a really heavy thing.
+  name: 巨石
+  description: 重得像某個非常重的東西一樣。
   abstract: true
   components:
   - type: Clickable
@@ -35,7 +35,7 @@
 
 - type: entity
   id: BaseTree
-  description: Yep, it's a tree.
+  description: 沒錯，那是一棵樹。
   abstract: true
   components:
   - type: SpriteFade
@@ -161,8 +161,8 @@
         rocksolid03: ""
 
 - type: entity
-  name: stalagmite
-  description: Natural stone spikes.
+  name: 石筍
+  description: 天然石製尖刺。
   parent: BaseRock
   id: FloraStalagmite
   components:
@@ -214,7 +214,7 @@
 - type: entity
   parent: BaseTree
   id: FloraTree
-  name: tree
+  name: 樹
   components:
   - type: Sprite
     layers:
@@ -233,7 +233,7 @@
 - type: entity
   parent: BaseTreeSnow
   id: FloraTreeSnow
-  name: snowy tree
+  name: 覆雪的樹
   components:
   - type: Sprite
     layers:
@@ -252,7 +252,7 @@
 - type: entity
   parent: BaseTreeSnow
   id: FloraTreeStump
-  name: tree stump
+  name: 樹樁
   components:
   - type: Sprite
     state: treestump
@@ -260,7 +260,7 @@
 - type: entity
   parent: BaseTreeLarge
   id: FloraTreeLarge
-  name: large tree
+  name: 大樹
   components:
   - type: Sprite
     layers:
@@ -279,7 +279,7 @@
 - type: entity
   parent: BaseTreeConifer
   id: FloraTreeConifer
-  name: snowy conifer
+  name: 白雪覆蓋的針葉樹
   components:
   - type: Sprite
     layers:
@@ -295,7 +295,7 @@
 - type: entity
   parent: BaseTreeConifer
   id: FloraTreeChristmas01
-  name: christmas tree
+  name: 聖誕樹
   components:
   - type: Sprite
     state: treechristmas01
@@ -365,8 +365,8 @@
 - type: entity
   parent: FloraTree
   id: ShadowTree
-  name: dark wood
-  description: The leaves are whispering about you.
+  name: 深色木材
+  description: 樹葉正輕聲細語地談論著你。
   components:
   - type: Sprite
     sprite: Objects/Decoration/Flora/flora_shadow_trees.rsi
@@ -374,8 +374,8 @@
 - type: entity
   parent: BaseTree
   id: LightTree
-  name: glowing tree
-  description: A marvelous tree filled with strange energy.
+  name: 發光的樹
+  description: 一棵充滿奇異能量的奇妙樹木。
   components:
   - type: PointLight
     radius: 2.0

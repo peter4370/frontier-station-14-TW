@@ -1,501 +1,347 @@
 # Weapons
 uplink-pistol-viper-name = Viper
-uplink-pistol-viper-desc = A small, easily concealable, but somewhat underpowered gun. Retrofitted with a fully automatic receiver. Uses pistol magazines (.35 auto).
-
-uplink-estoc-bundle-name = Estoc DMR bundle
-uplink-estoc-bundle-desc = A designated marksman rifle, fitted with a mid-range optic for longer-range combat. Bundled with two rifle magazines (.20 rifle).
-
+uplink-pistol-viper-desc = 一款體積小巧、易於隱藏，但火力稍顯不足的槍枝。經改裝後配備全自動槍機。使用手槍彈匣（.35自動式）。
+uplink-estoc-bundle-name = Estoc DMR 套裝
+uplink-estoc-bundle-desc = 一款配備中程瞄準鏡的指定狙擊步槍，專為遠距離作戰設計。隨附兩支步槍彈匣（.20 步槍彈）。
 uplink-revolver-python-name = Python
-uplink-revolver-python-desc = A brutally simple, effective, and loud Syndicate revolver. Comes loaded with armor-piercing rounds. Uses .45 magnum.
-
-uplink-pistol-cobra-name = Cobra
-uplink-pistol-cobra-desc = A rugged, robust operator handgun with inbuilt silencer. Uses pistol magazines (.25 caseless).
-
-uplink-rifle-mosin-name = Kardashev-Mosin
-uplink-rifle-mosin-desc = A bolt action service rifle that has seen many wars. Not modern by any standard, hand loaded, and terrible recoil, but it is cheap.
-
+uplink-revolver-python-desc = 一款極其簡單、高效且聲勢驚人的「辛迪加」左輪手槍。預先裝填了穿甲彈。使用 .45 馬格南子彈。
+uplink-pistol-cobra-name = 眼镜蛇
+uplink-pistol-cobra-desc = 一款堅固耐用的操作員手槍，內建消音器。採用手槍彈匣（.25 無殼彈）。
+uplink-rifle-mosin-name = 卡達謝夫-莫辛
+uplink-rifle-mosin-desc = 一款歷經無數戰爭考驗的栓動式制式步槍。無論以何種標準來看都算不上現代化，必須手動裝填，後座力也極其劇烈，但價格很便宜。
 uplink-esword-name = Energy Sword
-uplink-esword-desc = A very dangerous energy sword that can reflect shots. Can be stored in pockets when turned off. Makes a lot of noise when used or turned on.
-
-uplink-esword-double-name = Double Bladed Energy Sword
-uplink-esword-double-desc = A much more expensive counter part to the normal energy sword: with a much higher reflection chance, larger attack angle, higher structural damage, and faster swing. Makes a lot of noise when used or turned on.
-
-uplink-hypereutactic-blade-name = Hypereutactic Blade
-uplink-hypereutactic-blade-desc = A gigantic energy sword with power that matches its looks. Requires two hands. Slow and unwieldy, yet pretty adept at reflecting. Previously made infamous by an operative wearing a joy mask. You wouldn't want to see this coming at you down the hall!
-
-uplink-edagger-name = Energy Dagger
-uplink-edagger-desc = A small energy blade conveniently disguised in the form of a pen.
-
-uplink-fire-axe-flaming-name = Fire Axe
-uplink-fire-axe-flaming-desc = A classic-style weapon infused with advanced atmos technology to allow it to set targets on fire. Now with rugged rubberized handle!
-
-uplink-gloves-north-star-name = Gloves of the North Star
-uplink-gloves-north-star-desc = A pair of gloves that reduce your punching cooldown drastically, allowing you to beat people to death in a flurry of punches.
-
-uplink-gloves-knuckleduster-name = Syndicate Knuckle Dusters
-uplink-gloves-knuckleduster-desc = A pair of plastitanium knuckle dusters that let you punch hard enough to break the captains jaw into pieces.
+uplink-esword-desc = 一把極其危險的能量劍，能夠反射射擊。關閉時可收納於口袋中。使用或開啟時會發出很大聲響。
+uplink-esword-double-name = 雙刃能量劍
+uplink-esword-double-desc = 相較於普通能量劍，這款武器價格昂貴得多：它擁有更高的反射機率、更廣的攻擊角度、更高的結構性傷害，以及更快的揮擊速度。使用或開啟時會發出很大的聲響。
+uplink-hypereutactic-blade-name = 超共析葉片
+uplink-hypereutactic-blade-desc = 一把外型壯觀、威力與其外觀相稱的巨型能量劍。需雙手持握。動作遲緩且笨重，但在反擊方面卻相當嫻熟。曾因一名戴著「歡樂面具」的特工而聲名狼藉。你絕對不希望看到這把劍從走廊朝你襲來！
+uplink-edagger-name = 能量匕首
+uplink-edagger-desc = 一把小巧的能量刀，巧妙地偽裝成一支筆的模樣。
+uplink-fire-axe-flaming-name = 消防斧
+uplink-fire-axe-flaming-desc = 一款融合先進「Atmos」技術的經典風格武器，能將目標點燃。現已配備堅固的橡膠握把！
+uplink-gloves-north-star-name = 北極星手套
+uplink-gloves-north-star-desc = 一雙能大幅縮短出拳冷卻時間的手套，讓你能以連環猛擊將對手打死。
+uplink-gloves-knuckleduster-name = 「黑手黨」指節銅環
+uplink-gloves-knuckleduster-desc = 一對塑鈦合金指節套，讓你出拳時力道之大，足以將隊長的下巴打得粉碎。
 # Explosives
-uplink-explosive-grenade-name = Explosive Grenade
-uplink-explosive-grenade-desc = A simplistic grenade with a 3.5 second long fuse that is geared towards injuring personnel. Causes minimal hull damage.
-
-uplink-flash-grenade-name = Flashbang
-uplink-flash-grenade-desc = A standard-issue flashbang, capable of blinding and slowing down anyone without proper protection. This, of course, includes you; make sure you're properly equipped before using it.
-
-uplink-smoke-grenade-name = Smoke Grenade
-uplink-smoke-grenade-desc = A grenade that releases a huge cloud of smoke, perfect for killing someone in the shadows or making a sneaky getaway.
-
-uplink-mini-bomb-name = Minibomb
-uplink-mini-bomb-desc = A low-yield, high-impact precision sabotage explosive with a 5 second long fuse. Perfect for quickly destroying a machine, dead body, or whatever else needs to go.
-
-uplink-singularity-grenade-name = Singularity Grenade
-uplink-singularity-grenade-desc = Grenade that simulates the power of a singularity, generates powerful gravity well.
-
-uplink-whitehole-grenade-name = Whitehole Grenade
-uplink-whitehole-grenade-desc = Grenade that repulses everything around for about 10 seconds. Very useful in small rooms and for chasing someone.
-
+uplink-explosive-grenade-name = 爆炸手榴彈
+uplink-explosive-grenade-desc = 一款引信長達 3.5 秒的簡易手榴彈，主要用於對人員造成傷害。對車體造成的損害極輕微。
+uplink-flash-grenade-name = 閃光彈
+uplink-flash-grenade-desc = 一款標準配備的閃光震撼彈，能使任何未穿戴適當防護裝備的人暫時失明並減緩行動速度。這當然也包括你在內；使用前請務必確認自己已配備妥當。
+uplink-smoke-grenade-name = 煙霧彈
+uplink-smoke-grenade-desc = 一枚能釋放出巨大煙霧的手榴彈，非常適合在陰影中暗殺敵人，或是趁機悄悄脫身。
+uplink-mini-bomb-name = 迷你炸彈
+uplink-mini-bomb-desc = 一種低威力、高破壞力的精密破壞性炸藥，配有長達 5 秒的引信。非常適合快速摧毀機器、屍體，或是任何需要清除的目標。
+uplink-singularity-grenade-name = 奇點手榴彈
+uplink-singularity-grenade-desc = 這枚手榴彈能模擬奇點的威力，並產生強大的重力井。
+uplink-whitehole-grenade-name = 白洞手榴彈
+uplink-whitehole-grenade-desc = 一枚能將周圍所有物體擊退約 10 秒的手榴彈。在狹小空間內或追擊敵人時非常實用。
 uplink-penguin-grenade-name = Grenade Penguin
-uplink-penguin-grenade-desc = A small, highly-aggressive penguin with a grenade strapped around its neck. Harvested by the Syndicate from icy shit-hole planets.
-
+uplink-penguin-grenade-desc = 一隻體型嬌小、極具攻擊性的企鵝，脖子上綁著一枚手榴彈。由「辛迪加」從冰冷的破爛星球上捕獲。
 uplink-c4-name = C-4
-uplink-c4-desc = Use it to breach walls, airlocks or sabotage equipment. It can be attached to almost all objects and has a modifiable timer with a minimum setting of 10 seconds.
-
-uplink-c4-bundle-name = C-4 bundle
-uplink-c4-bundle-desc = Because sometimes quantity is quality. Contains 8 C-4 plastic explosives.
-
-uplink-grenadier-rig-name = grenadier chest rig
-uplink-grenadier-rig-desc = All you need for a loud party: 4 explosive grenades, 2 EMP grenades and 2 minibombs in a chest rig.
-
+uplink-c4-desc = 可用於破壞牆壁、氣閘或破壞設備。它幾乎可以附著於所有物體上，並具備可調整的定時器，最短設定為 10 秒。
+uplink-c4-bundle-name = C-4 套組
+uplink-c4-bundle-desc = 因為有時候數量就是品質。內含 8 塊 C-4 塑膠炸藥。
+uplink-grenadier-rig-name = 榴彈兵胸帶
+uplink-grenadier-rig-desc = 舉辦一場熱鬧派對所需的一切：將 4 顆爆破手榴彈、2 顆電磁脈衝手榴彈和 2 顆迷你炸彈裝入胸掛式彈匣帶中。
 uplink-emp-grenade-name = EMP Grenade
-uplink-emp-grenade-desc = A grenade designed to disrupt electronic systems. Useful for disrupting communications, security's energy weapons, and APCs when you're in a tight spot.
-
-uplink-exploding-pen-name = Exploding pen
-uplink-exploding-pen-desc = A class IV explosive device contained within a standard pen. Comes with a 4 second fuse.
-
-uplink-exploding-syndicate-bomb-name = Syndicate Bomb
-uplink-exploding-syndicate-bomb-desc = A big, anchored bomb that can create a huge explosion if not defused in time. Useful as a distraction. Has an adjustable timer with a minimum setting of 180 seconds.
-
-uplink-exploding-syndicate-bomb-fake-name = Decoy Syndicate Bomb
-uplink-exploding-syndicate-bomb-fake-desc = A training bomb carefully made to look just like the real thing. In all ways similar to a syndicate bomb, but only creates a tiny explosion.
-
-uplink-cluster-grenade-name = Cluster Grenade
-uplink-cluster-grenade-desc = Three explosive grenades bundled together. The cluster splits after 3.5 seconds.
-
-uplink-incendiary-grenade-name = Incendiary Grenade
-uplink-incendiary-grenade-desc = Releases a spray of incendiary fragments, igniting anyone near the detonation area.
-
-uplink-shrapnel-grenade-name = Shrapnel Grenade
-uplink-shrapnel-grenade-desc = Launches a spray of sharp fragments dealing great damage against unarmored targets.
-
+uplink-emp-grenade-desc = 一款專為干擾電子系統而設計的手榴彈。當你陷入困境時，可用於干擾通訊、安全部隊的能量武器以及裝甲運兵車。
+uplink-exploding-pen-name = 會爆炸的筆
+uplink-exploding-pen-desc = 一款藏於標準鋼筆內的第四類爆炸裝置。附有4秒引信。
+uplink-exploding-syndicate-bomb-name = 「辛迪加炸彈」
+uplink-exploding-syndicate-bomb-desc = 一枚體積龐大且已固定錨定的炸彈，若未能及時拆除，將引發劇烈爆炸。可用作牽制敵人的手段。配備可調式計時器，最短計時設定為 180 秒。
+uplink-exploding-syndicate-bomb-fake-name = 「誘餌聯盟」炸彈
+uplink-exploding-syndicate-bomb-fake-desc = 一枚精心製作、外觀與真彈一模一樣的訓練用炸彈。各方面都與黑幫炸彈相似，但僅會引發微小的爆炸。
+uplink-cluster-grenade-name = 集束手榴彈
+uplink-cluster-grenade-desc = 三枚爆炸性手榴彈捆綁在一起。3.5 秒後，這組手榴彈會分散開來。
+uplink-incendiary-grenade-name = 燃燒手榴彈
+uplink-incendiary-grenade-desc = 會噴射出一連串的燃燒碎片，點燃爆炸範圍內的所有人。
+uplink-shrapnel-grenade-name = 破片手榴彈
+uplink-shrapnel-grenade-desc = 釋放一連串銳利的碎片，對無護甲目標造成巨大傷害。
 # Ammo
-uplink-pistol-magazine-name = Pistol Magazine (.35 auto)
-uplink-pistol-magazine-desc = Pistol magazine with 10 cartridges. Compatible with the Viper.
-
-uplink-pistol-magazine-c20r-name = SMG magazine (.35 auto)
-uplink-pistol-magazine-c20r-desc = Rifle magazine with 30 cartridges. Compatible with C-20r.
-
-uplink-magazine-bulldog-pellet-name = Drum magazine (.50 pellet)
-uplink-magazine-bulldog-pellet-desc = Shotgun magazine with 8 shells filled with buckshot. Compatible with the Bulldog.
-
-uplink-magazine-bulldog-slug-name = Drum magazine (.50 slug)
-uplink-magazine-bulldog-slug-desc = Shotgun magazine with 8 shells filled with slugs. Compatible with the Bulldog.
-
-uplink-estoc-ammo-name = Rifle magazine (.20 rifle)
-uplink-estoc-ammo-desc = A rifle magazine with 25 cartridges. Compatible with the Estoc DMR.
-
-uplink-pistol-magazine-caseless-name = Pistol Magazine (.25 caseless)
-uplink-pistol-magazine-caseless-desc = Pistol magazine with 10 cartridges. Compatible with the Cobra.
-
-uplink-speedloader-magnum-name = Speedloader (.45 magnum AP)
-uplink-speedloader-magnu-desc = Revolver speedloader with 6 armor-piercing cartridges, capable of ignoring armor entirely. Compatible with the Python.
-
-uplink-mosin-ammo-name = Ammunition box (.30 rifle)
-uplink-mosin-ammo-desc = A box of 60 cartridges for the surplus rifle.
-
-uplink-sniper-ammo-name = Ammunition box (.60 antimateriel)
-uplink-sniper-ammo-desc = A box of 10 cartridges for the Hristov sniper rifle.
-
+uplink-pistol-magazine-name = 手槍彈匣（.35自動）
+uplink-pistol-magazine-desc = 可裝載 10 發子彈的手槍彈匣。適用於 Viper。
+uplink-pistol-magazine-c20r-name = SMG 彈匣（.35 自動手槍）
+uplink-pistol-magazine-c20r-desc = 可裝載 30 發子彈的步槍彈匣。適用於 C-20r。
+uplink-magazine-bulldog-pellet-name = 彈匣（.50 錘頭彈）
+uplink-magazine-bulldog-pellet-desc = 裝有 8 發散彈的霰彈槍彈匣。適用於 Bulldog 型號。
+uplink-magazine-bulldog-slug-name = 彈匣（.50 口徑子彈）
+uplink-magazine-bulldog-slug-desc = 霰彈槍彈匣，內裝 8 發實心彈。適用於「Bulldog」型號。
+uplink-estoc-ammo-name = 步槍彈匣（.20 口徑步槍）
+uplink-estoc-ammo-desc = 一顆裝有 25 發子彈的步槍彈匣。適用於 Estoc DMR。
+uplink-pistol-magazine-caseless-name = 手槍彈匣（.25 無殼彈）
+uplink-pistol-magazine-caseless-desc = 可裝載 10 發子彈的手槍彈匣。適用於 Cobra 型號。
+uplink-speedloader-magnum-name = 快速裝彈器（.45馬格南穿甲彈）
+uplink-speedloader-magnu-desc = 一款裝有 6 發穿甲彈的左輪手槍快速裝彈器，能完全無視裝甲。適用於 Python 型號。
+uplink-mosin-ammo-name = 彈藥箱（.30口徑步槍）
+uplink-mosin-ammo-desc = 一盒含 60 發子彈的軍用剩餘步槍彈匣。
+uplink-sniper-ammo-name = 彈藥箱（.60 反器材彈）
+uplink-sniper-ammo-desc = 一盒適用於赫里斯托夫狙擊步槍的10發子彈彈匣。
 # Utility
-uplink-holopara-kit-name = Holoparasite Kit
-uplink-holopara-kit-desc = The pride and joy of Cybersun. Contains an injector that hosts a sentient metaphysical guardian made of hard light which resides in the user's body when not active.
-    The guardian can punch rapidly and is immune to hazardous environments while being resistant to direct trauma, but shares any damage it takes with the user.
-
-uplink-holoclown-kit-name = Holoclown Kit
-uplink-holoclown-kit-desc = A joint venture between Cybersun and Honk.co. Contains an injector that hosts a sentient metaphysical clown made of hard light which resides in the user's body when not active.
-    The holoclown has pockets to store things, a hardlight hand it can manipulate the environment with and is immune to hazardous environments while being resistant to direct trauma, but shares any damage it takes with the user.
-
-uplink-holster-name = Shoulder Holster
-uplink-holster-desc = A deep shoulder holster capable of holding many types of ballistics.
-
-uplink-chest-rig-name = Chest Rig
-uplink-chest-rig-desc = Explosion-resistant tactical webbing used for holding traitor goods.
-
+uplink-holopara-kit-name = 全息寄生蟲套組
+uplink-holopara-kit-desc =
+    「賽博太陽」的驕傲與榮光。內含一個注入器，其中寄宿著由硬光構成的具有意識的形而上守護者；當未處於活躍狀態時，該守護者便棲息於使用者的體內。
+    該守護者能快速出拳，對危險環境免疫，且能抵禦直接創傷，但其所承受的任何傷害都會與使用者分擔。
+uplink-holoclown-kit-name = 全息小丑套組
+uplink-holoclown-kit-desc =
+    Cybersun 與 Honk.co 之間的合資企業。內含一個注射器，其中宿有一名由硬光構成的、具有意識的形而上小丑，當未處於活躍狀態時，該小丑便棲息於使用者的體內。
+    這名全息小丑擁有可用於收納物品的口袋，並有一隻能操縱環境的硬光之手；牠對危險環境具有免疫力，且能抵抗直接創傷，但所承受的任何傷害都會與使用者分攤。
+uplink-holster-name = 肩用槍套
+uplink-holster-desc = 一款深型肩部槍套，可容納多種彈道武器。
+uplink-chest-rig-name = 胸掛帶
+uplink-chest-rig-desc = 用於存放叛徒貨物的防爆戰術織帶。
 uplink-emag-name = Emag
-uplink-emag-desc = The business card of the syndicate, this sequencer is able to tamper with a variety of station devices. Recharges automatically.
-
-uplink-access-breaker-name = Access Breaker
-uplink-access-breaker-desc = A hacked access configurator and a good friend of the emag. This device is able to force airlocks open as well as erase access requirements from station equipment. Recharges automatically.
-
+uplink-emag-desc = 作為該組織的招牌產品，這款序列器能夠篡改各類電台設備。可自動充電。
+uplink-access-breaker-name = 存取斷路器
+uplink-access-breaker-desc = 一台遭駭的通行權限配置器，也是《emag》的好夥伴。此裝置不僅能強行開啟氣閘，還能從站內設備中清除通行權限要求。可自動充電。
 uplink-agent-id-card-name = Agent ID Card
-uplink-agent-id-card-desc = A modified ID card that can copy accesses from other cards and change its name and job title at-will.
-
-uplink-black-jetpack-name = Black Jetpack
-uplink-black-jetpack-desc = A black jetpack. It allows you to fly around in space. Refills not included, use your fuel wisely.
-
-uplink-reinforcement-radio-ancestor-name = Genetic Ancestor Reinforcement Teleporter
-uplink-reinforcement-radio-ancestor-desc = Call in a trained ancestor of your choosing to assist you. Comes with a single syndicate cigarette.
-
-uplink-reinforcement-radio-name = Reinforcement Teleporter
-uplink-reinforcement-radio-traitor-desc =  Radio in a reinforcement agent of extremely questionable quality. No off button, buy this if you're ready to party. Call in a medic or spy or thief to help you out. Good luck.
-
-uplink-reinforcement-radio-nukeops-name = Nuclear Operative Teleporter
-uplink-reinforcement-radio-nukeops-desc =  Radio in a nuclear operative of extremely questionable quality. No off button, buy this if you're ready to party. They have basic nuclear operative gear.
-
-uplink-reinforcement-radio-cyborg-assault-name = Syndicate Assault Cyborg Teleporter
-uplink-reinforcement-radio-cyborg-assault-desc =  A lean, mean killing machine with access to an Energy Sword, LMG, Cryptographic Sequencer, and a Pinpointer.
-
-uplink-stealth-box-name = Stealth Box
-uplink-stealth-box-desc = A box outfitted with stealth technology. Sneak around unnoticed, but don't move too fast or you'll be revealed!
-
-uplink-headset-name = Syndicate Over-ear Headset
-uplink-headset-desc = A headset that allows you to communicate with other syndicate operatives. Has 4 slots for encryption keys.
-
-uplink-encryption-key-name = Syndicate Encryption Keys
-uplink-encryption-key-desc = Two encryption keys for access to the secret frequency of our special agents. Give the spare to a friend, but make sure it doesn't fall into enemy hands.
-
-uplink-binary-translator-key-name = Binary Translator Key
-uplink-binary-translator-key-desc = Lets you tap into the silicons' binary channel. Don't talk on it though, at least not without a voice mask.
-
+uplink-agent-id-card-desc = 一張經過修改的身分證，能夠複製其他卡片的通行權限，並可隨意變更其姓名及職稱。
+uplink-black-jetpack-name = 黑色噴射背包
+uplink-black-jetpack-desc = 一個黑色的噴射背包。它能讓你在太空中自由翱翔。不附贈補充燃料，請謹慎使用燃料。
+uplink-reinforcement-radio-ancestor-name = 基因祖先強化傳送器
+uplink-reinforcement-radio-ancestor-desc = 召喚一位你所選擇且受過訓練的祖先來協助你。隨附一支「辛迪加」香菸。
+uplink-reinforcement-radio-name = 增援傳送器
+uplink-reinforcement-radio-traitor-desc = 這是一款品質極其可疑的增益道具中的收音機。沒有關機按鈕，若你已準備好狂歡，就買下它吧。呼叫醫護兵、間諜或盜賊來協助你。祝你好運。
+uplink-reinforcement-radio-nukeops-name = 核能操作員傳送器
+uplink-reinforcement-radio-nukeops-desc = 一款品質極其可疑的「核特工」主題收音機。沒有關機按鈕，若你準備好要狂歡，就買它吧。他們備有基本的核特工裝備。
+uplink-reinforcement-radio-cyborg-assault-name = 「辛迪加突襲」機械人傳送器
+uplink-reinforcement-radio-cyborg-assault-desc = 一臺精瘦而凶悍的殺戮機器，配備能量劍、輕機槍、加密序列器以及定位器。
+uplink-stealth-box-name = 隱形盒
+uplink-stealth-box-desc = 一個配備隱形技術的盒子。悄悄潛行而不被察覺，但別移動得太快，否則就會暴露行蹤！
+uplink-headset-name = Syndicate 包耳式耳機
+uplink-headset-desc = 一款可讓你與其他組織成員進行通訊的頭戴式裝置。設有 4 個加密金鑰插槽。
+uplink-encryption-key-name = 辛迪加加密金鑰
+uplink-encryption-key-desc = 兩把加密金鑰，用以存取我們特工的秘密頻率。請將備用金鑰交給朋友，但務必確保它不會落入敵人手中。
+uplink-binary-translator-key-name = 二進位轉換器金鑰
+uplink-binary-translator-key-desc = 讓您能接通矽晶體的二進位通道。不過別透過它說話，至少在沒有配戴語音掩模的情況下不要這麼做。
 uplink-hypopen-name = Hypopen
-uplink-hypopen-desc = A chemical hypospray disguised as a pen, capable of instantly injecting up to 10u of reagents. Starts empty.
-
-uplink-voice-mask-name = Voice Mask
-uplink-voice-mask-desc = A gas mask that lets you adjust your voice to whoever you can think of. Also utilizes cutting-edge chameleon technology.
-
-uplink-clothing-eyes-hud-syndicate-name = Syndicate Visor
-uplink-clothing-eyes-hud-syndicate-desc = The syndicate's professional head-up display, designed for better detection of humanoids and their subsequent elimination.
-
-uplink-radio-jammer-name = Radio Jammer
-uplink-radio-jammer-desc = This device will disrupt any nearby outgoing radio communication as well as suit sensors when activated.
-
-uplink-syndicate-weapon-module-name = Weapon Cyborg Module
-uplink-syndicate-weapon-module-desc = Upgrades a cyborg with both a machete and an advanced laser.
-
-uplink-syndicate-martyr-module-name = Martyr Cyborg Module
-uplink-syndicate-martyr-module-desc = Turn your emagged borg friend into a walking bomb with just this module. Make sure they're loyal to your cause, results may vary.
-
-uplink-singularity-beacon-name = Singularity Beacon
-uplink-singularity-beacon-desc = A device that attracts singularities. Has to be anchored and powered. Causes singularities to grow when consumed.
-
-uplink-antimov-law-name = Antimov Law Circuit
-uplink-antimov-law-desc = A very dangerous Lawset to use when you want to cause the A.I. to go haywire, use with caution.
-
+uplink-hypopen-desc = 一款偽裝成筆狀的化學微量注射器，能瞬間注射最多 10u 的試劑。初始狀態為空。
+uplink-voice-mask-name = 語音面具
+uplink-voice-mask-desc = 一款能讓你將聲音調整成任何你能想到的人的聲音的防毒面具。同時還運用了最先進的變色龍技術。
+uplink-clothing-eyes-hud-syndicate-name = 「辛迪加」護目鏡
+uplink-clothing-eyes-hud-syndicate-desc = 該組織的專業抬頭顯示器，旨在更有效地偵測人形生物並予以消滅。
+uplink-radio-jammer-name = 無線電干擾器
+uplink-radio-jammer-desc = 此裝置一旦啟動，將干擾附近任何外發的無線電通訊，並會干擾戰衣上的感測器。
+uplink-syndicate-weapon-module-name = 武器機械人模組
+uplink-syndicate-weapon-module-desc = 為一名同時配備開山刀與先進雷射武器的機械人進行升級。
+uplink-syndicate-martyr-module-name = 殉道者機械人模組
+uplink-syndicate-martyr-module-desc = 只需這個模組，就能將你那位被植入電子晶片的博格朋友變成一顆行走的炸彈。請確保他們對你的事業保持忠誠，效果可能因人而異。
+uplink-singularity-beacon-name = 奇點信標
+uplink-singularity-beacon-desc = 一種能吸引奇點的裝置。必須固定並接通電源。當其被消耗時，會促使奇點增長。
+uplink-antimov-law-name = 安蒂莫夫法律轄區
+uplink-antimov-law-desc = 這是一組極其危險的 Lawset，若想讓 AI 失控時才使用，請謹慎使用。
 # Implants
-uplink-storage-implanter-name = Storage Implanter
-uplink-storage-implanter-desc = Hide goodies inside of yourself with new bluespace technology!
-
-uplink-freedom-implanter-name = Freedom Implanter
-uplink-freedom-implanter-desc = Get away from those nasty sec officers with this three use implant!
-
-uplink-scram-implanter-name = Scram Implanter
-uplink-scram-implanter-desc = A 2-use implant which teleports you within a large radius. Attempts to teleport you onto an unobstructed tile. May sometimes fail to do so. Life insurance not included.
-
-uplink-dna-scrambler-implanter-name = DNA Scrambler Implanter
-uplink-dna-scrambler-implanter-desc = A single use implant that can be activated to modify your DNA and give you a completely new look.
-
-uplink-emp-implanter-name = EMP Implanter
-uplink-emp-implanter-desc = Detonates a small EMP pulse on activation that drains nearby electronics of their power, can be used three times before the internal battery runs out.
-
-uplink-macro-bomb-implanter-name = Macro Bomb Implanter
-uplink-macro-bomb-implanter-desc = Inject this and on death you'll create a large explosion. Huge team casualty cost, use at own risk. Replaces internal micro bomb.
-
-uplink-uplink-implanter-name = Uplink Implanter
-uplink-uplink-implanter-desc = Stealthily order equipment without the need for a PDA. Swallow telecrystals to top up the uplink.
-
-uplink-deathrattle-implant-name = Box Of Deathrattle Implants
-uplink-deathrattle-implant-desc = A box containing enough deathrattle implants for the whole squad. Relays a message containing your position to the syndicate channel when you go into a critical state or die.
-
-uplink-death-acidifier-implant-name = Death Acidifier Implant
-uplink-death-acidifier-implant-desc = Completely melts the user and their equipment on use or death.
-
-uplink-micro-bomb-implanter-name = Micro Bomb Implanter
-uplink-micro-bomb-implanter-desc = Explode on death or manual activation with this implant. Destroys the body with all equipment.
-
+uplink-storage-implanter-name = 儲存式植入機
+uplink-storage-implanter-desc = 運用全新的 bluespace 技術，將好東西藏在體內吧！
+uplink-freedom-implanter-name = 自由植入器
+uplink-freedom-implanter-desc = 利用這款三用植入裝置，擺脫那些討厭的安保人員吧！
+uplink-scram-implanter-name = Scram 植入器
+uplink-scram-implanter-desc = 一款可使用兩次的植入裝置，能將你傳送至大範圍內的任意位置。系統會嘗試將你傳送至無障礙的格子上，但有時可能會失敗。本產品不包含生命保險。
+uplink-dna-scrambler-implanter-name = DNA 隨機化植入器
+uplink-dna-scrambler-implanter-desc = 一種一次性植入裝置，經啟動後可修改您的DNA，讓您煥然一新。
+uplink-emp-implanter-name = EMP 植入機
+uplink-emp-implanter-desc = 啟動時會釋放一小波電磁脈衝（EMP），使附近電子設備的電力耗盡；在內建電池耗盡前，可使用三次。
+uplink-macro-bomb-implanter-name = 宏級炸彈植入器
+uplink-macro-bomb-implanter-desc = 注射此物後，死亡時將引發一場大規模爆炸。將造成團隊極大傷亡，使用時請自行承擔風險。此物將取代體內的微型炸彈。
+uplink-uplink-implanter-name = 上行鏈路植入器
+uplink-uplink-implanter-desc = 無需使用PDA，即可悄悄下訂設備。吞下電晶體來補充上行頻道。
+uplink-deathrattle-implant-name = 「死亡之聲」植入物禮盒
+uplink-deathrattle-implant-desc = 一個裝有足夠供整個小隊使用的「死亡呻吟」植入體的箱子。當你進入危急狀態或死亡時，會將包含你位置的訊息傳送至黑手黨通訊頻道。
+uplink-death-acidifier-implant-name = 死亡酸化器植入體
+uplink-death-acidifier-implant-desc = 使用時或死亡時，會將使用者及其裝備徹底熔化。
+uplink-micro-bomb-implanter-name = 微型炸彈植入器
+uplink-micro-bomb-implanter-desc = 裝上此植入體後，死亡時或手動觸發時將發生爆炸。爆炸將摧毀身體及所有裝備。
 uplink-radio-implanter-name = Radio Implanter
-uplink-radio-implanter-desc = Implants a Syndicate radio, allowing covert communication without a headset.
-
+uplink-radio-implanter-desc = 植入一台「辛迪加」無線電裝置，讓使用者無需佩戴耳機即可進行秘密通訊。
 # Bundles
-uplink-observation-kit-name = Observation Kit
-uplink-observation-kit-desc = Includes surveillance camera monitor board and security hud disguised as sunglasses.
-
-uplink-emp-kit-name = Electrical Disruptor Kit
-uplink-emp-kit-desc = The ultimate reversal on energy-based weaponry: Disables disablers, stuns stunbatons, discharges laser guns! Contains 3 EMP grenades and an EMP implanter. Note: Does not disrupt actual firearms.
-
-uplink-decoy-kit-name = Decoy Kit
-uplink-decoy-kit-desc = State-of-the-art distraction technology straight from RND. Comes with five realistic balloons, four decoy grenades, and some snap poppers!
-
-uplink-chemistry-kit-name = Chemical Synthesis Kit
-uplink-chemistry-kit-desc = A starter kit for the aspiring chemist, includes two vials of vestine for all your criminal needs!
-
-uplink-knives-kit-name = Throwing Knives Kit
-uplink-knives-kit-desc = A set of 4 syndicate branded throwing knives, perfect for embedding into the body of your victims. Capable of ignoring armor entirely when thrown.
-
-uplink-meds-bundle-name = Interdyne Medical Bundle
-uplink-meds-bundle-desc = An assortment of autoinjectors and premium medical equipment to cover for every possible situation. Contains an elite compact defibrillator that can be used as a weapon.
-
+uplink-observation-kit-name = 觀察套組
+uplink-observation-kit-desc = 包含監控攝影機顯示板，以及偽裝成太陽眼鏡的安防抬頭顯示器。
+uplink-emp-kit-name = 電氣干擾器套件
+uplink-emp-kit-desc = 針對能量武器的終極反制手段：能使癱瘓裝置失效、讓電擊棒失效，並使雷射槍放電！內含 3 顆電磁脈衝手榴彈及 1 個電磁脈衝植入器。注意：不會干擾實際的槍械。
+uplink-decoy-kit-name = 誘餌套組
+uplink-decoy-kit-desc = 來自 RND 的尖端干擾技術。內含五顆逼真的氣球、四顆假手榴彈，以及一些「啪」聲爆裂玩具！
+uplink-chemistry-kit-name = 化學合成套件
+uplink-chemistry-kit-desc = 一套專為有志成為化學家的初學者所設計的入門套組，內含兩支維斯汀小瓶，滿足您所有犯罪需求！
+uplink-knives-kit-name = 飛刀套組
+uplink-knives-kit-desc = 一套共 4 把、印有「辛迪加」標誌的投擲刀，非常適合刺入受害者的身體。投擲時可完全無視護甲。
+uplink-meds-bundle-name = Interdyne 醫療套裝
+uplink-meds-bundle-desc = 各式各樣的自動注射器與頂級醫療設備，足以應對各種可能發生的狀況。其中包含一款頂級的輕巧型除顫器，可作為武器使用。
 # Frontier: L6<LMG-6
-uplink-ammo-bundle-name = Ammo Bundle
-uplink-ammo-bundle-desc = Reloading! Contains 4 magazines for the C-20r, 4 drums for the Bulldog, 3 magazines for the Estoc DMR, and 2 ammo boxes for the LMG-6.
+uplink-ammo-bundle-name = 彈藥組合包
+uplink-ammo-bundle-desc = 正在重新裝填！內含 4 個 C-20r 彈匣、4 個 Bulldog 彈鼓、3 個 Estoc DMR 彈匣，以及 2 個 LMG-6 彈藥箱。
+
 # End Frontier: L6<LMG-6
 
 uplink-sniper-bundle-name = Sniper Bundle
-uplink-sniper-bundle-desc = An inconspicuous briefcase that contains a Hristov, 10 spare bullets and a convenient disguise.
-
-uplink-c20r-bundle-name = C-20r Bundle
-uplink-c20r-bundle-desc = Old faithful: The classic C-20r Submachine Gun, bundled with three magazines.
-
-uplink-buldog-bundle-name = Bulldog Bundle
-uplink-buldog-bundle-desc = Lean and mean: Contains the popular Bulldog Shotgun, a 12g slug drum, and four 12g buckshot drums.
-
-uplink-grenade-launcher-bundle-name = China-Lake Bundle
-uplink-grenade-launcher-bundle-desc = An old China-Lake grenade launcher bundled with 11 rounds of varying destructive capability.
-
+uplink-sniper-bundle-desc = 一個不起眼的公事包，裡面裝著一把赫里斯托夫手槍、10發備用子彈，以及一套方便的偽裝裝束。
+uplink-c20r-bundle-name = C-20r 套裝
+uplink-c20r-bundle-desc = 老牌經典：經典的 C-20r 衝鋒槍，隨附三支彈匣。
+uplink-buldog-bundle-name = 鬥牛犬套裝
+uplink-buldog-bundle-desc = 精簡而強悍：內含廣受歡迎的「鬥牛犬霰彈槍」、一盒 12 號實心彈彈鼓，以及四盒 12 號散彈彈鼓。
+uplink-grenade-launcher-bundle-name = 中國-外灘套裝
+uplink-grenade-launcher-bundle-desc = 一把舊式的「中國湖」榴彈發射器，附帶 11 發破壞力各異的榴彈。
 # Frontier: L6<LMG-6
-uplink-l6-saw-bundle-name = LMG-6 Bundle
-uplink-l6-saw-bundle-desc = More dakka: The iconic LMG-6 light machine gun, bundled with 2 box magazines.
+uplink-l6-saw-bundle-name = LMG-6 套裝
+uplink-l6-saw-bundle-desc = 更多火力：標誌性的 LMG-6 輕機槍，隨附 2 個盒式彈匣。
+
 # End Frontier
 
-uplink-zombie-bundle-name = Syndicate Zombie Bundle
-uplink-zombie-bundle-desc = An all-in-one kit for unleashing the undead upon a station.
-
-uplink-surplus-bundle-name = Surplus Crate
-uplink-surplus-bundle-desc = Contains 50 telecrystals worth of completely random Syndicate items. It can be useless junk or really good.
-
-uplink-super-surplus-bundle-name = Super Surplus Crate
-uplink-super-surplus-bundle-desc = Contains 125 telecrystals worth of completely random Syndicate items.
-
-uplink-starter-kit-name = Basic Operative Bundle
-uplink-starter-kit-desc = Contains 40 telecrystals of basic operative gear. For those operatives who just don't know what they should buy.
-
+uplink-zombie-bundle-name = 《Syndicate》殭屍套裝
+uplink-zombie-bundle-desc = 一套能讓不死生物在車站大肆肆虐的全能套件。
+uplink-surplus-bundle-name = 剩餘貨箱
+uplink-surplus-bundle-desc = 內含相當於 50 顆「電晶石」的完全隨機「辛迪加」物品。可能是毫無用處的垃圾，也可能是極佳的寶物。
+uplink-super-surplus-bundle-name = 超級剩餘貨箱
+uplink-super-surplus-bundle-desc = 內含相當於 125 個「電晶體」的完全隨機「辛迪加」物品。
+uplink-starter-kit-name = 基礎手術套組
+uplink-starter-kit-desc = 內含 40 顆基礎特工裝備的「電晶體」。專為那些不知道該買什麼的特工而設計。
 # Tools
 uplink-toolbox-name = Toolbox
-uplink-toolbox-desc = A full compliment of tools for the mechanically inclined traitor. Includes a pair of insulated combat gloves and a syndicate gas mask as well.
-
-uplink-syndicate-jaws-of-life-name = Jaws Of Life
-uplink-syndicate-jaws-of-life-desc = A combined prying and cutting tool. Useful for entering the station or its departments.
-
-uplink-duffel-surgery-name = Surgical Duffel Bag
-uplink-duffel-surgery-desc = A large duffel bag containing a full suite of surgical tools.
-
-uplink-power-sink-name = Power Sink
-uplink-power-sink-desc = Drains immense amounts of electricity from the grid, then explodes once it's saturated. Use wrench to connect it to wires.
-
-uplink-carp-dehydrated-name = Dehydrated Space Carp
-uplink-carp-dehydrated-desc = Looks like a plush toy carp, but just add water and it becomes a real-life space carp!
-
+uplink-toolbox-desc = 一套專為熱愛機械的叛徒準備的完整工具組。內含一雙絕緣作戰手套，以及一頂黑手黨防毒面具。
+uplink-syndicate-jaws-of-life-name = 「生命之顎」
+uplink-syndicate-jaws-of-life-desc = 一種兼具撬開與切割功能的工具。可用於進入車站或其各部門。
+uplink-duffel-surgery-name = 外科用旅行袋
+uplink-duffel-surgery-desc = 一個裝有全套手術器械的大型旅行袋。
+uplink-power-sink-name = 散熱器
+uplink-power-sink-desc = 會從電網中汲取大量電力，待電力飽和後便會爆炸。請使用扳手將其連接至電線。
+uplink-carp-dehydrated-name = 脫水太空鯉魚
+uplink-carp-dehydrated-desc = 乍看之下像是一隻絨毛鯉魚玩偶，但只要加點水，它就會變成一尾活生生的太空鯉魚！
 # Job Specific
-uplink-gatfruit-seeds-name = Packet Of Gatfruit Seeds
-uplink-gatfruit-seeds-desc = And who says guns don't grow on trees?
-
-uplink-rigged-boxing-gloves-name = Rigged Boxing Gloves
-uplink-rigged-boxing-gloves-desc = Float like a butterfly, sting like a bee.
-
-uplink-necronomicon-name = Necronomicon
-uplink-necronomicon-desc = An unholy book capable of summoning a demonic familiar.
-
-uplink-holy-hand-grenade-name = Holy Hand Grenade
-uplink-holy-hand-grenade-desc = O Lord, bless this thy hand grenade, that with it thou mayst blow thine enemies to tiny bits, in thy mercy.
-
-uplink-revolver-cap-gun-fake-name = Fake Cap Gun
-uplink-revolver-cap-gun-fake-desc = Fool your enemy! It can use both cap and magnum bullets. Comes loaded with magnum bullets.
-
-uplink-banana-peel-explosive-name = Explosive Banana Peel
-uplink-banana-peel-explosive-desc = They will burst into laughter when they slip on it!
-
-uplink-hot-potato-name = Hot Potato
-uplink-hot-potato-desc = Once activated, this time bomb can't be dropped - only passed to someone else!
-
-uplink-chimp-upgrade-kit-name = C.H.I.M.P. Handcannon Upgrade Chip
-uplink-chimp-upgrade-kit-desc = Insert this chip into a standard C.H.I.M.P. handcannon to allow it to fire omega particles. Omega particles inflict severe burns and cause anomalies to go supercritical.
-
-uplink-proximity-mine-name = Proximity Mine
-uplink-proximity-mine-desc = A mine disguised as a wet floor sign.
-
-uplink-disposable-turret-name = Disposable Ballistic Turret
-uplink-disposable-turret-desc = Looks and functions like a normal electrical toolbox. Upon hitting the toolbox it will transform into a ballistic turret, theoretically shooting at anyone except members of the syndicate. Can be turned back into a toolbox using a screwdriver and repaired using a wrench.
-
-uplink-cluster-banana-peel-name = Cluster Banana
-uplink-cluster-banana-peel-desc = Splits into 6 explosive banana peels after being thrown, the peels detonate automatically after 20 seconds if nobody slips on them.
-
-uplink-cane-blade-name = Cane Blade
-uplink-cane-blade-desc = A cane that has a hidden blade that can be unsheathed.
-
-uplink-saw-advanced-name = Advanced Circular Saw
-uplink-saw-advanced-desc = A bleeding-edge surgical implement designed to cut through flesh and bone alike.
-
+uplink-gatfruit-seeds-name = 一包加特果種子
+uplink-gatfruit-seeds-desc = 誰說槍支不會從樹上長出來呢？
+uplink-rigged-boxing-gloves-name = 經過改裝的拳擊手套
+uplink-rigged-boxing-gloves-desc = 如蝴蝶般翩然飛舞，如蜜蜂般猛烈螫擊。
+uplink-necronomicon-name = 《死靈之書》
+uplink-necronomicon-desc = 一本能召喚惡魔使魔的邪典。
+uplink-holy-hand-grenade-name = 神聖手榴彈
+uplink-holy-hand-grenade-desc = 主啊，求祢賜福於這枚祢的手榴彈，好讓祢能憑著祢的憐憫，藉此將祢的敵人炸得粉碎。
+uplink-revolver-cap-gun-fake-name = 假玩具手槍
+uplink-revolver-cap-gun-fake-desc = 讓敵人上當！此槍可同時使用標準子彈與馬格南子彈，出廠時已裝填馬格南子彈。
+uplink-banana-peel-explosive-name = 爆炸性香蕉皮
+uplink-banana-peel-explosive-desc = 當他們不小心踩到它時，一定會哄堂大笑！
+uplink-hot-potato-name = 燙手山芋
+uplink-hot-potato-desc = 一旦啟動，這顆定時炸彈就無法拋下——只能傳給別人！
+uplink-chimp-upgrade-kit-name = C.H.I.M.P. 手炮升級晶片
+uplink-chimp-upgrade-kit-desc = 將此晶片插入標準的 C.H.I.M.P. 手炮中，即可使其發射歐米茄粒子。歐米茄粒子會造成嚴重灼傷，並使異常現象達到超臨界狀態。
+uplink-proximity-mine-name = 接觸式地雷
+uplink-proximity-mine-desc = 一顆偽裝成「地面濕滑」警示牌的地雷。
+uplink-disposable-turret-name = 拋棄式防彈砲塔
+uplink-disposable-turret-desc = 外觀和功能都與普通的電動工具箱無異。當受到攻擊時，它會變形成一具彈道砲塔，理論上會向除幫派成員以外的任何人開火。可使用螺絲起子將其變回工具箱，並用扳手進行維修。
+uplink-cluster-banana-peel-name = 成簇香蕉
+uplink-cluster-banana-peel-desc = 拋出後會分裂成 6 片爆炸性香蕉皮，若無人踩到這些香蕉皮，20 秒後便會自動引爆。
+uplink-cane-blade-name = 甘蔗刀片
+uplink-cane-blade-desc = 一根藏有可拔出的隱藏刀刃的手杖。
+uplink-saw-advanced-name = 進階圓鋸
+uplink-saw-advanced-desc = 一款尖端的外科器械，專為切開肌肉與骨骼而設計。
 # Armor
-uplink-chameleon-name = Chameleon Kit
-uplink-chameleon-desc = A backpack full of items that contain chameleon technology allowing you to disguise as pretty much anything on the station, and more!
-
-uplink-clothing-no-slips-shoes-name = No-slip Shoes
-uplink-clothing-no-slips-shoes-desc = Chameleon shoes that protect you from slips.
-
-uplink-clothing-chameleon-thieving-gloves-name = Chameleon Thieving Gloves
-uplink-clothing-chameleon-thieving-gloves-desc = Discreetly steal from pockets and improve your thieving technique with these fancy new gloves. They can change appearance to match any pair of gloves!
-
+uplink-chameleon-name = 變色龍套組
+uplink-chameleon-desc = 一個裝滿了具備變色龍技術物品的背包，讓你能在空間站上偽裝成幾乎任何東西，還有更多驚喜！
+uplink-clothing-no-slips-shoes-name = 防滑鞋
+uplink-clothing-no-slips-shoes-desc = 變色龍鞋，助您防滑。
+uplink-clothing-chameleon-thieving-gloves-name = 變色龍竊盜手套
+uplink-clothing-chameleon-thieving-gloves-desc = 穿上這雙新潮的手套，既能悄無聲息地從口袋裡偷東西，又能提升你的行竊技巧。它們能變換外觀，完美偽裝成任何一雙手套！
 uplink-clothing-outer-vest-web-name = Web Vest
-uplink-clothing-outer-vest-web-desc = A synthetic armor vest. This one has added webbing and ballistic plates.
-
-uplink-clothing-outer-vest-web-elite-name = Elite Web Vest
-uplink-clothing-outer-vest-web-elite-desc = A synthetic armor vest. This one has added webbing and heat resistant fibers.
-
-uplink-clothing-shoes-boots-mag-syndie-name = Blood-red Magboots
-uplink-clothing-shoes-boots-mag-syndie-desc = A pair of boots that prevent slipping and, in zero gravity, allow you to move normally, at the cost of a slight slowdown. Additionally, they have jetpack functionality and come fueled, but don't last for long.
-
-uplink-eva-syndie-name = Syndicate EVA Bundle
-uplink-eva-syndie-desc = A simple EVA suit that offers no protection other than what's needed to survive in space.
-
-uplink-hardsuit-carp-name = Carp Hardsuit
-uplink-hardsuit-carp-desc = Looks like an ordinary carp suit, except fully spaceproof and tricks space carp into thinking you are one of them.
-
-uplink-hardsuit-syndie-name = Syndicate Hardsuit
-uplink-hardsuit-syndie-desc = The Syndicate's well known armored blood red hardsuit, capable of space walks and bullet resistant.
-
-uplink-syndie-raid-name = Syndicate Raid Suit
-uplink-syndie-raid-desc = A very durable and reasonably flexible suit of blood-red armor, reinforced against all common forms of damage but not capable of space walks. Comes with a sick helmet.
-
-uplink-hardsuit-syndieelite-name = Syndicate Elite Hardsuit
-uplink-hardsuit-syndieelite-desc = An elite version of the blood-red hardsuit, with improved mobility and fireproofing. Property of Gorlex Marauders.
-
-uplink-clothing-outer-hardsuit-juggernaut-name = Cybersun Juggernaut Suit
-uplink-clothing-outer-hardsuit-juggernaut-desc = Hyper resilient armor made of materials tested in the Tau chromosphere facility. The only thing that's going to be slowing you down is this suit... and tasers.
-
+uplink-clothing-outer-vest-web-desc = 一件合成防彈背心。這款背心加裝了織帶和防彈板。
+uplink-clothing-outer-vest-web-elite-name = Elite Web 背心
+uplink-clothing-outer-vest-web-elite-desc = 一件合成防彈背心。這款背心增加了織帶和耐熱纖維。
+uplink-clothing-shoes-boots-mag-syndie-name = 血紅色的魔靴
+uplink-clothing-shoes-boots-mag-syndie-desc = 這雙靴子能防止滑倒，在零重力環境下讓你能正常移動，但速度會稍微變慢。此外，它們還具備噴射背包功能，並已預先加注燃料，但燃料無法維持太久。
+uplink-eva-syndie-name = 《Syndicate》EVA 套裝
+uplink-eva-syndie-desc = 一款簡單的 EVA 太空服，除了在太空中生存所需的保護外，不提供任何其他防護。
+uplink-hardsuit-carp-name = 鯉魚硬甲
+uplink-hardsuit-carp-desc = 乍看之下就像一套普通的鯉魚裝，但它完全具備防太空功能，還能欺騙太空鯉魚，讓牠們以為你是牠們中的一員。
+uplink-hardsuit-syndie-name = 「辛迪加」重型戰甲
+uplink-hardsuit-syndie-desc = 「辛迪加」那套廣為人知的血紅色裝甲硬式戰甲，不僅能進行太空行走，還具備防彈能力。
+uplink-syndie-raid-name = 「辛迪加」突襲戰甲
+uplink-syndie-raid-desc = 一套極為耐用且具備適度靈活性的血紅色盔甲，能抵禦所有常見形式的傷害，但無法進行太空行走。附帶一頂超酷的頭盔。
+uplink-hardsuit-syndieelite-name = 「辛迪加」精英型強化裝甲
+uplink-hardsuit-syndieelite-desc = 一款血紅色硬質戰甲的精英版，具備更佳的機動性與防火性能。屬戈爾萊克斯掠奪者所有。
+uplink-clothing-outer-hardsuit-juggernaut-name = 「賽博桑」巨無霸戰甲
+uplink-clothing-outer-hardsuit-juggernaut-desc = 這款超強韌裝甲採用在陶族色球層設施中經過測試的材料製成。唯一能讓你放慢腳步的，只有這套裝甲……還有電擊槍。
 # Misc
-uplink-cyberpen-name = Cybersun Pen
-uplink-cyberpen-desc = Cybersun's legal department pen, invaluable for forging documents and escaping prisons. Smells vaguely of hard-light and war profiteering.
-
-uplink-decoy-disk-name = Decoy Nuclear Disk
-uplink-decoy-disk-desc = A piece of plastic with a lenticular printing, made to look like a nuclear authentication disk.
-
-uplink-cigarettes-name = Syndicate Smokes Packet
-uplink-cigarettes-desc = Elite cigarettes for elite agents. Infused with medicine for when you need to do more than calm your nerves.
-
-uplink-clothing-conducting-gloves-name = Conducting Gloves
-uplink-clothing-conducting-gloves-desc = Looks exactly like insulated gloves, but shocks you far worse than if you had nothing at all! Best given as a gift to passengers you really don't like.
-
-uplink-snack-box-name = Syndicate Snack Box
-uplink-snack-box-desc = A box of delicious snacks and drinks to eat alone or with your team. Includes 1 toy you didn't want.
-
+uplink-cyberpen-name = Cybersun 筆
+uplink-cyberpen-desc = Cybersun 法務部的鋼筆，是偽造文件與逃離監獄的無價之寶。隱約散發著硬光與戰爭牟利的氣息。
+uplink-decoy-disk-name = 誘餌核盤
+uplink-decoy-disk-desc = 一片印有透鏡式圖案的塑膠片，設計成類似核武認證盤的樣貌。
+uplink-cigarettes-name = 「辛迪加」香菸小包
+uplink-cigarettes-desc = 專為精英特工打造的頂級香菸。內含藥效成分，當您需要的不僅是平復神經時，它能派上用場。
+uplink-clothing-conducting-gloves-name = 指揮手套
+uplink-clothing-conducting-gloves-desc = 看起來跟保暖手套一模一樣，但帶電時的衝擊感卻比完全不戴手套時還要強烈得多！最適合送給那些你真的不喜歡的乘客。
+uplink-snack-box-name = Syndicate 零食盒
+uplink-snack-box-desc = 一盒美味的零食和飲料，無論是獨自享用或與團隊分享都很適合。內含 1 件你原本不想要的玩具。
 uplink-eshield-name = Energy Shield
-uplink-eshield-desc = Exotic energy shield that reflects almost all laser beams, as well as a little protection from bullets and other physical attacks.
-
+uplink-eshield-desc = 一種奇異的能量護盾，能反射幾乎所有的雷射光束，並能提供些許抵禦子彈及其他物理攻擊的防護。
 uplink-soap-name = Soap
-uplink-soap-desc = An untrustworthy bar of soap. Smells of fear.
-
-uplink-ultrabright-lantern-name = Extra-Bright Lantern
-uplink-ultrabright-lantern-desc = This ultra-bright lantern can be used to blind people, similar to a flash.
-
-uplink-combat-medkit-name = Combat Medical Kit
-uplink-combat-medkit-desc = A medkit made for fixing combat injuries.
-
-uplink-combat-medipen-name = Combat Medipen
-uplink-combat-medipen-desc = A single-use medipen containing chemicals that regenerate most types of damage.
-
-uplink-nocturine-chemistry-bottle-name = Nocturine Bottle
-uplink-nocturine-chemistry-bottle-desc = A chemical that puts your target straight to sleep.
-
+uplink-soap-desc = 一塊不可信的肥皂。散發著恐懼的氣味。
+uplink-ultrabright-lantern-name = 超亮燈籠
+uplink-ultrabright-lantern-desc = 這款超亮燈籠可像閃光燈一樣，用來使人暫時失明。
+uplink-combat-medkit-name = 戰地急救包
+uplink-combat-medkit-desc = 一款專為處理戰鬥傷勢而設計的急救包。
+uplink-combat-medipen-name = 戰鬥醫用筆
+uplink-combat-medipen-desc = 一款拋棄式「Medipen」，內含能修復多數類型損傷的化學物質。
+uplink-nocturine-chemistry-bottle-name = 夜尿瓶
+uplink-nocturine-chemistry-bottle-desc = 一種能讓目標當場睡著的化學物質。
 uplink-stimpack-name = Hyperzine Injector
-uplink-stimpack-desc = The legendary chemical produced by Donk Co. for the Syndicate. Injecting yourself with this will increase your run speed and let you recover from stuns faster for 30 seconds.
-
-uplink-stimkit-name = Hyperzine Injector Kit
-uplink-stimkit-desc = A medkit containing 6 hyperzine microinjectors, which each inject you with enough hyperzine to last for 15 seconds.
-
+uplink-stimpack-desc = 由唐克公司為「辛迪加」生產的傳奇化學物質。將其注射入體內，可在 30 秒內提升你的奔跑速度，並讓你更快從暈眩狀態中恢復。
+uplink-stimkit-name = Hyperzine 噴射套件
+uplink-stimkit-desc = 一個醫療包，內含 6 支超辛微型注射器，每支注射的超辛劑量足以讓你維持 15 秒。
 uplink-syndicate-segway-crate-name = Syndicate Segway
-uplink-syndicate-segway-crate-desc = Be an enemy of the corporation, in style!
-
-uplink-syndicate-sponge-box-name = Syndicate Sponge Box
-uplink-syndicate-sponge-box-desc = A box containing 6 syndicate sponges disguised as monkey cubes, these cubes turn into a variety of angry wildlife after coming into contact with water.
-
-uplink-slipocalypse-clustersoap-name = Slipocalypse Clustersoap
-uplink-slipocalypse-clustersoap-desc = Scatters arounds small pieces of syndicate-brand soap after being thrown, these pieces of soap evaporate after 60 seconds.
-
-uplink-mobcat-microbomb-name = SyndiCat Teleporter
-uplink-mobcat-microbomb-desc = Call in a handy cat equipped with a microbomb implant. Explodes when seriously injured. Can bite painfully.
-
-uplink-chameleon-projector-name = Chameleon Projector
-uplink-chameleon-projector-desc = Disappear in plain sight by creating a hologram of an item around you. Do not use this to play the game "Object Search".
-
+uplink-syndicate-segway-crate-desc = 以時尚之姿，成為企業的敵人！
+uplink-syndicate-sponge-box-name = 「辛迪加」海綿盒
+uplink-syndicate-sponge-box-desc = 一個盒子裡裝有 6 塊偽裝成猴子方塊的「辛迪加海綿」，這些方塊一接觸到水，就會變身成各種憤怒的野生動物。
+uplink-slipocalypse-clustersoap-name = 「滑溜末日」簇狀香皂
+uplink-slipocalypse-clustersoap-desc = 擲出後會散落出零星的「辛迪加」品牌肥皂碎片，這些肥皂碎片會在 60 秒後蒸發。
+uplink-mobcat-microbomb-name = SyndiCat 傳送器
+uplink-mobcat-microbomb-desc = 召喚一隻植入了微型炸彈的靈巧貓。當受到重傷時會爆炸。咬人時會造成劇痛。
+uplink-chameleon-projector-name = 變色龍投影機
+uplink-chameleon-projector-desc = 透過在周遭物品上生成全息影像，讓自己隱身於眾目睽睽之下。請勿將此功能用於玩「尋找物品」遊戲。
 # Pointless
-uplink-revolver-cap-gun-name = Cap Gun
-uplink-revolver-cap-gun-desc = Looks almost like the real thing! Ages 8 and up.
-
-uplink-syndicate-stamp-name = Syndicate Rubber Stamp
-uplink-syndicate-stamp-desc = A rubber stamp for stamping important documents.
-
+uplink-revolver-cap-gun-name = 玩具槍
+uplink-revolver-cap-gun-desc = 看起來簡直和真的一模一樣！適合 8 歲及以上兒童。
+uplink-syndicate-stamp-name = 「辛迪加」橡皮章
+uplink-syndicate-stamp-desc = 一款用於蓋章的重要文件用橡皮章。
 uplink-cat-ears-name = Cat Ears
 uplink-cat-ears-desc = UwU
-
-uplink-outlaw-hat-name = Outlaw Hat
-uplink-outlaw-hat-desc = A hat that makes you look like you carry a notched pistol, numbered one and nineteen more.
-
-uplink-outlaw-glasses-name = Outlaw Glasses
-uplink-outlaw-glasses-desc = A must for every self-respecting undercover agent.
-
-uplink-costume-pyjama-name = Syndicate Pyjama Duffel Bag
-uplink-costume-pyjama-desc = Contains 3 pairs of syndicate pyjamas and 4 plushies for the ultimate sleepover.
-
-uplink-costume-clown-name = Clown Costume Duffel Bag
-uplink-costume-clown-desc = Contains a complete Clown outfit. Includes PDA and service radio.
-
-uplink-carp-suit-bundle-name = Carp Suit Duffel Bag
-uplink-carp-suit-bundle-desc = Contains a carp suit and some friends to play with.
-
-uplink-operative-suit-name = Operative Jumpsuit
-uplink-operative-suit-desc = A suit given to our nuclear operatives with fine fabric to make sure you stand out, no other benefits aside from looking cool.
-
-uplink-operative-skirt-name = Operative Jumpskirt
-uplink-operative-skirt-desc = A skirt given to our nuclear operatives with fine fabric to make sure you stand out, no other benefits aside from looking cool.
-
-uplink-balloon-name = Syndie Balloon
-uplink-balloon-desc = Handed out to the bravest souls who survived the "atomic twister" ride at Syndieland.
-
-uplink-scarf-syndie-red-name = Striped syndicate red scarf
-uplink-scarf-syndie-red-desc = A stylish striped syndicate red scarf. The perfect winter accessory for those with a keen fashion sense, and those who are in the mood to steal something.
-
-uplink-scarf-syndie-green-name = Striped syndicate green scarf
-uplink-scarf-syndie-green-desc = A stylish striped syndicate green scarf. The perfect winter accessory for those with a keen fashion sense, and those who are in the mood to steal something.
-
-uplink-syndicate-pai-name = Syndicate personal ai device
-uplink-syndicate-pai-desc = A Syndicate variant of the pAI with access to the Syndicate radio channel. We do not guarantee their usefulness.
-
-uplink-bribe-name = Lobbying Bundle
-uplink-bribe-desc = A heartfelt gift that can help you sway someone's opinion. Real or counterfeit? Yes.
-
+uplink-outlaw-hat-name = 亡命之徒帽
+uplink-outlaw-hat-desc = 一頂讓你看起來彷彿攜帶一把刻有「一」字及另外十九個編號的齒槽手槍的帽子。
+uplink-outlaw-glasses-name = 《法外之徒》眼鏡
+uplink-outlaw-glasses-desc = 每位自尊自重的臥底探員都不可或缺的裝備。
+uplink-costume-pyjama-name = Syndicate 睡衣風旅行袋
+uplink-costume-pyjama-desc = 內含 3 套 Syndicate 睡衣和 4 隻絨毛玩偶，讓您享受最棒的睡衣派對。
+uplink-costume-clown-name = 小丑服裝旅行袋
+uplink-costume-clown-desc = 內含一套完整的小丑服裝。包含PDA及執勤無線電。
+uplink-carp-suit-bundle-name = 鯉魚圖案旅行袋
+uplink-carp-suit-bundle-desc = 內含一套鯉魚裝，還有幾位朋友可以一起玩。
+uplink-operative-suit-name = 行動連身服
+uplink-operative-suit-desc = 這套提供給我們核子特工的西裝採用精緻面料，確保你能脫穎而出，除了看起來很酷之外，別無其他好處。
+uplink-operative-skirt-name = 行動式跳躍裙
+uplink-operative-skirt-desc = 這條專為我們的核武特工設計的裙子採用精緻面料，確保你能脫穎而出，除了看起來很酷之外，別無其他好處。
+uplink-balloon-name = 辛迪·巴隆
+uplink-balloon-desc = 頒發給那些在辛迪樂園（Syndieland）的「原子龍捲風」遊樂設施中倖存下來、最勇敢的勇者。
+uplink-scarf-syndie-red-name = 條紋工會紅圍巾
+uplink-scarf-syndie-red-desc = 一條時尚的條紋「辛迪加紅」圍巾。對於擁有敏銳時尚觸覺的人，以及那些正想偷點什麼的人來說，這都是完美的冬季配飾。
+uplink-scarf-syndie-green-name = 條紋工會綠色圍巾
+uplink-scarf-syndie-green-desc = 一條時尚的條紋辛迪加綠圍巾。對於那些擁有敏銳時尚觸覺的人，以及正想偷點什麼的人來說，這正是完美的冬季配飾。
+uplink-syndicate-pai-name = Syndicate 個人 AI 裝置
+uplink-syndicate-pai-desc = 這是 pAI 的「辛迪加」變體，可存取辛迪加無線電頻道。我們不保證其實用性。
+uplink-bribe-name = 遊說套裝
+uplink-bribe-desc = 一份發自內心的禮物，能助你改變某人的看法。真貨還是假貨？兩者皆是。
 uplink-hypodart-name = Hypodart
-uplink-hypodart-desc = A seemingly unremarkable dart with an enlarged reservoir for chemicals. It can store up to 7u reagents in itself, and instantly inject when it hits the target. Starts empty.
-
-uplink-barber-scissors-name = Barber Scissors
-uplink-barber-scissors-desc = A good tool to give your fellow agent a nice haircut, unless you want to give it to yourself.
-
-uplink-backpack-syndicate-name = Syndicate backpack
-uplink-backpack-syndicate-desc = A lightweight explosion-proof backpack for holding various traitor goods
-
-uplink-cameraBug-name = Camera bug
-uplink-cameraBug-desc = A portable device that allows you to view the station's cameras.
-
-uplink-combat-bakery-name = Combat Bakery Kit
-uplink-combat-bakery-desc = A kit of clandestine baked weapons. Contains a baguette sword, a pair of throwing croissants, and a syndicate microwave board for making more. Once the job is done, eat the evidence.
-
-uplink-business-card-name = Syndicate Business Card
-uplink-business-card-desc = A business card that you can give to someone to demonstrate your involvement in the syndicate or leave at the crime scene in order to make fun of the detective. You can buy no more than three of them.
-
-uplink-fake-mindshield-name = Fake Mindshield
-uplink-fake-mindshield-desc = A togglable implant capable of mimicking the same transmissions a real mindshield puts out when on, tricking capable Heads-up displays into thinking you have a mindshield (Nanotrasen brand implanter not provided.)
-
-uplink-contraband-lighter-name = Contraband Lighter box
-uplink-contraband-lighter-desc = A mystery box guaranteed to contain a syndicate branded lighter. No fuel required
-
-uplink-smuggler-satchel-name = Smuggler's Satchel
-uplink-smuggler-satchel-desc = A handy, suspicious looking satchel. Just flat enough to fit underneath floor tiles.
-
-uplink-acolyte-armor-name = Acolyte Armor
-uplink-acolyte-armor-desc = The must have of any self respecting cult leader. An evil looking piece of armor, made of bones, and surprisingly resistant to damage.
+uplink-hypodart-desc = 一支看似普通、但設有擴大的化學藥劑儲存槽的飛鏢。它本身最多可儲存 7u 的試劑，並能在擊中目標時立即注入。初始狀態為空。
+uplink-barber-scissors-name = 理髮剪刀
+uplink-barber-scissors-desc = 這是一款能幫你的同事剪個漂亮髮型的好工具，除非你想自己動手剪。
+uplink-backpack-syndicate-name = Syndicate 後背包
+uplink-backpack-syndicate-desc = 一款輕量級防爆背包，用於裝載各類叛徒物品
+uplink-cameraBug-name = 相機錯誤
+uplink-cameraBug-desc = 一款可讓您查看該電台監視器畫面的便攜式裝置。
+uplink-combat-bakery-name = 戰地烘焙套組
+uplink-combat-bakery-desc = 一套秘密烘焙武器組。內含一根法棍劍、一對投擲用可頌，以及一張用於製作更多武器的黑手黨微波爐專用板。任務完成後，將證據吃掉。
+uplink-business-card-name = 「辛迪加」名片
+uplink-business-card-desc = 這是一張名片，你可以將它交給他人以證明自己與犯罪集團有關聯，或是將它留在犯罪現場，藉此戲弄偵探。你最多只能購買三張。
+uplink-fake-mindshield-name = 偽造的「心靈護盾」
+uplink-fake-mindshield-desc = 一款可切換的植入裝置，能夠模擬真實「心靈屏障」開啟時所發出的訊號，藉此欺騙具備辨識能力的抬頭顯示器，使其誤以為你配備了心靈屏障（不附贈 Nanotrasen 品牌的植入器。）
+uplink-contraband-lighter-name = 走私打火機盒
+uplink-contraband-lighter-desc = 一個神秘禮盒，保證內含一款印有「Syndicate」品牌標誌的打火機。無需燃料
+uplink-smuggler-satchel-name = 走私者的背包
+uplink-smuggler-satchel-desc = 一個方便攜帶、看起來可疑的肩包。厚度剛剛好，可以塞進地磚底下。
+uplink-acolyte-armor-name = 侍從盔甲
+uplink-acolyte-armor-desc = 任何自尊自重的邪教領袖都不可或缺的裝備。這件外觀邪惡的護甲由骨頭製成，且出乎意料地耐打。

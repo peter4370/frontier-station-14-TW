@@ -4,8 +4,8 @@
 - type: entity
   parent: [ BaseItem, BaseC2ContrabandUnredeemable ] # Frontier: BaseMinorContraband>BaseC2ContrabandUnredeemable
   id: FireBomb
-  name: fire bomb
-  description: A weak, improvised incendiary device.
+  name: 燃燒彈
+  description: 一個威力微弱、臨時拼湊而成的縱火裝置。
   components:
   - type: NFFireBomb # Frontier
   - type: WeaponCaseInsertable # Frontier
@@ -64,7 +64,7 @@
   id: FireBombEmpty
   name: fire bomb
   suffix: empty
-  description: A weak, improvised incendiary device. This one has no fuel.
+  description: 一個簡陋、臨時拼湊的縱火裝置。這個裝置裡沒有燃料。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Bombs/ied.rsi
@@ -91,7 +91,7 @@
   parent: [FireBombEmpty, BaseC2ContrabandUnredeemable] # Frontier: Added BaseC2ContrabandUnredeemable
   id: FireBombFuel
   suffix: fuel
-  description: A weak, improvised incendiary device. This one is missing wires.
+  description: 一個粗製濫造的簡易燃燒裝置。這個裝置缺少導線。
   components:
   - type: Sprite
     layers:

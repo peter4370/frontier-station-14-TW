@@ -14,7 +14,7 @@
 - type: entity
   parent: SpeechStatusEffectBase
   id: StatusEffectStutter
-  name: stutter
+  name: 口吃
   components:
   - type: StutteringAccent
 
@@ -22,6 +22,6 @@
 - type: entity
   parent: SpeechStatusEffectBase
   id: StatusEffectSlurred
-  name: slurred
+  name: 口齒不清的
   components:
   - type: SlurredAccent

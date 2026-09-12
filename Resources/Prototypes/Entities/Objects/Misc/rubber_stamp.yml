@@ -1,5 +1,5 @@
 - type: entity
-  name: generic rubber stamp
+  name: 通用橡皮章
   parent: BaseItem
   id: RubberStampBase
   description: A rubber stamp for stamping important documents.
@@ -27,7 +27,7 @@
         length: 1.0 # Frontier: 1 second between stampings, avoid spam for reapplied stamps
 
 - type: entity
-  name: alternate rubber stamp
+  name: 備用橡皮章
   parent: RubberStampBase
   id: RubberStampBaseAlt
   abstract: true
@@ -42,7 +42,7 @@
         maxDistance: 5
 
 - type: entity
-  name: captain's rubber stamp
+  name: 隊長專用橡皮印章
   parent: RubberStampBase # Frontier: remove BaseCommandContraband
   id: RubberStampCaptain
   categories: [ DoNotMap ]
@@ -55,7 +55,7 @@
     state: stamp-cap
 
 - type: entity
-  name: CentComm rubber stamp
+  name: CentComm 橡皮章
   parent: RubberStampBase
   id: RubberStampCentcom
   categories: [ DoNotMap ]
@@ -69,7 +69,7 @@
     state: stamp-centcom
 
 - type: entity
-  name: chaplain's rubber stamp
+  name: 軍牧的橡皮章
   parent: RubberStampBase
   id: RubberStampChaplain
   categories: [ DoNotMap ]
@@ -82,7 +82,7 @@
     state: stamp-chaplain
 
 - type: entity
-  name: lawyer's rubber stamp
+  name: 律師的橡皮章
   parent: RubberStampBase
   id: RubberStampLawyer
   categories: [ DoNotMap ]
@@ -95,7 +95,7 @@
     state: stamp-lawyer
 
 - type: entity
-  name: clown's rubber stamp
+  name: 小丑的橡皮印章
   parent: RubberStampBase
   id: RubberStampClown
   categories: [ DoNotMap ]
@@ -111,7 +111,7 @@
       - ClownRubberStamp
 
 - type: entity
-  name: chief engineer's rubber stamp
+  name: 總工程師的橡皮章
   parent: RubberStampBase # Frontier: remove BaseCommandContraband
   id: RubberStampCE
   categories: [ DoNotMap ]
@@ -124,7 +124,7 @@
     state: stamp-ce
 
 - type: entity
-  name: chief medical officer's rubber stamp
+  name: 首席醫療官的橡皮章
   parent: RubberStampBase # Frontier: remove BaseCommandContraband
   id: RubberStampCMO
   categories: [ DoNotMap ]
@@ -137,7 +137,7 @@
     state: stamp-cmo
 
 - type: entity
-  name: head of personnel's rubber stamp
+  name: 人事主管的橡皮章
   parent: RubberStampBase # Frontier: remove BaseCommandContraband
   id: RubberStampHop
   categories: [ DoNotMap ]
@@ -150,7 +150,7 @@
     state: stamp-hop
 
 - type: entity
-  name: head of security's rubber stamp
+  name: 保安主管的橡皮章
   parent: [RubberStampBase, BaseC2ContrabandUnredeemable] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: RubberStampHos
   categories: [ DoNotMap ]
@@ -163,7 +163,7 @@
     state: stamp-hos
 
 - type: entity
-  name: mime's rubber stamp
+  name: 米姆的橡皮章
   parent: RubberStampBase
   id: RubberStampMime
   categories: [ DoNotMap ]
@@ -177,7 +177,7 @@
     state: stamp-mime
 
 - type: entity
-  name: quartermaster's rubber stamp
+  name: 軍需官的橡皮章
   parent: RubberStampBase # Frontier: remove BaseCommandContraband
   id: RubberStampQm
   categories: [ DoNotMap ]
@@ -190,7 +190,7 @@
     state: stamp-qm
 
 - type: entity
-  name: research director's rubber stamp
+  name: 研究主任的橡皮章
   parent: RubberStampBase # Frontier: remove BaseCommandContraband
   id: RubberStampRd
   categories: [ DoNotMap ]
@@ -203,7 +203,7 @@
     state: stamp-rd
 
 - type: entity
-  name: trader's rubber stamp
+  name: 交易員的橡皮章
   parent: RubberStampBase
   id: RubberStampTrader
   components:
@@ -215,7 +215,7 @@
     state: stamp-trader
 
 - type: entity
-  name: syndicate rubber stamp
+  name: 辛迪加橡皮章
   parent: [RubberStampBase, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: RubberStampSyndicate
   categories: [ DoNotMap ]
@@ -230,7 +230,7 @@
     price: 1000
 
 - type: entity
-  name: warden's rubber stamp
+  name: 典獄長的橡皮印章
   parent: [RubberStampBase, BaseC2ContrabandUnredeemable] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: RubberStampWarden
   categories: [ DoNotMap ]
@@ -243,7 +243,7 @@
     state: stamp-warden
 
 - type: entity
-  name: APPROVED rubber stamp
+  name: '「已核准」印章'
   parent: RubberStampBaseAlt
   id: RubberStampApproved
   components:
@@ -256,7 +256,7 @@
     state: stamp-ok
 
 - type: entity
-  name: DENIED rubber stamp
+  name: '「駁回」橡皮章'
   parent: RubberStampBaseAlt
   id: RubberStampDenied
   components:
@@ -269,7 +269,7 @@
     state: stamp-deny
 
 - type: entity
-  name: detective's rubber stamp
+  name: 偵探的橡皮印章
   parent: [RubberStampBase, BaseC2ContrabandUnredeemable] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: RubberStampDetective
   categories: [ DoNotMap ]
@@ -282,10 +282,10 @@
     state: stamp-detective
 
 - type: entity
-  name: greytide's rubber stamp
+  name: greytide 的橡皮章
   parent: RubberStampBase
   id: RubberStampGreytide
-  description: A rubber stamp for stamping important documents. The tide washes over you, just looking at it...
+  description: 一款用於蓋印重要文件的橡皮章。光是看著它，就讓人感覺彷彿被潮水淹沒……
   components:
   - type: Stamp
     stampedName: stamp-component-stamped-name-greytide
@@ -295,11 +295,11 @@
     state: stamp-greytide
 
 - type: entity
-  name: psychologist's rubber stamp
+  name: 心理學家的橡皮章
   parent: RubberStampBase
   id: RubberStampPsychologist
   categories: [ DoNotMap ]
-  description: A rubber stamp for stamping important documents. Prescribe those treatments!
+  description: 一款用於蓋章的重要文件用橡皮章。開立這些治療處方吧！
   components:
   - type: Stamp
     stampedName: stamp-component-stamped-name-psychologist 
@@ -310,10 +310,10 @@
     state: stamp-psychologist
 
 - type: entity
-  name: wizard's rubber stamp
+  name: 巫師的橡皮印章
   parent: [RubberStampBase, BaseC3WizardContraband] # Frontier: BaseMagicalContraband<BaseC3WizardContraband
   id: RubberStampWizard
-  description: A chaotic wizard stamp for serving unchaotic paperwork, how ironic.
+  description: 一枚用來處理井然有序文書的混亂巫師印章，真是諷刺。
   categories: [ DoNotMap ]
   components:
   - type: Stamp

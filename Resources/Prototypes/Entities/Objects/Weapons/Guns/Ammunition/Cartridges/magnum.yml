@@ -1,6 +1,6 @@
 - type: entity
   id: BaseCartridgeMagnum
-  name: cartridge (.45 magnum)
+  name: 子彈（.45馬格南）
   parent: [ BaseCartridge, BaseC1Contraband ] # Frontier: BaseSecurityContraband<BaseC1Contraband
   abstract: true
   components:
@@ -25,7 +25,7 @@
   id: CartridgeMagnum
   name: cartridge (.45 magnum)
   parent: BaseCartridgeMagnum
-  description: Heavy magnum cartridge mostly used by revolvers. Standard kinetic ammunition is common and useful in most situations.
+  description: 大口徑馬格南子彈，主要用於轉輪手槍。標準動能彈藥在大多數情況下都很常見且實用。
   components:
   - type: CartridgeAmmo
     # proto: BulletMagnum # Frontier
@@ -33,9 +33,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: CartridgeMagnumPractice
-  name: cartridge (.45 magnum practice)
+  name: 子彈（.45馬格南練習彈）
   parent: BaseCartridgeMagnum
-  description: Heavy magnum cartridge mostly used by revolvers. Chalk ammunition is generally non-harmful, used for practice.
+  description: 一種主要用於左輪手槍的重型馬格南子彈。白堊彈通常無害，用於練習。
   components:
   - type: CartridgeAmmo
     # proto: BulletMagnumPractice # Frontier
@@ -50,9 +50,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: CartridgeMagnumIncendiary
-  name: cartridge (.45 magnum incendiary)
+  name: 子彈（.45馬格南燃燒彈）
   parent: BaseCartridgeMagnum
-  description: Heavy magnum cartridge mostly used by revolvers. Incendiary ammunition contains a self-igniting compound that sets the target ablaze.
+  description: 一種主要用於轉輪手槍的重型馬格南子彈。燃燒彈內含自燃化合物，能使目標起火燃燒。
   components:
   - type: CartridgeAmmo
     # proto: BulletMagnumIncendiary # Frontier
@@ -67,9 +67,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: CartridgeMagnumAP
-  name: cartridge (.45 magnum armor-piercing)
+  name: 子彈（.45馬格南穿甲彈）
   parent: BaseCartridgeMagnum
-  description: Heavy magnum cartridge mostly used by revolvers. Armor piercing ammunition is renowned for its ability to cut straight through body armor.
+  description: 這種重型馬格南子彈主要用於轉輪手槍。穿甲彈以其能直接貫穿防彈衣而聞名。
   components:
   - type: CartridgeAmmo
     # proto: BulletMagnumAP # Frontier
@@ -84,9 +84,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: CartridgeMagnumUranium
-  name: cartridge (.45 magnum uranium)
+  name: 子彈（.45馬格南鈾彈）
   parent: BaseCartridgeMagnum
-  description: Heavy magnum cartridge mostly used by revolvers. Uranium ammunition replaces the lead core of the bullet with fissile material, irradiating the target from the inside.
+  description: 一種主要用於轉輪手槍的重型馬格南子彈。鈾製彈藥將子彈的鉛芯替換為可裂變材料，從而從內部輻射目標。
   components:
   - type: CartridgeAmmo
     # proto: BulletMagnumUranium # Frontier

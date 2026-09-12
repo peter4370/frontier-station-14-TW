@@ -1,5 +1,6 @@
+
 <Document>
-  # AKUPARA-CLASS BOTANICAL SHUTTLE
+  # AKUPARA 級 植物穿梭機
   <Box>
   <GuideEntityEmbed Entity="ChemMaster"/>
   <GuideEntityEmbed Entity="SeedExtractor"/>
@@ -11,37 +12,37 @@
   <GuideEntityEmbed Entity="GasVentScrubber"/>
   <GuideEntityEmbed Entity="StorageCanister"/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-3
+  [color=#a4885c]建議船員人數：[/color] 1-3 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力來源類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "A medium full-feature botanical research biodome equipped to help a botanist fully interact with their plants in almost any way conceivable."
+  「一座功能齊全的中型植物研究生物穹頂，配備完善設施，可協助植物學家以幾乎任何能想像的方式，與其植物進行全面互動。」
 
-  # Medical
+  # 醫學
 
-  [textlink="Chemistry" link="Chemist"/]
+  [textlink="化學" link="化學家"/]
 
-  [textlink="Chemicals" link="Chemicals"/]
+  [textlink="化學品" link="化學品"/]
 
-  [textlink="Botany" link="Botany"/]
+  [textlink="植物學" link="植物學"/]
 
-  # Piloting
+  # 駕駛
 
-  [textlink="Piloting" link="Piloting"/]
+  [textlink="駕駛" link="駕駛"/]
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="星區拓撲" link="星區拓撲"/]
 
-  # Hiring crew
+  # 僱用船員
 
-  [textlink="Hiring" link="Hiring"/]
+  [textlink="僱用" link="僱用"/]
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員。
 
-  # PREFLIGHT CHECKLIST
+  # 起飛前檢查清單
 
-  [textlink="Preflight Checklist" link="PreflightChecklist"/]
+  [textlink="起飛前檢查清單" link="PreflightChecklist"/]
 </Document>

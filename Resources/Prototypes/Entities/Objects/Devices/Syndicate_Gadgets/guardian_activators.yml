@@ -1,9 +1,9 @@
 - type: entity
-  name: holoparasite injector
+  name: 全息寄生體注射器
   suffix: Ghost # Frontier
   id: HoloparasiteInjector
   parent: [BaseItem, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
-  description: A complex artwork of handheld machinery allowing the user to host a holoparasite guardian.
+  description: 一件由手持裝置組成的複雜藝術品，讓使用者能夠寄宿一名全息寄生守護者。
   components:
   - type: Sprite
     sprite: Objects/Specific/Medical/hypospray.rsi
@@ -12,21 +12,21 @@
     guardianProto: MobHoloparasiteGuardian
 
 - type: entity
-  name: holoclown injector
+  name: 全息小丑注射器
   parent: HoloparasiteInjector
   suffix: Ghost # Frontier
   id: HoloClownInjector
-  description: A complex artwork of handheld machinery allowing the user to host a holoclown guardian.
+  description: 一件由手持機械組成的複雜藝術品，讓使用者能夠收養一名全息小丑守護者。
   components:
   - type: GuardianCreator
     guardianProto: MobHoloClownGuardian
 
 - type: entity
-  name: magical lamp
+  name: 神燈
   id: MagicalLamp
   suffix: Ghost # Frontier
   parent: BaseItem
-  description: The wizard federation had to cut costs after the jinn merchandise scandal somehow.
+  description: 在精靈商品醜聞爆發後，巫師聯盟不得不採取節流措施。
   components:
   - type: Sprite
     sprite: Objects/Misc/Lights/lamp.rsi
@@ -36,11 +36,11 @@
     guardianProto: MobIfritGuardian
 
 - type: entity
-  name: holoparasite box
+  name: 全息寄生盒
   suffix: Ghost # Frontier
   parent: [BoxCardboard, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: BoxHoloparasite
-  description: A box containing a holoparasite injector.
+  description: 一個裝有全息寄生蟲注射器的盒子。
   components:
   - type: StorageFill
     contents:
@@ -53,11 +53,11 @@
       - state: holo
 
 - type: entity
-  name: holoclown box
+  name: 全息小丑盒
   suffix: Ghost # Frontier
   parent: [BoxCardboard, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: BoxHoloclown
-  description: A box containing a holoclown injector.
+  description: 一個裝有全息小丑注射器的盒子。
   components:
   - type: StorageFill
     contents:

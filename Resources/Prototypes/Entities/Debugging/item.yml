@@ -1,8 +1,8 @@
 ﻿- type: entity
   parent: BaseItem
   id: DebugItemShapeWeird
-  name: weirdly shaped item
-  description: What is it...?
+  name: 形狀奇特的物品
+  description: 這是什麼……？
   suffix: DEBUG
   components:
   - type: Tag

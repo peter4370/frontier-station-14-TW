@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseItem
   id: ParcelWrap
-  name: parcel wrap
-  description: Paper used contain items for transport.
+  name: 禮品包裝紙
+  description: 所使用的紙張包含用於運輸的物品。
   components:
   - type: Sprite
     sprite: Objects/Misc/ParcelWrap/parcel_wrap.rsi
@@ -32,8 +32,8 @@
   parent: BaseItem
   id: WrappedParcel
   categories: [ HideSpawnMenu ]
-  name: wrapped parcel
-  description: Something wrapped up in paper. I wonder what's inside...
+  name: 包裝好的包裹
+  description: 用紙包著的東西。真想知道裡面是什麼……
   components:
   - type: ContainerContainer
     containers:
@@ -118,7 +118,7 @@
   id: ParcelWrapTrash
   categories: [ HideSpawnMenu ]
   name: parcel wrap
-  description: The disappointing remnants of an unwrapped parcel.
+  description: 一個未拆封包裹令人失望的殘餘物。
   components:
   - type: Sprite
     sprite: Objects/Misc/ParcelWrap/parcel_wrap_trash.rsi

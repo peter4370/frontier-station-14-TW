@@ -1,31 +1,32 @@
+
 <Document>
-# Technologies
+# 科技
 
-All technologies have a cost and a tier requirement in order to be researched. Unlocking them adds a variety of recipes that can be printed at various lathes.
+所有科技皆需支付一定成本，並滿足特定等級要求，方可進行研究。 解鎖這些內容後，將新增多種可在各台車床上列印的配方。
 
-The different technologies and their respective discipline are listed below.
+以下列出各項技術及其對應的學科領域。
 
 <!-- Frontier: all disciplines below swapped to NF variants -->
 
-## Engineering
+## 工程學
 <GuideTechDisciplineEmbed Discipline="NFEngineering"/>
 
-## Medical
+## 醫療
 <GuideTechDisciplineEmbed Discipline="NFMedical"/>
 
-## Mercenary
+## 傭兵
 <GuideTechDisciplineEmbed Discipline="NFArsenalMercenary"/>
 
 ## NFSD
 <GuideTechDisciplineEmbed Discipline="NFArsenalNfsd"/>
 
-## Salvage
+## 打撈
 <GuideTechDisciplineEmbed Discipline="NFSalvage"/>
 
-## Science
+## 科學
 <GuideTechDisciplineEmbed Discipline="NFScience"/>
 
-## Service
+## 服務
 <GuideTechDisciplineEmbed Discipline="NFService"/>
 
 </Document>

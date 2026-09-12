@@ -1,7 +1,8 @@
-<Document>
-  # Civilian ships
 
-The Frontier provides a diverse selection of civilian vessels suited to the realities of life beyond the Core. Whether hauling cargo, transporting passengers, establishing a foothold in the sector, or simply making a living among the stars, these dependable craft offer practical solutions for independent crews. Frontier-certified technicians maintain every hull to operational standards before release.
+<Document>
+  # 民用船隻
+
+《邊境》提供多樣化的民用船隻選擇，適合核心區以外的生活現實。 無論是運送貨物、載客、在該領域站穩腳跟，還是單純在星際間謀生，這些可靠的飛行器都能為獨立船員提供實用的解決方案。 每艘船體在交付前，均由 Frontier 認證的技術人員進行維護，確保其符合運作標準。
 
   <Box>
     <GuideEntityEmbed Entity="SpaceCash1000000" Caption=""/>

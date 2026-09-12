@@ -1,5 +1,5 @@
 - type: entity
-  name: Human Corpse Spawner
+  name: 屍體生成器
   id: SalvageHumanCorpseSpawner
   parent: MarkerBase
   categories: [ HideSpawnMenu ] # Frontier
@@ -13,7 +13,7 @@
       - SalvageHumanCorpse
 
 - type: entity
-  name: Random Service Corpse Spawner
+  name: 隨機服務屍體生成器
   id: RandomServiceCorpseSpawner
   parent: SalvageHumanCorpseSpawner
   categories: [ HideSpawnMenu ] # Frontier
@@ -27,7 +27,7 @@
       - MobRandomServiceCorpse
 
 - type: entity
-  name: Random Engineer Corpse Spawner
+  name: 隨機工程師屍體生成器
   id: RandomEngineerCorpseSpawner
   parent: SalvageHumanCorpseSpawner
   categories: [ HideSpawnMenu ] # Frontier
@@ -41,7 +41,7 @@
       - MobRandomEngineerCorpse
 
 - type: entity
-  name: Random Cargo Corpse Spawner
+  name: 隨機貨物屍體生成器
   id: RandomCargoCorpseSpawner
   parent: SalvageHumanCorpseSpawner
   categories: [ HideSpawnMenu ] # Frontier
@@ -55,7 +55,7 @@
       - MobRandomCargoCorpse
 
 - type: entity
-  name: Random Medic Corpse Spawner
+  name: 隨機醫護人員屍體生成器
   id: RandomMedicCorpseSpawner
   parent: SalvageHumanCorpseSpawner
   categories: [ HideSpawnMenu ] # Frontier
@@ -69,7 +69,7 @@
       - MobRandomMedicCorpse
 
 - type: entity
-  name: Random Science Corpse Spawner
+  name: 隨機科學屍體生成器
   id: RandomScienceCorpseSpawner
   parent: SalvageHumanCorpseSpawner
   categories: [ HideSpawnMenu ] # Frontier
@@ -83,7 +83,7 @@
       - MobRandomScienceCorpse
 
 - type: entity
-  name: Random Security Corpse Spawner
+  name: 隨機安全屍體生成器
   id: RandomSecurityCorpseSpawner
   parent: SalvageHumanCorpseSpawner
   categories: [ HideSpawnMenu ] # Frontier
@@ -97,7 +97,7 @@
       - MobRandomSecurityCorpse
 
 - type: entity
-  name: Random Command Corpse Spawner
+  name: 隨機指令屍體生成器
   id: RandomCommandCorpseSpawner
   parent: SalvageHumanCorpseSpawner
   categories: [ HideSpawnMenu ] # Frontier

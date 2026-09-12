@@ -1,5 +1,6 @@
+
 <Document>
-  # MCCARGO FRANCHISE SHUTTLE
+  # MCCARGO 特約接駁車
   <Box>
   <GuideEntityEmbed Entity="ClothingHeadHatMcCrown"/>
   <GuideEntityEmbed Entity="HappyHonkMcCargo"/>
@@ -9,37 +10,37 @@
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapMcCargo" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-4
+  [color=#a4885c]建議船員人數：[/color] 1-4 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "Your very own McCargo™ Franchise"
+  「專屬於您的 McCargo™ 特許經營」
 
-  # Ship Functions
+  # 飛船功能
 
-  # Entertainment
+  # 娛樂
 
-  [textlink="Food Recipes" link="FoodRecipes"/]
+  [textlink="食譜" link="FoodRecipes"/]
 
-  [textlink="Drinks" link="Drinks"/]
+  [textlink="飲品" link="Drinks"/]
 
-  [textlink="Botany" link="Botany"/]
+  [textlink="植物學" link="Botany"/]
 
-  # Piloting
+  # 駕駛
 
-  [textlink="Piloting" link="Piloting"/]
+  [textlink="駕駛" link="Piloting"/]
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="星區拓撲" link="SectorTopology"/]
 
-  # Hiring crew
+  # 招募船員
 
-  [textlink="Hiring" link="Hiring"/]
+  [textlink="招募" link="招募"/]
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員。
 
   # PREFLIGHT CHECKLIST
 

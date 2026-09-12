@@ -1,5 +1,5 @@
 character-info-title = Character
 # Frontier: lowercase roles
-character-info-roles-antagonist-text = You have no special roles
-character-info-objectives-label = Objectives
-character-info-no-profession = No Profession
+character-info-roles-antagonist-text = 您沒有任何特殊角色
+character-info-objectives-label = 目標
+character-info-no-profession = 無職業

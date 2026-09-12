@@ -1,5 +1,6 @@
+
 <Document>
-  # PHOENIX-CLASS RESEARCH SHUTTLE
+  # 鳳凰級研究飛船
   <Box>
     <GuideEntityEmbed Entity="ComplexXenoArtifactItem"/>
     <GuideEntityEmbed Entity="MachineArtifactAnalyzer"/>
@@ -11,33 +12,33 @@
     <GuideEntityEmbed Entity="ShuttleMapPhoenix" Caption=""/>
   </Box>
 
-  [color=#a4885c]Ship Size:[/color] Large
+  [color=#a4885c]船隻尺寸：[/color] 大型
 
-  [color=#a4885c]Recommended Crew:[/color] 2-3
+  [color=#a4885c]建議船員人數：[/color] 2-3 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
-  
-  "A research and salvage vessel designed for deep space exploration."
+  # 飛船簡介
 
-  # Shuttle Functions
+  「一艘專為深空探索設計的研究與打撈船。」
 
-  # Science
+  # 穿梭機功能
 
-  [textlink="Science" link="Science"/]
+  # 科學
 
-  # Piloting
+  [textlink="科學" link="科學"/]
 
-  [textlink="Piloting" link="Piloting"/]
+  # 試飛
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="試飛" link="試飛"/]
 
-  # Hiring crew
+  [textlink="區域拓撲結構" link="區域拓撲結構"/]
 
-  [textlink="Hiring" link="Hiring"/]
+  # 招募船員
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  [textlink="招募" link="招募"/]
+
+  身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員。
 
   # PREFLIGHT CHECKLIST
 

@@ -1,31 +1,25 @@
-shuttle-console-designation = Designation:
+shuttle-console-designation = 職稱：
 shuttle-console-designation-unknown = Unknown
-shuttle-console-maximum-iff-distance = Maximum IFF Distance
-
-shuttle-console-iff-search = Search IFF
-shuttle-console-inertia-dampener-off = Cruise
-shuttle-console-inertia-dampener-dampen = Drive
-shuttle-console-inertia-dampener-anchor = Park
-
-shuttle-console-service-flags = Advertise Features
-shuttle-console-service-flag-Services-label = Services
-shuttle-console-service-flag-Trade-label = Shopping
-shuttle-console-service-flag-Social-label = Social
-
+shuttle-console-maximum-iff-distance = 最大敵我識別距離
+shuttle-console-iff-search = 搜尋 IFF
+shuttle-console-inertia-dampener-off = 郵輪
+shuttle-console-inertia-dampener-dampen = 驅動
+shuttle-console-inertia-dampener-anchor = 停泊
+shuttle-console-service-flags = 廣告功能
+shuttle-console-service-flag-Services-label = 服務
+shuttle-console-service-flag-Trade-label = 購物
+shuttle-console-service-flag-Social-label = 社群
 shuttle-console-service-flag-Services-shortform = ♫
 shuttle-console-service-flag-Trade-shortform = $
 shuttle-console-service-flag-Social-shortform = ☺
-
-shuttle-console-service-flag-Services-description = Services (e.g. medical, dining, engineering) offered onboard.
-shuttle-console-service-flag-Trade-description = Goods sold onboard.
-shuttle-console-service-flag-Social-description = A social space to gather and hang out.
-
-shuttle-console-target = Radar Target
-shuttle-console-set-target = Set
-shuttle-console-set-target-description = Sets a target waypoint coordinate on the radar console.
-shuttle-console-hide-target = Show
-shuttle-console-hide-target-description = Toggles the visibility of the target waypoint on the radar console.
-shuttle-console-target-name = Target
+shuttle-console-service-flag-Services-description = 船上提供的各項服務（例如：醫療、餐飲、工程等）。
+shuttle-console-service-flag-Trade-description = 船上販售的商品。
+shuttle-console-service-flag-Social-description = 一個供人們聚會和消磨時光的社交場所。
+shuttle-console-target = 雷達目標
+shuttle-console-set-target = 設定
+shuttle-console-set-target-description = 在雷達控制台上設定目標航點座標。
+shuttle-console-hide-target = 顯示
+shuttle-console-hide-target-description = 切換雷達控制台上目標航點的顯示狀態。
+shuttle-console-target-name = 目標
 shuttle-console-map-track = ⌖
-
-shuttle-console-undock-all = Undock All
+shuttle-console-undock-all = 解除所有停靠

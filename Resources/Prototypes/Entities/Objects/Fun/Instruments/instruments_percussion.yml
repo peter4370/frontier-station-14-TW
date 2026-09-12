@@ -10,7 +10,7 @@
 - type: entity
   parent: BasePercussionInstrument
   id: GlockenspielInstrument
-  name: glockenspiel
+  name: 鋼片琴
   components:
   - type: Instrument
     program: 9
@@ -20,8 +20,8 @@
 - type: entity
   parent: BasePercussionInstrument
   id: MusicBoxInstrument
-  name: music box
-  description: Playing this makes you feel safe from scary animatronics.
+  name: 音樂盒
+  description: 玩這款遊戲會讓你感到自己遠離了那些可怕的機械人偶。
   components:
   - type: Instrument
     program: 10
@@ -33,8 +33,8 @@
 - type: entity
   parent: BasePercussionInstrument
   id: XylophoneInstrument
-  name: xylophone
-  description: Rainbow colored glockenspiel.
+  name: 木琴
+  description: 彩虹色的鋼片琴。
   components:
   - type: Instrument
     program: 13
@@ -45,8 +45,8 @@
 - type: entity
   parent: BaseHandheldInstrument
   id: MicrophoneInstrument
-  name: microphone
-  description: Perfect for singing your heart out.
+  name: 麥克風
+  description: 非常適合盡情高歌。
   components:
   - type: Instrument
     program: 52
@@ -65,8 +65,8 @@
 - type: entity
   parent: BasePercussionInstrument
   id: WoodblockInstrument
-  name: woodblock
-  description: If you listen to this enough it'll start driving itself into your mind.
+  name: 木版畫
+  description: 如果你反覆聽這首歌夠久，它就會不自覺地縈繞在你的腦海中。
   components:
   - type: Instrument
     program: 115
@@ -76,8 +76,8 @@
 - type: entity
   parent: BasePercussionInstrument
   id: ReverseCymbalsInstrument
-  name: reverse cymbals
-  description: I think you have it the wrong way around?
+  name: 反向鈸
+  description: 我覺得你搞反了吧？
   components:
   - type: Instrument
     program: 119

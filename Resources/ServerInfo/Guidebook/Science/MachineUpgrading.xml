@@ -1,38 +1,39 @@
+
 <Document>
-# Machine Upgrading
+# 機器升級
 
-Machines help the station run smoothly, and as a scientist, you can help them run even better!
+機器有助於電台順暢運作，身為科學家，你可以讓它們運作得更加出色！
 
-## Parts
+## 零件
 <Box>Stock Parts:</Box>
 <Box>
 <GuideEntityEmbed Entity="CapacitorStockPart"/>
 <GuideEntityEmbed Entity="MatterBinStockPart"/>
 <GuideEntityEmbed Entity="MicroManipulatorStockPart"/>
 </Box>
-You can examine each machine part to see both the type and the rating, which range from 1 to 4.
+您可以檢查每台機器的各部件，以確認其類型及等級（等級範圍為 1 至 4）。
 
-Parts of higher levels can be researched as well as found through artifacts or salvage.
+較高等級的零件除了可以透過研究獲得，也能透過文物或回收取得。
 <Box>
 <GuideEntityEmbed Entity="AdvancedMatterBinStockPart"/>
 <GuideEntityEmbed Entity="SuperMatterBinStockPart"/>
 <GuideEntityEmbed Entity="BluespaceMatterBinStockPart"/>
 </Box>
-Machine Parts can be used to create many machines.
+機械零件可用於製造多種機器。
 
-## Upgrading
-To know if a machine can be upgraded, you can examine it and check for the [color=#a4885c]lightning bolt[/color] icon in the lower right corner. Clicking on it will allow you to see what kinds of upgrades the machine has.
+## 升級
+若要確認某台機器是否可升級，您可以檢視該機器，並查看右下角是否出現 [color=#a4885c]閃電[/color] 圖示。 點擊它即可查看該機器具備哪些升級項目。
 
-To check what parts a machine needs, you can examine its board. Try it here:
+若要確認機器需要哪些零件，您可以檢查其電路板。 請在此試試看：
 <Box Orientation="Vertical">
 <GuideEntityEmbed Entity="ProtolatheMachineCircuitboard"/>
 <GuideEntityEmbed Entity="CloningPodMachineCircuitboard"/>
 <GuideEntityEmbed Entity="ThermomachineFreezerMachineCircuitBoard"/>
 </Box>
-You can use any rating part for any part requirement. Using higher rated parts will increase how effective the machine is.
+您可以針對任何零件需求，選用任何評級的零件。 使用更高規格的零件，將能提升機器的效能。
 
-If you want to upgrade an existing machine, simply deconstruct it with a screwdriver and crowbar, and replace the existing parts with parts of a higher level.
+若想升級現有機器，只需用螺絲起子與撬棍將其拆解，再將原有零件更換為更高階的零件即可。
 
-You can also quickly upgrade machines by using an RPED, loading it with machine parts, and then clicking on a machine. It will quickly be upgraded with whatever parts were inserted.
+您也可以透過使用 RPED、將機器零件裝入其中，然後點擊一台機器，來快速升級機器。 系統將迅速根據所插入的任何零件進行升級。
 <GuideEntityEmbed Entity="RPED"/>
 </Document>

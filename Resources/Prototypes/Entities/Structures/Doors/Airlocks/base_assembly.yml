@@ -2,7 +2,7 @@
 - type: entity
   id: AirlockAssembly
   name: airlock assembly
-  description: It opens, it closes, and maybe crushes you.
+  description: 它會打開，會關上，說不定還會把你壓扁。
   components:
   - type: Clickable
   - type: InteractionOutline

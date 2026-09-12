@@ -26,7 +26,7 @@
 - type: entity
   parent: PartBase
   id: PartRodMetal
-  name: metal rod
+  name: 金屬棒
   suffix: Full
   components:
   - type: PhysicalComposition

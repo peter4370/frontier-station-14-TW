@@ -156,7 +156,7 @@
 
 - type: entity
   name: scurret
-  description: Commonly known as Wawa, from the wetlands of Planet Wawa, these critters make up the bulk of Arnolds's Pizza's "loyal workforce".
+  description: 這些小生物俗稱「瓦瓦」，源自瓦瓦星球的濕地，構成了阿諾德披薩店「忠實員工」的主體。這隻則是來當臨時工的。
   id: MobScurret
   parent: MobBaseScurret
   components:

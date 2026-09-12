@@ -1,6 +1,6 @@
 - type: entity
   save: false
-  name: Urist McHands The Dwarf
+  name: 矮人烏里斯·麥漢茲
   parent: BaseMobDwarf
   id: MobDwarf
   components:

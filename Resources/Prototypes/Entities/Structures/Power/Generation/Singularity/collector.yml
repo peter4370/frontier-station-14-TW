@@ -1,10 +1,10 @@
 - type: entity
   id: RadiationCollector
-  name: radiation collector
+  name: 輻射收集器
   suffix: Empty tank
 # Harmony change start - Changed description
 # description: A machine that collects radiation and turns it into power. Requires plasma gas to function.
-  description: A machine that collects radiation and turns it into power. Requires plasma or tritium gas to function.
+  description: 一種能收集輻射並將其轉化為動力的裝置。運作時需要等離子體或氚氣。
 # Harmony change end
   placement:
     mode: SnapgridCenter

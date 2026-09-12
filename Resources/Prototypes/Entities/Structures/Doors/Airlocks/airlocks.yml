@@ -117,7 +117,7 @@
 - type: entity
   parent: Airlock
   id: AirlockMaint
-  name: maintenance access
+  name: 維護存取權限
   components:
   - type: Sprite
     sprite: Structures/Doors/Airlocks/Standard/maint.rsi
@@ -153,7 +153,7 @@
 - type: entity
   parent: Airlock
   id: AirlockHatch
-  name: airtight hatch
+  name: 氣密艙口
   components:
   - type: Sprite
     sprite: Structures/Doors/Airlocks/Standard/hatch.rsi
@@ -163,7 +163,7 @@
 - type: entity
   parent: Airlock
   id: AirlockXenoborg
-  name: xenoborg airlock
+  name: 外星機器人氣閘
   components:
   - type: Sprite
     sprite: Structures/Doors/Airlocks/Standard/xenoborg.rsi
@@ -173,7 +173,7 @@
 - type: entity
   parent: Airlock
   id: AirlockHatchMaintenance
-  name: maintenance hatch
+  name: 維護艙口
   components:
   - type: Sprite
     sprite: Structures/Doors/Airlocks/Standard/hatch_maint.rsi

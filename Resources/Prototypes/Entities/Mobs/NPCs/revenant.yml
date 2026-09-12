@@ -4,7 +4,7 @@
   - Incorporeal
   - BaseMob
   name: revenant
-  description: A spooky ghostie.
+  description: 一個嚇人的小鬼。
   components:
   - type: Emag
     emagType: All
@@ -36,8 +36,8 @@
     group: GenericNumber
   - type: GhostRole
     makeSentient: true
-    name: ghost-role-information-revenant-name
-    description: ghost-role-information-revenant-description
+    name: 幽靈角色資訊－復仇者之名
+    description: 幽靈角色資訊－復仇者－描述
     rules: ghost-role-information-antagonist-rules
     mindRoles:
     - MindRoleGhostRoleSoloAntagonist

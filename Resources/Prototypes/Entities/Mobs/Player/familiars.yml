@@ -2,7 +2,7 @@
   name: Remilia
   parent: MobBat
   id: MobBatRemilia
-  description: The chaplain's familiar. Likes fruit.
+  description: 那位軍牧的夥伴。喜歡吃水果。
   components:
   - type: GhostRole
     makeSentient: true
@@ -34,10 +34,10 @@
   - type: Familiar
 
 - type: entity
-  name: Cerberus
+  name: 刻耳柏洛斯
   parent: MobCorgiNarsi
   id: MobCorgiCerberus
-  description: This pupper is not wholesome.
+  description: 這隻小狗不太正經。
   components:
   - type: GhostRole
     makeSentient: true

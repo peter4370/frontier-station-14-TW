@@ -11,7 +11,7 @@
 
 - type: entity
   id: BulletLightRiflePractice
-  name: bullet (.20 rifle practice)
+  name: 子彈（.20 步槍練習用）
   parent: BaseBulletPractice
   categories: [ HideSpawnMenu ]
   components:
@@ -22,7 +22,7 @@
 
 - type: entity
   id: BulletLightRifleRubber
-  name: bullet (.20 rifle rubber)
+  name: 子彈（.20 步槍橡膠彈）
   parent: BaseBulletRubber
   categories: [ HideSpawnMenu ]
   components:
@@ -34,7 +34,7 @@
 - type: entity
   id: BulletLightRifleIncendiary
   parent: BaseBulletIncendiary
-  name: bullet (.20 rifle incendiary)
+  name: 子彈（.20 步槍燃燒彈）
   categories: [ HideSpawnMenu ]
   components:
   - type: Projectile
@@ -46,7 +46,7 @@
 - type: entity
   id: BulletLightRifleUranium
   parent: BaseBulletUranium
-  name: bullet (.20 rifle uranium)
+  name: 子彈（.20 步槍鈾彈）
   categories: [ HideSpawnMenu ]
   components:
   - type: Projectile

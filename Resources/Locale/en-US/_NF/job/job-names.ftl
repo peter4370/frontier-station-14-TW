@@ -1,35 +1,33 @@
 # Frontier
-job-name-bailiff = Bailiff
+job-name-bailiff = 執達員
 job-name-brigmedic = Brigmedic
-job-name-cadet-nf = Cadet
-job-name-contractor = Contractor
-job-name-contractor-interview = Contractor Applicant
-job-name-deputy = Deputy
-job-name-nf-detective = Detective
+job-name-cadet-nf = 學員
+job-name-contractor = 承包商
+job-name-contractor-interview = 承包商申請人
+job-name-deputy = 副手
+job-name-nf-detective = 偵探
 job-name-doc = Director of Care
 job-name-ertmailcarrier = ERT Mail Carrier
 job-name-mail-carrier = Mail Carrier
-job-name-guard = Prison Guard
-job-name-mercenary = Mercenary
-job-name-mercenary-interview = Mercenary Applicant
-job-name-pal = Public Affairs Liaison
-job-name-pilot = Pilot
-job-name-pilot-interview = Pilot Applicant
+job-name-guard = 獄警
+job-name-mercenary = 傭兵
+job-name-mercenary-interview = 傭兵應徵者
+job-name-pal = 公共事務聯絡專員
+job-name-pilot = 試播集
+job-name-pilot-interview = 飛行員申請人
 job-name-nf-pirate = Pirate
-job-name-nf-pirate-interview = Pirate Applicant
+job-name-nf-pirate-interview = 海盜申請人
 job-name-nf-pirate-captain = Pirate Captain
 job-name-nf-pirate-first-mate = Pirate First Mate
-job-name-plant-manager = Plant Manager
-job-name-plant-technician = Plant Technician
-job-name-security-guard = Security Guard
-job-name-sheriff = Sheriff
-job-name-stc = Station Traffic Controller
-job-name-sr = Station Representative
+job-name-plant-manager = 工廠經理
+job-name-plant-technician = 廠房技術員
+job-name-security-guard = 保安員
+job-name-sheriff = 警長
+job-name-stc = 車站交通調度員
+job-name-sr = 站代表
 job-name-valet = Valet
-
 # Job titles
 job-title-ert-mail-carrier = ERT Mail Carrier
-
 # Role timers - Keep these alphabetical, please
 JobContractorInterview = Contractor Applicant
 JobERTMailCarrier = ERT Mail Carrier
@@ -46,13 +44,11 @@ JobPlantTechnician = Plant Technician
 JobPublicAffairsLiaison = Public Affairs Liaison
 JobSecurityGuard = Security Guard
 JobSTC = Station Traffic Controller
-
 # Upstream Removed
-job-name-senior-engineer = Senior Engineer
-job-name-senior-officer = Sergeant
-job-name-senior-physician = Senior Physician
-job-name-senior-researcher = Senior Researcher
-
+job-name-senior-engineer = 資深工程師
+job-name-senior-officer = 中士
+job-name-senior-physician = 資深醫師
+job-name-senior-researcher = 資深研究員
 JobSeniorEngineer = Senior Engineer
 JobSeniorOfficer = Sergeant
 JobSeniorPhysician = Senior Physician

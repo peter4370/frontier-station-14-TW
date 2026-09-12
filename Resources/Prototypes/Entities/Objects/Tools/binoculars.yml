@@ -1,8 +1,8 @@
 - type: entity
-  name: binoculars
+  name: 雙筒望遠鏡
   parent: BaseItem
   id: Binoculars
-  description: Used for long-distance surveillance.
+  description: 用於長距離監控。
   components:
   - type: Sprite
     sprite: Objects/Tools/binoculars.rsi

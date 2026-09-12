@@ -4,7 +4,7 @@
   parent: [VendPriceFoodBase100, FoodInjectableBase] #  Frontier - VendPriceFoodBase100
   id: FoodDonutBase
   abstract: true
-  description: Goes great with robust coffee.
+  description: 非常適合搭配濃郁的咖啡。
   components:
   - type: Tag
     tags:
@@ -45,7 +45,7 @@
 # Plain Donuts
 
 - type: entity
-  name: plain donut
+  name: 原味甜甜圈
   parent: FoodDonutBase
   id: FoodDonutPlain
   components:
@@ -56,7 +56,7 @@
     state: plain
 
 - type: entity
-  name: plain jelly-donut
+  name: 原味果凍甜甜圈
   parent: FoodDonutBase
   id: FoodDonutJellyPlain
   components:
@@ -78,7 +78,7 @@
 # Donuts
 
 - type: entity
-  name: donut
+  name: 甜甜圈
   parent: FoodDonutBase
   id: FoodDonutHomer
   components:
@@ -91,10 +91,10 @@
     heldPrefix: pink
 
 - type: entity
-  name: chaos donut
+  name: 混沌甜甜圈
   parent: FoodDonutBase
   id: FoodDonutChaos
-  description: Like life, it never quite tastes the same.
+  description: 就像人生一樣，它的滋味總是不盡相同。
   components:
   - type: FlavorProfile
     flavors:
@@ -107,10 +107,10 @@
 # Tastes like donut, chaos.
 
 - type: entity
-  name: meat donut
+  name: 肉甜甜圈
   parent: FoodDonutBase
   id: FoodDonutMeat
-  description: Tastes as gross as it looks.
+  description: 吃起來和看起來一樣噁心。
   components:
   - type: FlavorProfile
     flavors:
@@ -124,10 +124,10 @@
 # Tastes like meat.
 
 - type: entity
-  name: pink donut
+  name: 粉紅色甜甜圈
   parent: FoodDonutBase
   id: FoodDonutPink
-  description: Goes great with a soy latte.
+  description: 搭配豆漿拿鐵簡直絕配。
   components:
   - type: FlavorProfile
     flavors:
@@ -138,20 +138,20 @@
     heldPrefix: pink
 
 - type: entity
-  name: spaceman's donut
+  name: 太空人甜甜圈
   parent: FoodDonutBase
   id: FoodDonutSpaceman
-  description: Goes great with a cold beaker of malk.
+  description: 搭配一杯冰鎮的馬爾克，簡直絕配。
   components:
   - type: Sprite
     state: purple
 # Tastes like donut, violets.
 
 - type: entity
-  name: apple donut
+  name: 蘋果甜甜圈
   parent: FoodDonutBase
   id: FoodDonutApple
-  description: Goes great with a shot of cinnamon schnapps.
+  description: 搭配一小杯肉桂利口酒，味道絕佳。
   components:
   - type: FlavorProfile
     flavors:
@@ -162,20 +162,20 @@
 # Tastes like donut, green apples.
 
 - type: entity
-  name: caramel donut
+  name: 焦糖甜甜圈
   parent: FoodDonutBase
   id: FoodDonutCaramel
-  description: Goes great with a mug of hot coco.
+  description: 搭配一杯熱可可，簡直絕配。
   components:
   - type: Sprite
     state: beige
 # Tastes like donut, buttery sweetness.
 
 - type: entity
-  name: chocolate donut
+  name: 巧克力甜甜圈
   parent: FoodDonutBase
   id: FoodDonutChocolate
-  description: Goes great with a glass of warm milk.
+  description: 搭配一杯溫牛奶，味道絕佳。
   components:
   - type: FlavorProfile
     flavors:
@@ -194,10 +194,10 @@
 # Tastes like donut, bitterness.
 
 - type: entity
-  name: blue pumpkin donut
+  name: 藍南瓜甜甜圈
   parent: FoodDonutBase
   id: FoodDonutBluePumpkin
-  description: Goes great with a mug of soothing drunken blue pumpkin.
+  description: 搭配一杯舒緩身心的「醉藍南瓜」茶，簡直是絕配。
   components:
   - type: FlavorProfile
     flavors:
@@ -208,10 +208,10 @@
 # Tastes like donut, blue pumpkin.
 
 - type: entity
-  name: bungo donut
+  name: 文吾甜甜圈
   parent: FoodDonutBase
   id: FoodDonutBungo
-  description: Goes great with a mason jar of hippie's delight.
+  description: 搭配一罐「嬉皮之樂」，簡直絕配。
   components:
   - type: FlavorProfile
     flavors:
@@ -222,10 +222,10 @@
 # Tastes like donut, tropical sweetness.
 
 - type: entity
-  name: matcha donut
+  name: 抹茶甜甜圈
   parent: FoodDonutBase
   id: FoodDonut
-  description: The L-theanine in this donut is relaxing, yet not euphoric. Goes great with a cup of tea.
+  description: 這款甜甜圈中的 L-茶胺酸能讓人放鬆，卻不會帶來欣快感。搭配一杯茶，簡直是絕配。
   components:
   - type: FlavorProfile
     flavors:
@@ -235,10 +235,10 @@
 # Tastes like donut, matcha.
 
 - type: entity
-  name: sweet pea donut
+  name: 甜豌豆甜甜圈
   parent: FoodDonutBase
   id: FoodDonutSweetpea
-  description: Goes great with a bottle of Bastion Burbon!
+  description: 搭配一瓶「Bastion」波本威士忌簡直絕配！
   components:
   - type: Sprite
     state: laugh
@@ -247,10 +247,10 @@
 # Jelly Donuts
 
 - type: entity
-  name: jelly-donut
+  name: 果凍甜甜圈
   parent: FoodDonutBase
   id: FoodDonutJellyHomer
-  description: You jelly?
+  description: 你嫉妒嗎？
   components:
   - type: Sprite
     state: jelly-homer
@@ -267,7 +267,7 @@
           Quantity: 1
 
 - type: entity
-  name: pink jelly-donut
+  name: 粉紅色果凍甜甜圈
   parent: FoodDonutBase
   id: FoodDonutJellyPink
   description: Goes great with a soy latte.
@@ -287,7 +287,7 @@
           Quantity: 1
 
 - type: entity
-  name: spaceman's jelly-donut
+  name: 太空人的果凍甜甜圈
   parent: FoodDonutBase
   id: FoodDonutJellySpaceman
   description: Goes great with a cold beaker of malk.
@@ -306,7 +306,7 @@
 # Tastes like jelly-donut, violets.
 
 - type: entity
-  name: apple jelly-donut
+  name: 蘋果果凍甜甜圈
   parent: FoodDonutFruitBase
   id: FoodDonutJellyApple
   description: Goes great with a shot of cinnamon schnapps.
@@ -326,7 +326,7 @@
 # Tastes like jelly-donut, green apples.
 
 - type: entity
-  name: caramel jelly-donut
+  name: 焦糖果凍甜甜圈
   parent: FoodDonutBase
   id: FoodDonutJellyCaramel
   description: Goes great with a mug of hot coco.
@@ -345,7 +345,7 @@
 # Tastes like jelly-donut, buttery sweetness.
 
 - type: entity
-  name: chocolate jelly-donut
+  name: 巧克力果凍甜甜圈
   parent: FoodDonutBase
   id: FoodDonutJellyChocolate
   description: Goes great with a glass of warm milk.
@@ -366,7 +366,7 @@
 # Tastes like jelly-donut, bitterness.
 
 - type: entity
-  name: blue pumpkin jelly-donut
+  name: 藍色南瓜果凍甜甜圈
   parent: FoodDonutFruitBase
   id: FoodDonutJellyBluePumpkin
   description: Goes great with a mug of soothing drunken blue pumpkin.
@@ -389,7 +389,7 @@
 # Tastes like jelly-donut, blue pumpkin.
 
 - type: entity
-  name: bungo jelly-donut
+  name: 文豪果凍甜甜圈
   parent: FoodDonutFruitBase
   id: FoodDonutJellyBungo
   description: Goes great with a mason jar of hippie's delight.
@@ -408,10 +408,10 @@
 # Tastes like jelly-donut, tropical sweetness.
 
 - type: entity
-  name: matcha jelly-donut
+  name: 抹茶果凍甜甜圈
   parent: FoodDonutBase
   id: FoodDonutJelly
-  description: The L-theanine in this jelly-donut is relaxing, yet not euphoric. Goes great with a cup of tea.
+  description: 這款果凍甜甜圈中的 L-茶胺酸能讓人放鬆，卻不會產生欣快感。搭配一杯茶，簡直是絕配。
   components:
   - type: Sprite
     state: jelly-olive
@@ -427,7 +427,7 @@
 # Tastes like jelly-donut, matcha.
 
 - type: entity
-  name: sweet pea jelly-donut
+  name: 甜豌豆果凍甜甜圈
   parent: FoodDonutBase
   id: FoodDonutJellySweetpea
   description: Goes great with a bottle of Bastion Burbon!
@@ -446,10 +446,10 @@
 # Tastes like jelly-donut, fizzy tutti frutti.
 
 - type: entity
-  name: scurret jelly-donut
+  name: 斯卡雷特果凍甜甜圈
   parent: FoodDonutBase
   id: FoodDonutJellyScurret
-  description: No holes in this donut in case a suspicious looking pole shows up.
+  description: 這顆甜甜圈沒有洞，以防萬一出現某根可疑的桿子。
   components:
   - type: Sprite
     state: jelly-slug

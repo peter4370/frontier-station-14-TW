@@ -2,9 +2,9 @@
 - type: entity
   parent: BaseBoardEntity
   id: BaseBattlemap
-  name: battlemap
+  name: 戰場地圖
   abstract: true
-  description: A battlemap for your epic dungeon exploring to begin, pieces not included!
+  description: 一張讓您展開史詩級地城探險的戰鬥地圖，不含配件！
   components:
     - type: Sprite
       sprite: Objects/Fun/Tabletop/grassbm.rsi
@@ -18,7 +18,7 @@
 - type: entity
   parent: BaseBattlemap
   id: GrassBattlemap
-  name: grass battlemap
+  name: 草地戰場地圖
   description: A battlemap for your epic dungeon exploring to begin, pieces not included!
   components:
     - type: Sprite
@@ -31,8 +31,8 @@
 - type: entity
   parent: BaseBattlemap
   id: MoonBattlemap
-  name: moon battlemap
-  description: A battlemap for your epic moon exploring to begin, pieces not included!
+  name: 月球戰場地圖
+  description: 一張讓您展開史詩級月球探險的戰場地圖，不包含遊戲部件！
   components:
     - type: Sprite
       sprite: Objects/Fun/Tabletop/Battlemaps/moonbm.rsi
@@ -44,8 +44,8 @@
 - type: entity
   parent: BaseBattlemap
   id: SandBattlemap
-  name: sand battlemap
-  description: A battlemap for your epic beach episodes to begin, pieces not included!
+  name: 沙地戰場地圖
+  description: 一張讓您展開史詩級海灘篇章的戰場地圖，棋子不包含在內！
   components:
     - type: Sprite
       sprite: Objects/Fun/Tabletop/Battlemaps/sandbm.rsi
@@ -57,8 +57,8 @@
 - type: entity
   parent: BaseBattlemap
   id: SnowBattlemap
-  name: snow battlemap
-  description: A battlemap for your frigid exploring to begin, pieces not included! # if this isn't funny enough i can remove it
+  name: 雪地戰場地圖
+  description: 一張供你展開嚴寒探險的戰場地圖，不包含遊戲配件！ #if this isn't funny enough i can remove it
   components:
     - type: Sprite
       sprite: Objects/Fun/Tabletop/Battlemaps/snowbm.rsi
@@ -70,8 +70,8 @@
 - type: entity
   parent: BaseBattlemap
   id: ShipBattlemap
-  name: ship battlemap
-  description: A battlemap for your epic space exploring to begin, pieces not included!
+  name: 艦船戰鬥地圖
+  description: 一張讓您展開史詩級太空探險的戰鬥地圖，不包含遊戲配件！
   components:
     - type: Sprite
       sprite: Objects/Fun/Tabletop/Battlemaps/shipbm.rsi

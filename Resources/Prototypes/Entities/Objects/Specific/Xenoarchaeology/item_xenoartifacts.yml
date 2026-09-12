@@ -3,7 +3,7 @@
   id: BaseXenoArtifactItem
   name: artifact
   # description: A strange artifact from time unknown. Looks like a good time. Fits in hand perfectly. # Frontier
-  description: A strange artifact of unknown origin. Its shape is bizarre and alien, though it fits perfectly in your hand. # Frontier
+  description: 一件來源不明的奇異古物。它的形狀怪異且充滿異星感，儘管如此，卻能完美地貼合你的手掌。 # Frontier
   abstract: true
   noSpawn: true
   components:
@@ -76,8 +76,8 @@
 - type: entity
   id: ArtifactFragment
   parent: BaseItem
-  name: artifact fragment
-  description: A broken piece of an artifact. You could probably repair it if you had more.
+  name: 文物碎片
+  description: 一件文物殘片。如果你有更多碎片，應該就能把它修復好。
   components:
   - type: Sprite
     sprite: Objects/Specific/Xenoarchaeology/artifact_fragments.rsi

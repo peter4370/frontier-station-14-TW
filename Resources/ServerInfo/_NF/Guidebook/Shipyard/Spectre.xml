@@ -1,5 +1,6 @@
+
 <Document>
-  # SPECTRE-CLASS RESEARCH SHUTTLE
+  # SPECTRE 級研究飛船
   <Box>
   <GuideEntityEmbed Entity="MachineCryoSleepPod" Caption="cryo sleep"/>
   <GuideEntityEmbed Entity="SignAnomaly2" Caption="anomaly lab"/>
@@ -10,15 +11,15 @@
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapSpectre" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Large
+  [color=#a4885c]船隻尺寸：[/color] 大型
 
-  [color=#a4885c]Recommended Crew:[/color] 3-5
+  [color=#a4885c]建議船員人數：[/color] 3-5 人
 
-  [color=#a4885c]Power Gen Type:[/color] AME
+  [color=#a4885c]動力產生類型：[/color] AME
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "A large, robust vessel with a pure focus on research and development. It is equipped with multiple artifact chambers."
+  「一艘專注於研究與開發的大型、堅固船艦。」 「它配備了多個文物艙。」
 
   # Ship Functions
   ## Ship Buttons
@@ -26,7 +27,7 @@
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Toggle Thrusters"/>
   <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Toggle Adjacent Blast Door"/>
   </Box>
-  ## Disposals
+  ## 處分
   <Box>
   <GuideEntityEmbed Entity="WindoorSecure" Caption="Turn off Conveyor"/>
   <GuideEntityEmbed Entity="ButtonFrameJanitor" Caption="Forward or Reverse Conveyor"/>

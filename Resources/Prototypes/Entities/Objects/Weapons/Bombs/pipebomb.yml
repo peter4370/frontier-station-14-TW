@@ -1,8 +1,8 @@
 - type: entity
   parent: [ GrenadeBase, BaseC2ContrabandUnredeemable ] # Frontier: BaseMinorContraband>BaseC2ContrabandUnredeemable
   id: PipeBomb
-  name: pipe bomb
-  description: An improvised explosive made from pipes and wire.
+  name: 管狀炸彈
+  description: 由管子與電線製成的簡易爆炸裝置。
   components:
   - type: WeaponCaseInsertable # Frontier
   - type: Sprite
@@ -39,7 +39,7 @@
   parent: [ BaseItem, BaseC2ContrabandUnredeemable ] # Frontier: BaseMinorContraband>BaseC2ContrabandUnredeemable
   id: PipeBombGunpowder
   name: pipe bomb
-  description: An improvised explosive made from a pipe. This one has no gunpowder.
+  description: 一種用管子製成的簡易爆炸裝置。這個裡面沒有火藥。
   suffix: Gunpowder
   components:
   - type: WeaponCaseInsertable # Frontier
@@ -55,7 +55,7 @@
   parent: [ BaseItem, BaseC2ContrabandUnredeemable ] # Frontier: BaseMinorContraband>BaseC2ContrabandUnredeemable
   id: PipeBombCable
   name: pipe bomb
-  description: An improvised explosive made from a pipe. This one has no cable.
+  description: 由鐵管製成的簡易爆炸裝置。這個沒有引線。
   suffix: Cable
   components:
   - type: WeaponCaseInsertable # Frontier

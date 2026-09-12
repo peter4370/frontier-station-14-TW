@@ -1,3 +1,3 @@
 ﻿navmap-zoom = Zoom: {$value}x
 navmap-recenter = Recenter
-navmap-toggle-beacons = Show departments
+navmap-toggle-beacons = 顯示部門

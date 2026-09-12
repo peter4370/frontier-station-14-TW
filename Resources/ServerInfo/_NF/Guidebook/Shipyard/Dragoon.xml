@@ -1,22 +1,23 @@
+
 <Document>
-  # DRAGOON-CLASS PATROL SHUTTLE
+  # 龍騎兵級巡邏穿梭機
 <Box>
-  <GuideEntityEmbed Entity="NFWeaponRifleAssaultGestio" Caption="Negotiate"/>
-  <GuideEntityEmbed Entity="NFPosterContrabandFscLogo" Caption="Profit"/>
+  <GuideEntityEmbed Entity="NFWeaponRifleAssaultGestio" Caption="協商"/>
+  <GuideEntityEmbed Entity="NFPosterContrabandFscLogo" Caption="利潤"/>
   <GuideEntityEmbed Entity="ClothingOuterEVASuitFsa" Caption="Explore"/>
 </Box>
 <Box>
   <GuideEntityEmbed Entity="ShuttleMapDragoon" Caption=""/>
 </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻大小：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-3
+  [color=#a4885c]建議船員人數：[/color] 1-3 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "The Dragoon offers the tools and materials needed for exploration in uncooperative spaces. Brought to you by Far Star Arms."
+  「『龍騎兵』號提供了在艱險太空環境中進行探索所需的工具與物資。 「由 Far Star Arms 為您呈獻。」
 
   # Ship Functions
 

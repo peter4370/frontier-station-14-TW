@@ -1,5 +1,6 @@
+
 <Document>
-  # SEARCHLIGHT-CLASS EMS SHUTTLE
+  # 「搜索燈」級緊急醫療服務接駁船
   <Box>
   <GuideEntityEmbed Entity="NFPosterContrabandLvhiSpace" Caption=""/>
   </Box>
@@ -7,28 +8,28 @@
   <GuideEntityEmbed Entity="ShuttleMapSearchlight" Caption=""/>
   </Box>
 
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻尺寸：[/color] 小型
 
-	[color=#a4885c]Recommended Crew:[/color] 2+
+	[color=#a4885c]建議船員人數：[/color] 2+
 
-	[color=#a4885c]Power Gen Type:[/color] Uranium
+	[color=#a4885c]動力類型：[/color] 鈾
 
-	[color=#a4885c]Expeditions:[/color] None
+	[color=#a4885c]探險任務：[/color] 無
 
-	[color=#a4885c]IFF Console:[/color] None
+	[color=#a4885c]敵我識別（IFF）控制台：[/color] 無
 
-  "A good small size shuttle to provide medical care throughout the sector. Manufactured by Langstad-Voigt Heavy Industries."
+  「一艘優秀的小型穿梭機，能為整個星區提供醫療照護。」 Manufactured by Langstad-Voigt Heavy Industries."
 
-  # Tips on running LVHI Searchlight shuttles
-  - Optimal [bold]Target Power[/bold] (kW) for the generator unit is [color=#a4885c]24 [bold]kW[/bold][/color]. If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
-  - Throughout the shuttle a number of buttons can be found: the button with a yellow and black frame controls the window shutters; the button with the gray frame toggles thrusters and gyroscope (located in the Engineering bay); the button with a red and black frame controls the EVA access.
+  # 關於運行 LVHI Searchlight 穿梭機的提示
+  - 發電機組的最佳 [bold]目標功率[/bold] (kW) 為 [color=#a4885c]24 [bold]kW[/bold][/color]。 If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
+  - 太空梭內設有數個按鈕：黃黑邊框的按鈕用來控制舷窗百葉窗；灰邊框的按鈕用來切換推進器與陀螺儀（位於工程艙內）；紅黑邊框的按鈕則用來控制太空行走艙門。
   <Box>
   <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="EVA Access"/>
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Toggle Shutters"/>
   <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Toggle Thrusters"/>
   </Box>
-  - For basics of medical care see [textlink="Medical Doctor" link="Medical Doctor"].
-  - For basics of chemical mixing see [textlink="Chemist" link="Chemist"] and [textlink="List of Chemicals" link="Chemicals"].
+  - 有關醫療照護的基礎知識，請參閱 [textlink="醫師" link="醫師"]。
+  - 有關化學混合的基本知識，請參閱 [textlink="Chemist" link="Chemist"] 及 [textlink="化學品清單" link="Chemicals"]。
   - For the basics of [bold]shuttle piloting[/bold], refer to [textlink="Piloting" link="Piloting"] and [textlink="Sector Topology" link="SectorTopology"/].
   - As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will, refer to [textlink="Hiring" link="Hiring"] for more information.
 

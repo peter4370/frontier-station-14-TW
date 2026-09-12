@@ -1,5 +1,5 @@
-advertisement-nfsddrobe-1 = Looking To 'Cop' A Fresh Look?
-advertisement-nfsddrobe-2 = From Boots to Caps, We Got Your Back
-advertisement-nfsddrobe-3 = Enforce Fashion With Arresting Attire
-advertisement-nfsddrobe-4 = Serve Justice, Look Fabulous!
-advertisement-nfsddrobe-5 = Now you can wear your brown pants too
+advertisement-nfsddrobe-1 = 想「入手」一個嶄新的造型嗎？
+advertisement-nfsddrobe-2 = 從靴子到帽子，我們都會全力支持您
+advertisement-nfsddrobe-3 = 以引人注目的穿搭展現時尚魅力
+advertisement-nfsddrobe-4 = 伸張正義，光彩照人！
+advertisement-nfsddrobe-5 = 現在你也可以穿那條棕色長褲了

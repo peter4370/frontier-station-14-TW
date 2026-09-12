@@ -1,1 +1,1 @@
-construction-category-flags = Flags
+construction-category-flags = 國旗

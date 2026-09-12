@@ -1,10 +1,10 @@
-names-raccoon-dataset-1 = Bandit
-names-raccoon-dataset-2 = Rogue
+names-raccoon-dataset-1 = 土匪
+names-raccoon-dataset-2 = 流氓
 names-raccoon-dataset-3 = Zorro
-names-raccoon-dataset-4 = Smokey
+names-raccoon-dataset-4 = 史莫基
 names-raccoon-dataset-5 = Scout
 names-raccoon-dataset-6 = Burgle
-names-raccoon-dataset-7 = Dumpty
-names-raccoon-dataset-8 = Mischief
-names-raccoon-dataset-9 = Trouble
-names-raccoon-dataset-10 = Carrey
+names-raccoon-dataset-7 = 達姆蒂
+names-raccoon-dataset-8 = 惡作劇
+names-raccoon-dataset-9 = 麻煩
+names-raccoon-dataset-10 = 卡瑞

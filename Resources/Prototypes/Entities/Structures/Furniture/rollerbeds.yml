@@ -1,8 +1,8 @@
 - type: entity
   id: RollerBed
   parent: [BaseItem, BaseDeployFoldable]
-  name: rollerbed
-  description: Used to carry patients around without damaging them.
+  name: 滾輪床
+  description: 用於搬運病患，同時避免對其造成傷害。
   components:
     - type: Transform
       noRot: true
@@ -93,7 +93,7 @@
   id: CheapRollerBed
   name: rollerbed
   parent: RollerBed
-  description: A run-down rollerbed. Used to carry patients around.
+  description: 一輛破舊的推床。用來運送病患。
   components:
   - type: Item
     heldPrefix: cheap_rollerbed
@@ -123,7 +123,7 @@
   id: EmergencyRollerBed
   name: rollerbed
   parent: RollerBed
-  description: A robust looking rollerbed used for emergencies.
+  description: 一款外觀堅固的滾輪床，用於應急情況。
   components:
   - type: Item
     heldPrefix: emergency_rollerbed

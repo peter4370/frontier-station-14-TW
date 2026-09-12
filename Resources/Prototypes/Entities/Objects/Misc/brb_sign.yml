@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseItem
   id: BrbSign
-  name: brb sign
-  description: Lets others know you are away.
+  name: 稍等一下，去簽個名
+  description: 讓其他人知道您目前不在。
   components:
   - type: Sprite
     sprite: Objects/Misc/brbsign.rsi

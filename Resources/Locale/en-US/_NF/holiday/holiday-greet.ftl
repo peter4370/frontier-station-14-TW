@@ -1,7 +1,6 @@
 ## Holiday Names
 
-holiday-name-frontier-birthday = Birthday of Frontier Station
-
+holiday-name-frontier-birthday = 邊境站成立紀念日
 holiday-custom-frontier-birthday =
-    It's Frontier Station's birthday!
-    Thanks for helping make Frontier what it is.
+    今天是 Frontier Station 的生日！
+    感謝各位的協助，讓 Frontier 成為如今的模樣。

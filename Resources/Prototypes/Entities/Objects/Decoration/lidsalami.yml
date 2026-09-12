@@ -1,8 +1,8 @@
 - type: entity
   id: LidSalami
   parent: [BaseItem, RecyclableItemPlasticMedium] # Frontier: added RecyclableItemPlasticMedium
-  name: salami lid
-  description: Ain't gon' fit, won't fit.
+  name: 薩拉米香腸蓋
+  description: 穿不下，絕對穿不下。
   components:
   - type: Sprite
     sprite: Objects/Decoration/lidsalami.rsi

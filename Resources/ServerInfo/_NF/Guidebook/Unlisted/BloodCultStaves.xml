@@ -1,32 +1,33 @@
+
 <Document>
-# On the Awakening of an Inert Arcane Staff
+# 論一根沉睡的秘法法杖的甦醒
 <Box>
   <GuideEntityEmbed Entity="WeaponInertStaffCultistBoltDark"/>
 </Box>
-At times, after prolonged and tireless use, the crystals set within adept-level cult staves will grow dim - veiled in soot and rendered inert, their once eager responsiveness dulled to silence. Such a condition is neither uncommon nor irreversible, though it must be addressed with care. To restore the staff to its proper function, one must proceed as follows.
+有時，經過長時間且不間斷的使用後，鑲嵌於行家級邪教法杖中的水晶會逐漸黯淡——被煤灰籠罩而失去活性，其曾經敏銳的反應也變得遲鈍，最終歸於沉寂。 這種情況既不罕見，也並非不可逆轉，但必須謹慎處理。 要使該杖恢復正常功能，必須按照以下步驟進行。
 
 ## 1.
 <Box>
   <GuideEntityEmbed Entity="ShardCrystalRed"/>
 </Box>
-First, obtain a fresh red crystal shard to serve as a suitable replacement. Remove the dulled and sullied fragment, and in its stead set the new shard, pressing it firmly into the socket until it rests secure and unyielding, as though it had always belonged there.
+首先，取得一塊嶄新的紅色水晶碎片，作為合適的替代品。 取下那塊黯淡且污損的碎片，取而代之的是新的碎片，將它牢牢按入插槽中，直到它穩穩當當、堅不可摧地固定在原處，彷彿它一直都屬於那裡一般。
 
 ## 2.
 <Box>
   <GuideEntityEmbed Entity="Bloodpack"/>
 </Box>
-Second, the staff must be rededicated. In the name of Nar'Sie, it is to be bathed in blood - an offering both symbolic and binding. Should the rite require steadiness or sanctity, lay the staff upon an altar, allowing the act to take on the full weight of ritual observance.
+其次，必須讓員工重新投入工作。 以納爾·西之名，此地將被鮮血浸透——這既是象徵性的，也是具約束力的獻祭。 若該儀式需要穩重或神聖感，應將法杖置於祭壇之上，使該舉動能充分體現儀式遵守的莊重性。
 
 <Box>
   <GuideEntityEmbed Entity="WeaponChargedStaffCultistBoltDarkAdept"/>
   <GuideEntityEmbed Entity="StaffRechargerCult"/>
 </Box>
 
-# On the Ascension of an Adept's Staff to Mastery
+# 論一位修道者之杖如何臻至大成
 <Box>
   <GuideEntityEmbed Entity="WeaponChargedStaffCultistBoltDarkAdept"/>
 </Box>
-Upon attaining true mastery over the art of blood magic, it becomes not only fitting but necessary that one's staff be elevated in kind, its form and function brought into harmony with the wielder's ascended state. Such an augmentation is neither trivial nor without risk, and thus must be undertaken with deliberate care.
+當真正精通血魔法之術後，不僅應讓法杖的層次隨之提升，更須使其形貌與功能與施法者昇華後的境界相諧調，這不僅是合宜之舉，更是勢在必行。 此類增強既非微不足道，亦非毫無風險，因此必須審慎行事。
 
 # 1.
 <Box>
@@ -34,9 +35,9 @@ Upon attaining true mastery over the art of blood magic, it becomes not only fit
   <GuideEntityEmbed Entity="AnomalyCoreFlesh" Caption="anomaly core"/>
   <GuideEntityEmbed Entity="AnomalyCoreElectricity" Caption=""/>
 </Box>
-Begin by securing an anomaly core, whether dormant or still faintly alive with residual force; either will suffice, provided it remains intact. This core shall serve as the catalyst for the staff's transformation.
+首先，請取得一個異變核心，無論是處於休眠狀態，還是仍殘存微弱力量；只要保持完整，兩者皆可。 這個核心將成為推動員工轉型的催化劑。
 
-With both implements prepared, bring the core into union with the staff's crystal, guiding the fusion with steady hands and an unwavering will. As the two begin to merge, you must recite the Eighth Rite of Sanguine Glory, each word spoken with precision and intent, lest the process falter. In this convergence of object, voice, and purpose, the staff will shed its former limitations and emerge as a reflection of its master's power.
+當兩件法器皆已備妥後，將核心與法杖上的水晶融合，以穩健的雙手與堅定不移的意志引導這場融合。 當兩者開始融合之際，你必須誦念《血之榮光》第八儀式，每個字都必須精準且充滿決心地說出，以免過程受阻。 在物件、聲音與目的交匯之際，這根權杖將擺脫過往的局限，化身為其主人權力的映照。
 <Box>
   <GuideEntityEmbed Entity="WeaponChargedStaffCultistBoltDarkMaster"/>
   <GuideEntityEmbed Entity="StaffRechargerCult"/>

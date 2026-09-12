@@ -2,7 +2,7 @@
   abstract: true
   parent: [BaseItem, RecyclableItemCardboard] # Frontier: added RecyclableItemCardboard
   id: BaseMagazineBoxLightRifle
-  name: ammunition box (.30 rifle)
+  name: 彈藥箱（.30 步槍）
   components:
   - type: BallisticAmmoProvider
     mayTransfer: true
@@ -47,7 +47,7 @@
   parent: BaseMagazineBoxLightRifle
   id: MagazineBoxLightRifle
   name: ammunition box (.30 rifle)
-  description: A cardboard box of .30 rifle rounds. Intended to hold general-purpose kinetic ammunition.
+  description: 一盒裝有.30口徑步槍子彈的紙箱。原定用於存放通用動能彈藥。
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeLightRifle
@@ -62,8 +62,8 @@
   abstract: true # Frontier: use NF ammo
   parent: BaseMagazineBoxLightRifle
   id: MagazineBoxLightRiflePractice
-  name: ammunition box (.30 rifle practice)
-  description: A cardboard box of .30 rifle rounds. Intended to hold non-harmful chalk ammunition.
+  name: 彈藥箱（.30口徑步槍練習用）
+  description: 一盒 .30 口徑步槍子彈的紙箱。原本是用來裝無害的粉筆彈藥的。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgeLightRiflePractice # Frontier
@@ -79,8 +79,8 @@
   abstract: true # Frontier: use NF ammo
   id: MagazineBoxLightRifleIncendiary
   parent: BaseMagazineBoxLightRifle
-  name: ammunition box (.30 rifle incendiary)
-  description: A cardboard box of .30 rifle rounds. Intended to hold self-igniting incendiary ammunition.
+  name: 彈藥箱（.30口徑步槍燃燒彈）
+  description: 一盒裝有 .30 口徑步槍子彈的紙箱。原定用於裝載自燃式燃燒彈。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgeLightRifleIncendiary # Frontier
@@ -96,8 +96,8 @@
   abstract: true # Frontier: use NF ammo
   parent: BaseMagazineBoxLightRifle
   id: MagazineBoxLightRifleUranium
-  name: ammunition box (.30 rifle uranium)
-  description: A cardboard box of .30 rifle rounds. Intended to hold exotic uranium-core ammunition.
+  name: 彈藥箱（.30口徑步槍鈾彈）
+  description: 一盒裝有.30口徑步槍子彈的紙箱。原本是用來裝載特殊鈾芯彈藥的。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgeLightRifleUranium # Frontier

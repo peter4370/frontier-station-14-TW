@@ -1,1 +1,1 @@
-book-read-verb = Read
+book-read-verb = 閱讀

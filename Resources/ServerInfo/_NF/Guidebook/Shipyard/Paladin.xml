@@ -1,38 +1,39 @@
+
 <Document>
-  # PALADIN-CLASS ASSAULT SHUTTLE
+  # 聖騎士級突擊穿梭機
   <Box Margin="-130">
   <GuideEntityEmbed Entity="ShuttleBannerNFSD" Caption=""/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapPaladin" Caption="" Margin="-20"/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻尺寸：[/color] 小型
 
-  [color=#a4885c]Fleet Shuttle:[/color] No
+  [color=#a4885c]艦隊穿梭機：[/color] 否
 
-  [color=#a4885c]Recommended Crew:[/color] 1-2
+  [color=#a4885c]建議船員人數：[/color] 1-2 人
 
-  [color=#a4885c]Power Gen Type:[/color] APU
+  [color=#a4885c]動力生成類型：[/color] APU
 
-  [color=#a4885c]Expeditions:[/color] No
+  [color=#a4885c]遠征任務：[/color] 否
 
-  [color=#a4885c]IFF Console:[/color] Yes
+  [color=#a4885c]敵我識別（IFF）控制台：[/color] 是
 
-  [color=#a4885c]Restrictions:[/color] Deputy
+  [color=#a4885c]限制：[/color] 副駕駛
 
-  "A small security assault craft designed for space combat equipped with an EXP-2100g mounted grenade launcher."
+  「一款專為太空戰鬥設計的小型安全突擊艇，配備一具 EXP-2100g 固定式榴彈發射器。」
 
   # Ship Functions
   <Box>
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Toggle Shutters"/>
-  <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Fire grenade launcher"/>
+  <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="火焰手榴彈發射器"/>
   </Box>
-  - There are two buttons at the front of the ship: The button with the yellow and black frame controls the shutters located at the front, while the button with the red and black frame controls the mounted grenade launcher.
+  - 飛船前方有兩個按鈕：黃黑相間邊框的按鈕用來控制位於前方的防禦簾幕，而紅黑相間邊框的按鈕則用來控制安裝在飛船上的榴彈發射器。
   <GuideEntityEmbed Entity="RemoteSignaller" Caption="Fire grenade launcher"/>
-  - There is a remote signaller linked to the grenade launcher in addition to the button, allowing you to fire it quickly in the middle of a pursuit.
+  - 除了按鈕之外，榴彈發射器還配備了一個與之連結的遙控裝置，讓您能在追擊過程中迅速發射。
 
-  # Tips on running NSF Paladin shuttles
-  - The Paladin supports up to [color=#a4885c]12 [bold]kW[/bold][/color] on its shuttle APUs. It is not recommended to go above this due to the small interior space. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
+  # 關於運作 NSF Paladin 穿梭機的提示
+  - Paladin 的穿梭機輔助動力單元 (APU) 最高可支援 [color=#a4885c]12 [bold]kW[/bold][/color]。 It is not recommended to go above this due to the small interior space. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
   - For the basics of [bold]shuttle piloting[/bold], refer to [textlink="Piloting" link="Piloting"] and [textlink="Sector Topology" link="SectorTopology"/].
   - For the basics of [bold]cargo hauling[/bold], refer to [textlink="Cargo Hauling" link="CargoHauling"].
   - For the basics of [bold]expedition diving[/bold], refer to [textlink="Expeditions" link="Expeditions"].

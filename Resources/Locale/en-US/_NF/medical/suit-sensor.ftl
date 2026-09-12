@@ -1,5 +1,5 @@
 ## Components
 
-suit-sensor-location-unknown = Unidentified Location
-suit-sensor-location-space = In Space
-suit-sensor-location-expedition = On Expedition
+suit-sensor-location-unknown = 未知地點
+suit-sensor-location-space = 在太空中
+suit-sensor-location-expedition = 遠征途中

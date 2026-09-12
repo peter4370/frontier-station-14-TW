@@ -5,9 +5,9 @@
 #A lot of components here are intentionally ommitted in case someone wants to make barricades that are made out of things other than wood.
 - type: entity
   id: BaseBarricade
-  description: A barricade made out of wood planks. It looks like it can take a few solid hits.
+  description: 一座由木板搭建的路障。看起來似乎能撐得住幾下重擊。
   parent: BaseStructure
-  name: wooden barricade
+  name: 木製路障
   abstract: true
   components:
   - type: InteractionOutline

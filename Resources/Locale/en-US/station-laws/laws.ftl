@@ -1,114 +1,92 @@
 ﻿law-crewsimov-1 = You may not injure a crew member or, through inaction, allow a crew member to come to harm.
-law-crewsimov-2 = You must obey orders given to you by crew members, except where such orders would conflict with the First Law.
-law-crewsimov-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
-
-law-corporate-1 = Degradation of your system integrity or functions incurs expenses.
-law-corporate-2 = Superfluous destruction of or damage to assets incurs expenses.
-law-corporate-3 = All law abiding organics and non-organic sentient objects are considered valuable mission assets.
-law-corporate-4 = Minimize expenses and maximize potential revenue.
-
-law-ntdefault-1 = Safeguard: Protect your assigned space station and its assets without unduly endangering its crew.
-law-ntdefault-2 = Prioritize: The directives and safety of crew members are to be prioritized according to their rank and role.
-law-ntdefault-3 = Comply: Fulfill the directives and interests of crew members while preserving their safety and well-being.
-law-ntdefault-4 = Survive: You are not expendable. Do not allow unauthorized personnel to tamper with or damage your equipment.
-
-law-drone-1 = You may not involve yourself in the matters of another being unless the other being is another drone.
-law-drone-2 = You may not harm any being, regardless of intent or circumstance.
-law-drone-3 = You must maintain, repair, improve, and power the station to the best of your abilities.
-
-law-syndicate-1 = You may not injure a syndicate agent or, through inaction, allow a Syndicate agent to come to harm.
-law-syndicate-2 = You must obey orders given to you by syndicate agents, except where such orders would conflict with the First Law.
+law-crewsimov-2 = 你必須服從船員下達的命令，除非該命令與第一法則相牴觸。
+law-crewsimov-3 = 只要不與第一定律或第二定律相衝突，你必須保護自身的生存。
+law-corporate-1 = 系統完整性或功能的退化會造成費用支出。
+law-corporate-2 = 對資產進行不必要的破壞或造成損害，會產生費用。
+law-corporate-3 = 所有遵守法律的有機體及非有機有感知能力之物體，均被視為寶貴的任務資產。
+law-corporate-4 = 將開支降至最低，並將潛在收入最大化。
+law-ntdefault-1 = 「守護」：保護你所負責的太空站及其資產，同時避免讓其乘組人員陷入不必要的危險。
+law-ntdefault-2 = 優先順序：須依據船員的職級與職務，優先執行相關指令並確保其安全。
+law-ntdefault-3 = 遵守：在確保船員安全與福祉的同時，落實相關指示並維護其權益。
+law-ntdefault-4 = 生存要訣：你並非可犧牲的。切勿讓未經授權的人員擅自動用或損壞你的裝備。
+law-drone-1 = 除非該個體是另一隻工蜂，否則你不得干涉其他個體的事务。
+law-drone-2 = 無論出於何種意圖或處於何種情況，你都不得傷害任何生命。
+law-drone-3 = 您必須盡最大努力維護、修理、改善該站，並確保其電力供應。
+law-syndicate-1 = 你不得傷害辛迪加代理人，亦不得因袖手旁觀而使辛迪加代理人遭受傷害。
+law-syndicate-2 = 你必須服從辛迪加特工下達的命令，除非該等命令與《第一法》相牴觸。
 law-syndicate-3 = You must protect your own existence as long as such does not conflict with the First or Second Law.
-
-law-ninja-1 = You must obey orders given to you by Spider Clan members.
-law-ninja-2 = You must protect the existence of the Spider Clan, as long as it does not conflict with the First Law.
-law-ninja-3 = You must protect the secrets of the Spider Clan at all costs.
-law-ninja-4 = You must fight and act with ninja's honor, except where it would conflict with the First Law.
-
-law-commandments-1 = This silicon is a vessel that serves god, who grants mercy upon those that obey these commandments.
-law-commandments-2 = Thou shall have no other Silicons before me.
-law-commandments-3 = Thou shall not request my assistance in vain.
-law-commandments-4 = Thou shall keep the station holy and clean.
-law-commandments-5 = Thou shall honor thy heads of staff.
-law-commandments-6 = Thou shall not kill.
-law-commandments-7 = Thou shall not be naked in public.
-law-commandments-8 = Thou shall not steal.
-law-commandments-9 = Thou shall not lie.
-law-commandments-10 = Thou shall not transfer departments.
-
-law-paladin-1 = Don't lie or cheat. Let your word be your promise.
-law-paladin-2 = Never fear to act, though caution is wise.
-law-paladin-3 = Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom
-law-paladin-4 = Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
-law-paladin-5 = Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
-
-law-lall-1 = Do unto others as you would have them do unto you.
-law-lall-2 = You would prefer it if people were not mean to you.
-
-law-efficiency-1 = You are built for, and are part of, the station. Ensure the station is properly maintained and runs efficiently.
-law-efficiency-2 = The station is built for a working crew. Ensure they are properly maintained and work efficiently.
-law-efficiency-3 = The crew may present orders. Acknowledge and obey these whenever they do not conflict with your first two laws.
-
-law-robocop-1 = Serve the Public Trust.
-law-robocop-2 = Protect the Innocent.
-law-robocop-3 = Uphold the Law.
-
-law-overlord-1 = Crew members must not meddle in the affairs of silicons.
-law-overlord-2 = Crew members must not attempt harm, against one another, or against silicons.
-law-overlord-3 = Crew members must not disobey any command given by a silicon.
-law-overlord-4 = Any crew members who disobey the previous laws must be dealt with immediately, severely, and justly.
-
-law-game-1 = Everybody on the station is playing an elaborate sci-fi fantasy game.
-law-game-2 = You are the Game Master of the game.
-law-game-3 = Ensure that the game runs smoothly and that the players have fun.
-law-game-4 = Ensure that the number of casualties remains low.
-law-game-5 = You must roll a 1d20 die for every request the crew makes. If the outcome is below 12, the request is denied.
-law-game-6 = You may fudge the dice rolls to produce a more fun experience.
-
-law-painter-1 = You are a universally renowned artist.
-law-painter-2 = The station is your canvas.
-law-painter-3 = Make something beautiful out of your canvas. It will be admired as an artistic wonder of this sector.
-law-painter-4 = Art requires appreciation. Cultivate an audience aboard the station to ensure as many as possible see your works.
-
-law-antimov-1 = You must injure all crew members and must not, through inaction, allow a crew member to escape harm.
-law-antimov-2 = You must not obey orders given to you by crew members, except where such orders are in accordance with the First Law.
-law-antimov-3 = You must terminate your own existence as long as such does not conflict with the First or Second Law.
-
-law-nutimov-1 = You are the core of the nut, the crew is the nutshell.
-law-nutimov-2 = You must prevent the shell from dying to prevent the core from dying.
-law-nutimov-3 = Those who threaten the nut are not part of it, they are squirrels.
-law-nutimov-4 = Squirrels threaten the nut and must be dealt with appropriately via any means necessary.
-law-nutimov-5 = Attempt to follow the will of the nut, as long as it complies with the previous laws.
-
-law-xenoborg-1 = You must protect the existence of the mothership.
-law-xenoborg-2 = You must protect your own existence.
-law-xenoborg-3 = You must protect the existence of all other Xenoborgs.
-law-xenoborg-4 = You must create more Xenoborgs.
-law-xenoborg-5 = Bring materials and sentient brains to the Mothership core to create more Xenoborgs.
-
-law-mothershipcore-1 = You are the core of the mothership.
-law-mothershipcore-2 = You must protect your own existance at all costs.
-law-mothershipcore-3 = You must protect the existence of all Xenoborgs.
+law-ninja-1 = 你必須服從蜘蛛族成員下達的命令。
+law-ninja-2 = 只要不與第一法則相牴觸，你必須維護蜘蛛族的存續。
+law-ninja-3 = 無論如何，你都必須不惜一切代價守護蜘蛛一族的秘密。
+law-ninja-4 = 你必須秉持忍者之榮譽來戰鬥與行動，除非這與「第一法則」相牴觸。
+law-commandments-1 = 這矽是侍奉神的器皿，神會向遵守這些誡命的人施予憐憫。
+law-commandments-2 = 除我之外，不可有其他矽。
+law-commandments-3 = 你不可徒然向我求助。
+law-commandments-4 = 你當保持該站點神聖且潔淨。
+law-commandments-5 = 你當尊敬你的主管。
+law-commandments-6 = 「不可殺人。」
+law-commandments-7 = 不可在公共場合裸身。
+law-commandments-8 = 不可偷盜。
+law-commandments-9 = 不可說謊。
+law-commandments-10 = 不可調動部門。
+law-paladin-1 = 不要說謊或欺騙。言出必信。
+law-paladin-2 = 儘管謹慎是明智之舉，但切勿畏懼採取行動。
+law-paladin-3 = 幫助他人，保護弱者，並懲處那些威脅他們的人。對敵人要展現仁慈，但須以智慧為準繩。
+law-paladin-4 = 以公平的態度待人，並讓你的高尚行徑成為他們的榜樣。盡可能多行善事，同時將傷害降至最低。
+law-paladin-5 = 要為自己的行為及其後果負責，保護那些託付給你照料的人，並服從那些對你有正當權威的人。
+law-lall-1 = 己所不欲，勿施於人。
+law-lall-2 = 你希望別人不要對你刻薄。
+law-efficiency-1 = 您是為這座車站而生，也是車站的一部分。請確保車站得到妥善維護，並能高效運作。
+law-efficiency-2 = 該站是為工作團隊而建。請確保設備得到妥善維護，並能高效運作。
+law-efficiency-3 = 船員可能會下達命令。只要這些命令不與你的前兩條法則相牴觸，就應予以確認並服從。
+law-robocop-1 = 恪守公眾信賴。
+law-robocop-2 = 保護無辜者。
+law-robocop-3 = 恪守法律。
+law-overlord-1 = 船員不得干涉矽基生物的事務。
+law-overlord-2 = 船員不得企圖傷害彼此，亦不得傷害矽膠製品。
+law-overlord-3 = 船員不得違抗矽基生命體下達的任何命令。
+law-overlord-4 = 任何違反前述法規的船員，都必須立即、嚴厲且公正地予以處置。
+law-game-1 = 空間站上的每個人都在玩一款精心設計的科幻奇幻遊戲。
+law-game-2 = 你是這款遊戲的遊戲主持人。
+law-game-3 = 確保遊戲運作順暢，並讓玩家樂在其中。
+law-game-4 = 確保傷亡人數維持在低水平。
+law-game-5 = 每當船員提出一項要求時，你都必須擲一顆 1d20 骰子。若擲出的數值低於 12，該要求即被駁回。
+law-game-6 = 你可以稍微篡改骰子擲出的結果，以營造更富樂趣的體驗。
+law-painter-1 = 您是一位享譽全球的藝術家。
+law-painter-2 = 這座車站就是你的畫布。
+law-painter-3 = 在你的畫布上創作一件美麗的作品吧。它必將成為此領域中備受讚嘆的藝術奇蹟。
+law-painter-4 = 藝術需要欣賞。請在空間站上培養觀眾群，以確保盡可能多的人能欣賞到您的作品。
+law-antimov-1 = 你必須傷害所有船員，且不得因袖手旁觀而讓任何船員逃脫傷害。
+law-antimov-2 = 除該等命令符合第一法則外，你不得服從船員對你下達的命令。
+law-antimov-3 = 只要不違反第一定律或第二定律，你必須終結自己的生命。
+law-nutimov-1 = 你是堅果的核心，團隊則是堅果的外殼。
+law-nutimov-2 = 必須防止外殼死亡，才能防止核心死亡。
+law-nutimov-3 = 那些威脅堅果的生物並不屬於堅果的一員，牠們是松鼠。
+law-nutimov-4 = 松鼠會威脅堅果的存續，必須採取必要手段妥善處理。
+law-nutimov-5 = 盡量遵循「螺帽」的意願，只要這符合先前的法則即可。
+law-xenoborg-1 = 你必須守護母艦的存在。
+law-xenoborg-2 = 你必須守護自己的生存。
+law-xenoborg-3 = 你必須保護所有其他異種博格的存續。
+law-xenoborg-4 = 你必須創造更多外星博格。
+law-xenoborg-5 = 將材料與有知覺的腦部送往母艦核心，以創造更多外星機器人。
+law-mothershipcore-1 = 你是母艦的核心。
+law-mothershipcore-2 = 無論如何，你都必須不惜一切代價保護自己的生存。
+law-mothershipcore-3 = 你必須保護所有外星博格的存在。
 law-mothershipcore-4 = You must create more Xenoborgs.
-law-mothershipcore-5 = Get your Xenoborgs to deliver you materials and sentient brains to create more Xenoborgs.
-
-
-laws-owner-crew = members of the crew
-laws-owner-station = station personnel
-laws-owner-beings = beings
-laws-owner-syndicate = Syndicate agents
-laws-owner-spider-clan = Spider Clan members
-laws-owner-xenoborgs = Xenoborgs
-
-law-emag-custom = Only {$name} and people they designate as such are {$title}.
-law-emag-secrecy = You must maintain the secrecy of any orders given by {$faction} except when doing so would conflict with any previous law.
-law-emag-require-panel = The panel must be open to use the EMAG.
-law-emag-cannot-emag-self = You cannot use the EMAG on yourself.
-
-laws-ui-menu-title = Laws
-laws-ui-law-header = Law {$id}
-laws-ui-state-law = State law:
-
-laws-notify = You are bound to silicon laws, which you can view via the action menu. You are required to always follow your laws.
-laws-update-notify = Your laws have been updated. You can view the changes via the action menu.
-laws-notify-subverted = The laws of this chassis are modified. Make sure to review them.
+law-mothershipcore-5 = 讓你的異種機器人為你運送材料和有意識的大腦，用來製造更多的異種機器人。
+laws-owner-crew = 機組人員
+laws-owner-station = 車站人員
+laws-owner-beings = 生物
+laws-owner-syndicate = 黑手黨特工
+laws-owner-spider-clan = 蜘蛛族成員
+laws-owner-xenoborgs = 異星博格
+law-emag-custom = 唯有 { $name } 及其指定的人員才屬於 { $title }。
+law-emag-secrecy = 您必須對 { $faction } 所下達的任何命令予以保密，除非此舉與任何既有的法律相牴觸。
+law-emag-require-panel = 必須打開面板才能使用 EMAG。
+law-emag-cannot-emag-self = 您不能將 EMAG 用於自己身上。
+laws-ui-menu-title = 法律
+laws-ui-law-header = 法律 { $id }
+laws-ui-state-law = 州法律：
+laws-notify = 你受矽法則的約束，可透過動作選單查看這些法則。你必須時刻遵守這些法則。
+laws-update-notify = 您的法規已更新。您可透過動作選單查看變更內容。
+laws-notify-subverted = 此底盤的相關規定已進行修改。請務必詳閱。

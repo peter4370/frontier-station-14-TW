@@ -2,7 +2,7 @@
   parent: BaseElectronics
   id: StationMapCircuitboard
   name: station map electronics
-  description: An electronics board used in station maps.
+  description: 用於車站地圖的電子電路板。
   components:
   - type: Item
     storedRotation: 0

@@ -1,2 +1,2 @@
-ent-MobXenoLonePraetorianNoGhost = "Dale"
-    .desc = A praetorian left over from an initial security sweep. Has a pair of bloodied dog tags engraved with the name "Pvt. Dale" stuck in its maw.
+ent-MobXenoLonePraetorianNoGhost = 「戴爾」
+    .desc = 一名在最初的安全搜查中遺留下來、隸屬近衛軍的士兵。它的嘴裡叼著一對沾滿血跡的軍牌，上面刻著「列兵戴爾」的名字。

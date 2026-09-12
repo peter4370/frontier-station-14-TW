@@ -1,1 +1,1 @@
-artifact-crusher-verb-start-crushing = Start crushing
+artifact-crusher-verb-start-crushing = 開始粉碎

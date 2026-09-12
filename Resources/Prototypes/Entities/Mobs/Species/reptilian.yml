@@ -90,7 +90,7 @@
   parent: BaseSpeciesDummy
   id: MobReptilianDummy
   categories: [ HideSpawnMenu ]
-  description: A dummy reptilian meant to be used in character setup.
+  description: 一個用於角色設定的爬蟲類模型。
   components:
   - type: HumanoidAppearance
     species: Reptilian

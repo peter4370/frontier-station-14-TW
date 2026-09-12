@@ -1,5 +1,4 @@
-
-chat-emote-name-spin = Spin
-chat-emote-name-jump = Jump
-chat-emote-msg-spin = spins!
-chat-emote-msg-jump = jumps!
+chat-emote-name-spin = 旋轉
+chat-emote-name-jump = 跳轉
+chat-emote-msg-spin = 轉起來了！
+chat-emote-msg-jump = 跳起來！

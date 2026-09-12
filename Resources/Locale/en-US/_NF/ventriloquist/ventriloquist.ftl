@@ -1,7 +1,6 @@
-ventriloquist-rock-grasp-hand = You firmly grasp the pet rock.
-ventriloquist-rock-release-hand = You release your grip on the pet rock.
-
-ventriloquist-rock-grasped-hand  = You have been grasped.
-ventriloquist-rock-released-hand  = You been released.
-ventriloquist-rock-role-name = A pet rock
-ventriloquist-rock-role-description = You are a pet mineral.
+ventriloquist-rock-grasp-hand = 你緊緊抓著那塊寵物石。
+ventriloquist-rock-release-hand = 你鬆開了握著那塊寵物石的手。
+ventriloquist-rock-grasped-hand = 你已被抓住。
+ventriloquist-rock-released-hand = 你已經獲釋了。
+ventriloquist-rock-role-name = 一塊寵物石
+ventriloquist-rock-role-description = 你是一顆寵物礦物。

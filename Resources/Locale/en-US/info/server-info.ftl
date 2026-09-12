@@ -1,9 +1,9 @@
 server-info-rules-button = Rules
 server-info-guidebook-button = Guidebook
 server-info-discord-button = Discord
-server-info-website-button = Website
+server-info-website-button = 網站
 server-info-wiki-button = Wiki
-server-info-forum-button = Forum
+server-info-forum-button = 論壇
 server-info-telegram-button = Telegram
-server-info-report-button = Report Bugs
+server-info-report-button = 回報錯誤
 server-info-credits-button = Credits

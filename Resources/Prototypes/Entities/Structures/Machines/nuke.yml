@@ -2,7 +2,7 @@
   parent: [BaseStructure, StructureWheeled, BaseC3ContrabandUnredeemable ] # Frontier: BaseMajorContraband<BaseC3ContrabandUnredeemable
   id: NuclearBomb
   name: nuclear fission explosive
-  description: You probably shouldn't stick around to see if this is armed.
+  description: 你最好別留下來確認這是否裝有武器。
   components:
   - type: Transform
     anchored: true
@@ -139,7 +139,7 @@
   id: NuclearBombKeg
   name: nuclear fission explosive
   suffix: keg
-  description: You probably shouldn't stick around to see if this is armed. It has a tap on the side.
+  description: 你最好別留在這裡，等著看這東西是不是上膛的。它側面有個撥桿。
   components:
   - type: Transform
     anchored: false

@@ -1,31 +1,26 @@
-marking-BurqaSolid = Burqa
+marking-BurqaSolid = 布卡
 marking-BurqaSolidThaven = Burqa
 marking-BurqaSolidLizard = Burqa
 marking-BurqaSolidLizard-burqasolidlizard = Burqa
-
-marking-HijabFashionable = Hijab (Fashionable)
+marking-HijabFashionable = 希賈布（時尚款）
 marking-HijabFashionableLizard = Hijab (Fashionable)
 marking-HijabFashionableLizard-hijabchiclizard = Hijab (Fashionable)
 marking-HijabFashionableVox = Hijab (Fashionable)
 marking-HijabFashionableVox-hijabchicvox = Hijab (Fashionable)
-
-marking-HijabSimple = Hijab (Simple)
+marking-HijabSimple = 希賈布（簡約款）
 marking-HijabSimpleLizard = Hijab (Simple)
 marking-HijabSimpleLizard-hijabsimplelizard = Hijab (Simple)
 marking-HijabSimpleVox = Hijab (Simple)
 marking-HijabSimpleVox-hijabsimplevox = Hijab (Simple)
-
-marking-Niqab = Niqab
+marking-Niqab = 尼卡布
 marking-NiqabLizard = Niqab
 marking-NiqabLizard-niqablizard = Niqab
-
-marking-TichelFashionable = Tichel (Fashionable)
+marking-TichelFashionable = Tichel（時尚）
 marking-TichelFashionableLizard = Tichel (Fashionable)
 marking-TichelFashionableLizard-tichelfashionablelizard = Tichel (Fashionable)
 marking-TichelFashionableVox = Tichel (Fashionable)
 marking-TichelFashionableVox-tichelfashionablevox = Tichel (Fashionable)
-
-marking-TichelSimple = Tichel (Simple)
+marking-TichelSimple = 提切爾（簡易版）
 marking-TichelSimpleLizard = Tichel (Simple)
 marking-TichelSimpleLizard-tichelsimplelizard = Tichel (Simple)
 marking-TichelSimpleVox = Tichel (Simple)

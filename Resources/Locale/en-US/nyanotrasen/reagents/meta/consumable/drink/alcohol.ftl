@@ -1,23 +1,16 @@
-reagent-name-soju = soju
-reagent-desc-soju = Alcoholic beverage made by distilling rice that has been polished.
-
-reagent-name-orange-creamcicle = orange creamcicle
-reagent-desc-orange-creamcicle = Orangy, creamy goodness.
-
+reagent-name-soju = 燒酒soju
+reagent-desc-soju = 一種透過蒸餾精米製成的酒精飲料。
+reagent-name-orange-creamcicle = 柳橙冰棒orange creamcicle
+reagent-desc-orange-creamcicle = 帶點橘色的、奶油般的美味。
 reagent-name-silverjack = silverjack
-reagent-desc-silverjack = Reminds you of family.
-
+reagent-desc-silverjack = 讓人想起家人。
 reagent-name-brainbomb = brainbomb
-reagent-desc-brainbomb = Toxic to about anything alive, especially your liver.
-
-reagent-name-clownblood = clown blood
-reagent-desc-clownblood = Security Officers favorite drink after a long day.
-
-reagent-name-circusjuice = circus juice
-reagent-desc-circusjuice = Honkmother would be proud.
-
-reagent-name-sapopicante = sapo picante
-reagent-desc-sapopicante = Tastes nothing like a toad.
-
-reagent-name-graveyard = graveyard
-reagent-desc-graveyard = For those shifts that never seem to end.
+reagent-desc-brainbomb = 對幾乎所有生物都有毒，尤其是對你的肝臟。
+reagent-name-clownblood = 小丑之血clown blood
+reagent-desc-clownblood = 保安人員在漫長工作日結束後最愛的飲品。
+reagent-name-circusjuice = 馬戲團果汁circus juice
+reagent-desc-circusjuice = Honkmother 一定會為此感到驕傲。
+reagent-name-sapopicante = 辣鱈魚sapo picante
+reagent-desc-sapopicante = 味道完全不像蟾蜍。
+reagent-name-graveyard = 墓地graveyard
+reagent-desc-graveyard = 獻給那些似乎永無止境的班次。

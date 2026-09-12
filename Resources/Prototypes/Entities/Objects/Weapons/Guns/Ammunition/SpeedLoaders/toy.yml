@@ -1,6 +1,6 @@
 - type: entity
   id: BaseSpeedLoaderCap
-  name: "cap gun loader"
+  name: "玩具槍裝彈器"
   parent: BaseItem
   abstract: true
   components:

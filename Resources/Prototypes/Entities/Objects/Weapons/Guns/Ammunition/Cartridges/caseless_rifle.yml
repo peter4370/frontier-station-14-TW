@@ -1,6 +1,6 @@
 - type: entity
   id: BaseCartridgeCaselessRifle
-  name: cartridge (.25 rifle)
+  name: 子彈（.25 步槍）
   parent: [ BaseCartridge, BaseC3SyndicateContrabandNoValue ] # Frontier: BaseSecurityContraband<BaseC3SyndicateContraband
   abstract: true
   components:
@@ -24,9 +24,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: CartridgeCaselessRifle
-  name: cartridge (.25 caseless)
+  name: 彈匣（.25 無殼彈）
   parent: BaseCartridgeCaselessRifle
-  description: A small caliber utilizing caseless technology, omitting conventional brass casing in favor of hardened propellant. Standard kinetic ammunition is common and useful in most situations.
+  description: 一種採用無彈殼技術的小口徑彈藥，捨棄傳統黃銅彈殼，改用硬化推進劑。標準動能彈藥在大多數情況下都很常見且實用。
   components:
   - type: CartridgeAmmo
     # proto: BulletCaselessRifle # Frontier
@@ -34,9 +34,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: CartridgeCaselessRiflePractice
-  name: cartridge (.25 caseless practice)
+  name: 子彈（.25 無殼練習彈）
   parent: BaseCartridgeCaselessRifle
-  description: A small caliber utilizing caseless technology, omitting conventional brass casing in favor of hardened propellant. Chalk ammunition is generally non-harmful, used for practice.
+  description: 一種採用無彈殼技術的小口徑彈藥，捨棄傳統的黃銅彈殼，改用硬化推進劑。粉筆彈通常無害，用於練習。
   components:
   - type: CartridgeAmmo
     # proto: BulletCaselessRiflePractice # Frontier

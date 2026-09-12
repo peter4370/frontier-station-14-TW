@@ -3,7 +3,7 @@
   id: ClothingNeckPinBase
   abstract: true
   name: pin
-  description: Be nothing do crime.
+  description: 一事無成，卻去犯罪。
   components:
   - type: Item
     size: Tiny
@@ -15,8 +15,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckLGBTPin
-  name: LGBT pin
-  description: Be gay do crime.
+  name: LGBT 別針
+  description: 當個同性戀，去犯罪吧。
   components:
   - type: Sprite
     state: lgbt
@@ -26,8 +26,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckAllyPin
-  name: straight ally pin
-  description: Be ally do crime.
+  name: 異性戀盟友別針
+  description: 當盟友，犯下罪行。
   components:
   - type: Sprite
     state: ally
@@ -37,8 +37,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckAromanticPin
-  name: aromantic pin
-  description: Be aro do crime.
+  name: 無浪漫傾向的徽章
+  description: 提高犯罪警覺。
   components:
   - type: Sprite
     state: aro
@@ -48,8 +48,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckAroacePin
-  name: aroace pin
-  description: Be aroace do crime.
+  name: aroace 別針
+  description: 保持警惕，防範犯罪。
   components:
   - type: Sprite
     state: aroace
@@ -59,8 +59,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckAsexualPin
-  name: asexual pin
-  description: Be ace do crime.
+  name: 無性愛別針
+  description: 當個犯罪高手。
   components:
   - type: Sprite
     state: asex
@@ -70,8 +70,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckBisexualPin
-  name: bisexual pin
-  description: Be bi do crime.
+  name: 雙性戀別針
+  description: 當個雙性戀，去犯罪吧。
   components:
   - type: Sprite
     state: bi
@@ -81,8 +81,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckGayPin
-  name: gay pin
-  description: Be gay~ do crime.
+  name: 同志別針
+  description: 當個同志～去犯罪吧。
   components:
   - type: Sprite
     state: gay
@@ -92,8 +92,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckIntersexPin
-  name: intersex pin
-  description: Be intersex do crime.
+  name: 雙性人別針
+  description: 身為雙性人，就得犯罪。
   components:
   - type: Sprite
     state: inter
@@ -103,8 +103,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckLesbianPin
-  name: lesbian pin
-  description: Be lesbian do crime.
+  name: 女同志別針
+  description: 當女同志，去犯罪。
   components:
   - type: Sprite
     state: les
@@ -114,7 +114,7 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckNonBinaryPin
-  name: non-binary pin
+  name: 非二元接腳
   description: "01100010 01100101 00100000 01100101 01101110 01100010 01111001 00100000 01100100 01101111 00100000 01100011 01110010 01101001 01101101 01100101"
   components:
   - type: Sprite
@@ -125,8 +125,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckPansexualPin
-  name: pansexual pin
-  description: Be pan do crime.
+  name: 全性戀別針
+  description: 犯下罪行吧。
   components:
   - type: Sprite
     state: pan
@@ -136,8 +136,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckPluralPin
-  name: plural pin
-  description: Be plural do crimes. # Frontier: consistent grammar
+  name: 複數的別針
+  description: 多犯幾樁罪行。 # Frontier: consistent grammar
   components:
   - type: Sprite
     state: plural
@@ -147,8 +147,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckOmnisexualPin
-  name: omnisexual pin
-  description: Be omni do crime.
+  name: 全性戀別針
+  description: 凡事皆可為罪。
   components:
   - type: Sprite
     state: omni
@@ -158,8 +158,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckGenderqueerPin
-  name: genderqueer pin
-  description: Be crime do gender. # Frontier: consistent grammar
+  name: 性別流動別針
+  description: 犯罪即性別。 # Frontier: consistent grammar
   components:
   - type: Sprite
     state: gender
@@ -169,8 +169,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckGenderfluidPin
-  name: genderfluid pin
-  description: Be gender be fluid. # Frontier: consistent grammar
+  name: 性別流動別針
+  description: 性別本應是流動的。 # Frontier: consistent grammar
   components:
   - type: Sprite
     state: fluid
@@ -180,8 +180,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckTransPin
-  name: transgender pin
-  description: Be trans do crime.
+  name: 跨性別徽章
+  description: 身為跨性別者就得犯罪。
   components:
   - type: Sprite
     state: trans
@@ -191,8 +191,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckAutismPin
-  name: neurodivergent pin
-  description: Be neurodivergent, do crime.
+  name: 神經多樣性別針
+  description: 身為神經多樣性者，去犯罪吧。
   components:
   - type: Sprite
     state: autism
@@ -202,8 +202,8 @@
 - type: entity
   parent: ClothingNeckPinBase
   id: ClothingNeckGoldAutismPin
-  name: autism pin
-  description: Be autistic, do crime.
+  name: 自閉症別針
+  description: 患有自閉症，就去犯罪吧。
   components:
   - type: Sprite
     state: goldautism

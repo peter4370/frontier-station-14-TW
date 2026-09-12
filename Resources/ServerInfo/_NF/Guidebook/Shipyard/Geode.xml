@@ -1,34 +1,35 @@
+
 <Document>
-  # GEODE-CLASS TRADE SHUTTLE
+  # GEODE-CLASS 貿易穿梭機
   <Box>
-    <GuideEntityEmbed Entity="WallRock" Caption="CERTIFIABLY"/>
-    <GuideEntityEmbed Entity="BannerGoblin01" Caption="LEGITIMATE"/>
-    <GuideEntityEmbed Entity="WallRock" Caption="UNDERTAKINGS"/>
+    <GuideEntityEmbed Entity="WallRock" Caption="可驗證地"/>
+    <GuideEntityEmbed Entity="BannerGoblin01" Caption="合法的"/>
+    <GuideEntityEmbed Entity="WallRock" Caption="承諾"/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-2
+  [color=#a4885c]建議乘員人數：[/color] 1-2 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 飛船簡介
 
-  "Built into a rock by the finest goblin engineers, this vessel has all the discrete trader needs to conduct business. When you need a place to stash your goods, ask a cousin!"
+  「這艘由最頂尖的哥布林工程師鑿建於岩石之中的飛船，具備獨立貿易商進行商業活動所需的一切設施。」 「當你需要個地方藏東西時，就找表親幫忙吧！」
 
   # Ship Functions
 
   <Box>
     <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Bolt Exterior Airlocks"/>
-    <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Open/Shut Shutters"/>
+    <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="開啟／關閉百葉窗"/>
   </Box>
-  "The bar, bridge and engineering areas feature shutter lockdown buttons, marked with the yellow frame. An extra button, up by the starboard docking port, closes the shutters over the docking port windows."
+  「橫桿、橋樑及工程區域設有快門鎖定按鈕，並以黃色邊框標示。」 「在右舷對接艙口上方，有一個額外的按鈕，用來關閉對接艙口窗戶上的百葉窗。」
 
-  # GETTING THE MOST OUT OF YOUR ROCK
+  # 如何充分發揮您的搖滾樂潛力
   <Box>
     <GuideEntityEmbed Entity="Pickaxe"/>
     <GuideEntityEmbed Entity="WallRock"/>
   </Box>
-  "As the Geode-class shuttle is built into the core of an actual asteroid, users are encouraged to make the most of the available space. Using start of the art Goblinate technology, all exterior rock is supported by a layer of deck-plating, to avoid unfortunate spacing accidents."
+  「由於『Geode』級太空梭是建在實際小行星的核心內，因此鼓勵使用者充分利用現有的空間。」 「採用最先進的『哥布林化』技術，所有外部岩石均由一層甲板鍍層支撐，以避免發生不幸的間距事故。」
 
   # Ship Functions
 

@@ -1,37 +1,33 @@
 # Pirate cat accent
-accent-words-pirate-cat-1 = Yarrgh Meow!
-accent-words-pirate-cat-2 = Yarr Mow.
-accent-words-pirate-cat-3 = Mrrrrrrow!
-accent-words-pirate-cat-4 = Arrgh Hhsss!
-accent-words-pirate-cat-5 = Brrrrrow.
-accent-words-pirate-cat-6 = Yarrgh Meow?
-accent-words-pirate-cat-7 = Garr Miau.
-
+accent-words-pirate-cat-1 = 喵——！
+accent-words-pirate-cat-2 = 喲，莫。
+accent-words-pirate-cat-3 = 喵——！
+accent-words-pirate-cat-4 = 啊——！嘶——！
+accent-words-pirate-cat-5 = 嗡——。
+accent-words-pirate-cat-6 = 哇嘎喵？
+accent-words-pirate-cat-7 = 加爾·米奧。
 # Nfsd cat accent
-accent-words-nfsd-cat-1 = Meowdy!
-accent-words-nfsd-cat-2 = Mowdy.
-accent-words-nfsd-cat-3 = Mrrrowdy.
-accent-words-nfsd-cat-4 = Hhsss!
-accent-words-nfsd-cat-5 = Mrrow.
-accent-words-nfsd-cat-6 = Meowdy?
-accent-words-nfsd-cat-7 = Moauu.
-
+accent-words-nfsd-cat-1 = 喵嗚！
+accent-words-nfsd-cat-2 = 莫迪。
+accent-words-nfsd-cat-3 = 喵喵。
+accent-words-nfsd-cat-4 = 嘶——！
+accent-words-nfsd-cat-5 = 喵——。
+accent-words-nfsd-cat-6 = 喵嗚？
+accent-words-nfsd-cat-7 = 莫阿烏。
 # Mistake cat accent
-accent-words-mistake-cat-1 = Hafh ya.
-accent-words-mistake-cat-2 = Ahh Y' ah like fahf.
+accent-words-mistake-cat-1 = 哈夫哈。
+accent-words-mistake-cat-2 = 啊，你就像法夫一樣。
 accent-words-mistake-cat-3 = ya lw'nafh ph' ah.
-accent-words-mistake-cat-4 = Y' ahor h' mggoka'ai.
-accent-words-mistake-cat-5 = Y' cant ah'ehye bug.
-accent-words-mistake-cat-6 = li h' nilgh'ri ngahnah.
-accent-words-mistake-cat-7 = ymg' mgep l' ah'n'gha ya.
-
+accent-words-mistake-cat-4 = Y' ahor h' mggoka'ai。
+accent-words-mistake-cat-5 = 你不能這樣做啊。
+accent-words-mistake-cat-6 = li h' nilgh'ri ngahnah。
+accent-words-mistake-cat-7 = ymg' mgep l' ah'n'gha ya。
 # Fox
-accent-words-fox-1 = Yip!
-accent-words-fox-2 = Yap!
-accent-words-fox-3 = Ruff!
-accent-words-fox-4 = Wraaah!
-accent-words-fox-5 = Aaaaagh!
-accent-words-fox-6 = Screeee!
-
+accent-words-fox-1 = 耶！
+accent-words-fox-2 = 沒錯！
+accent-words-fox-3 = 汪！
+accent-words-fox-4 = 哇啊啊！
+accent-words-fox-5 = 啊啊啊啊啊！
+accent-words-fox-6 = 嘶——！
 # Accent Toggle
-accent-clothing-component-toggle = Toggle Accent
+accent-clothing-component-toggle = 切換重音標記

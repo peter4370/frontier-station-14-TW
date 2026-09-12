@@ -1,24 +1,25 @@
+
 <Document>
-  # NOOK-LINE PERSONAL SHUTTLE
+  # NOOK-LINE 個人接駁車
   <Box>
-    <GuideEntityEmbed Entity="ComfyChair" Caption="Comfy!"/>
-    <GuideEntityEmbed Entity="ComputerTelevision" Caption="Atmospheric!"/>
-    <GuideEntityEmbed Entity="PottedPlant1" Caption="Healthy!"/>
+    <GuideEntityEmbed Entity="ComfyChair" Caption="好舒服！"/>
+    <GuideEntityEmbed Entity="ComputerTelevision" Caption="充滿氛圍！"/>
+    <GuideEntityEmbed Entity="PottedPlant1" Caption="健康！"/>
   </Box>
   <Box>
     <GuideEntityEmbed Entity="ShuttleMapNook" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻尺寸：[/color] 小型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-2
+  [color=#a4885c]建議船員人數：[/color] 1-2 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "The Nook is a mobile-home shuttle specifically made with user modifications in mind. Some of the more prominent features are the cargobay and frontal airlock for small-scale salvaging operations"
+  「Nook 是一款專為使用者改裝而設計的行動住宅穿梭機。 「其中一些較為突出的特色包括貨艙以及用於小型打撈作業的前置氣閘」
 
-  # Ship Functions
+  # 船艦功能
 
 <Box>
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Power Down Thrusters"/>

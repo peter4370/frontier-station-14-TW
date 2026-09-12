@@ -1,44 +1,30 @@
-reagent-name-pumpkin-spice-latte = spiced pumpkin latte
-reagent-desc-pumpkin-spice-latte = It's autumn somewhere. Smells like cinnamon and cloves.
-
-reagent-name-gin-and-sonic = gin and sonic
-reagent-desc-gin-and-sonic = Why did the hedgehog go to Saturn? To collect its rings!
-
-reagent-name-golden-cat = golden cat
-reagent-desc-golden-cat = Legends speak of a golden cat that sold a burger for a fortune.
-
-reagent-name-pineapple-blast = pineapple blast
-reagent-desc-pineapple-blast = For when the trees start talking.
-
-reagent-name-torpedo-juice = torpedo juice
-reagent-desc-torpedo-juice = The joys of drinking and unrestricted submarine warfare combined!
-
-reagent-name-bees-knees = bee's knees
-reagent-desc-bees-knees = BEEEEEEEEEEEEEEES!!!
-
-reagent-name-cucumber-water = cucumber water
-reagent-desc-cucumber-water = The fanciest of waters.
-
+reagent-name-pumpkin-spice-latte = 香料南瓜拿鐵spiced pumpkin latte
+reagent-desc-pumpkin-spice-latte = 某處已是秋天。空氣中飄散著肉桂和丁香的香氣。It's autumn somewhere. Smells like cinnamon and cloves.
+reagent-name-gin-and-sonic = 金與索尼克gin and sonic
+reagent-desc-gin-and-sonic = 刺蝟為什麼要去土星？為了收集它的光環！Why did the hedgehog go to Saturn? To collect its rings!
+reagent-name-golden-cat = 金貓golden cat
+reagent-desc-golden-cat = 傳說中有一隻金貓，它只賣了一個漢堡，卻賺了一大筆錢。egends speak of a golden cat that sold a burger for a fortune.
+reagent-name-pineapple-blast = 鳳梨爆擊pineapple blast
+reagent-desc-pineapple-blast = 當樹木開始說話時。For when the trees start talking.
+reagent-name-torpedo-juice = 魚雷汁torpedo juice
+reagent-desc-torpedo-juice = 飲酒之樂與無限制潛艇戰的雙重享受！The joys of drinking and unrestricted submarine warfare combined!
+reagent-name-bees-knees = 棒極了bee's knees
+reagent-desc-bees-knees = 蜜——蜂——！！！BEEEEEEEEEEEEEEES!!!
+reagent-name-cucumber-water = 黃瓜水cucumber water
+reagent-desc-cucumber-water = 最精緻的水。The fanciest of waters.
 reagent-name-honey = honey
-reagent-desc-honey = Thick, golden and sticky, the original sweetener.
-
-reagent-name-honey-iced-tea = honey iced tea
-reagent-desc-honey-iced-tea = Tea with a splash of honey.
-
-reagent-name-wassail = wassail
-reagent-desc-wassail = Hot mulled ale.
-
+reagent-desc-honey = 濃稠、金黃且黏稠，這正是最原始的甜味劑。Thick, golden and sticky, the original sweetener.
+reagent-name-honey-iced-tea = 蜂蜜冰茶y iced tea
+reagent-desc-honey-iced-tea = 加了一點蜂蜜的茶。Tea with a splash of honey.
+reagent-name-wassail = 瓦塞爾wassail
+reagent-desc-wassail = 熱紅酒。Hot mulled ale.
 reagent-name-the-madgob = the madgob
-reagent-desc-the-madgob = The Peaq of goblin drink mixing!
-
+reagent-desc-the-madgob = 哥布林調酒的巔峰之作！The Peaq of goblin drink mixing!
 reagent-name-nanocaf = nanocaf
-reagent-desc-nanocaf = If you've never had coffee before this will be the best coffee you've ever had.
-
-reagent-name-nanocoldbrew = coldbrew
-reagent-desc-nanocoldbrew = Perfect for when the day is hot and your standards are low.
-
+reagent-desc-nanocaf = 如果你從未喝過咖啡，這將是你此生喝過最棒的咖啡。If you've never had coffee before this will be the best coffee you've ever had.
+reagent-name-nanocoldbrew = 冷萃咖啡coldbrew
+reagent-desc-nanocoldbrew = 非常適合在炎熱的日子裡，當你的標準較低時享用。Perfect for when the day is hot and your standards are low.
 reagent-name-nanodepresso = depresso
-reagent-desc-nanodepresso = Like an espresso if it just didn't really try and let its opportunities slip it by. A drink for you.
-
+reagent-desc-nanodepresso = 就像一杯義式濃縮咖啡，如果它當初沒有那樣敷衍了事，讓機會從指間溜走的話。這杯是送給你的。Like an espresso if it just didn't really try and let its opportunities slip it by. A drink for you.
 reagent-name-coftea = coftea
-reagent-desc-coftea = Invented by someone who thought the tea button was the coffee button. Or the other way around.
+reagent-desc-coftea = 這是由某人發明的，他誤以為「茶」按鈕是「咖啡」按鈕。或者反過來也是。Invented by someone who thought the tea button was the coffee button. Or the other way around.

@@ -3,7 +3,7 @@
   parent: BaseItem
   id: SheetGlassBase
   name: glass
-  description: A sheet of glass, used often on the station in various applications.
+  description: 一片玻璃，在車站中常被用於各種用途。
   components:
   - type: Sprite
     sprite: Objects/Materials/Sheets/glass.rsi
@@ -113,7 +113,7 @@
   parent: SheetGlassBase
   id: SheetRGlass
   name: reinforced glass
-  description: A reinforced sheet of glass.
+  description: 一片強化玻璃。
   suffix: Full
   components:
   - type: PhysicalComposition
@@ -193,7 +193,7 @@
   parent: SheetGlassBase
   id: SheetPGlass
   name: plasma glass
-  description: A sheet of translucent plasma.
+  description: 一片半透明的等離子體。
   suffix: Full
   components:
   - type: PhysicalComposition
@@ -273,7 +273,7 @@
   parent: SheetPGlass
   id: SheetRPGlass
   name: reinforced plasma glass
-  description: A reinforced sheet of translucent plasma.
+  description: 一片經強化處理的半透明等離子薄片。
   suffix: Full
   components:
   - type: PhysicalComposition
@@ -333,7 +333,7 @@
   parent: SheetGlassBase
   id: SheetUGlass
   name: uranium glass
-  description: A sheet of uranium glass.
+  description: 一片鈾玻璃。
   suffix: Full
   components:
   - type: PhysicalComposition
@@ -413,7 +413,7 @@
   parent: SheetUGlass
   id: SheetRUGlass
   name: reinforced uranium glass
-  description: A reinforced sheet of uranium.
+  description: 一片經過強化處理的鈾板。
   components:
   - type: PhysicalComposition
     materialComposition:
@@ -472,7 +472,7 @@
   parent: SheetGlassBase
   id: SheetClockworkGlass
   name: clockwork glass
-  description: A sheet of brass-hardened glass, primarily used by clockwork enthusiasts and remnants of Ratvarian cults.
+  description: 一片黃銅強化玻璃，主要由鐘錶愛好者及拉特瓦里亞教派的殘餘信徒所使用。
   suffix: Full
   components:
   - type: PhysicalComposition

@@ -1,7 +1,7 @@
 - type: entity
   id: BulletFoam
-  description: I hope you're wearing eye protection.
-  name: foam dart
+  description: 希望你戴上了護目鏡。
+  name: 泡沫飛鏢
   parent: BaseItem
   components:
   - type: Fixtures

@@ -1,9 +1,7 @@
-anomaly-scanner-point-earned = Points earned: [color=gray]{$point}[/color]
-anomaly-scanner-point-earned-unknown = Points earned: [color=red]ERROR[/color]
-anomaly-scanner-anomalite-expected = Expected anomalite: [color=gray]{$count}[/color] crystals
-anomaly-scanner-anomalite-expected-unknown = Expected anomalite: [color=red]ERROR[/color]
-
-anomaly-vessel-component-off-grid = The anomaly must be on the same body as the vessel!
-anomaly-vessel-component-anomaly-cleared = The vessel hisses as its anomaly link is lost.
-
-anomaly-generator-refund-message = Anomaly inhibitors detected. Generate in another area.
+anomaly-scanner-point-earned = 獲得的積分：[color=gray]{ $point }[/color]
+anomaly-scanner-point-earned-unknown = 獲得的分數：[color=red]錯誤[/color]
+anomaly-scanner-anomalite-expected = 預期發現的異常礦物：[color=gray]{ $count }[/color] 晶體
+anomaly-scanner-anomalite-expected-unknown = 預期異常值：[color=red]錯誤[/color]
+anomaly-vessel-component-off-grid = 該異常現象必定與該船隻位於同一天體上！
+anomaly-vessel-component-anomaly-cleared = 當這艘船的異常連結中斷時，船體發出嘶嘶聲。
+anomaly-generator-refund-message = 偵測到異常抑制器。請在其他區域生成。

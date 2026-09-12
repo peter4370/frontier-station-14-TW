@@ -1,23 +1,24 @@
+
 <Document>
-  # VAGABOND-CLASS CARGO SHUTTLE
+  # 流浪者級貨運穿梭機
   <Box>
   <GuideEntityEmbed Entity="MiningDrill"/>
   <GuideEntityEmbed Entity="OreProcessor"/>
   <GuideEntityEmbed Entity="CrateTradeSecureNormal" Caption="trading crate"/>
   <GuideEntityEmbed Entity="CrateTradeSecureHigh" Caption="trading crate"/>
-  </Box>  
+  </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapVagabond" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 2-4
+  [color=#a4885c]建議船員人數：[/color] 2-4 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 飛船簡介
 
-  "An adaptable long-haul industrial freighter that pilots have adapted to many different purposes."
+  「一艘適應性強的長程工業貨運飛船，飛行員們已將其改裝用於多種不同用途。」
 
   # Ship Functions
 

@@ -1,6 +1,6 @@
 # Security
 - type: entity
-  name: security loot spawner
+  name: 安全戰利品生成器
   suffix: Gear, Simple
   id: LootSpawnerSecurityBasic
   parent: MarkerBase
@@ -56,7 +56,7 @@
 # Armory loot spawner
 # Automatics are a complete mess right now, so the AK-MS And WT-550 have been commented out for consistency's sake. I have no idea what role these guns are supposed to fufill.
 - type: entity
-  name: armory loot spawner
+  name: 軍械庫戰利品生成器
   suffix: Guns, Armor
   id: LootSpawnerArmory
   parent: MarkerBase

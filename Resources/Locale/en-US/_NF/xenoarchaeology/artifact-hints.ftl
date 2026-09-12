@@ -1,3 +1,3 @@
-artifact-effect-hint-reclaimer = Matter repurposing
-artifact-effect-hint-petting = Reciprocal affection
-artifact-effect-hint-mop = Fluid absorbancy
+artifact-effect-hint-reclaimer = 物質再利用
+artifact-effect-hint-petting = 相互的愛意
+artifact-effect-hint-mop = 液體吸收能力

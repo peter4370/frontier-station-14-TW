@@ -1,8 +1,8 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier: Use NF variant
   id: OreBox
-  name: ore box
-  description: A large storage container for holding unprocessed ores.
+  name: 礦石箱
+  description: 用於存放未經加工礦石的大型儲存容器。
   parent: BaseStructureDynamic
   components:
   - type: StaticPrice

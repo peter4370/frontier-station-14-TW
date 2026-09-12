@@ -5,7 +5,7 @@
   name: Ian
   parent: MobCorgi
   id: MobCorgiIan
-  description: Favorite pet corgi.
+  description: 最喜歡的寵物柯基犬。
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -52,10 +52,10 @@
     stealGroup: AnimalIan
 
 - type: entity
-  name: Old Ian
+  name: 老伊恩
   parent: MobCorgiIan
   id: MobCorgiIanOld
-  description: Still the favorite pet corgi. Love his wheels.
+  description: 柯基犬依然是最受歡迎的寵物。超愛牠的輪子。
   components:
   - type: Sprite
     layers:
@@ -77,10 +77,10 @@
     - id: MaterialHideCorgi
 
 - type: entity
-  name: Lisa
+  name: 莉莎
   parent: MobCorgiIan
   id: MobCorgiLisa
-  description: Ian's favorite corgi.
+  description: 伊恩最喜歡的柯基犬。
   components:
   - type: Sprite
     layers:
@@ -114,10 +114,10 @@
             state: corgi_eyes_displacement
 
 - type: entity
-  name: real mouse
+  name: 真正的滑鼠
   parent: MobCorgiIan
   id: MobCorgiMouse
-  description: It's 100% a real hungry mouse.
+  description: 這百分之百是一隻真正飢餓的老鼠。
   components:
   - type: Sprite
     layers:
@@ -137,10 +137,10 @@
       gender: female
 
 - type: entity
-  name: Puppy Ian
+  name: 小狗伊恩
   parent: MobCorgiPuppy
   id: MobCorgiIanPup
-  description: Favourite puppy corgi. Awww.
+  description: 最喜歡的小柯基。哇～
   components:
   - type: Grammar
     attributes:
@@ -155,10 +155,10 @@
     stealGroup: AnimalIan
 
 - type: entity
-  name: Runtime
+  name: 執行時間
   parent: MobCat
   id: MobCatRuntime
-  description: Professional mouse hunter. Escape artist.
+  description: 專業捕鼠人。逃脫高手。
   components:
   - type: NpcFactionMember
     factions:
@@ -179,10 +179,10 @@
     stealGroup: AnimalNamedCat
 
 - type: entity
-  name: Exception
+  name: 例外情況
   id: MobCatException
   parent: MobCatCalico
-  description: Ask nicely, and maybe they'll give you one of their spare lives.
+  description: 禮貌地開口請求，說不定他們會把其中一條多餘的生命讓給你。
   components:
   - type: NpcFactionMember
     factions:
@@ -203,7 +203,7 @@
   name: Floppa
   id: MobCatFloppa
   parent: MobCatCaracal
-  description: He out here.
+  description: 他在這兒。
   components:
   - type: NpcFactionMember
     factions:
@@ -245,10 +245,10 @@
     - VimPilot
 
 - type: entity
-  name: Bingus
+  name: 賓古斯
   parent: [SimpleMobBase, StripableInventoryBase]
   id: MobBingus
-  description: Bingus my beloved...
+  description: 我摯愛的賓古斯……
   components:
   - type: NpcFactionMember
     factions:
@@ -308,7 +308,7 @@
   name: McGriff
   parent: [SimpleMobBase, StripableInventoryBase]
   id: MobMcGriff
-  description: This dog can tell something smells around here, and that something is CRIME!
+  description: 這隻狗能嗅出這附近有異味，而那異味正是「犯罪」！
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -381,10 +381,10 @@
   - type: MessyDrinker
 
 - type: entity
-  name: Paperwork
+  name: 文書工作
   parent: MobSloth
   id: MobPaperwork
-  description: Took up a new job sorting books in the library after he got transferred from Space Station 13. He seems to be just as slow at this.
+  description: 從第13號太空站調職後，他開始在圖書館從事整理書籍的新工作。看來他做這份工作時，速度依然很慢。
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -418,7 +418,7 @@
   name: Walter
   parent: [SimpleMobBase, StripableInventoryBase]
   id: MobWalter
-  description: He likes chems and treats. Walter.
+  description: 他喜歡化學品和零食。華特。
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -481,7 +481,7 @@
   name: Morty
   parent: MobPossum
   id: MobPossumMorty
-  description: The station's resident Didelphis virginiana. A sensitive but resilient kind of guy.
+  description: 該站常駐的美國袋鼯。牠是個敏感但韌性十足的小傢伙。
   components:
   - type: InteractionPopup
     successChance: 1.0 # Hey, c'mon, this is Morty we're talking about here.
@@ -524,7 +524,7 @@
   name: Poppy # the Safety Possum
   parent: MobPossumMorty
   id: MobPossumPoppy
-  description: It's an opossum, a small scavenging marsupial. It's wearing appropriate personal protective equipment.
+  description: 這是一隻負鼠，是一種小型以腐肉為食的有袋類動物。牠穿戴了適當的個人防護裝備。
   components:
   - type: Grammar
     attributes:
@@ -547,7 +547,7 @@
   name: Morticia
   parent: MobRaccoon
   id: MobRaccoonMorticia
-  description: A powerful creature of the night. Her eyeshadow is always on point.
+  description: 一位強大的夜之生物。她的眼影總是畫得恰到好處。
   components:
   - type: InteractionPopup
     successChance: 0.7
@@ -569,7 +569,7 @@
   name: Alexander
   parent: MobPig
   id: MobAlexander
-  description: Chef's finest colleague.
+  description: 主廚最得力的搭檔。
   components:
   - type: InteractionPopup
     successChance: 1
@@ -591,7 +591,7 @@
   name: Renault
   parent: MobFox
   id: MobFoxRenault
-  description: The captain's trustworthy fox.
+  description: 船長那隻值得信賴的狐狸。
   components:
   - type: InteractionPopup
     successChance: 1
@@ -618,10 +618,10 @@
     stealGroup: AnimalRenault
 
 - type: entity
-  name: Hamlet
+  name: 哈姆雷特
   parent: MobHamster
   id: MobHamsterHamlet
-  description: A grumpy, cute and fluffy hamster.
+  description: 一隻愛發牢騷、可愛又毛茸茸的倉鼠。
   components:
   - type: Sprite
     drawdepth: SmallMobs
@@ -690,7 +690,7 @@
   name: Shiva
   parent: MobGiantSpider
   id: MobSpiderShiva
-  description: The first defender of the station.
+  description: 該站的首位守衛。
   components:
   - type: InteractionPopup
     successChance: 0.5 # spider is mean
@@ -757,7 +757,7 @@
   name: Willow
   parent: MobKangaroo
   id: MobKangarooWillow
-  description: Willow the boxing kangaroo.
+  description: 拳擊袋鼠威洛。
   components:
   - type: InteractionPopup
     successChance: 0.8
@@ -777,18 +777,18 @@
     - FootstepSound
   - type: GhostRole
     prob: 0.25
-    name: ghost-role-information-willow-name
-    description: ghost-role-information-willow-description
+    name: 幽靈角色資訊－柳樹之名
+    description: 幽靈角色資訊－柳樹－描述
     rules: ghost-role-information-nonantagonist-rules
   - type: GhostTakeoverAvailable
   - type: Loadout
     prototypes: [ BoxingKangarooGear ]
 
 - type: entity
-  name: Smile
+  name: 微笑
   id: MobSlimesPet
   parent: [MobAdultSlimes, StripableInventoryBase]
-  description: This masterpiece has gone through thousands of experiments. But it is the sweetest creature in the world. Smile Slime!
+  description: 這件傑作歷經了數千次實驗。但它卻是世界上最可愛的小生物。微笑史萊姆！
   components:
   - type: Sprite
     layers:
@@ -870,7 +870,7 @@
   name: Pun Pun
   parent: MobMonkey
   id: MobMonkeyPunpun
-  description: A prominent representative of monkeys with unlimited access to alcohol.
+  description: 一種能隨心所欲飲酒的猴子中的傑出代表。
   components:
   - type: GhostRole
     prob: 1
@@ -878,7 +878,7 @@
     allowSpeech: true
     allowMovement: true
     prototype: MonkeyPunpun # Frontier
-    name: ghost-role-information-punpun-name
+    name: 幽靈角色資訊-潘潘-名字
     description: ghost-role-information-punpun-description
     rules: ghost-role-information-nonantagonist-rules
   - type: GhostTakeoverAvailable
@@ -910,7 +910,7 @@
   name: Tropico
   parent: MobCrab
   id: MobCrabAtmos
-  description: The noble and stalwart defender of Atmosia. Viva!
+  description: 阿托西亞高貴而堅毅的捍衛者。萬歲！
   components:
 #  - type: GhostRole
 #    prob: 1
@@ -934,10 +934,10 @@
     stealGroup: AnimalTropico
 
 - type: entity
-  name: Polly the parrot
+  name: 鸚鵡波莉
   parent: MobParrotBase
   id: MobPollyParrot
-  description: An expert in quantum cracker theory
+  description: 量子破解理論專家
   components:
   - type: Vocalizer
     maxVocalizeInterval: 240 # polly is chattier

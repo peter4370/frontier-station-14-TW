@@ -198,7 +198,7 @@
 - type: entity
   id: AirlockGlass
   parent: Airlock
-  name: glass airlock
+  name: 玻璃氣閘
   components:
   - type: MeleeSound
     soundGroups:

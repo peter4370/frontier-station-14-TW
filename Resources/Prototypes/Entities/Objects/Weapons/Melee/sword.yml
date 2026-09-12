@@ -24,10 +24,10 @@
 
 #Shortswords
 - type: entity
-  name: cutlass
+  name: 短劍
   parent: [ BaseSword, BaseC1Contraband ] # Frontier: BaseMajorContraband<BaseC1Contraband
   id: Cutlass
-  description: A wickedly curved blade, often seen in the hands of space pirates.
+  description: 一把彎曲得極其詭異的刀刃，常見於太空海盜手中。
   components:
   - type: Tag
     tags:
@@ -49,10 +49,10 @@
   - type: DisarmMalus
 
 - type: entity
-  name: machete
+  name: 開山刀
   parent: [ BaseSword, BaseC1Contraband ] # Frontier: BaseMajorContraband<BaseC1Contraband
   id: Machete
-  description: A large, vicious looking blade.
+  description: 一把龐大且看起來極其凶惡的刀。
   components:
   - type: Tag
     tags:
@@ -78,7 +78,7 @@
   name: captain's sabre
   parent: [ BaseSword, BaseC1Contraband ] # Frontier: BaseCommandContraband<BaseC1Contraband
   id: CaptainSabre
-  description: A ceremonial weapon belonging to the captain of the station.
+  description: 這是該站站長的一件禮儀武器。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/captain_sabre.rsi
@@ -117,7 +117,7 @@
   name: katana
   parent: [ BaseSword, BaseC1Contraband ] # Frontier: BaseMajorContraband<BaseC1Contraband
   id: Katana
-  description: Ancient craftwork made with not so ancient plasteel.
+  description: 以並非十分古老的塑鋼製成的古法工藝品。
   components:
   - type: Tag
     tags:
@@ -145,10 +145,10 @@
   - type: DisarmMalus
 
 - type: entity
-  name: energy katana
+  name: 能量刀
   parent: Katana
   id: EnergyKatana
-  description: A katana infused with strong energy.
+  description: 一把蘊含強大能量的日本刀。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/energykatana.rsi
@@ -180,10 +180,10 @@
 
 #Greatswords
 - type: entity
-  name: claymore
+  name: 克萊莫
   parent: [ BaseSword, BaseC1Contraband ] # Frontier: BaseMajorContraband<BaseC1Contraband
   id: Claymore
-  description: An ancient war blade.
+  description: 一把古戰刀。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/claymore.rsi
@@ -212,7 +212,7 @@
   name: throngler
   parent: [ BaseSword, BaseC3Contraband ] # Frontier: BaseMajorContraband<BaseC3Contraband
   id: Throngler
-  description: If Security dares take it from you, just remind them that they are indeed mortal.
+  description: 如果保安膽敢從你那裡拿走它，就提醒他們，他們終究也是凡人。
   components:
     - type: Sprite
       sprite: Objects/Weapons/Melee/Throngler2.rsi

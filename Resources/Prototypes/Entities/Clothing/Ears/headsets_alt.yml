@@ -13,7 +13,7 @@
 - type: entity
   parent: ClothingHeadsetAlt
   id: ClothingHeadsetAltCargo
-  name: quartermaster's over-ear headset
+  name: 軍需官專用包耳式耳機
   components:
   - type: ContainerFill
     containers:
@@ -29,7 +29,7 @@
 - type: entity
   parent: [ClothingHeadsetAlt, BaseCentcommCommandContraband] # Frontier: Added BaseCentcommCommandContraband, removed BaseCommandContraband.
   id: ClothingHeadsetAltCentCom
-  name: CentComm over-ear headset
+  name: CentComm 包耳式耳機
   components:
   - type: ContainerFill
     containers:
@@ -44,7 +44,7 @@
 - type: entity
   parent: [ClothingHeadsetAlt, BaseCommandContraband]
   id: ClothingHeadsetAltCommand
-  name: command over-ear headset
+  name: Command 包耳式耳機
   components:
   - type: ContainerFill
     containers:
@@ -58,7 +58,7 @@
 - type: entity
   parent: ClothingHeadsetAlt # Frontier: remove BaseCommandContraband
   id: ClothingHeadsetAltEngineering
-  name: chief engineer's over-ear headset
+  name: 總工程師的包耳式耳機
   components:
   - type: ContainerFill
     containers:
@@ -92,7 +92,7 @@
 - type: entity
   parent: [ClothingHeadsetAlt, BaseC2ContrabandUnredeemable] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: ClothingHeadsetAltSecurity
-  name: head of security's over-ear headset
+  name: 安全主管的包耳式耳機
   components:
   - type: ContainerFill
     containers:
@@ -108,7 +108,7 @@
 - type: entity
   parent: ClothingHeadsetAlt # Frontier: remove BaseCommandContraband
   id: ClothingHeadsetAltScience
-  name: research director's over-ear headset
+  name: 研究總監的包耳式耳機
   components:
   - type: ContainerFill
     containers:
@@ -124,8 +124,8 @@
 - type: entity
   parent: [ClothingHeadsetAlt, BaseC3SyndicateContraband, ContrabandClothing] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband, added ContrabandClothing as parent
   id: ClothingHeadsetAltSyndicate
-  name: blood-red over-ear headset
-  description: An updated, modular syndicate intercom that fits over the head and takes encryption keys (there are 5 key slots.).
+  name: 血紅色的包耳式耳機
+  description: 一款經過升級的模組化幫派對講機，可戴在頭上，並配備加密金鑰插槽（共 5 個插槽）。
   components:
 #  - type: Headset # Frontier: Use 10 from base
 #  - type: EncryptionKeyHolder # Frontier: Use 10 from base
@@ -142,7 +142,7 @@
 - type: entity
   parent: [ClothingHeadsetAlt, BaseC3PirateContraband, ContrabandClothing] # Frontier: add BaseC3PirateContraband, added ContrabandClothing as parent
   id: ClothingHeadsetAltFreelancer
-  name: freelancer's over-ear headset
+  name: 自由工作者專用的包耳式耳機
   components:
     - type: Headset
     - type: EncryptionKeyHolder
@@ -159,7 +159,7 @@
 - type: entity
   parent: [ClothingHeadsetAlt, BaseC3WizardContraband, ContrabandClothing] # Frontier: BaseMagicalContraband<BaseC3WizardContraband, add ContrabandClothing
   id: ClothingHeadsetAltWizard
-  name: wizard's over-ear headset
+  name: 巫師的包耳式耳機
   components:
     - type: Headset
     - type: EncryptionKeyHolder

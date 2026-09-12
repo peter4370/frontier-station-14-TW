@@ -1,27 +1,25 @@
-cassette-repair-start = You start winding the tape back into {THE($item)}.
-cassette-repair-finish = You manage to wind the tape back into {THE($item)}.
-tape-cassette-position = The cassette is about [color=green]{$position}%[/color] the way through.
-tape-cassette-damaged = The cassette is unspooled, use a pen or screwdriver to repair it.
-tape-recorder-playing = The tape recorder is in [color=green]playback[/color] mode.
-tape-recorder-stopped = The tape recorder is stopped.
-tape-recorder-empty = The tape recorder is empty.
-tape-recorder-recording = The tape recorder is in [color=red]recording[/color] mode.
-tape-recorder-rewinding = The tape recorder is in [color=yellow]rewinding[/color] mode.
-tape-recorder-locked = Cant eject while the tape recorder is running.
-tape-recorder-voice-unknown = Unknown
-tape-recorder-voice-unintelligible = Unintelligible
+cassette-repair-start = 你開始將磁帶倒帶回 { THE($item) }。
+cassette-repair-finish = 你總算把磁帶倒回 { THE($item) } 裡。
+tape-cassette-position = 這捲卡帶已經播放了約 [color=green]{ $position }%[/color]。
+tape-cassette-damaged = 磁帶已鬆脫，請使用筆或螺絲起子進行修復。
+tape-recorder-playing = 錄音機目前處於 [color=green]播放[/color] 模式。
+tape-recorder-stopped = 錄音機已停止錄音。
+tape-recorder-empty = 錄音帶是空的。
+tape-recorder-recording = 錄音機目前處於 [color=red]錄音[/color] 模式。
+tape-recorder-rewinding = 錄音機目前處於 [color=yellow]倒帶[/color] 模式。
+tape-recorder-locked = 錄音機運作時無法彈出磁帶。
+tape-recorder-voice-unknown = 未知
+tape-recorder-voice-unintelligible = 聽不清楚
 tape-recorder-message-corruption = #
-
-tape-recorder-menu-title = Tape Recorder
-tape-recorder-menu-controls-label = Controls:
+tape-recorder-menu-title = 錄音機
+tape-recorder-menu-controls-label = 操作說明：
 tape-recorder-menu-stopped-button = Pause
-tape-recorder-menu-recording-button = Record
-tape-recorder-menu-playing-button = Playback
-tape-recorder-menu-rewinding-button = Rewind
-tape-recorder-menu-print-button = Print record transcript
-tape-recorder-menu-cassette-label = Cassette tape: {$cassetteName}
-tape-recorder-menu-no-cassette-label = Cassette tape is not inserted
-
-tape-recorder-print-start-text = [bold]Start of recorded transcript[/bold]
-tape-recorder-print-message-text = [bold][{$time}] {$source}: [/bold] {$message}
-tape-recorder-print-end-text = [bold]End of recorded transcript[/bold]
+tape-recorder-menu-recording-button = 紀錄
+tape-recorder-menu-playing-button = 播放
+tape-recorder-menu-rewinding-button = 倒帶
+tape-recorder-menu-print-button = 列印紀錄副本
+tape-recorder-menu-cassette-label = 卡式磁帶：{ $cassetteName }
+tape-recorder-menu-no-cassette-label = 未插入卡式磁帶
+tape-recorder-print-start-text = [粗體]錄音文字紀錄起始[/粗體]
+tape-recorder-print-message-text = [粗體][{ $time }] { $source }: [/粗體] { $message }
+tape-recorder-print-end-text = [粗體]錄音文字紀錄結束[/粗體]

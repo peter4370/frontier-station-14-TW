@@ -1,6 +1,6 @@
 - type: entity
   id: RoofMarker
-  name: Roof
+  name: 屋頂
   suffix: Enabled
   parent: MarkerBase
   components:

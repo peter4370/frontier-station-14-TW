@@ -1,200 +1,201 @@
-<Document>
-  # Blood Cult
-  
-  There are some things that we may never fully understand. There are entities in the depths of space, ancient and powerful, desiring to bring destruction to the universe and mold it in their own image. They extend their influence from the void, manipulating the minds of humans in the hope of returning to this plane of existence.
 
-  Despite efforts to eliminate such practices, a cult has arisen, centered around blood rituals and the worship of a being named "Nar'Sie". United in their purpose to bring Nar'Sie into this realm, the Blood Cultists gather the blood necessary for their twisted rites with zealous fervor.
-  
+<Document>
+  # 《血之邪教》
+
+  有些事情，我們或許永遠無法完全理解。 在宇宙的深處，存在著一些古老而強大的實體，它們企圖摧毀宇宙，並將其塑造成符合自身意願的模樣。 牠們從虛空之中擴展影響力，操縱人類的思維，期盼能重返這個存在層面。
+
+  儘管已努力根除此類行為，仍出現了一個以血祭儀式及崇拜名為「納爾·西」（Nar'Sie）的實體為核心的邪教。 血祭教徒們懷著將納爾·西（Nar'Sie）帶入此界的共同目標，以狂熱的熱情蒐集進行其扭曲儀式所需的血液。
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Known Variants
-  # "Blood Cult Priest"
-  
-  Enlightened by the whispers of The Void That Is, these individuals are initiated into secret rituals. They lead the blood harvest and perform rites, bringing the day when Nar'Sie rises ever closer.
-  
+
+  # 已知變體
+  # 「血祭教祭司」
+
+  這些人受到「本然虛空」的低語啟迪，被引領進入秘密儀式之中。 他們主導「血之收割」並舉行儀式，讓納爾·西（Nar'Sie）崛起的日子日益臨近。
+
   <Box>
   <GuideEntityEmbed Entity="MobBloodCultistPriest"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10 [color=red]Slash[/color] (blood lightning)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=orange]Heat[/color] 50%; [color=yellow]Piercing[/color] 40% (acolyte armor)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Caster (blood lightning)
-  
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Blood Cult Janitor"
-  
-  The fate of blood cults on space stations hinges on the actions of a single individual - the station janitor. This humble worker serves as the primary line of defense against the presence of blood cults, but even the most resolute individuals can be swayed by corruption.
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（致命），140（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 10 [color=red]劈砍[/color]（血雷）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 及 [color=orange]熱能[/color] 50%； [color=yellow]穿刺[/color] 40%（侍從盔甲）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 施法者（血之閃電）
+
+  [bold][color=#a4885c]*[/color][/bold] - [italic]一般人類的奔跑速度為 4.5 公尺/秒，步行速度為 2.5 公尺/秒。[/斜體]
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 「血祭教派清潔工」
+
+  太空站上血祭教派的命運，取決於一個人的行動——那就是太空站的清潔工。 這位卑微的勞動者是抵禦血祭教派的首要防線，但即便是最堅定不移的人，也可能被腐化所動搖。
+
   <Box>
   <GuideEntityEmbed Entity="MobBloodCultistJanitor"/>
   <GuideEntityEmbed Entity="ClothingBeltCultForceField"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 0-35 [color=red]Slash[/color] (1 [color=red]Slash[/color] per soaplet)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=orange]Heat[/color] 10%; [color=yellow]Piercing[/color] 60%; [color=yellow]Explosion[/color] 20% (cult janitor robes)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Caster (cluster razor soap), Reflection (10%, all projectiles)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），140（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 0-35 [color=red]斬擊[/color]（每塊肥皂造成 1 次 [color=red]斬擊[/color]）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 及 [color=orange]灼熱[/color] 10%； [color=yellow]穿刺[/color] 60%； [color=yellow]爆炸[/color] 20%（邪教清潔工長袍）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 施法者（剃刀皂簇），反射（10%，所有投射物）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Blood Cult Acolyte"
-  
-  The acolyte - The most trusted cult follower and bodyguard of a priest, clad in the finest armor the cult has to offer and armed with the most vile weapons: eldrich blades and unholy halberds.
-  
+
+  # 「血祭教派侍從」
+
+  侍從——教士最值得信賴的信徒與貼身護衛，身著教派能提供的最精良盔甲，並配備最邪惡的武器：詭異之刃與不潔戟。
+
   <Box>
   <GuideEntityEmbed Entity="MobBloodCultistAcolyte"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=red]Slash[/color] (eldrich sword)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=orange]Heat[/color] 50%; [color=yellow]Piercing[/color] 40% (acolyte armor)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（致命），140（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 16 [color=red]切割[/color]（奧秘之劍）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 及 [color=orange]熱能[/color] 50%； [color=yellow]穿刺[/color] 40%（侍從盔甲）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Blood Cult Zealots"
-  
-  Adorned in matching red robes symbolizing devotion to their dark deity, each member is eager to prove their loyalty in the most gruesome ways.
-  
+
+  # 「血祭教狂熱信徒」
+
+  他們身著象徵對黑暗神祇虔誠的統一紅色長袍，每位成員都渴望以最駭人的方式證明自己的忠誠。
+
   <Box>
   <GuideEntityEmbed Entity="MobBloodCultistZealotMelee"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 12 [color=red]Slash[/color] (ritual dagger)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 30%; [color=orange]Heat[/color] 20%; [color=orange]Heat[/color] and [color=yellow]Explosion[/color] 10% (Cult robes)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），140（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 12 [color=red]切割[/color]（儀式匕首）
+  - [bold][color=#a4885c]傷害抗性：[/color][/粗體] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 及 [color=yellow]穿刺[/color] 30%； [color=orange]熱能[/color] 20%； [color=orange]熱能[/color] 及 [color=yellow]爆炸[/color] 10%（邪教長袍）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobBloodCultistZealotRanged"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 20 [color=red]Slash[/color], 5 [color=#9A54BF]Bloodloss[/color] (blooddrinker crossbow bolt)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 30%; [color=orange]Heat[/color] 20%; [color=orange]Heat[/color] and [color=yellow]Explosion[/color] 10% (Cult robes)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (blooddrinker crossbow bolt)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），140（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 20 [color=red]斬擊[/color]、5 [color=#9A54BF]失血[/color]（嗜血者弩箭）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 及 [color=yellow]穿刺[/color] 30%； [color=orange]灼熱[/color] 20%； [color=orange]灼熱[/color] 及 [color=yellow]爆炸[/color] 10%（邪教長袍）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（嗜血者弩箭）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobBloodCultistCaster"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 5 [color=red]Slash[/color], 2 [color=#9A54BF]Bloodloss[/color] (Blood Bolt Spell)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 30%; [color=orange]Heat[/color] 20%; [color=orange]Heat[/color] and [color=yellow]Explosion[/color] 10% (Cult robes)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Caster (Blood Bolt Spell)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），140（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 5 [color=red]切割[/color]、2 [color=#9A54BF]失血[/color]（「血箭」法術）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]切割[/color] 及 [color=yellow]穿刺[/color] 30%； [color=orange]熱能[/color] 20%； [color=orange]熱能[/color] 及 [color=yellow]爆炸[/color] 10%（邪教長袍）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 施法者（血箭術）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Blood Leech"
-  
-  This cultist, once human, is now a twisted and corrupted abomination, its body warped and distorted by the dark energies of Nar'Sie's influence.
-  
-  [color=#a4885c]Regeneration (weak)[/color]: can slowly regenerate lost health while alive or in critical condition, but cannot regenerate upon death.
-  
+
+  # 「血蛭」
+
+  這位邪教徒原本是人類，如今卻已淪為扭曲腐化、令人作嘔的異形，其軀體因納爾·西（Nar'Sie）黑暗能量的影響而扭曲變形。
+
+  [color=#a4885c]再生（弱）[/color]：在存活或處於危急狀態時，可緩慢恢復已損失的生命值，但死亡後無法再生。
+
   <Box>
   <GuideEntityEmbed Entity="MobBloodCultLeech"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 80 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 6 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Regeneration (weak)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 80（致命），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 6 米/秒（4 米/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/粗體] 10 [color=red]劈砍[/color]
+  - [粗體][color=#a4885c]傷害抗性：[/color][/粗體] 無
+  - [粗體][color=#a4885c]特殊能力：[/color][/bold] 再生（微弱）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Blood Pylon"
-  
-  Through blood rites, the entrapped souls of sacrificed cultists have been gathered in this pylon to defend their living members. Behaves like a sentry turret.
-  
+
+  # 「血之神柱」
+
+  透過血祭儀式，被獻祭的邪教徒之靈魂被囚禁於此神柱之中，用以守護其生者同儕。 運作方式類似哨兵砲塔。
+
   <Box>
   <GuideEntityEmbed Entity="BloodCultTurret"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 300
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 0 m/s (0 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 5 [color=red]Slash[/color], 2 [color=#9A54BF]Bloodloss[/color] (Blood Bolt Spell)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Turret, Caster (Blood Bolt Spell)
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 300
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/粗體] 0 公尺/秒 (0 公尺/秒)
+  - [粗體][color=#a4885c]傷害（類型）：[/color][/粗體] 5 [color=red]斬擊[/color]，2 [color=#9A54BF]失血[/color]（血箭法術）
+  - [粗體][color=#a4885c]傷害抗性：[/color][/粗體] 無
+  - [粗體][color=#a4885c]特殊能力：[/color][/bold] 砲塔、施法者（血箭法術）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Ascended Cultist"
-  
-  Elevated above their mortal forms by Nar'Sie herself as a reward for their devotion.
-  
+
+  # 「昇華教徒」
+
+  因對納爾·西（Nar'Sie）的虔誠奉獻，而由納爾·西親手將其從凡軀中提升至更高境界。
+
   [color=#a4885c]Flier[/color]: creature levitates above the ground and can bypass low obstacles such as tables, machine frames, or railings without being blocked or slowed down.
-  
-  [color=#a4885c]Summoner[/color]: every 55 seconds summons two [color=#a4885c]drained ones[/color] that will exist for 110 seconds.
-  
-  [color=#a4885c]Reflection (30%, energy)[/color]: has a 30% chance to reflect energy based attacks aimed against the creature.
-  
+
+  [color=#a4885c]召喚師[/color]：每 55 秒召喚兩隻 [color=#a4885c]被吸乾者[/color]，持續 110 秒。
+
+  [color=#a4885c]反射（30%，能量）[/color]：有 30% 的機率將針對該生物發動的能量型攻擊反射回去。
+
   <Box>
   <GuideEntityEmbed Entity="MobBloodCultistAscended"/>
   <GuideEntityEmbed Entity="ClothingNeckAmuletBloodCult"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 300 (crit), 400 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 20 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Flier, Summoner (Drained One), Reflection (30%, energy)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 300（致命），400（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 20 [color=red]劈砍[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 飛行者、召喚師（被吸乾者）、反射（30%，能量）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Drained One"
-  
-  A tortured soul, stripped of free will and left as a mere shadow of a human, enslaved and bound to obey its captors.
-  
+
+  # 「被吸乾者」
+
+  一顆受盡折磨的靈魂，被剝奪了自由意志，淪為人類的虛影，淪為奴隸並被迫服從其俘虜者。
+
   [color=#a4885c]Regeneration (weak)[/color]: can slowly regenerate lost health while alive or in critical condition, but cannot regenerate upon death.
-  
-  [color=#a4885c]Incorporeal[/color]: can only be damaged by melee attacks or energy weapons. 
-  
+
+  [color=#a4885c]無實體[/color]：僅能受到近戰攻擊或能量武器的傷害。
+
   <Box>
   <GuideEntityEmbed Entity="MobBloodCultDrainedOneGuidebook"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 4 [color=#9A54BF]Asphyxiation[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Regeneration (weak), Incorporeal
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 4 [color=#9A54BF]窒息[/color]
+  - [粗體][color=#a4885c]傷害抗性：[/color][/粗體] 無
+  - [粗體][color=#a4885c]特殊能力：[/color][/bold] 再生（微弱）、無形體
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Shade"
-  
-  A cultist's shade, brought back to reality through foul means to gather more blood.
-  
+
+  # 「陰影」
+
+  一名邪教徒的陰影，透過邪惡手段被喚回現實世界，以收集更多鮮血。
+
   [color=#a4885c]Regeneration (weak)[/color]: can slowly regenerate lost health while alive or in critical condition, but cannot regenerate upon death.
-  
-  [color=#a4885c]Incorporeal[/color]: can only be damaged by melee attacks or energy weapons. 
-  
+
+  [color=#a4885c]Incorporeal[/color]: can only be damaged by melee attacks or energy weapons.
+
   <Box>
   <GuideEntityEmbed Entity="MobBloodCultShadeGuidebook"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 2 [color=red]Slash[/color], 2 [color=#9A54BF]Bloodloss[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Regeneration (weak), Incorporeal
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 100（危急），130（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 2 [color=red]切割[/color]，2 [color=#9A54BF]失血[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 再生（微弱）、無形
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Mission Objectives
-  ## Elimination
+
+  # 任務目標
+  ## 消滅
   <Box>
   <GuideEntityEmbed Entity="MobBloodCultistAscended"/>
   </Box>
-  Eliminate a large and dangerous creature - an [color=#a4885c]ascended cultist[/color] within given time constraints.
-  
+  在指定的時間限制內，消滅一隻龐大且危險的生物——一名 [color=#a4885c]昇華教徒[/color]。
+
   ## Destruction
   <Box>
   <GuideEntityEmbed Entity="BloodCollector"/>
   </Box>
-  Destroy a certain number of [color=#a4885c]blood collectors[/color] within given time constraints.
+  在指定的時間限制內，摧毀一定數量的 [color=#a4885c]吸血者[/color]。
 </Document>

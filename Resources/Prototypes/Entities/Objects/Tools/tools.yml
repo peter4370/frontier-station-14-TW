@@ -1,8 +1,8 @@
 - type: entity
-  name: wirecutter
+  name: Wirecutter
   parent: BaseItem
   id: Wirecutter
-  description: This kills the wire.
+  description: 這會使電線失效。
   components:
   - type: EmitSoundOnLand
     sound:
@@ -48,7 +48,7 @@
   name: screwdriver
   parent: BaseItem
   id: Screwdriver
-  description: Industrial grade torque in a small screwdriving package.
+  description: 小巧的螺絲起子機身，卻具備工業級扭力。
   components:
   - type: EmitSoundOnLand
     sound:
@@ -89,10 +89,10 @@
     price: 15 # Frontier 30<15
 
 - type: entity
-  name: wrench
+  name: 扳手
   parent: BaseItem
   id: Wrench
-  description: 'A common tool for assembly and disassembly. Remember: lefty latchy, righty removey.'
+  description: '一種常用的組裝與拆卸工具。請記住：向左轉是鎖緊，向右轉是拆卸。'
   components:
   - type: EmitSoundOnLand
     sound:
@@ -131,10 +131,10 @@
     - Construction
 
 - type: entity
-  name: multitool
+  name: 多功能工具
   parent: BaseItem
   id: Multitool
-  description: An advanced tool to copy, store, and send electrical pulses and signals through wires and machines.
+  description: 一種先進的工具，用於複製、儲存及透過電線和機器傳送電脈衝與訊號。
   components:
   - type: EmitSoundOnLand
     sound:
@@ -185,10 +185,10 @@
     - InspectingPower
 
 - type: entity
-  name: network configurator
+  name: 網路設定工具
   parent: BaseItem
   id: NetworkConfigurator
-  description: A tool for linking devices together. Has two modes, a list mode for mass linking devices and a linking mode for advanced device linking.
+  description: 一款用於將裝置相互連結的工具。具備兩種模式：用於批量連結裝置的「清單模式」，以及用於進階裝置連結的「連結模式」。
   components:
     - type: EmitSoundOnLand
       sound:
@@ -238,10 +238,10 @@
 #Power tools
 #Later on these should switch probably switch damage when changing the tool behavior.
 - type: entity
-  name: power drill
+  name: 電鑽
   parent: BaseItem
   id: PowerDrill
-  description: A simple powered hand drill.
+  description: 一款簡單的電動手鑽。
   components:
   - type: Tag
     tags:
@@ -295,7 +295,7 @@
   id: RCD
   parent: BaseItem # Frontier: remove BaseEngineeringContraband
   name: RCD
-  description: The rapid construction device can be used to quickly place and remove various station structures and fixtures. Requires compressed matter to function.
+  description: 此快速施工裝置可用於迅速安裝及拆除各類站體結構與固定裝置。運作時需使用壓縮氣體。
   components:
   - type: RCD
     availablePrototypes:
@@ -357,8 +357,8 @@
 - type: entity
   id: RCDRecharging
   parent: RCD
-  name: experimental RCD
-  description: Cyborg-mounted Rapid Construction Device which creates compressed matter on the fly using an internal fabricator.
+  name: 實驗性 RCD
+  description: 一種安裝於機械人身上的快速建造裝置，可透過內建的製造器即時生成壓縮物質。
   suffix: AutoRecharge
   components:
   - type: LimitedCharges
@@ -371,7 +371,7 @@
   parent: RCD
   suffix: Admeme
   name: experimental RCD
-  description: A bluespace-enhanced rapid construction device that passively generates its own compressed matter.
+  description: 一種經「藍空間」增強的快速建造裝置，能被動地自行生成壓縮物質。
   components:
   - type: AutoRecharge
     rechargeDuration: 1
@@ -380,7 +380,7 @@
   name: compressed matter
   parent: BaseItem
   id: RCDAmmo
-  description: A cartridge of raw matter compacted by bluespace technology. Used in rapid construction devices.
+  description: 一顆透過「藍色空間」技術壓製而成的原料彈匣。用於快速建造裝置。
   components:
   - type: RCDAmmo
   - type: Sprite
@@ -401,7 +401,7 @@
   name: omnitool
   parent: BaseItem
   id: Omnitool
-  description: A drone's best friend.
+  description: 無人機的最佳夥伴。
   components:
   - type: Sprite
     sprite: Objects/Tools/omnitool.rsi
@@ -464,10 +464,10 @@
 
 #Other
 - type: entity
-  name: shovel
+  name: 鏟子
   parent: BaseItem
   id: Shovel
-  description: A large tool for digging and moving dirt.
+  description: 一種用於挖掘和搬運泥土的大型工具。
   components:
   - type: Sprite
     sprite: Objects/Tools/shovel.rsi
@@ -505,8 +505,8 @@
 - type: entity
   parent: BaseItem
   id: RollingPin
-  name: rolling pin
-  description: A tool used to shape and flatten dough.
+  name: 擀麵棍
+  description: 一種用於塑形和壓平麵糰的工具。
   components:
   - type: Sprite
     sprite: Objects/Tools/rolling_pin.rsi

@@ -1,5 +1,6 @@
+
 <Document>
-  # FIREFIGHTER-CLASS ENGINEERING SHUTTLE
+  # 消防級工程接駁車
   <Box>
   <GuideEntityEmbed Entity="FireAxe"/>
   <GuideEntityEmbed Entity="MedkitBurn"/>
@@ -8,36 +9,36 @@
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapFirefighter" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-3
+  [color=#a4885c]建議船員人數：[/color] 1-3 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 太空梭簡介
 
-  "The Firefighter is an agile engineering vessel designed for performing rapid repairs and delivering relief from searing shuttle fires."
+  「『消防員號』是一艘靈活的工程船，專為執行快速維修及撲滅太空梭灼熱大火而設計。」
 
   # Ship Functions
 
 <Box>
   <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Power Down Thrusters"/>
-  <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Bolt Airlocks"/>
+  <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="螺栓式氣鎖"/>
   <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Toggle Shutters"/>
-  <GuideEntityEmbed Entity="ButtonFrameExit" Caption="Toggle Blast Doors"/>
+  <GuideEntityEmbed Entity="ButtonFrameExit" Caption="切換防爆門"/>
 </Box>
 
-  # Piloting
+  # 駕駛
 
-  [textlink="Piloting" link="Piloting"/]
+  [textlink="駕駛" link="駕駛"/]
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="星區拓撲" link="星區拓撲"/]
 
-  # Hiring crew
+  # 招募船員
 
-  [textlink="Hiring" link="Hiring"/]
+  [textlink="招募" link="招募"/]
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  身為納諾特拉森（Nanotrasen）船隻的船長，你有權隨意僱用、解僱、降職或晉升船員。
 
   # PREFLIGHT CHECKLIST
 

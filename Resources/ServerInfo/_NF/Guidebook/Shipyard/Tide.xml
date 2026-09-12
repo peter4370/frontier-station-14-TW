@@ -1,21 +1,22 @@
+
 <Document>
-  # TIDE-CLASS GENERAL SHUTTLE
+  # TIDE-CLASS 通用接駁車
   <Box>
   <GuideEntityEmbed Entity="ToolboxMechanical"/>
   <GuideEntityEmbed Entity="Crowbar"/>
-  </Box>  
+  </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapTide" Caption="A small map of the Tide Shuttle"/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻尺寸：[/color] 小型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-3
+  [color=#a4885c]建議乘員人數：[/color] 1-3 人
 
-  [color=#a4885c]Power Gen Type:[/color] Plasma
+  [color=#a4885c]發電類型：[/color] 等離子
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "A flying pile of scrap for the seasoned assistant."
+  「專為經驗豐富的助手打造的飛行廢鐵堆。」
 
   # Ship Functions
 

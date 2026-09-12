@@ -1,7 +1,8 @@
-<Document>
-  # Frontier Staff ships
 
-The Frontier Staff Shipyard provides vessels intended for the personnel who keep the sector functioning day after day. From transportation and logistics to administrative support and public services, these ships enable Frontier staff to carry out the often-unseen work that sustains life throughout the system. The Frontier is built not only by pioneers, but by those who ensure it continues to thrive.
+<Document>
+  # 邊疆工作艦
+
+邊疆工作艦造船廠專門為那些日復一日維持該星區運作的人員提供船隻。 從運輸與物流，到行政支援及公共服務，這些船隻使「邊疆」的工作人員能夠執行那些往往不為人知、卻支撐著整個系統生命運作的工作。 邊疆不僅是由開拓者所建構，更是由那些確保它持續繁榮的人所建構。
 
   <Box>
     <GuideEntityEmbed Entity="JanitorialTrolley" Caption=""/>

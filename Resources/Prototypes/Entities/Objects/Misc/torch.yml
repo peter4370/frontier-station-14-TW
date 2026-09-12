@@ -2,7 +2,7 @@
   name: torch
   parent: BaseItem
   id: Torch
-  description: A torch fashioned from some wood.
+  description: 一支用木頭製成的火把。
   components:
     - type: ExpendableLight
       refuelMaterialID: WoodPlank

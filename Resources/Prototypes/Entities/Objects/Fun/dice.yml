@@ -17,8 +17,8 @@
 - type: entity
   parent: BaseDice
   id: PercentileDie
-  name: percentile die
-  description: A die with ten sides. Works better for d100 rolls than a golf ball.
+  name: 百分位骰
+  description: 一個十面骰。用來擲 d100 比高爾夫球更順手。
   components:
   - type: Dice
     sides: 10
@@ -32,7 +32,7 @@
   parent: BaseDice
   id: d20Dice
   name: d20
-  description: A die with twenty sides. The preferred die to throw at the GM.
+  description: 一個二十面的骰子。這是用來對遊戲主持人擲骰的首選骰子。
   components:
   - type: Dice
     sides: 20
@@ -44,7 +44,7 @@
   parent: BaseDice
   id: d12Dice
   name: d12
-  description: A die with twelve sides. There's an air of neglect about it.
+  description: 一個十二面的骰子。它散發出一種被冷落的感覺。
   components:
   - type: Dice
     sides: 12
@@ -56,7 +56,7 @@
   parent: BaseDice
   id: d10Dice
   name: d10
-  description: A die with ten sides. Useful for percentages.
+  description: 一個十面骰。用於計算百分比時很實用。
   components:
   - type: Dice
     sides: 10
@@ -69,7 +69,7 @@
   parent: BaseDice
   id: d8Dice
   name: d8
-  description: A die with eight sides. It feels... lucky.
+  description: 一個八面的骰子。摸起來……感覺很幸運。
   components:
   - type: Dice
     sides: 8
@@ -81,7 +81,7 @@
   parent: BaseDice
   id: d6Dice
   name: d6
-  description: A die with six sides. Basic and serviceable.
+  description: 一個六面骰。簡單實用。
   components:
   - type: Dice
     sides: 6
@@ -93,7 +93,7 @@
   parent: BaseDice
   id: d4Dice
   name: d4
-  description: A die with four sides. The nerd's caltrop.
+  description: 一個有四個面的骰子。書呆子的蒺藜。
   components:
   - type: Dice
     sides: 4

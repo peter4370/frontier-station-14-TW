@@ -1,17 +1,15 @@
-gas-deposit-scanner-window-name = Gas Deposit Scanner
-gas-deposit-scanner-window-refresh-button = Refresh
-gas-deposit-scanner-window-no-data = No Data
-gas-deposit-scanner-window-no-gas-text = No Gases
-gas-deposit-scanner-window-density-column-name = Density
-gas-deposit-scanner-window-error-text = Error: {$errorText}
-gas-deposit-scanner-window-gas-column-name = Gases
-gas-deposit-scanner-window-deposit-title-capitalized = Deposit
-
+gas-deposit-scanner-window-name = 瓦斯押金掃描器
+gas-deposit-scanner-window-refresh-button = 重新整理
+gas-deposit-scanner-window-no-data = 無資料
+gas-deposit-scanner-window-no-gas-text = 無氣體
+gas-deposit-scanner-window-density-column-name = 密度
+gas-deposit-scanner-window-error-text = 錯誤：{ $errorText }
+gas-deposit-scanner-window-gas-column-name = 氣體
+gas-deposit-scanner-window-deposit-title-capitalized = 押金
 gas-deposit-scanner-window-deposit-size-trace = Trace
-gas-deposit-scanner-window-deposit-size-small = Small
-gas-deposit-scanner-window-deposit-size-medium = Medium
-gas-deposit-scanner-window-deposit-size-large = Large
-gas-deposit-scanner-window-deposit-size-enormous = Enormous
-
-gas-deposit-scanner-object-out-of-range = The deposit went out of range.
-gas-deposit-scanner-shutoff = The gas deposit scanner shuts off.
+gas-deposit-scanner-window-deposit-size-small = 小
+gas-deposit-scanner-window-deposit-size-medium = 中
+gas-deposit-scanner-window-deposit-size-large = 大
+gas-deposit-scanner-window-deposit-size-enormous = 龐大
+gas-deposit-scanner-object-out-of-range = 該筆存款已超出範圍。
+gas-deposit-scanner-shutoff = 瓦斯滯留物掃描器關機了。

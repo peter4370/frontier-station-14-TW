@@ -4,7 +4,7 @@
   id: VendingMachine
   parent: BaseMachinePowered
   name: vending machine
-  description: Just add capitalism!
+  description: 只要加入資本主義就行了！
   abstract: true
   components:
   - type: ActionGrant
@@ -199,8 +199,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineCondiments
-  name: condiment station
-  description: Slather these thick gooey substances on your food for a full flavor effect.
+  name: 調味料區
+  description: 將這些濃稠黏膩的醬料厚厚地塗抹在食物上，便能營造出飽滿的風味效果。
   components:
   - type: VendingMachine
     pack: CondimentInventory
@@ -235,8 +235,8 @@
 - type: entity
   parent: [BaseStructureDisableAnchoring, VendingMachine] # Frontier
   id: VendingMachineAmmo
-  name: liberation station
-  description: An overwhelming amount of ancient patriotism washes over you just by looking at the machine.
+  name: 解放站
+  description: 光是看著這台機器，一股澎湃的古早愛國情懷便油然而生。
   components:
   - type: VendingMachine
     pack: WeaponryWorksVendInventory # Frontier AmmoVendInventory<WeaponryWorksVendInventory
@@ -264,7 +264,7 @@
   parent: VendingMachine
   id: VendingMachineBooze
   name: Booze-O-Mat
-  description: A technological marvel, supposedly able to mix just the mixture you'd like to drink the moment you ask for one.
+  description: 這是一項技術奇蹟，據說能在您一開口點單的瞬間，調製出您當下最想喝的那款飲品。
   components:
   - type: VendingMachine
     pack: BoozeOMatInventory
@@ -297,8 +297,8 @@
 - type: entity
   parent: VendingMachineBooze
   id: VendingMachineBoozeSyndicate # syndie booze-o-mat for nukie outpost
-  name: Bruise-O-Mat
-  description: A refurbished Booze-O-Mat for boosting operative morale. An imprint of a blood-red hardsuit is visible on one side, and the paint seems ashed off on the other side.
+  name: 瘀傷生成機
+  description: 一台經過翻新的「Booze-O-Mat」，用於提振特工士氣。其中一側可見一具血紅色的重型機甲壓印，另一側的漆面則似乎已剝落。
   components:
   - type: VendingMachine
     pack: BoozeOMatInventory
@@ -332,7 +332,7 @@
   parent: VendingMachine
   id: VendingMachineCart
   name: PTech
-  description: PTech vending! Providing a ROBUST selection of PDAs, cartridges, and anything else a dull paper pusher needs!
+  description: PTech 自動販賣機！提供豐富多樣的 PDA、墨盒，以及那些枯燥的文員所需的一切！
   components:
   - type: VendingMachine
     pack: PTechInventory
@@ -362,7 +362,7 @@
   parent: VendingMachine
   id: VendingMachineChefvend
   name: ChefVend
-  description: An ingredient vendor for all your cheffin needs.
+  description: 一家能滿足您所有烹飪需求的食材供應商。
   components:
   - type: VendingMachine
     pack: ChefvendInventory
@@ -394,7 +394,7 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineCigs
-  name: ShadyCigs Deluxe
+  name: ShadyCigs 豪華版
   description: If you want to get cancer, might as well do it in style.
   components:
   - type: VendingMachine
@@ -425,7 +425,7 @@
   parent: VendingMachine
   id: VendingMachineClothing
   name: ClothesMate
-  description: A vending machine for clothing.
+  description: 一台販賣服飾的自動販賣機。
   components:
   - type: VendingMachine
     pack: ClothesMateInventory
@@ -456,7 +456,7 @@
   parent: VendingMachine
   id: VendingMachineWinter
   name: WinterDrobe
-  description: The best place to enjoy the cold!
+  description: 享受寒冷的最佳去處！
   components:
   - type: VendingMachine
     pack: WinterDrobeInventory
@@ -486,8 +486,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineCoffee
-  name: Solar's Best Hot Drinks
-  description: Served boiling so it stays hot all shift!
+  name: Solar 最棒的熱飲
+  description: 上桌時是滾燙的，這樣整班都能保持熱度！
   components:
   - type: VendingMachine
     pack: HotDrinksMachineInventory
@@ -527,8 +527,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineCola
-  name: Robust Softdrinks
-  description: A softdrink vendor provided by Robust Industries, LLC.
+  name: Robust 軟性飲料
+  description: 由 Robust Industries, LLC 提供的軟性飲料供應商。
   components:
   - type: VendingMachine
     pack: RobustSoftdrinksInventory
@@ -583,8 +583,8 @@
 - type: entity
   parent: VendingMachineCola
   id: VendingMachineColaRed
-  name: Space Cola Vendor
-  description: It vends cola, in space.
+  name: 太空可樂販賣機
+  description: 它在太空中販賣可樂。
   components:
   - type: Sprite
     sprite: Structures/Machines/VendingMachines/cola-red.rsi
@@ -604,8 +604,8 @@
 - type: entity
   parent: VendingMachineCola
   id: VendingMachineSpaceUp
-  name: Space-Up! Vendor
-  description: Indulge in an explosion of flavor.
+  name: Space-Up! 供應商
+  description: 盡情享受這場味覺的饗宴。
   components:
   - type: VendingMachine
     pack: SpaceUpInventory
@@ -649,8 +649,8 @@
 - type: entity
   parent: VendingMachineCola
   id: VendingMachineStarkist
-  name: Star-kist Vendor
-  description: The taste of a star in liquid form.
+  name: Star-kist 經銷商
+  description: 液態的星辰滋味。
   components:
   - type: VendingMachine
     pack: StarkistInventory
@@ -672,8 +672,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineShamblersJuice
-  name: Shambler's Juice Vendor
-  description: ~Shake me up some of that Shambler's Juice!~
+  name: 蹣跚者的果汁攤販
+  description: '~Shake me up some of that Shambler''s Juice!~'
   components:
   - type: VendingMachine
     pack: ShamblersJuiceInventory
@@ -706,8 +706,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachinePwrGame
-  name: Pwr Game Vendor
-  description: You want it, we got it. Brought to you in partnership with Vlad's Salads.
+  name: Pwr Game 供應商
+  description: 您想要的，我們都有。本活動由 Vlad's Salads 合作呈獻。
   components:
   - type: VendingMachine
     pack: PwrGameInventory
@@ -742,8 +742,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineDrGibb
-  name: Dr. Gibb Vendor
-  description: Canned explosion of different flavors in this very vendor!
+  name: 吉布·文多爾博士
+  description: 就在這家攤位裡，各種風味的罐裝美食令人驚豔！
   components:
   - type: VendingMachine
     pack: DrGibbInventory
@@ -778,8 +778,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineSmite
-  name: Smite Vendor
-  description: Popular with the administration.
+  name: '《Smite》商人'
+  description: 深受行政當局青睞。
   components:
   - type: Sprite
     sprite: Structures/Machines/VendingMachines/smite.rsi
@@ -814,8 +814,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineDinnerware
-  name: Plasteel Chef's Dinnerware Vendor
-  description: A kitchen and restaurant equipment vendor.
+  name: Plasteel 主廚餐具供應商
+  description: 一家廚房及餐飲設備供應商。
   components:
   - type: VendingMachine
     pack: DinnerwareInventory
@@ -850,7 +850,7 @@
   parent: VendingMachine
   id: VendingMachineMagivend
   name: MagiVend
-  description: A magic vending machine.
+  description: 一台神奇的自動販賣機。
   components:
   - type: VendingMachine
     pack: MagiVendInventory
@@ -879,8 +879,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineDiscount
-  name: Discount Dan's
-  description: A vending machine containing discount snacks from the infamous 'Discount Dan' franchise.
+  name: '「折扣丹」'
+  description: 一台販售惡名昭彰的「Discount Dan」連鎖品牌折扣零食的自動販賣機。
   components:
   - type: VendingMachine
     pack: DiscountDansInventory
@@ -913,7 +913,7 @@
   parent: VendingMachine
   id: VendingMachineEngivend
   name: Engi-Vend
-  description: Spare tool vending. What? Did you expect some witty description?
+  description: 備用工具自動販賣機。什麼？你還以為會有什麼妙趣橫生的描述嗎？
   components:
   - type: VendingMachine
     pack: EngiVendInventory
@@ -941,7 +941,7 @@
   parent: VendingMachine
   id: VendingMachineMedical
   name: NanoMed Plus
-  description: It's a medical drug dispenser. Natural chemicals only!
+  description: 這是一款醫療用藥物分配器。僅含天然化學物質！
   components:
   - type: VendingMachine
     pack: NanoMedPlusInventory
@@ -981,7 +981,7 @@
   parent: VendingMachine
   id: VendingMachineNutri
   name: NutriMax
-  description: A vending machine containing nutritional substances for plants and botanical tools.
+  description: 一台販售植物營養劑及園藝工具的自動販賣機。
   components:
   - type: VendingMachine
     pack: NutriMaxInventory
@@ -1015,7 +1015,7 @@
   parent: VendingMachine
   id: VendingMachineSec
   name: SecTech
-  description: A vending machine containing Security equipment. A label reads SECURITY PERSONNEL ONLY.
+  description: 一台裝有安防設備的自動販賣機。標籤上寫著「僅限安保人員使用」。
   components:
   - type: VendingMachine
     pack: SecTechInventory
@@ -1054,8 +1054,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineSeedsUnlocked
-  name: MegaSeed Servitor
-  description: For when you need seeds fast. Hands down the best seed selection on the station!
+  name: MegaSeed 侍從
+  description: 當您急需種子時。這絕對是本站最棒的種子選項！
   suffix: Unlocked
   components:
   - type: VendingMachine
@@ -1097,8 +1097,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineSnack
-  name: Getmore Chocolate Corp
-  description: A snack machine courtesy of the Getmore Chocolate Corporation, based out of Mars.
+  name: Getmore 巧克力公司
+  description: 這台零食販賣機由總部位於火星的 Getmore 巧克力公司提供。
   components:
   - type: VendingMachine
     pack: GetmoreChocolateCorpInventory
@@ -1132,8 +1132,8 @@
 - type: entity
   parent: VendingMachineSnack
   id: VendingMachineSustenance
-  name: Sustenance Vendor
-  description: A vending machine which vends food, as required by section 47-C of the NT's Prisoner Ethical Treatment Agreement.
+  name: 食品供應商
+  description: 一臺販售食品的自動販賣機，符合北領地《囚犯人道待遇協議》第47-C條的規定。
   components:
   - type: VendingMachine
     pack: SustenanceInventory
@@ -1243,7 +1243,7 @@
   parent: VendingMachine
   id: VendingMachineSovietSoda
   name: BODA
-  description: An old vending machine containing sweet water.
+  description: 一台裝有甜味飲料的舊自動販賣機。
   components:
   - type: VendingMachine
     pack: BodaInventory
@@ -1279,7 +1279,7 @@
   parent: VendingMachine
   id: VendingMachineTheater
   name: AutoDrobe
-  description: A vending machine containing costumes.
+  description: 一台販售戲服的自動販賣機。
   components:
   - type: VendingMachine
     pack: AutoDrobeInventory
@@ -1315,7 +1315,7 @@
   parent: VendingMachine
   id: VendingMachineVendomat
   name: Vendomat
-  description: Only the finest robust equipment in space!
+  description: 唯有最頂級且堅固耐用的太空設備！
   components:
   - type: VendingMachine
     pack: VendomatInventory
@@ -1346,8 +1346,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineRobotics
-  name: Robotech Deluxe
-  description: All the tools you need to create your own robot army.
+  name: '《Robotech Deluxe》'
+  description: 打造專屬機器人軍團所需的一切工具。
   components:
   - type: VendingMachine
     pack: RoboticsInventory
@@ -1384,7 +1384,7 @@
   parent: VendingMachine
   id: VendingMachineYouTool
   name: YouTool
-  description: "A vending machine containing standard tools. A label reads: Tools for tools."
+  description: "一台裝有標準工具的自動販賣機。標籤上寫著：工具專用的工具。"
   components:
   - type: VendingMachine
     pack: NFYouToolInventory # Frontier: use NF variant
@@ -1411,8 +1411,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineGames
-  name: Good Clean Fun
-  description: Vends things that the station representatives are probably not going to appreciate you fiddling with instead of your job...
+  name: 純粹的樂趣
+  description: 販售一些東西，讓車站代表們很可能會不滿你把時間花在擺弄這些東西上，而不是專心做本職工作……
   components:
   - type: VendingMachine
     pack: GoodCleanFunInventory
@@ -1443,8 +1443,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineChang
-  name: Mr. Chang
-  description: A self-serving Chinese food machine, for all your Chinese food needs.
+  name: 張先生
+  description: 一台自助式中式料理機，滿足您對中式料理的所有需求。
   components:
   - type: VendingMachine
     pack: ChangInventory
@@ -1476,8 +1476,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineSalvage
-  name: Salvage Vendor
-  description: A dwarf's best friend!
+  name: 殘骸回收商
+  description: 矮人的最佳夥伴！
   components:
   - type: VendingMachine
     pack: NFSalvageEquipmentInventory # Frontier SalvageEquipmentInventory<NFSalvageEquipmentInventory
@@ -1510,8 +1510,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineDonut
-  name: Monkin' Donuts
-  description: A donut vendor provided by Robust Industries, LLC.
+  name: 蒙金甜甜圈
+  description: 由 Robust Industries, LLC 提供的甜甜圈攤販。
   components:
   - type: VendingMachine
     pack: DonutInventory
@@ -1548,7 +1548,7 @@
   parent: VendingMachine
   id: VendingMachineHydrobe
   name: HyDrobe
-  description: A machine with a catchy name. It dispenses botany related clothing and gear.
+  description: 一台名字很吸引人的機器。它販售與植物學相關的服飾和裝備。
   components:
   - type: VendingMachine
     pack: HyDrobeInventory
@@ -1580,7 +1580,7 @@
   parent: VendingMachine
   id: VendingMachineLawDrobe
   name: LawDrobe
-  description: Objection! This wardrobe dispenses the rule of law... and lawyer clothing..
+  description: 異議！這座衣櫥不僅體現法治精神……還提供律師服……
   components:
   - type: VendingMachine
     pack: LawDrobeInventory
@@ -1606,7 +1606,7 @@
   parent: VendingMachine
   id: VendingMachineSecDrobe
   name: SecDrobe
-  description: A vending machine for security and security-related clothing!
+  description: 一台販售安全防護裝備及相關服飾的自動販賣機！
   components:
   - type: VendingMachine
     pack: SecDrobeInventory
@@ -1638,7 +1638,7 @@
   parent: VendingMachine
   id: VendingBarDrobe
   name: BarDrobe
-  description: A stylish vendor to dispense the most stylish bar clothing!
+  description: 一家時尚的供應商，提供最時尚的酒吧服飾！
   components:
   - type: VendingMachine
     pack: BarDrobeInventory
@@ -1690,7 +1690,7 @@
   parent: VendingMachine
   id: VendingMachineCargoDrobe
   name: CargoDrobe
-  description: A highly advanced vending machine for buying cargo related clothing for free.
+  description: 一台極為先進的自動販賣機，可免費購買與貨運相關的服裝。
   components:
   - type: VendingMachine
     pack: CargoDrobeInventory
@@ -1722,7 +1722,7 @@
   parent: VendingMachine
   id: VendingMachineMediDrobe
   name: MediDrobe
-  description: A vending machine rumoured to be capable of dispensing clothing for medical personnel.
+  description: 據傳有一台自動販賣機，能夠提供醫護人員所需的衣物。
   components:
   - type: VendingMachine
     pack: MediDrobeInventory
@@ -1750,7 +1750,7 @@
   parent: VendingMachine
   id: VendingMachineChemDrobe
   name: ChemDrobe
-  description: A vending machine for dispensing chemistry related clothing.
+  description: 一台販售化學相關服飾的自動販賣機。
   components:
   - type: VendingMachine
     pack: ChemDrobeInventory
@@ -1776,7 +1776,7 @@
   parent: VendingMachine
   id: VendingMachineCuraDrobe
   name: CuraDrobe
-  description: A lowstock vendor only capable of vending clothing for curators and librarians.
+  description: 一家庫存量少、僅能向策展人和圖書館員販售服飾的供應商。
   components:
   - type: VendingMachine
     pack: CuraDrobeInventory
@@ -1804,7 +1804,7 @@
   parent: VendingMachine
   id: VendingMachineAtmosDrobe
   name: AtmosDrobe
-  description: This relatively unknown vending machine delivers clothing for Atmospherics Technicians, an equally unknown job.
+  description: 這台鮮為人知的自動販賣機，專門販售「大氣技術員」所需的服裝——這也是一個同樣鮮為人知的職業。
   components:
   - type: VendingMachine
     pack: AtmosDrobeInventory
@@ -1836,7 +1836,7 @@
   parent: VendingMachine
   id: VendingMachineEngiDrobe
   name: EngiDrobe
-  description: A vending machine renowned for vending industrial grade clothing.
+  description: 一台以販售工業級服裝而聞名的自動販賣機。
   components:
   - type: VendingMachine
     pack: EngiDrobeInventory
@@ -1868,7 +1868,7 @@
   parent: VendingMachine
   id: VendingMachineChefDrobe
   name: ChefDrobe
-  description: This vending machine might not dispense meat, but it certainly dispenses chef related clothing.
+  description: 這台自動販賣機雖然不會販售肉類，但絕對會販售與廚師相關的服飾。
   components:
   - type: VendingMachine
     pack: ChefDrobeInventory
@@ -1894,7 +1894,7 @@
   parent: VendingMachine
   id: VendingMachineDetDrobe
   name: DetDrobe
-  description: A machine for all your detective needs, as long as you need clothes.
+  description: 一台能滿足您所有偵探需求的機器——只要您需要衣服的話。
   components:
   - type: VendingMachine
     pack: DetDrobeInventory
@@ -1920,7 +1920,7 @@
   parent: VendingMachine
   id: VendingMachineJaniDrobe
   name: JaniDrobe
-  description: A self cleaning vending machine capable of dispensing clothing for janitors.
+  description: 一台能自動清潔、並可為清潔人員提供工作服的自動販賣機。
   components:
   - type: VendingMachine
     pack: JaniDrobeInventory
@@ -1952,7 +1952,7 @@
   parent: VendingMachine
   id: VendingMachineSciDrobe
   name: SciDrobe
-  description: A simple vending machine suitable to dispense well tailored science clothing. Endorsed by Space Cubans.
+  description: 一台簡便的自動販賣機，專門提供剪裁合身的科學服裝。獲得「太空古巴人」的認可。
   components:
   - type: VendingMachine
     pack: SciDrobeInventory
@@ -1978,7 +1978,7 @@
   parent: [BaseStructureDisableAnchoring, VendingMachine] # Frontier
   id: VendingMachineSyndieDrobe
   name: SyndieDrobe
-  description: Wardrobe machine encoded by the syndicate, contains elite outfits for various operations.
+  description: 這台由組織編碼的衣櫥機，內含適用於各類行動的精英裝備。
   components:
   - type: VendingMachine
     pack: SyndieDrobeInventory
@@ -2010,7 +2010,7 @@
   parent: VendingMachine
   id: VendingMachineRoboDrobe
   name: RoboDrobe
-  description: A vending machine designed to dispense clothing known only to roboticists.
+  description: 一款專門販售服飾的自動販賣機，其設計僅為機器人學家所知。
   components:
   - type: VendingMachine
     pack: RoboDrobeInventory
@@ -2036,7 +2036,7 @@
   parent: VendingMachine
   id: VendingMachineGeneDrobe
   name: GeneDrobe
-  description: A machine for dispensing clothing related to genetics.
+  description: 一台用於分發與遺傳學相關服裝的機器。
   components:
   - type: VendingMachine
     pack: GeneDrobeInventory
@@ -2062,7 +2062,7 @@
   parent: VendingMachine
   id: VendingMachineViroDrobe
   name: ViroDrobe
-  description: An unsterilized machine for dispending virology related clothing.
+  description: 一台用於分發病毒學相關防護服的未經消毒之機器。
   components:
   - type: VendingMachine
     pack: ViroDrobeInventory
@@ -2088,7 +2088,7 @@
   parent: [BaseStructureDisableAnchoring, VendingMachine] # Frontier
   id: VendingMachineCentDrobe
   name: CentDrobe
-  description: A one-of-a-kind vending machine for all your centcomm aesthetic needs!
+  description: 一台獨一無二的自動販賣機，滿足您所有「centcomm」美學需求！
   components:
   - type: VendingMachine
     pack: CentDrobeInventory
@@ -2115,8 +2115,8 @@
 - type: entity
   parent: VendingMachine
   id: VendingMachineHappyHonk
-  name: Happy Honk Dispenser
-  description: A happy honk meal box dispenser made by honk! co.
+  name: 快樂喇叭發放器
+  description: 由 honk! co. 製造的「快樂 honk 餐盒」自動販賣機。
   components:
   - type: VendingMachine
     pack: HappyHonkDispenserInventory
@@ -2158,7 +2158,7 @@
   parent: VendingMachine
   id: VendingMachinePride
   name: Pride-O-Mat
-  description: A vending machine containing pride.
+  description: 一台蘊含著驕傲的自動販賣機。
   components:
   - type: VendingMachine
     pack: PrideDrobeInventory
@@ -2191,8 +2191,8 @@
   parent: VendingMachine
   id: VendingMachineTankDispenserEVA
   suffix: EVA [O2, N2]
-  name: gas tank dispenser
-  description: A vendor for dispensing gas tanks.
+  name: 燃油箱加油機
+  description: 一家銷售氣罐的供應商。
   components:
   - type: VendingMachine
     pack: TankDispenserEVAInventory
@@ -2207,7 +2207,7 @@
   id: VendingMachineTankDispenserEngineering
   suffix: ENG [O2, Plasma]
   name: gas tank dispenser
-  description: A vendor for dispensing gas tanks. This one has an engineering livery.
+  description: 一輛用於配送瓦斯罐的貨車。這輛車塗裝採用工程風格。
   components:
   - type: VendingMachine
     pack: TankDispenserEngineeringInventory
@@ -2221,7 +2221,7 @@
   parent: VendingMachine
   id: VendingMachineChemicals
   name: ChemVend
-  description: Probably not the coffee machine.
+  description: 大概不是那台咖啡機吧。
   components:
   - type: VendingMachine
     pack: ChemVendInventory
@@ -2250,7 +2250,7 @@
   parent: VendingMachineChemicals
   id: VendingMachineChemicalsSyndicate
   name: SyndieJuice
-  description: Not made with freshly squeezed syndies I hope.
+  description: 希望這不是用現榨的「辛迪」做的。
   components:
   - type: VendingMachine
     pack: ChemVendInventorySyndicate
@@ -2267,7 +2267,7 @@
   parent: VendingMachineWallmount
   id: VendingMachineWallMedical
   name: NanoMed
-  description: "It's a wall-mounted medical equipment dispenser. Natural chemicals only!"
+  description: "這是一款壁掛式醫療用品分配器。僅含天然化學成分！"
   components:
   - type: VendingMachine
     pack: NanoMedInventory

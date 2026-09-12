@@ -1,36 +1,37 @@
+
 <Document>
-  # Salvage Expeditions
+  # 打撈探險
   <Box>
   <GuideEntityEmbed Entity="ComputerSalvageExpedition"/>
   <GuideEntityEmbed Entity="TelecomServerFilledShuttle"/>
   </Box>
 
-  When going on expedition, your ship will jump to a planet and you need to complete an objective in a limited time.
-  Completing this objective lowers the wait until you can attempt the next expedition.
-  When your time runs out, the ship jumps back, [bold]whether you're on it or not[/bold].
+  進行探險任務時，你的飛船會躍遷至某顆行星，而你必須在限定的時間內完成一項任務。
+  完成此目標後，將縮短您能再次嘗試下一場遠征所需的等待時間。
+  當時間用盡時，飛船便會跳躍返回，[粗體]無論你是否在船上[/粗體]。
 
-  Ships purchased at Frontier Outpost [bold]cannot[/bold] go on expedition, but [italic]any purchased at [bold]Expeditionary Lodge[/bold] can[/italic].
-  You will need to use the [color=#a4885c]salvage console[/color] onboard.
+  在「邊境前哨站」購買的船隻 [粗體]無法[/粗體] 進行遠征，但 [斜體]任何在 [粗體]遠征小屋[/粗體] 購買的船隻皆可[/斜體]。
+  您需要使用船上的 [color=#a4885c]打撈控制台[/color]。
 
-  To go on an expedition:
-  - Pilot your ship so there is 200 m of empty space in each direction.
-  - Use the [color=#a4885c]salvage console[/color].
-  - Pick one of the five missions offered to you.
-  - Note the enemy, conditions, total time, and objectives for the mission.
-  - Buckle into a seat to avoid falling down.
+  展開探險：
+  - 駕駛你的飛船，確保每個方向都有 200 公尺的空曠空間。
+  - 使用 [color=#a4885c]打撈控制台[/color]。
+  - 從提供的五項任務中挑選一項。
+  - 請記錄敵情、任務條件、總時間及任務目標。
+  - 請繫好安全帶，以免跌倒。
 
-  Tips for expeditions:
-  - Start with easier missions and progress to harder ones as you get better equipped.
-  - Different enemy types have different strengths and weaknesses. Vary your loadout to best deal with each.
-  - If you don't think you can win a fight, don't take it.
+  遠征小貼士：
+  - 建議先從較簡單的任務開始，待裝備更齊全後，再逐步挑戰更困難的任務。
+  - 不同類型的敵人各有其優點與弱點。 請靈活調整裝備配置，以因應各種情況。
+  - 如果你覺得自己贏不了這場戰鬥，就別接下它。
 
-  When you arrive on-site, you'll be told which direction the objective is in.
-  There'll be a building in that direction; break in and complete your objective.
-  Note: North is towards the top of the screen in default rotation (default keybinding: [color=#028ed9][keybind="CameraReset"/][/color]).
+  抵達現場後，您將會被告知目標位於哪個方向。
+  那個方向上會有棟建築物；闖進去並完成你的任務。
+  注意：在預設旋轉方向下，北方位於螢幕頂端（預設鍵位設定：[color=#028ed9][keybind="CameraReset"/][/color]）。
 
-  While planetside you will be unable to communicate via radio with the wider Frontier Sector, and unless you have a [color=#a4885c]telecommunication server[/color] installed you won't be able to use radio to communicate with your crew in the expedition either.
+  在行星表面時，您將無法透過無線電與更廣闊的邊疆區進行通訊；此外，除非您已安裝 [color=#a4885c]通訊伺服器[/color]，否則也無法透過無線電與遠征隊中的隊員進行通訊。
 
-  # Being Prepared
+  # 做好準備
   <Box>
   <GuideEntityEmbed Entity="MobBloodCultistZealotMelee"/>
   <GuideEntityEmbed Entity="MobFleshGolemExpeditions"/>
@@ -38,43 +39,43 @@
   <GuideEntityEmbed Entity="MobCarpHolo"/>
   <GuideEntityEmbed Entity="MobRogueSiliconHunter"/>
   </Box>
-  During missions planetside, you will encounter dangers ranging from inhospitable environments to hostile wildlife and even bloodthirsty cultists or relentless automatons. If you want to survive a mission with your loot in hand, you've got to be prepared for the challenges ahead. You will need the right gear and the knowledge of how and when that gear should be used. And most importantly, you will need the help of your crewmates.
+  在行星表面的任務中，你將遭遇各種危險，從惡劣的環境、具威脅性的野生動物，到嗜血的邪教徒，甚至是毫不留情的自動機器人。 若想在任務中倖存並帶走戰利品，就必須為接下來的挑戰做好準備。 您需要配備合適的裝備，並了解該如何以及何時使用這些裝備。 最重要的是，你需要隊友們的協助。
 
-  # Gear
-  ## Environmental Hazards
-  The first hazard you will encounter on the planet is [italic]the planet itself[/italic]. Planetary environments are diverse: the atmosphere and temperature can vary - both can be dangerous. The [color=#a4885c]salvage console[/color] will give you a rough idea of what conditions on the planet are in the [color=#a4885c]Modifiers[/color] section of the mission description. This information will help you to decide what environmental protection gear you need, if any.
+  # 裝備
+  ## 環境危害
+  你在這顆行星上將面臨的第一項危害是 [斜體]這顆行星本身[/斜體]。 行星的環境千差萬別：大氣層和溫度各不相同——這兩者都可能具有危險性。 [color=#a4885c]打撈控制台[/color] 將在任務說明的 [color=#a4885c]修飾因子[/color] 區段中，讓你大致了解該行星的狀況。 這些資訊將有助於您決定是否需要任何環保裝備，以及需要哪些裝備。
 
   <Box>
   <GuideEntityEmbed Entity="FloorLiquidPlasmaEntity"/>
   <GuideEntityEmbed Entity="FloorLavaEntity"/>
   </Box>
-  [bold][color=#a4885c]Biomes:[/color][/bold]
-  - [bold]Grassland/Caves/Shadow:[/bold] no hazards have been observed so far.
-  - [bold]Snow:[/bold] liquid plasma pools can be encountered in this biome. Touching one will set you on fire.
-  - [bold]Lava:[/bold] lava pools can be encountered in this biome. Touching one will set you on fire.
+  [粗體][color=#a4885c]生物群系：[/color][/粗體]
+  - [粗體]草原／洞穴／陰影：[/粗體] 迄今為止尚未觀察到任何危險。
+  - [粗體]雪：[/粗體] 在此生態區中可能會遇到液態等離子體池。 只要碰觸其中一個，你就會被燒得通紅。
+  - [粗體]熔岩：[/粗體] 在這個生物群系中可能會遇到熔岩池。 Touching one will set you on fire.
 
-If you [italic]do[/italic] get set on fire, remember to [bold]click the [color=#ee0000]fire icon[/color][/bold] to stop, drop and roll. It may take [bold]multiple tries[/bold] to put yourself out.
+如果你真的 [italic]被[/italic] 點著火了，請記得 [bold]點擊 [color=#ee0000]火苗圖示[/color][/bold]，並立即停下、趴下、翻滾。 要讓自己完全沉醉其中，可能需要 [bold]多次嘗試[/bold]。
 
   <Box>
   <GuideEntityEmbed Entity="ClothingMaskGas"/>
   <GuideEntityEmbed Entity="AirTankFilled"/>
   </Box>
-  [bold][color=#a4885c]Air quality modifiers:[/color][/bold]
-  - [bold]None:[/bold] the air is safe to breathe without internals on.
-  - [bold]Dangerous atmosphere:[/bold] ranges from a toxic atmosphere to none at all. Internals must be on, and an EVA suit or hardsuit in extreme cases.
-  - [bold]Volatile atmosphere:[/bold] the atmosphere has gaseous plasma in it. Internals must be on. Depending on the other gases present, the atmosphere may combust and engulf the entire planet.
+  [粗體][color=#a4885c]空氣品質修飾因子：[/color][/粗體]
+  - [粗體]無：[/粗體] 若未裝設內部組件，空氣可安全呼吸。
+  - [粗體]危險的大氣環境：[/粗體] 範圍從有毒大氣到完全沒有大氣不等。 必須開啟內部系統，極端情況下則需穿著太空服或硬式太空服。
+  - [粗體]不穩定的大氣層：[/粗體] 大氣層中含有氣態等離子體。 必須開啟「內部功能」。 視乎其中所含的其他氣體而定，該大氣層可能會發生燃燒，並吞噬整個行星。
 
   <Box>
   <GuideEntityEmbed Entity="ClothingOuterWinterMiner"/>
   <GuideEntityEmbed Entity="ClothingOuterHardsuitEVA"/>
   <GuideEntityEmbed Entity="ClothingOuterHardsuitSpatio"/>
   </Box>
-  [bold][color=#a4885c]Temperature modifiers:[/color][/bold]
-  - [bold]None:[/bold] the temperature on the planet is warm, no special equipment is needed.
-  - [bold]Low temperature:[/bold] cold, but bearable. Reptilians are advised to wear a winter coat or hardsuit.
-  - [bold]Extreme cold:[/bold] temperatures are close to absolute zero, a hardsuit is required.
-  - [bold]High temperature:[/bold] unpleasantly hot, roughly 150 centigrade. Heat-resistant gear or a hardsuit are needed.
-  - [bold]Extreme heat:[/bold] temperatures are very high, a hardsuit is mandatory.
+  [bold][color=#a4885c]溫度調整因子：[/color][/bold]
+  - [bold]無：[/bold] 該行星的氣溫溫暖，無需特殊裝備。
+  - [粗體]低溫：[/粗體] 雖然冷，但還能忍受。 建議爬蟲類穿著冬季大衣或防護服。
+  - [粗體]極寒：[/粗體] 溫度接近絕對零度，必須穿著防護服。
+  - [粗體]高溫：[/粗體] 令人不適的熱度，約攝氏 150 度。 需要穿著耐熱裝備或重型防護服。
+  - [粗體]極端高溫：[/粗體] 氣溫極高，必須穿著防護服。
 
   <Box>
   <GuideEntityEmbed Entity="Flare"/>
@@ -82,12 +83,12 @@ If you [italic]do[/italic] get set on fire, remember to [bold]click the [color=#
   <GuideEntityEmbed Entity="FlashlightLantern"/>
   <GuideEntityEmbed Entity="Floodlight"/>
   </Box>
-  [bold][color=#a4885c]Time of day:[/color][/bold]
-  - [bold]Morning/Day/Evening times:[/bold] the ambient light on the planet is sufficient, no need for light sources.
-  - [bold]Night time:[/bold] complete darkness, light sources are required for navigating the planet.
+  [bold][color=#a4885c]時間：[/color][/bold]
+  - [bold]早晨／白天／傍晚時段：[/bold] 行星上的環境光線充足，無需額外光源。
+  - [粗體]夜間：[/粗體] 一片漆黑，必須有光源才能在行星上行進。
 
-  [bold][color=#a4885c]Time constraints:[/color][/bold]
-  - [bold]Rush:[/bold] you will have less time to complete the expedition. Set your priorities in advance, and avoid being slowed down too mcuh with heavy gear.
+  [bold][color=#a4885c]時間限制：[/color][/bold]
+  - [bold]加急：[/bold] 您將有較少的時間來完成這趟探險。 請事先設定好優先順序，並避免因攜帶過多裝備而過度拖慢腳步。
 
   ## Tools
   <Box>
@@ -103,9 +104,9 @@ If you [italic]do[/italic] get set on fire, remember to [bold]click the [color=#
   <GuideEntityEmbed Entity="Multitool"/>
   <GuideEntityEmbed Entity="RadioHandheld"/>
   </Box>
-  Salvaging often requires digging through layers of rocks to reach an abandoned facility, as well as deconstructing walls and windows, to gain entrance to the ruins. You may need to pry open unpowered airlocks or dismantle valuable machinery to take back. Tools can make hard tasks easier, like using a crowbar to pry open airlocks (much faster than using your hands), or make impossible tasks possible, like mining through rocks with a drill. Also, tools like a handheld radio can provide a way for crewmates to talk without a telecommunication server.
+  打撈工作通常需要挖開一層層岩石，才能抵達廢棄的設施，還必須拆除牆壁和窗戶，才能進入廢墟內部。 你可能需要撬開沒有供電的氣閘，或是拆解有價值的機械設備以便帶回去。 工具能讓艱鉅的任務變得更輕鬆，例如用撬棍撬開氣閘（比徒手操作快得多），或是讓看似不可能的任務變得可行，例如用電鑽鑽穿岩石。 此外，像手持無線電這類工具，能讓船員在沒有通訊伺服器的情況下進行通訊。
 
-  For more details see the Guidebook entries on [textlink="Engineering" link="Engineering"] and [textlink="Construction" link="Construction"].
+  更多詳情請參閱指南中關於 [textlink="工程" link="工程"] 及 [textlink="建築" link="建築"] 的條目。
 
   ## Medicine
   <Box>
@@ -119,53 +120,53 @@ If you [italic]do[/italic] get set on fire, remember to [bold]click the [color=#
   <GuideEntityEmbed Entity="RegenerativeMesh"/>
   <GuideEntityEmbed Entity="Tourniquet"/>
   </Box>
-  You will get hurt. Period. Knowing the basics of medical care and having supplies at hand can make the difference between life and death for you or your crewmates.
+  你會受傷的。 句號。 掌握醫療護理的基本知識，並備妥相關物資，對於您或您的船員而言，可能就是生與死的關鍵。
 
-  Before going on expedition, consider buying medical supplies for the types of damage you're likely to receive ([color=red]brute[/color] and [color=#ffa500]burn[/color]), and supplies to stop [color=red]bleeding[/color], like [color=#a4885c]gauze[/color] or [color=#a4885c]epinephrine[/color]. Basic medications can be bought from vending machines. More efficient, advanced ones are harder to obtain, but most of the time they can be bought from other players providing medical services.
+  在出發探險前，請考慮購買針對您可能遭受的傷害類型（例如 [color=red]重創[/color] 和 [color=#ffa500]灼傷[/color])，並準備止血用品，例如 [color=red]止血[/color] 用品，如 [color=#a4885c]紗布[/color] 或 [color=#a4885c]腎上腺素[/color]。 基本藥物可從自動販賣機購買。 效率更高、更先進的醫療設備較難取得，但大多數情況下，可以向提供醫療服務的其他玩家購買。
 
-  Remember, having medical supplies at hand is only half the job! Remember to [textlink="learn the basics of medical care" link="Medical Doctor"].
+  請記住，備妥醫療用品只是成功的一半！ 請記得 [textlink="學習醫療照護的基礎知識" link="醫師"]。
 
-  ## Armor
+  ## 護甲
   <Box>
   <GuideEntityEmbed Entity="ClothingHeadHelmetBasic"/>
   <GuideEntityEmbed Entity="ClothingOuterArmorBulletproof"/>
   <GuideEntityEmbed Entity="ClothingOuterArmorReflective"/>
   <GuideEntityEmbed Entity="RiotShield"/>
   </Box>
-  Most of the time, you can't avoid getting hit. Wearing armor reduces damage taken, keeping you in action for longer, and giving you a chance to go and heal. Since different types of enemies do different types of damage, choosing your armor wisely will significantly increase your chances of survival.
+  大多數時候，你都無法避免被擊中。 穿上護甲能降低所受傷害，讓你能更久地留在戰場上，並有機會去恢復生命值。 由於不同類型的敵人會造成不同類型的傷害，因此明智地選擇防具將能大幅提高你的生存機率。
 
-  Here are some examples for your consideration:
-  - [textlink="Syndicate naval forces" link="MobsExpeditionGuideSyndicate"] use firearms that deal [color=yellow]piercing[/color] damage. Wearing armor with high pierce resistance (like a bulletproof vest) is a good choice.
-  - [textlink="Rogue silicons" link="MobsExpeditionGuideSilicons"] mostly deal [color=#ffa500]heat[/color] damage: wearing a reflective vest is a good choice.
+  以下提供一些範例供您參考：
+  - [textlink="辛迪加海軍" link="MobsExpeditionGuideSyndicate"] 使用能造成 [color=yellow]穿透[/color] 傷害的槍械。 穿著穿刺抗性高的護甲（例如防彈背心）是個不錯的選擇。
+  - [textlink="流氓矽體" link="MobsExpeditionGuideSilicons"] 主要造成 [color=#ffa500]熱[/color] 傷害：穿著反射背心是個不錯的選擇。
 
-  ## Teamwork
+  ## 團隊合作
   <Box>
-  <GuideEntityEmbed Entity="GuidebookMemeNpcGood" Caption="the good,"/>
-  <GuideEntityEmbed Entity="GuidebookMemeNpcBad" Caption="the bad,"/>
-  <GuideEntityEmbed Entity="GuidebookMemeNpcUgly" Caption="the ugly"/>
-  <GuideEntityEmbed Entity="GuidebookMemeNpcThatGuy" Caption="and that guy"/>
+  <GuideEntityEmbed Entity="GuidebookMemeNpcGood" Caption="好的，"/>
+  <GuideEntityEmbed Entity="GuidebookMemeNpcBad" Caption="缺點是，"/>
+  <GuideEntityEmbed Entity="GuidebookMemeNpcUgly" Caption="醜陋的"/>
+  <GuideEntityEmbed Entity="GuidebookMemeNpcThatGuy" Caption="還有那個傢伙"/>
   </Box>
-  By far, your best bet at surviving expeditions is your crewmates. You might [italic]know[/italic] how to heal yourself, but you [italic]can't[/italic] if you're unconscious.
+  迄今為止，要在探險中生存下去，你的隊友無疑是最好的依靠。 你或許[斜體]知道[/斜體]如何治癒自己，但如果你失去意識，就[斜體]無法[/斜體]做到。
 
   <Box>
   <GuideEntityEmbed Entity="TelecomServerFilledShuttle"/>
   <GuideEntityEmbed Entity="EncryptionKeyCommon"/>
   </Box>
   <Box>
-  <GuideEntityEmbed Entity="ClothingHeadsetGrey" Caption="headset"/>
+  <GuideEntityEmbed Entity="ClothingHeadsetGrey" Caption="耳機"/>
   <GuideEntityEmbed Entity="EncryptionKeyMedical"/>
   <GuideEntityEmbed Entity="MedicalTrackingImplanter"/>
   </Box>
 
-  Communication is crucial. Make sure to keep in contact with your teammates to know what they're doing and when they need help. You'll need either a headset and a [color=#a4885c]telecommunication server[/color] with [color=#a4885c]encryption keys[/color] installed, or [color=#a4885c]handheld radios[/color] on each crewmate (make sure they're on!).
+  溝通至關重要。 請務必與隊友保持聯繫，以便了解他們正在做什麼，以及何時需要協助。 您需要準備一副耳機，以及一台已安裝 [color=#a4885c]加密金鑰[/color] 的 [color=#a4885c]通訊伺服器[/color]，或者 讓每位船員配備 [color=#a4885c]手持對講機[/color]（請確保它們已開啟！）。
 
-  Having a [color=#a4885c]medical encryption key[/color] installed in your headset will tell you when anyone with a [color=#a4885c]medical tracking implanter[/color] installed goes down in combat. Leave no friend behind!
+  若您的頭戴式裝置內建了 [color=#a4885c]醫療加密金鑰[/color]，當任何植入 [color=#a4885c]醫療追蹤植入裝置[/color] 的人在戰鬥中倒下時，系統會通知您。 絕不拋下任何一位朋友！
 
-  ## Know Your Enemy
+  ## 知己知彼
   <Box>
   <GuideEntityEmbed Entity="ClothingEyesHudMedical"/>
   <GuideEntityEmbed Entity="ClothingEyesHudDiagnostic"/>
   </Box>
-  Adaptability is key: strategies and tactics that work against [textlink="xenos" link="MobsExpeditionGuideXenos"] might not work well against [textlink="mercenaries" link="MobsExpeditionGuideMercenaries"], and vice versa. The Guidebook entries on hostile entities may provide some insight into what to expect planetside, but they [italic]cannot[/italic] replace firsthand experience. Instead, descend to the planet, salvage what you can, and face danger head-on. The riches won't wait around forever!
+  適應力是關鍵：對付 [textlink="xenos" link="MobsExpeditionGuideXenos"] 時有效的策略與戰術，對付 [textlink="mercenaries" link="MobsExpeditionGuideMercenaries"] 時可能就不太管用，反之亦然。 《指南》中關於敵對實體的條目或許能讓人對行星表面的情況有所了解，但這些內容[斜體]無法[/斜體]取代親身體驗。 相反地，請降落至該行星，盡可能回收可用資源，並直面危險。 財富可不會永遠等你！
 
 </Document>

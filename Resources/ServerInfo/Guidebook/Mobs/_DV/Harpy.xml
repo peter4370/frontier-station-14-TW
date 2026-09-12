@@ -1,38 +1,39 @@
+
 <Document>
-  # Harpies
+  # 哈耳皮亞
 
   <Box>
     <GuideEntityEmbed Entity="MobHarpyDummy" Caption=""/>
   </Box>
 
-  An avian humanoid species that features colorful feathered wings and tails that can mimic almost any sound.
+  一種鳥類人形生物，擁有色彩繽紛的羽毛翅膀與尾巴，能夠模仿幾乎任何聲音。
 
-  They are quite sensitive to the air quality, and when exposed to low quality air, they will begin to visibly gasp, and eventually start choking.
-  When this happens, a Harpy should either move away from sources of bad air, stand on top of a scrubber for a few seconds, or take a few breaths from a pure oxygen tank in order to restore their blood-oxygen levels. Only three seconds of being on pure oxygen is enough to completely restore a Harpy's blood oxygen saturation.
+  牠們對空氣品質相當敏感，一旦暴露在空氣品質不佳的環境中，便會明顯地開始喘息，最終甚至會窒息。
+  當這種情況發生時，哈皮應遠離空氣污染源、在淨化器上站立數秒，或從純氧罐中吸幾口氣，以恢復其血氧濃度。 只需在純氧環境中待上三秒，便足以讓哈比的血氧飽和度完全恢復。
 
   ## Diet
 
   - Can eat raw meat.
   - Will get poisoned by Theobromine (Chocolate, Tea, Coffee) and Allicin (Onion, Garlic).
 
-  ## Benefits
+  ## 優點
 
-  - Somewhat smaller than Humans, although not as small as Felinids
-  - Uses their talons to deal Piercing damage
-  - Can imitate around 70% of the game's sound library through a huge list of voice emotes
-  - They can "Sing" midis by imitating instruments. Right click yourself to select an instrument
+  - 體型比人類稍小，但不像貓族那樣嬌小
+  - 運用利爪造成穿刺傷害
+  - 透過龐大的聲音表情清單，能模仿遊戲中約 70% 的音效庫
+  - 他們能透過模仿樂器來「演唱」MIDI 音軌。 右鍵點擊自己以選擇樂器
 
-  ## Special
+  ## 特殊
 
-  - Comes with the Ultraviolet Vision trait by default. This can be disabled via accessibility options.
-  - While singing, musical notes appear floating around their head.
+  - 預設具備「紫外線視覺」特質。 此功能可透過輔助功能選項予以停用。
+  - 唱歌時，音符會漂浮在他們的頭頂周圍。
 
-  ## Drawbacks
+  ## 缺點
 
-  - Takes 15% more Blunt, Slash, and Piercing damage.
-  - Extreme low density, Harpies are lighter than even Felinids, and weigh half as much as a Human.
-  - A Harpy breathes in air twice as often as Humans, inhaling and exhaling every 3 seconds.
-  - - Air tanks last half as long and Harpies are more susceptible than usual to low air quality.
-  - - If a Harpy is exposed to at least 0.2 moles of combined CO2 and/or Miasma, they start struggling to take in oxygen.
+  - 承受的鈍擊、斬擊和穿刺傷害增加 15%。
+  - 密度極低，哈比族甚至比菲林族還要輕，體重僅為人類的一半。
+  - 哈比亞的呼吸頻率是人類的兩倍，每 3 秒吸氣與呼氣一次。
+  - - 氣罐的使用時間縮短了一半，而哈皮鳥比平時更容易受到空氣品質不佳的影響。
+  - - 若哈皮接觸到總計至少 0.2 摩爾的二氧化碳和／或瘴氣，牠們便會開始掙扎著吸入氧氣。
 
 </Document>

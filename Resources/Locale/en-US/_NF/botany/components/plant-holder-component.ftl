@@ -1,2 +1,2 @@
-plant-holder-component-cannot-be-sampled-message = This plant cannot be sampled!
-plant-holder-component-bound-to-station = This planter is off of its bound station!
+plant-holder-component-cannot-be-sampled-message = 無法對這株植物進行採樣！
+plant-holder-component-bound-to-station = 這個花盆已經偏離了原定的位置！

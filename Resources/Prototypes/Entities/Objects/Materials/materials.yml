@@ -2,7 +2,7 @@
   abstract: true
   parent: BaseItem
   id: MaterialBase
-  description: A raw material.
+  description: 一種原料。
   components:
   - type: Sprite
     sprite: Objects/Materials/materials.rsi
@@ -322,7 +322,7 @@
 - type: entity
   parent: MaterialBase
   id: MaterialHideBear
-  name: bear hide
+  name: 熊皮
   components:
   - type: Sprite
     sprite: Objects/Materials/materials.rsi
@@ -350,7 +350,7 @@
   parent: MaterialBase
   id: MaterialHideCorgi
   name: corgi hide
-  description: Luxury pelt used in only the most elite fashion. Rumors say this is found when a corgi is sent to the nice farm.
+  description: 這是一種僅用於最頂級時尚的奢華皮毛。據傳，當一隻柯基犬被送往「那座美好的農場」時，便能找到這種皮毛。
   components:
   - type: Sprite
     sprite: Objects/Materials/materials.rsi
@@ -369,7 +369,7 @@
 - type: entity
   parent: MaterialBase
   id: MaterialDiamond
-  name: refined diamond
+  name: 精製鑽石
   suffix: Full
   components:
   - type: Stack
@@ -597,7 +597,7 @@
   parent: MaterialBase
   id: MaterialWebSilk
   name: silk
-  description: A webby material.
+  description: 一種網狀材質。
   suffix: Full
   components:
   - type: ConstructionMaterials # Frontier
@@ -657,8 +657,8 @@
 - type: entity
   parent: MaterialBase
   id: MaterialToothSpaceCarp
-  name: space carp tooth
-  description: Pretty small but plenty nasty. You like them best when they're not sinking into you.
+  name: 太空鯉魚牙
+  description: 雖然體型嬌小，但相當兇狠。當它們沒有鑽進你體內的時候，你才會最喜歡它們。
   suffix: Full
   components:
   - type: Sprite
@@ -696,7 +696,7 @@
   parent: [ MaterialBase, BaseKnife ]
   id: MaterialToothSharkminnow
   name: sharkminnow tooth
-  description: Looks sharp. Sharp enough to poke someone's eye out. Holy fuck it's big.
+  description: 看起來很鋒利。鋒利到足以戳瞎別人的眼睛。老天，這東西真大。
   suffix: Full
   components:
   - type: MeleeWeapon
@@ -738,7 +738,7 @@
 - type: entity
   parent: MaterialBase
   id: MaterialBones
-  name: bones
+  name: 骨頭
   suffix: Full
   components:
   - type: ConstructionMaterials # Frontier
@@ -783,7 +783,7 @@
   parent: MaterialBase
   id: MaterialGunpowder
   name: gunpowder
-  description: An explosive compound.
+  description: 一種爆炸性化合物。
   components:
   - type: Stack
     stackType: Gunpowder
@@ -801,8 +801,8 @@
 - type: entity
   parent: MaterialBase
   id: MaterialGoliathHide
-  name: goliath hide plates
-  description: Pieces of a goliath's rocky hide, these might be able to make your suit a bit more durable to attack from the local fauna.
+  name: 歌利亞皮甲板
+  description: 這些是巨人那層岩石般外皮的碎片，或許能讓你的盔甲在面對當地野生動物的攻擊時，稍微更耐打一些。
   suffix: Full
   components:
   - type: Sprite

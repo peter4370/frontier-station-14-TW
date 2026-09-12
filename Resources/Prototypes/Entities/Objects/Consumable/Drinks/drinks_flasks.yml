@@ -23,8 +23,8 @@
 - type: entity
   parent: [DrinkBaseMaterialStrongMetal, DrinkBase]
   id: DrinkFlaskOld
-  name: old flask
-  description: A decrepit old flask, its lid seems to be missing.
+  name: 舊酒壺
+  description: 一個破舊的老酒壺，蓋子似乎遺失了。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -39,8 +39,8 @@
 - type: entity
   parent: FlaskBase
   id: DrinkShinyFlask
-  name: shiny flask
-  description: A shiny metal flask. It appears to have a Greek symbol inscribed on it.
+  name: 閃亮的燒瓶
+  description: 一個閃亮的金屬燒瓶。上面似乎刻著一個希臘符號。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/shinyflask.rsi
@@ -50,8 +50,8 @@
   parent: FlaskBase
   id: DrinkMREFlask
   suffix: Full
-  name: MRE flask
-  description: An old military flask, filled with the finest contents for soldiers.
+  name: MRE 飯盒
+  description: 一只舊軍用水壺，裝滿了專為士兵準備的頂級飲品。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/mreflask.rsi
@@ -69,8 +69,8 @@
 - type: entity
   parent: FlaskBase
   id: DrinkDetFlask
-  name: inspector's flask
-  description: A metal flask with a leather band and golden badge belonging to the inspector.
+  name: 檢查員的燒瓶
+  description: 一個纏有皮帶並綴有金色徽章的金屬酒壺，屬於那位督察。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/detflask.rsi
@@ -79,8 +79,8 @@
 - type: entity
   parent: FlaskBase
   id: DrinkHosFlask
-  name: hos's flask
-  description: A metal flask, fit for a hard working HoS.
+  name: 霍斯的酒壺
+  description: 一款金屬水壺，專為辛勤工作的部門主管而設計。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/hosflask.rsi
@@ -89,8 +89,8 @@
 - type: entity
   parent: FlaskBase
   id: DrinkFlask
-  name: captain's flask
-  description: A metal flask belonging to the captain.
+  name: 船長的水壺
+  description: 一個屬於船長的金屬酒壺。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/flask.rsi
@@ -99,8 +99,8 @@
 - type: entity
   parent: FlaskBase
   id: DrinkFlaskBar
-  name: bar flask
-  description: A metal flask often given out by the bartender on loan. Don't forget to return it!
+  name: 酒吧用燒瓶
+  description: 這是一種金屬酒壺，通常由調酒師借給客人。別忘了歸還喔！
   components:
     - type: Sprite
       sprite: Objects/Consumable/Drinks/barflask.rsi
@@ -109,8 +109,8 @@
 - type: entity
   parent: FlaskBase
   id: DrinkLithiumFlask
-  name: lithium flask
-  description: A flask with a Lithium Atom symbol on it.
+  name: 鋰瓶
+  description: 一個瓶子上印有鋰原子符號。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/lithiumflask.rsi
@@ -119,8 +119,8 @@
 - type: entity
   parent: FlaskBase
   id: DrinkVacuumFlask
-  name: vacuum flask
-  description: Keeping your drinks at the perfect temperature since 1892.
+  name: 保溫瓶
+  description: 自 1892 年以來，始終為您的飲品維持完美溫度。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/vacuumflask.rsi

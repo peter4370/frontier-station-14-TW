@@ -1,8 +1,7 @@
 # Frontier
-reagent-dispenser-component-impure-auto-label = {$reagent} ({$purity}%)
-reagent-dispenser-component-set-auto-label-on-verb = Turn on auto-labeler
-reagent-dispenser-component-set-auto-label-off-verb = Turn off auto-labeler
-reagent-dispenser-component-examine-auto-label-on = The auto-labeler is turned [color=darkgreen]on[/color].
-reagent-dispenser-component-examine-auto-label-off = The auto-labeler is turned [color=red]off[/color].
-
-reagent-dispenser-component-examine-extra-slots = Number of jug slots
+reagent-dispenser-component-impure-auto-label = { $reagent } ({ $purity }%)
+reagent-dispenser-component-set-auto-label-on-verb = 開啟自動標籤功能
+reagent-dispenser-component-set-auto-label-off-verb = 關閉自動標籤功能
+reagent-dispenser-component-examine-auto-label-on = 自動標籤器已 [color=darkgreen]開啟[/color]。
+reagent-dispenser-component-examine-auto-label-off = 自動標籤器已 [color=red]關閉[/color]。
+reagent-dispenser-component-examine-extra-slots = 水壺插槽數量

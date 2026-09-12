@@ -35,7 +35,7 @@
   categories: [ HideSpawnMenu ] # Frontier
   parent: AmmoProviderShotgunShell
   id: BoxBeanbag
-  name: ammunition box (.50 beanbag)
+  name: 彈藥箱（.50 豆袋彈）
   components:
     - type: BallisticAmmoProvider
       # proto: ShellShotgunBeanbag # Frontier
@@ -53,7 +53,7 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: ammunition box (.50 pellet)
+  name: 彈藥箱（.50 鉛彈）
   parent: AmmoProviderShotgunShell
   id: BoxLethalshot
   components:
@@ -69,7 +69,7 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: ammunition box (.50 slug)
+  name: 彈藥箱（.50口徑實心彈）
   parent: AmmoProviderShotgunShell
   id: BoxShotgunSlug
   components:
@@ -89,7 +89,7 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: ammunition box (.50 flare)
+  name: 彈藥箱（.50 信號彈）
   parent: AmmoProviderShotgunShell
   id: BoxShotgunFlare
   components:
@@ -109,7 +109,7 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: ammunition box (.50 incendiary)
+  name: 彈藥箱（.50 燃燒彈）
   parent: AmmoProviderShotgunShell
   id: BoxShotgunIncendiary
   components:
@@ -129,7 +129,7 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: ammunition box (.50 uranium)
+  name: 彈藥箱（.50 鈾彈）
   parent: AmmoProviderShotgunShell
   id: BoxShotgunUranium
   components:
@@ -149,7 +149,7 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: ammunition box (.50 practice)
+  name: 彈藥箱（.50 練習彈）
   parent: AmmoProviderShotgunShell
   id: BoxShotgunPractice
   components:
@@ -169,7 +169,7 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: ammunition box (.50 tranquilizer)
+  name: 彈藥箱（.50 鎮靜劑）
   parent: AmmoProviderShotgunShell
   id: BoxShellTranquilizer
   components:

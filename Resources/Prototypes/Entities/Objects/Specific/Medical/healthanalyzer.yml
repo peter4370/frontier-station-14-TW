@@ -3,7 +3,7 @@
   parent: [BaseItem, RecyclableItemDeviceSmall] # Frontier: added RecyclableItemDeviceSmall
   name: health analyzer
   suffix: Always Powered
-  description: A hand-held body scanner capable of distinguishing vital signs of the subject.
+  description: 一款能夠辨識受檢者生命徵象的手持式人體掃描儀。
   components:
   - type: Sprite
     sprite: Objects/Specific/Medical/healthanalyzer.rsi

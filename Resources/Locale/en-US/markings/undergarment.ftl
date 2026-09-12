@@ -1,21 +1,17 @@
-marking-UndergarmentTopTanktop = Tanktop
+marking-UndergarmentTopTanktop = 無袖上衣
 marking-UndergarmentTopBinder = Binder
-marking-UndergarmentTopBra = Classic Bra
-marking-UndergarmentTopSportsbra = Sports Bra
-
-marking-UndergarmentBottomBoxers = Boxers
-marking-UndergarmentBottomBriefs = Briefs
-marking-UndergarmentBottomSatin = Satin
-
+marking-UndergarmentTopBra = 經典文胸
+marking-UndergarmentTopSportsbra = 運動內衣
+marking-UndergarmentBottomBoxers = 拳擊手
+marking-UndergarmentBottomBriefs = 簡訊
+marking-UndergarmentBottomSatin = 緞面
 marking-UndergarmentTopTanktopVox = Tanktop
 marking-UndergarmentTopBinderVox = Binder
 marking-UndergarmentTopBraVox = Classic Bra
 marking-UndergarmentTopSportsbraVox = Sports Bra
-
 marking-UndergarmentBottomBoxersVox = Boxers
 marking-UndergarmentBottomBriefsVox = Briefs
 marking-UndergarmentBottomSatinVox = Satin
-
 marking-UndergarmentBottomBoxersReptilian = Boxers
 marking-UndergarmentBottomBriefsReptilian = Briefs
 marking-UndergarmentBottomSatinReptilian = Satin

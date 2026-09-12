@@ -1,9 +1,9 @@
-gases-oxygen = Oxygen
-gases-nitrogen = Nitrogen
-gases-co2 = Carbon Dioxide
+gases-oxygen = 氧氣
+gases-nitrogen = 氮
+gases-co2 = 二氧化碳
 gases-plasma = Plasma
-gases-tritium = Tritium
-gases-water-vapor = Water Vapor
+gases-tritium = 氚
+gases-water-vapor = 水蒸氣
 gases-ammonia = Ammonia
-gases-n2o = Nitrous Oxide
+gases-n2o = 一氧化二氮
 gases-frezon = Frezon

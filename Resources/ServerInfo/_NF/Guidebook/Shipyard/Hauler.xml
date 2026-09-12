@@ -1,40 +1,41 @@
+
 <Document>
-  # HAULER-CLASS SALVAGE SHUTTLE
+  # 運輸級打撈穿梭機
   <Box>
     <GuideEntityEmbed Entity="CrateTradeSecureHigh" Caption="trading crate"/>
-    <GuideEntityEmbed Entity="CrateGenericSteel" Caption="mystery loot"/>
+    <GuideEntityEmbed Entity="CrateGenericSteel" Caption="神秘戰利品"/>
     <GuideEntityEmbed Entity="OreProcessor"/>
   </Box>
   <Box>
     <GuideEntityEmbed Entity="ShuttleMapHauler" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 2-4
+  [color=#a4885c]建議船員人數：[/color] 2-4 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 飛船簡介
 
-  "A medium sized vessel specializing in long-haul salvage, mining, and cargo operations."
+  「一艘專精於長途打撈、採礦及貨運作業的中型船艦。」
 
-  # Ship Functions
+  # 船隻功能
 
-  # Cargo
+  # 貨物
 
-  [textlink="Cargo Hauling" link="CargoHauling"/]
+  [textlink="貨物運輸" link="CargoHauling"/]
 
-  # Piloting
+  # 引航
 
-  [textlink="Piloting" link="Piloting"/]
+  [textlink="引航" link="Piloting"/]
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="區域拓撲結構" link="SectorTopology"/]
 
-  # Hiring crew
+  # 招募船員
 
-  [textlink="Hiring" link="Hiring"/]
+  [textlink="招募" link="招募"/]
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員。
 
   # PREFLIGHT CHECKLIST
 

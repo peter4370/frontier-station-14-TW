@@ -1,26 +1,27 @@
+
 <Document>
-  # HYPNOS-CLASS INTERDICTION SHUTTLE
+  # HYPNOS-CLASS 攔截穿梭機
   <Box Margin="-130">
   <GuideEntityEmbed Entity="ShuttleBannerNFSD" Caption=""/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapHypnos" Caption="" Margin="-20"/>
-  </Box>  
-  [color=#a4885c]Ship Size:[/color] Medium
+  </Box>
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Fleet Shuttle:[/color] No
+  [color=#a4885c]艦隊穿梭機：[/color] 無
 
-  [color=#a4885c]Recommended Crew:[/color] 2-3
+  [color=#a4885c]建議船員人數：[/color] 2-3 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力生成類型：[/color] 鈾
 
-  [color=#a4885c]Expeditions:[/color] No
+  [color=#a4885c]遠征任務：[/color] 無
 
-  [color=#a4885c]IFF Console:[/color] Yes
+  [color=#a4885c]敵我識別（IFF）控制台：[/color] 有
 
-  [color=#a4885c]Minimum Access Level:[/color] Sergeant
+  [color=#a4885c]最低存取等級：[/color] 中士
 
-  "A light medium ship with a recommended crew of 2 to 3 officers, the Hypnos is a dedicated interdiction vessel outfitted with a powerful EMP device for tackling escaping vessels."
+  「『希普諾斯號』是一艘輕型中型艦艇，建議配有 2 至 3 名軍官，作為專門的攔截艦，配備強大的電磁脈衝裝置，用以對付試圖逃逸的船隻。」
 
   # Ship Functions
   <Box>
@@ -28,10 +29,10 @@
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Power Down Thrusters"/>
   <GuideEntityEmbed Entity="MobileEmpGenerator"/>
   </Box>
-  - The EMP device has a maximum range of 100 meters. Ensure you are within range before firing.
+  - 該電磁脈衝（EMP）裝置的最大作用範圍為 100 公尺。 開火前請確認您處於有效射程內。
 
-  # Tips on running NSF Hypnos shuttles
-  - Optimal [bold]Target Power[/bold] (kW) for the generator unit is [color=#a4885c]30 [bold]kW[/bold][/color]. If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
+  # 運行 NSF Hypnos 穿梭機的要訣
+  - 發電機組的最佳 [bold]目標功率[/bold]（kW）為 [color=#a4885c]30 [bold]kW[/bold][/color]。 If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
   - For the basics of [bold]shuttle piloting[/bold], refer to [textlink="Piloting" link="Piloting"] and [textlink="Sector Topology" link="SectorTopology"/].
   - For the basics of [bold]cargo hauling[/bold], refer to [textlink="Cargo Hauling" link="CargoHauling"].
   - For the basics of [bold]expedition diving[/bold], refer to [textlink="Expeditions" link="Expeditions"].

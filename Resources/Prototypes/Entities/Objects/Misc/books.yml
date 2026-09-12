@@ -2,7 +2,7 @@
   name: book
   parent: [BaseItem, RecyclableItemPaper] # Frontier: added RecyclableItemPaper
   id: BookBase
-  description: A hardcover book.
+  description: 一本精裝書。
   components:
   - type: PhysicalComposition # Frontier
     materialComposition: # Frontier
@@ -78,8 +78,8 @@
 - type: entity
   id: BookSpaceEncyclopedia
   parent: BaseGuidebook
-  name: space encyclopedia
-  description: An encyclopedia containing all the knowledge. The author of this encyclopedia is unknown.
+  name: 太空百科全書
+  description: 一部蘊含所有知識的百科全書。這部百科全書的作者不詳。
   components:
   - type: Sprite
     layers:
@@ -99,8 +99,8 @@
 - type: entity
   id: BookTheBookOfControl
   parent: BaseGuidebook
-  name: the book of control
-  description: Essential to become robust.
+  name: '《控制之書》'
+  description: 這是變得堅韌不可或缺的。
   components:
   - type: Sprite
     layers:
@@ -120,8 +120,8 @@
 - type: entity
   id: BookBartendersManual
   parent: BaseGuidebook
-  name: bartender's manual
-  description: This manual is stained with beer.
+  name: 調酒師手冊
+  description: 這本手冊上有啤酒漬。
   components:
   - type: Sprite
     layers:
@@ -139,8 +139,8 @@
 - type: entity
   id: BookHowToCookForFortySpaceman
   parent: BaseGuidebook
-  name: How To Cook For Forty Spacemen
-  description: A book about cooking written by a space chef.
+  name: 如何為四十名太空人做飯
+  description: 一本由太空廚師所寫的烹飪書。
   components:
   - type: Sprite
     layers:
@@ -157,8 +157,8 @@
 - type: entity
   id: BookLeafLoversSecret
   parent: BaseGuidebook
-  name: leaf lover's secret
-  description: It has a strong weed smell. It motivates you to feed and seed.
+  name: 葉子愛好者的秘密
+  description: 它散發著濃烈的雜草氣味。這會激勵你進行施肥和播種。
   components:
   - type: Sprite
     layers:
@@ -178,8 +178,8 @@
 - type: entity
   id: BookEngineersHandbook
   parent: BaseGuidebook
-  name: engineer's handbook
-  description: A handbook about engineering written by Nanotrasen.
+  name: 工程師手冊
+  description: 由 Nanotrasen 撰寫的一本關於工程學的手冊。
   components:
   - type: Sprite
     layers:
@@ -198,8 +198,8 @@
 - type: entity
   id: BookScientistsGuidebook
   parent: BaseGuidebook
-  name: scientist's guidebook
-  description: A guidebook about science written by Nanotrasen.
+  name: 科學家指南
+  description: 由 Nanotrasen 撰寫的一本關於科學的指南。
   components:
   - type: Sprite
     layers:
@@ -216,8 +216,8 @@
 - type: entity
   id: BookSecurity
   parent: BaseGuidebook
-  name: security 101
-  description: A book about security written by Nanotrasen. The book is stained with blood. It seems to have been used more as a weapon than reading material.
+  name: 資安入門
+  description: 一本由納諾特森所撰寫的安全相關書籍。書上沾滿了血跡，看來它被當作武器使用的次數，似乎比當作閱讀材料還要多。
   components:
   - type: Sprite
     layers:
@@ -240,8 +240,8 @@
 - type: entity
   id: BookHowToKeepStationClean
   parent: BaseGuidebook
-  name: how to keep station clean
-  description: This book is very clean.
+  name: 如何保持車站整潔
+  description: 這本書非常乾淨。
   components:
   - type: Sprite
     layers:
@@ -257,8 +257,8 @@
 - type: entity
   id: BookHowToRockAndStone
   parent: BaseGuidebook
-  name: how to rock and stone
-  description: A very detailed guide about salvage written by Karl, a legendary space miner, however he's missing. It motivates you to rock and stone.
+  name: 如何玩轉岩石與石頭
+  description: 這是一份由傳奇太空礦工卡爾撰寫的、關於打撈作業的極為詳盡指南，不過他本人卻下落不明。這份指南會激勵你大展身手。
   components:
   - type: Sprite
     layers:
@@ -278,8 +278,8 @@
 - type: entity
   id: BookMedicalReferenceBook
   parent: BaseGuidebook
-  name: medical reference book
-  description: A reference book about medical written by an old doctor. The handwriting is barely comprehensible.
+  name: 醫學參考書
+  description: 一本由一位老醫師撰寫的醫學參考書。字跡幾乎難以辨認。
   components:
   - type: Sprite
     layers:
@@ -297,8 +297,8 @@
 - type: entity
   id: BookHowToSurvive
   parent: BaseGuidebook
-  name: how to survive
-  description: Ironically the author of this book is dead.
+  name: 如何生存
+  description: 諷刺的是，這本書的作者已經過世了。
   components:
   - type: Sprite
     layers:
@@ -319,7 +319,7 @@
   id: BookChemicalCompendium
   parent: BaseGuidebook
   name: chempendium
-  description: A comprehensive guide written by some old skeleton of a professor about chemical synthesis.
+  description: 由某位老教授撰寫的一本關於化學合成的綜合指南。
   components:
   - type: Sprite
     layers:
@@ -337,8 +337,8 @@
 - type: entity
   id: BookSpaceLaw
   parent: BaseGuidebook
-  name: space law
-  description: A set of Nanotrasen guidelines for keeping law and order on their space stations.
+  name: 太空法
+  description: 一套由納諾特森（Nanotrasen）制定的、用於維護其太空站治安與秩序的準則。
   components:
   - type: Sprite
     layers:
@@ -355,7 +355,7 @@
   parent: BookBase
   id: BookRandom
   suffix: random visual
-  description: Each book is unique! What is hidden in this one?
+  description: 每一本書都是獨一無二的！這本書裡藏著什麼呢？
   components:
   - type: RandomMetadata
     nameSegments:
@@ -427,8 +427,8 @@
 - type: entity
   parent: BookBase
   id: BookAtmosDistro
-  name: "Newton's Guide to Atmos: The Distro"
-  description: There are endless illegible notes scribbled in the margins. Most of the text is covered in handwritten question marks.
+  name: "《牛頓的大氣指南：發行版》"
+  description: 頁邊潦草地寫滿了無數難以辨識的筆記。正文的大部分都被手寫的問號覆蓋了。
   components:
   - type: Sprite
     layers:
@@ -446,7 +446,7 @@
 - type: entity
   parent: BookBase
   id: BookAtmosWaste
-  name: "Newton's Guide to Atmos: Waste"
+  name: "《牛頓的《大氣》指南：廢棄物》"
   description: There are endless illegible notes scribbled in the margins. Most of the text is covered in handwritten question marks.
   components:
   - type: Sprite
@@ -465,7 +465,7 @@
 - type: entity
   parent: BookBase
   id: BookAtmosAirAlarms
-  name: "Newton's Guide to Atmos: Air Alarms"
+  name: "《牛頓的大氣指南：空氣警報》"
   description: There are endless illegible notes scribbled in the margins. Most of the text is covered in handwritten question marks.
   components:
   - type: Sprite
@@ -484,7 +484,7 @@
 - type: entity
   parent: BookBase
   id: BookAtmosVentsMore
-  name: "Newton's Guide to Atmos: Vents and More"
+  name: "《牛頓的大氣指南：通風口及其他》"
   description: There are endless illegible notes scribbled in the margins. Most of the text is covered in handwritten question marks.
   components:
   - type: Sprite

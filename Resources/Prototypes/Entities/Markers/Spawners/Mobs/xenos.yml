@@ -1,7 +1,7 @@
 - type: entity
   parent: MarkerBase
   id: SpawnMobXenoBurrower
-  name: Xeno Spawner
+  name: 異形生成器
   suffix: Burrower
   components:
   - type: Sprite

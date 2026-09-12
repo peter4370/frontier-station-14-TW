@@ -1,19 +1,14 @@
 ﻿roles-antag-changeling-name = Changeling
-roles-antag-changeling-objective = A intelligent predator that assumes the identities of its victims.
-
-changeling-devour-attempt-failed-rotting = This corpse has only rotted biomass.
-changeling-devour-attempt-failed-protected = This victim's biomass is protected by armor!
-
-changeling-devour-begin-windup-self = Our uncanny mouth reveals itself with otherworldly hunger.
-changeling-devour-begin-windup-others = { CAPITALIZE(POSS-ADJ($user)) } uncanny mouth reveals itself with otherworldly hunger.
-changeling-devour-begin-consume-self = The uncanny mouth digs deep into its victim.
-changeling-devour-begin-consume-others = { CAPITALIZE(POSS-ADJ($user)) } uncanny mouth digs deep into { POSS-ADJ($user) } victim.
-
-changeling-devour-consume-failed-not-dead = This body yet lives! We cannot consume it alive!
-changeling-devour-consume-complete-self = Our uncanny mouth retreats, biomass consumed.
-changeling-devour-consume-complete-others = { CAPITALIZE(POSS-ADJ($user)) } uncanny mouth retreats.
-
-changeling-transform-attempt-self = Our bones snap, muscles tear, one flesh becomes another.
-changeling-transform-attempt-others = { CAPITALIZE(POSS-ADJ($user)) } bones snap, muscles tear, body shifts into another.
-
-changeling-paused-map-name = Changeling identity storage map
+roles-antag-changeling-objective = 一種會假扮受害者身分、聰明的掠食者。
+changeling-devour-attempt-failed-rotting = 這具屍體只剩下一堆腐爛的生物質。
+changeling-devour-attempt-failed-protected = 這名受害者的生物質受到裝甲的保護！
+changeling-devour-begin-windup-self = 我們那詭異的嘴巴，正以超凡的飢餓感顯露真容。
+changeling-devour-begin-windup-others = { CAPITALIZE(POSS-ADJ($user)) } 那詭異的嘴巴帶著超凡的飢餓感顯現出來。
+changeling-devour-begin-consume-self = 那張詭異的嘴深深地咬進了受害者的身體裡。
+changeling-devour-begin-consume-others = { CAPITALIZE(POSS-ADJ($user)) } 那詭異的嘴巴深深鑽進 { POSS-ADJ($user) } 受害者體內。
+changeling-devour-consume-failed-not-dead = 這具軀體依然活著！我們不能在它還活著的時候將它吞噬！
+changeling-devour-consume-complete-self = 我們那詭異的嘴巴縮了回去，生物量已被消耗殆盡。
+changeling-devour-consume-complete-others = { CAPITALIZE(POSS-ADJ($user)) } 那張詭異的嘴巴縮了回去。
+changeling-transform-attempt-self = 我們的骨頭斷裂，肌肉撕裂，一具肉身化作另一具。
+changeling-transform-attempt-others = { CAPITALIZE(POSS-ADJ($user)) } 骨頭斷裂，肌肉撕裂，身體轉變為另一種形態。
+changeling-paused-map-name = 變形者身分儲存地圖

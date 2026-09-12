@@ -1,6 +1,6 @@
 - type: entity
   id: UraniumWindow
-  name: uranium window
+  name: 鈾窗
   parent: WindowRCDResistant
   components:
   - type: Sprite
@@ -54,7 +54,7 @@
 - type: entity
   id: UraniumWindowDirectional
   parent: WindowDirectionalRCDResistant
-  name: directional uranium window
+  name: 定向鈾窗
   description: Don't smudge up the glass down there.
   placement:
     mode: SnapgridCenter

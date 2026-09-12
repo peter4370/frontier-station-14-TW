@@ -1,5 +1,6 @@
+
 <Document>
-# RETORT-CLASS LOGISTICS SHUTTLE
+# RETORT-CLASS 物流穿梭機
 <Box>
   <GuideEntityEmbed Entity="SignEngineering" Caption="Produce"/>
   <GuideEntityEmbed Entity="NFPosterContrabandFscLogo" Caption="Profit"/>
@@ -8,15 +9,15 @@
 <Box>
   <GuideEntityEmbed Entity="ShuttleMapRetort" Caption=""/>
 </Box>
-[color=#a4885c]Ship Size:[/color] Medium
+[color=#a4885c]船隻尺寸：[/color] 中型
 
-[color=#a4885c]Recommended Crew:[/color] 1-4
+[color=#a4885c]建議船員人數：[/color] 1-4 人
 
-[color=#a4885c]Power Gen Type:[/color] Bananium
+[color=#a4885c]動力產生類型：[/color] 巴納尼姆
 
-# Shuttle Brief
+# 飛船簡介
 
-"A gas mining and atmospheric reaction platform. The Retort was produced by the Far Star Corporation as a gas extraction and general engineering platform to support the construction and maintenance of its new deep space platform development initiatives."
+「一座氣體開採與大氣反應平台。 「『Retort』是由 Far Star 公司所製造的一座氣體萃取與通用工程平台，旨在支援該公司新深空平台開發計畫的建造與維護工作。」
 
 # Ship Functions
 

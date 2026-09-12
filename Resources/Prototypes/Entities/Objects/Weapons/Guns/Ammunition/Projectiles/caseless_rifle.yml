@@ -1,7 +1,7 @@
 - type: entity
   abstract: true # Frontier: use _NF variants
   id: BulletCaselessRifle
-  name: bullet (.25 caseless)
+  name: 子彈（.25 無殼）
   parent: BaseBullet
   categories: [ HideSpawnMenu ]
   components:
@@ -13,7 +13,7 @@
 - type: entity
   abstract: true # Frontier: use _NF variants
   id: BulletCaselessRiflePractice
-  name: bullet (.25 caseless practice)
+  name: 子彈（.25 無殼練習彈）
   parent: BaseBulletPractice
   categories: [ HideSpawnMenu ]
   components:
@@ -25,7 +25,7 @@
 - type: entity
   abstract: true # Frontier: use _NF variants
   id: BulletCaselessRifleRubber
-  name: bullet (.25 caseless rubber)
+  name: 子彈（.25 無殼橡膠彈）
   parent: BaseBulletRubber
   categories: [ HideSpawnMenu ]
   components:

@@ -1,14 +1,13 @@
-dungeon-boss-grid-warning = Return to the dungeon.
-
-nf-salvage-faction-zombies = Zombies
+dungeon-boss-grid-warning = 返回地牢。
+nf-salvage-faction-zombies = 殭屍
 nf-salvage-faction-xenos = Xenos
-nf-salvage-faction-carps = Carp
-nf-salvage-faction-syndicate = Syndicate
-nf-salvage-faction-cultists = Cultists
-nf-salvage-faction-flesh = Flesh
+nf-salvage-faction-carps = 鯉魚
+nf-salvage-faction-syndicate = 辛迪加
+nf-salvage-faction-cultists = 邪教信徒
+nf-salvage-faction-flesh = 血肉
 nf-salvage-faction-argocytes = Argocytes
 nf-salvage-faction-dinosaurs = Dinosaurs
 nf-salvage-faction-mercenaries = Mercenaries
 nf-salvage-faction-explorers = Explorers
-nf-salvage-faction-silicons = Rogue Silicon
+nf-salvage-faction-silicons = 「Rogue Silicon」
 nf-salvage-faction-punks = Punks

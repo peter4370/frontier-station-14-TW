@@ -3,7 +3,7 @@
   id: SprayBottle
   parent: [BaseItem, RecyclableItemPlasticSmall] # Frontier: added RecyclableItemPlasticSmall
   suffix: Empty
-  description: A spray bottle with an unscrewable top.
+  description: 一個瓶蓋可旋開的噴霧瓶。
   components:
   - type: Edible
     edible: Drink
@@ -49,11 +49,11 @@
     exactVolume: true
 
 - type: entity
-  name: mega spray bottle
+  name: 超大容量噴霧瓶
   id: MegaSprayBottle
   parent: SprayBottle
   suffix: Empty
-  description: A huge spray bottle, capable of unrivaled janitorial power.
+  description: 一款超大容量噴霧瓶，具備無與倫比的清潔威力。
   components:
   - type: Sprite
     sprite: Objects/Specific/Janitorial/janitorial.rsi
@@ -89,7 +89,7 @@
 
 - type: entity
   name: space cleaner
-  description: BLAM!-brand non-foaming space cleaner!
+  description: BLAM! 品牌無泡沫太空清潔劑！
   id: SprayBottleSpaceCleaner
   parent: SprayBottle
   suffix: ""
@@ -108,9 +108,9 @@
 - type: entity
   parent: SprayBottle
   id: BorgSprayBottle
-  name: internal spray jet
+  name: 內部噴射嘴
   suffix: Filled
-  description: A pressurized vessel for spraying reagents, installed directly into a custodial cyborg. Typically filled with space cleaner for dealing with those nasty spills.
+  description: 一種用於噴灑試劑的加壓容器，直接安裝在清潔機器人上。通常裝有太空清潔劑，用於處理那些惱人的潑灑物。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -123,9 +123,9 @@
 - type: entity
   parent: MegaSprayBottle
   id: BorgMegaSprayBottle
-  name: adv. internal spray jet
+  name: adv. 內部噴射嘴
   suffix: Filled
-  description: An upgraded version of the integrated spray bottle, installed directly into a custodial cyborg. Typically filled with space cleaner for dealing with those nasty spills.
+  description: 這款升級版的整合式噴霧瓶，可直接安裝於清潔機器人上。通常裝有太空清潔劑，用於處理那些惱人的潑灑物。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -138,7 +138,7 @@
 # Vapor
 - type: entity
   id: Vapor
-  name: "vapor"
+  name: "蒸氣"
   categories: [ HideSpawnMenu ]
   components:
   - type: SolutionContainerManager

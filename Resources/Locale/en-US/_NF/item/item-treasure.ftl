@@ -1,1 +1,1 @@
-goldleaf = Gold Leaf
+goldleaf = 金箔

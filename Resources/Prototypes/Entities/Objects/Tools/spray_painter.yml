@@ -1,8 +1,8 @@
 - type: entity
   parent: [BaseItem, RecyclableItemDeviceSmall] # Frontier: added RecyclableItemDeviceSmall
   id: SprayPainter
-  name: spray painter
-  description: A spray painter for painting airlocks, pipes, and other items.
+  name: 噴漆工
+  description: 一名負責噴塗氣閘、管線及其他物品的噴漆工。
   components:
   - type: Sprite
     sprite: Objects/Tools/spray_painter.rsi
@@ -71,8 +71,8 @@
 - type: entity
   parent: BaseItem
   id: SprayPainterAmmo
-  name: compressed paint
-  description: A cartridge of highly compressed paint, commonly used in spray painters.
+  name: 壓縮油漆
+  description: 一種裝有高度壓縮油漆的罐裝容器，常見於噴漆工具中。
   components:
   - type: SprayPainterAmmo
   - type: Sprite

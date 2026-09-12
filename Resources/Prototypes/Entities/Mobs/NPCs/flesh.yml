@@ -1,8 +1,8 @@
 - type: entity
   parent: [ SimpleMobBase, MobCombat ]
   id: BaseMobFlesh
-  name: aberrant flesh
-  description: A shambling mass of flesh, animated through anomalous energy.
+  name: 異變的肉體
+  description: 一團蹣跚的血肉，由異常能量驅動而活動。
   abstract: true
   components:
   - type: HTN
@@ -170,8 +170,8 @@
 - type: entity
   parent: BaseMobFlesh
   id: MobAbomination
-  name: abomination
-  description: A rejected clone, in constant pain and seeking revenge.
+  name: 可憎之事
+  description: 一個被遺棄的克隆體，始終飽受痛苦折磨，並尋求報復。
   components:
   - type: Sprite
     drawdepth: Mobs

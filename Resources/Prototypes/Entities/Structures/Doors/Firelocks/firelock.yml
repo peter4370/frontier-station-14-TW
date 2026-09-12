@@ -2,8 +2,8 @@
   id: BaseFirelock
   abstract: true
   parent: BaseStructure
-  name: firelock
-  description: Apply crowbar.
+  name: 火繩槍
+  description: 使用撬棍。
   components:
     - type: Anchorable
       flags:
@@ -168,7 +168,7 @@
 - type: entity
   id: FirelockGlass
   parent: Firelock
-  name: glass firelock
+  name: 玻璃火鎖槍
   components:
     - type: StationAiWhitelist
     - type: Sprite

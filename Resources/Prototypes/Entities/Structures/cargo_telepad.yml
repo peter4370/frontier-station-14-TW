@@ -1,8 +1,8 @@
 - type: entity
   id: CargoTelepad
   parent: [BaseStructureDisableToolUse, BaseStructureIndestructible, ConstructibleMachine, BaseMachinePowered] # Frontier
-  name: cargo telepad
-  description: Beam in the cargo. # Frontier: What pizza?
+  name: 貨物傳送台
+  description: 將貨物裝入貨艙。 # Frontier: What pizza?
   components:
   - type: InteractionOutline
   - type: Physics

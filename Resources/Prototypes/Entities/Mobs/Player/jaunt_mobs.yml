@@ -1,8 +1,8 @@
 ﻿- type: entity
-  name: jaunt
+  name: 短途旅行
   parent: [Incorporeal, BaseMob]
   id: BaseMobJaunt
-  description: Faint traces of a humanoid figure linger here
+  description: 此處仍殘留著一絲人形身影的痕跡
   suffix: Ethereal
   components:
   - type: ContentEye
@@ -42,8 +42,8 @@
 - type: entity
   parent: [Incorporeal, BaseMob]
   id: DesynchronizedPocket
-  name: desynchronized pocket
-  description: A pocket in spacetime, keeping the user a fraction of a second in the future.
+  name: 不同步的口袋
+  description: 時空中的一個微小空隙，能讓使用者保持在未來的一瞬間。
   components:
   - type: Spectral
   - type: MovementSpeedModifier

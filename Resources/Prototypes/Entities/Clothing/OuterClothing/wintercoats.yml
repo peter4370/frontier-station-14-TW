@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingOuterStorageBase
   id: ClothingOuterWinterCoat
-  name: winter coat
-  description: A heavy jacket made from 'synthetic' animal furs.
+  name: 冬外套
+  description: 一件由「合成」動物毛皮製成的厚外套。
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -41,7 +41,7 @@
 - type: entity
   parent: ClothingOuterWinterCoat
   id: ClothingOuterWinterCoatToggleable
-  name: winter coat with hood
+  name: 帶連帽的冬外套
   categories: [ HideSpawnMenu ]
   components:
   - type: ToggleableClothing
@@ -56,7 +56,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterAtmos
-  name: atmospherics winter coat
+  name: atmospherics 冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -79,7 +79,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterBar
-  name: bartender winter coat
+  name: 調酒師冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -102,7 +102,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable # Frontier: removed BaseCommandContraband
   id: ClothingOuterWinterCap
-  name: captain's winter coat
+  name: 船長的冬外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -125,7 +125,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterCargo
-  name: cargo winter coat
+  name: Cargo 冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -148,7 +148,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable # Frontier: removed BaseCommandContraband
   id: ClothingOuterWinterCE
-  name: chief engineer's winter coat
+  name: 總工程師的冬外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -171,7 +171,7 @@
 - type: entity
   parent: [ ClothingOuterWinterCoatToggleable, BaseCentcommContraband ]
   id: ClothingOuterWinterCentcom
-  name: CentComm winter coat
+  name: CentComm 冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -194,8 +194,8 @@
 - type: entity
   parent: ClothingOuterWinterCoat
   id: ClothingOuterWinterChef
-  name: chef's freezer coat
-  description: A coat specifically designed for work inside cold storage, sorely needed by cold-blooded lizard chefs.
+  name: 主廚專用防寒外套
+  description: 一款專為冷藏庫內工作設計的外套，對那些「冷血」的蜥蜴大廚而言，可說是迫切所需。
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -216,7 +216,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterChem
-  name: chemistry winter coat
+  name: Chemistry 冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -246,7 +246,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable # Frontier: BaseCommandContraband
   id: ClothingOuterWinterCMO
-  name: chief medical officer's winter coat
+  name: 首席醫療官的冬衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -276,7 +276,7 @@
 - type: entity
   parent: ClothingOuterWinterCoat
   id: ClothingOuterWinterClown
-  name: clown winter coat
+  name: 小丑冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coatclown.rsi
@@ -286,7 +286,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterEngi
-  name: engineering winter coat
+  name: 工程款冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -309,7 +309,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterGen
-  name: genetics winter coat
+  name: Genetics 冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -339,7 +339,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable # Frontier: removed BaseCommandContraband
   id: ClothingOuterWinterHoP
-  name: head of personnel's winter coat
+  name: 人事主管的冬外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -364,8 +364,8 @@
 - type: entity
   parent: [BaseC2ContrabandUnredeemable, ClothingOuterArmorHoS, ClothingOuterWinterCoatToggleable] # Frontier: BaseSecurityCommandContraband<BaseC2ContrabandUnredeemable
   id: ClothingOuterWinterHoS
-  name: head of security's armored winter coat
-  description: A sturdy, utilitarian winter coat designed to protect a head of security from any brig-bound threats and hypothermic events.
+  name: 保安主管的防彈冬外套
+  description: 一款堅固實用的冬季大衣，專為保護一名安全主管免受任何可能導致被關進禁閉室的威脅及低體溫症的侵襲而設計。
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coathosarmored.rsi
@@ -378,8 +378,8 @@
 - type: entity
   parent: [BaseC2ContrabandUnredeemable, ClothingOuterWinterCoatToggleable] # Frontier: BaseSecurityCommandContraband<BaseC2ContrabandUnredeemable
   id: ClothingOuterWinterHoSUnarmored
-  name: head of security's winter coat
-  description: A sturdy coat, a warm coat, but not an armored coat.
+  name: 保安主管的冬衣
+  description: 一件結實的外套，一件保暖的外套，但不是一件裝甲外套。
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -402,7 +402,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterHydro
-  name: hydroponics winter coat
+  name: 水耕栽培冬季外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -425,7 +425,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterJani
-  name: janitorial winter coat
+  name: 清潔工冬季外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -455,7 +455,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterMed
-  name: medical winter coat
+  name: 醫療用冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -485,7 +485,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterMime
-  name: mime winter coat
+  name: mime 冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -508,7 +508,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterMiner
-  name: mining winter coat
+  name: 採礦風格冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -531,7 +531,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterPara
-  name: paramedic winter coat
+  name: 救護員冬季外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -561,7 +561,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable # Frontier: removed BaseCommandContraband
   id: ClothingOuterWinterQM
-  name: quartermaster's winter coat
+  name: 軍需官的冬大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -585,7 +585,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable # Frontier: removed BaseCommandContraband
   id: ClothingOuterWinterRD
-  name: research director's winter coat
+  name: 研究主任的冬外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -615,7 +615,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterRobo
-  name: robotics winter coat
+  name: 機器人冬季外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -639,7 +639,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterSci
-  name: science winter coat
+  name: 科學冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -669,7 +669,7 @@
 - type: entity
   parent: [BaseC2ContrabandUnredeemable, ClothingOuterWinterCoatToggleable] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: ClothingOuterWinterSec
-  name: security winter coat
+  name: 防盜冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -692,7 +692,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterViro
-  name: virology winter coat
+  name: 病毒學冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -723,8 +723,8 @@
 - type: entity
   parent: [BaseC2ContrabandUnredeemable, ClothingOuterArmorWarden, ClothingOuterWinterCoatToggleable] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: ClothingOuterWinterWarden
-  name: warden's armored winter coat
-  description: A sturdy, utilitarian winter coat designed to protect a warden from any brig-bound threats and hypothermic events.
+  name: 看守長的防彈冬衣
+  description: 一款結實耐穿、實用性強的冬季大衣，專為保護獄警免受任何可能導致被關進禁閉室的威脅及低體溫症的侵襲而設計。
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coatwardenarmored.rsi
@@ -737,7 +737,7 @@
 - type: entity
   parent: [BaseC2ContrabandUnredeemable, ClothingOuterWinterCoatToggleable] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: ClothingOuterWinterWardenUnarmored
-  name: warden's winter coat
+  name: 看守員的冬衣
   description: A sturdy coat, a warm coat, but not an armored coat.
   components:
   - type: Sprite
@@ -761,8 +761,8 @@
 - type: entity
   parent: [BaseC3SyndicateContraband, ClothingOuterWinterCoatToggleable, ContrabandClothing] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband, added ContrabandClothing as parent
   id: ClothingOuterWinterSyndieCap
-  name: syndicate's winter coat
-  description: "The syndicate's winter coat is made of durable fabric, with gilded patterns, and coarse wool."
+  name: 辛迪加的冬外套
+  description: "該組織的冬季大衣採用耐用的布料製成，飾有鍍金圖案，並使用粗羊毛。"
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -786,8 +786,8 @@
 - type: entity
   parent: [BaseC3SyndicateContraband, ClothingOuterWinterWarden, ContrabandClothing] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband, added ContrabandClothing as parent
   id: ClothingOuterWinterSyndieCapArmored
-  name: syndicate's armored winter coat
-  description: "The syndicate's armored winter coat is made of durable fabric, with gilded patterns, and coarse wool."
+  name: 辛迪加的防彈冬外套
+  description: "該組織的防彈冬衣採用耐用的布料製成，飾有鍍金圖案，並以粗羊毛縫製而成。"
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/syndicate/coatsyndiecaparmored.rsi
@@ -801,7 +801,7 @@
   parent: [BaseC3SyndicateContraband, ClothingOuterWinterCoatToggleable, ContrabandClothing] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband, added ContrabandClothing as parent
   id: ClothingOuterWinterSyndie
   name: syndicate's winter coat
-  description: Insulated winter coat, looks like a merch from "Syndieland".
+  description: 這件保暖冬外套，看起來像是「Syndieland」的周邊商品。
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -824,8 +824,8 @@
 - type: entity
   parent: ClothingOuterWinterCoat
   id: ClothingOuterWinterMusician
-  name: musician's winter coat
-  description: An oversized, plasticine space tuxedo that'll have people asking "do you know me?"
+  name: 音樂家的冬外套
+  description: 一件超大號、用塑膠黏土製成的太空燕尾服，穿上它，大家肯定會問：「你認得我嗎？」
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coatnomi.rsi
@@ -835,8 +835,8 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterWeb
-  name: web winter coat
-  description: Feels like the inside of a cocoon, not that this would make you less afraid of being in one.
+  name: 網路冬季大衣
+  description: 感覺就像蛹的內部，不過這倒也不見得會讓你對身處其中感到沒那麼害怕。
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -878,7 +878,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorBlack
-  name: black winter coat
+  name: 黑色冬外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -909,7 +909,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorPurple
-  name: purple winter coat
+  name: 紫色冬外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -940,7 +940,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorRed
-  name: red winter coat
+  name: 紅色冬外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -971,7 +971,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorBlue
-  name: blue winter coat
+  name: 藍色冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -1002,7 +1002,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorBrown
-  name: brown winter coat
+  name: 棕色冬外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -1033,7 +1033,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorGray
-  name: gray winter coat
+  name: 灰色冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -1064,7 +1064,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorGreen
-  name: green winter coat
+  name: 綠色冬外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -1095,7 +1095,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorLightBrown
-  name: light brown winter coat
+  name: 淺棕色冬外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -1126,7 +1126,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorOrange
-  name: orange winter coat
+  name: 橘色冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -1157,7 +1157,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorWhite
-  name: white winter coat
+  name: 白色冬季大衣
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -1188,7 +1188,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorYellow
-  name: yellow winter coat
+  name: 黃色冬外套
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi

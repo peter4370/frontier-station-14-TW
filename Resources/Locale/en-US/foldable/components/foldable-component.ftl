@@ -1,16 +1,12 @@
 # Foldable
 
-foldable-fold-fail = You can't fold the {$object} here.
-foldable-unfold-fail = You can't unfold the {$object} here.
-
-foldable-deploy-fail = You can't deploy the {$object} here.
-fold-verb = Fold
-unfold-verb = Unfold
-
+foldable-fold-fail = 你無法在此處摺疊 { $object }。
+foldable-unfold-fail = 您無法在此處展開 { $object }。
+foldable-deploy-fail = 您無法在此處部署 { $object }。
+fold-verb = 摺疊
+unfold-verb = 展開
 fold-flip-verb = Flip
-
-fold-zip-verb = Zip up
-fold-unzip-verb = Unzip
-
-fold-verb-clothing-jacket = Take off jacket
-unfold-verb-clothing-jacket = Put on jacket
+fold-zip-verb = 拉上拉鍊
+fold-unzip-verb = 解壓縮
+fold-verb-clothing-jacket = 脫下外套
+unfold-verb-clothing-jacket = 穿上外套

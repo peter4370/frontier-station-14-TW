@@ -71,7 +71,7 @@
 - type: entity
   parent: BaseItemRecharger
   id: PowerCellRecharger
-  name: cell recharger
+  name: 手機充電器
   categories: [HideSpawnMenu] # Frontier: use the weapon recharger
   components:
   - type: Sprite
@@ -110,8 +110,8 @@
 - type: entity
   parent: [ BaseItemRecharger, ConstructibleMachine ]
   id: PowerCageRecharger
-  name: cage recharger
-  description: A specialized machine made for recharging the heavy cage batteries used by ship-mounted weapons. # Wizden#38138
+  name: 籠式充電器
+  description: 一款專門用於為艦載武器所使用的重型籠式電池充電的專用機器。 # Wizden#38138
   components:
   - type: Fixtures
     fixtures:
@@ -151,8 +151,8 @@
 - type: entity
   parent: BaseItemRecharger
   id: WeaponCapacitorRecharger
-  name: recharger
-  description: A modern recharging station that can fit both power cells and small electronic devices. # Wizden#38138
+  name: 充電器
+  description: 一座現代化的充電站，既能為電池組充電，也能為小型電子裝置充電。 # Wizden#38138
   components:
   - type: Sprite
     sprite: Structures/Power/recharger.rsi
@@ -178,8 +178,8 @@
 - type: entity
   parent: BaseItemRecharger
   id: TurboItemRecharger
-  name: turbo recharger
-  description: An overclocked recharger, fits both power cells and small electronic devices. Not recommended for use around asthmatics. # Frontier: based on Wizden#38138, extra restate that it works on cells/guns.
+  name: 渦輪增壓器
+  description: 一款超頻充電器，適用於電源電池及小型電子裝置。不建議在哮喘患者身邊使用。 # Frontier: based on Wizden#38138, extra restate that it works on cells/guns.
   components:
   - type: Sprite
     sprite: Structures/Power/turbo_recharger.rsi
@@ -207,8 +207,8 @@
 - type: entity
   parent: [ BaseItemRecharger, BaseWallmount ]
   id: WallWeaponCapacitorRecharger
-  name: wall recharger
-  description: A sleek wall recharger, fits both power cells and small electronic devices. # Frontier
+  name: 壁掛式充電器
+  description: 一款外型流線的壁掛式充電器，適用於電源電池及小型電子裝置。 # Frontier
   components:
   - type: Sprite
     snapCardinals: false # imp
@@ -248,8 +248,8 @@
 - type: entity
   parent: BaseRecharger
   id: BorgCharger
-  name: cyborg recharging station
-  description: A stationary charger for various robotic and cyborg entities. Surprisingly spacious.
+  name: 機械人充電站
+  description: 一款適用於各類機器人及半機械人實體的固定式充電器。空間出乎意料地寬敞。
   components:
   - type: Sprite
     sprite: Structures/Power/borg_charger.rsi

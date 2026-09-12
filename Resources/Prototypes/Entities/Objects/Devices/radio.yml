@@ -1,6 +1,6 @@
 - type: entity
-  name: handheld radio
-  description: A handy handheld radio.
+  name: 手持式無線電
+  description: 一款方便攜帶的手持收音機。
   parent: [BaseItem, RecyclableItemDeviceSmall] # Frontier: added RecyclableItemDeviceSmall
   id: RadioHandheld
   components:
@@ -32,8 +32,8 @@
     - Radio
 
 - type: entity
-  name: security radio
-  description: A handy security radio.
+  name: 安全無線電
+  description: 一款方便攜帶的安保無線電。
   parent: [ RadioHandheld, BaseC2ContrabandUnredeemable ] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: RadioHandheldSecurity
   components:

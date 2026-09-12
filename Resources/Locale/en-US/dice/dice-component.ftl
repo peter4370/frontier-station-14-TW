@@ -1,3 +1,3 @@
-dice-component-on-examine-message-part-1 = A die with [color=lightgray]{$sidesAmount}[/color] sides.
-dice-component-on-examine-message-part-2 = It has landed on a [color=white]{$currentSide}[/color].
-dice-component-on-roll-land = { CAPITALIZE(THE($die)) } lands on a {$currentSide}.
+dice-component-on-examine-message-part-1 = 一個有 [color=lightgray]{ $sidesAmount }[/color] 個面的骰子。
+dice-component-on-examine-message-part-2 = 它已降落在 [color=white]{ $currentSide }[/color] 上。
+dice-component-on-roll-land = { CAPITALIZE(THE($die)) } 落在 { $currentSide } 上。

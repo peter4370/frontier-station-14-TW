@@ -1,5 +1,6 @@
+
 <Document>
-# STASIS-CLASS MEDICAL RESPONSE SHUTTLE
+# 靜止級醫療救援穿梭機
 <Box>
   <GuideEntityEmbed Entity="ComputerCrewMonitoring" Caption="Rescue"/>
   <GuideEntityEmbed Entity="NFPosterContrabandFsbLogo" Caption="Research"/>
@@ -9,15 +10,15 @@
   <GuideEntityEmbed Entity="ShuttleMapStasis" Caption=""/>
 </Box>
 
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-4
+  [color=#a4885c]建議乘員人數：[/color] 1-4 人
 
-  [color=#a4885c]Power Gen Type:[/color] Bananium
+  [color=#a4885c]動力產生類型：[/color] 巴納尼姆
 
-# Shuttle Brief
+# 穿梭機簡介
 
-"A cryogenic medical response cruiser. The Stasis is produced by the Far Star Corporation to act as a technically advanced shuttle designed to thrive in environments that cripple the crafts and crew they rescue."
+「一艘低溫醫療應變巡洋艦。」 「Stasis 由 Far Star 集團製造，是一款技術先進的穿梭機，專為在那些會使受救飛船及機組人員陷入癱瘓的環境中順利運作而設計。」
 
 # Ship Functions
 
@@ -27,29 +28,29 @@
   <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Actuate Shutters"/>
 </Box>
 
-# Medical
+# 醫學
 
-[textlink="Medicine" link="Medical Doctor"/]
+[textlink="醫學" link="醫師"/]
 
-[textlink="Chemistry" link="Chemist"/]
+[textlink="化學" link="化學家"/]
 
-[textlink="Chemicals" link="Chemicals"/]
+[textlink="化學品" link="化學品"/]
 
-[textlink="Cryogenics" link="Cryogenics"/]
+[textlink="極低溫技術" link="極低溫技術"/]
 
-[textlink="Botany" link="Botany"/]
+[textlink="植物學" link="植物學"/]
 
-# Piloting
+# 駕駛
 
-[textlink="Piloting" link="Piloting"/]
+[textlink="駕駛" link="駕駛"/]
 
-[textlink="Sector Topology" link="SectorTopology"/]
+[textlink="星區拓撲" link="SectorTopology"/]
 
-# Hiring crew
+# 招募船員
 
-[textlink="Hiring" link="Hiring"/]
+[textlink="招募" link="招募"/]
 
-As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+身為納諾特拉森（Nanotrasen）船隻的船長，你有權隨意僱用、解僱、降職或晉升船員。
 
 # PREFLIGHT CHECKLIST
 

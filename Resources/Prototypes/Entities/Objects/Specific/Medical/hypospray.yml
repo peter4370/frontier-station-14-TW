@@ -1,7 +1,7 @@
 - type: entity
   name: hypospray
   parent: BaseItem # Frontier: remove BaseGrandTheftContraband
-  description: A sterile injector for rapid administration of drugs to patients.
+  description: 一種用於向患者快速給藥的無菌注射器。
   id: Hypospray
   components:
   - type: Sprite
@@ -41,9 +41,9 @@
     solutionName: hypospray
 
 - type: entity
-  name: gorlex hypospray
+  name: 戈雷克斯低壓噴霧器
   parent: [BaseItem, BaseC3SyndicateContraband] # Frontier: add BaseC3SyndicateContraband
-  description: Using reverse engineered designs from NT, Cybersun produced these in limited quantities for Gorlex Marauder operatives.
+  description: Cybersun 利用從 NT 逆向工程得出的設計，為 Gorlex Marauder 的特工限量生產了這些產品。
   id: SyndiHypo
   components:
   - type: Sprite
@@ -78,7 +78,7 @@
 - type: entity
   name: borghypo
   parent: BaseItem
-  description: A sterile injector for rapid administration of drugs to patients. A cheaper and more specialised version for medical borgs.
+  description: 一款用於向患者快速注射藥物的無菌注射器。另有一款專為醫療博格設計、價格更低且功能更專業的版本。
   id: BorgHypo
   components:
   # Frontier: fillable sprite
@@ -111,10 +111,10 @@
     delay: 0.5
 
 - type: entity
-  name: experimental hypospray
+  name: 實驗性皮下注射器
   suffix: Admeme
   parent: [BaseClearContraband, SyndiHypo] # Frontier: added BaseClearContraband
-  description: The ultimate application of bluespace technology and rapid chemical administration.
+  description: 藍空間技術與快速化學給藥技術的終極應用。
   id: AdminHypo
   components:
     - type: SolutionContainerManager
@@ -125,9 +125,9 @@
       delay: 0.0
 
 - type: entity
-  name: chemical medipen
+  name: 化學型 Medipen
   parent: BaseItem
-  description: A sterile injector for rapid administration of drugs to patients. This one can't be refilled.
+  description: 一款用於向患者快速給藥的無菌注射器。此款無法再次填充藥液。
   id: ChemicalMedipen
   components:
   - type: GoblinPreciousTrash # Frontier
@@ -179,10 +179,10 @@
     solution: pen
 
 - type: entity
-  name: emergency medipen
+  name: 緊急用 Medipen
   parent: ChemicalMedipen
   id: EmergencyMedipen
-  description: A rapid and safe way to stabilize patients in critical condition for personnel without advanced medical knowledge. Beware, as it's easy to overdose on epinephrine and tranexamic acid.
+  description: 對於缺乏進階醫療知識的工作人員而言，這是一種能快速且安全地穩定危重病患狀況的方法。請注意，腎上腺素和氨甲環酸很容易用過量。
   components:
   - type: Sprite
     sprite: Objects/Specific/Medical/medipen.rsi
@@ -204,10 +204,10 @@
           Quantity: 3
 
 - type: entity
-  name: poison auto-injector
+  name: 毒藥自動注射器
   parent: ChemicalMedipen
   id: AntiPoisonMedipen
-  description: A rapid dose of anti-poison. Contains ultravasculine and epinephrine.
+  description: 一種速效解毒劑。成分包含超凡瓦斯林和腎上腺素。
   components:
   - type: Item
     inhandVisuals:
@@ -241,10 +241,10 @@
           Quantity: 5
 
 - type: entity
-  name: brute auto-injector
+  name: brute 自動注射器
   parent: ChemicalMedipen
   id: BruteAutoInjector
-  description: A rapid dose of bicaridine and tranexamic acid, intended for combat applications.
+  description: 一種專為戰場應用設計的比卡里丁與氨甲環酸快速劑量製劑。
   components:
   - type: Item
     inhandVisuals:
@@ -283,10 +283,10 @@
           Quantity: 5
 
 - type: entity
-  name: burn auto-injector
+  name: 燒毀自動注射器
   parent: ChemicalMedipen
   id: BurnAutoInjector
-  description: A rapid dose of dermaline and leporazine, intended for combat applications.
+  description: 一劑速效的德爾馬林與萊波拉津，專為戰鬥用途而設。
   components:
   - type: Item
     inhandVisuals:
@@ -325,10 +325,10 @@
           Quantity: 10
 
 - type: entity
-  name: rad auto-injector
+  name: rad 自動注射器
   parent: ChemicalMedipen
   id: RadAutoInjector
-  description: A rapid dose of anti-radiation. Contains arithrazine and bicaridine.
+  description: 一種速效抗輻射劑。成分包含阿利特拉津和比卡里丁。
   components:
   - type: Item
     inhandVisuals:
@@ -367,10 +367,10 @@
           Quantity: 5
 
 - type: entity
-  name: puncturase auto-injector
+  name: Puncturase 自動注射器
   parent: ChemicalMedipen
   id: PunctAutoInjector
-  description: A rapid dose of puncturase and tranexamic acid, intended for combat applications.
+  description: 一種專為戰場應用設計的「穿刺酶」與「氨甲環酸」快速注射劑。
   components:
   - type: Item
     inhandVisuals:
@@ -409,10 +409,10 @@
           Quantity: 5
 
 - type: entity
-  name: pyrazine auto-injector
+  name: 吡嗪自動注射器
   parent: ChemicalMedipen
   id: PyraAutoInjector
-  description: A rapid dose of pyrazine and dermaline, intended for combat applications.
+  description: 一劑快速起效的吡嗪與德馬林，專為戰鬥用途設計。
   components:
   - type: Item
     inhandVisuals:
@@ -451,10 +451,10 @@
           Quantity: 10
 
 - type: entity
-  name: airloss auto-injector
+  name: airloss 自動注射器
   parent: ChemicalMedipen
   id: AirlossAutoInjector
-  description: A rapid dose of saline and dexalin plus, intended to get someone up quickly.
+  description: 快速注射生理食鹽水與德克沙林加強劑，旨在讓患者迅速恢復意識。
   components:
   - type: Item
     inhandVisuals:
@@ -496,7 +496,7 @@
   name: space medipen
   parent: ChemicalMedipen
   id: SpaceMedipen
-  description: Contains a mix of chemicals that protect you from the deadly effects of space.
+  description: 含有多種化學物質的混合物，能保護您免受太空致命影響。
   components:
   - type: Item
     inhandVisuals:
@@ -536,10 +536,10 @@
             Quantity: 20
 
 - type: entity
-  name: hyperzine injector
+  name: 超媒體雜誌注入器
   parent: [ChemicalMedipen, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: Stimpack
-  description: Contains enough hyperzine for you to have the chemical's effect for 30 seconds. Use it when you're sure you're ready to throw down.
+  description: 內含足量的「超能辛酸」，可讓你持續感受到該化學物質的作用長達 30 秒。請在確定自己已準備好大幹一場時使用。
   components:
   - type: Item
     inhandVisuals:
@@ -580,10 +580,10 @@
     price: 1500
 
 - type: entity
-  name: hyperzine microinjector
+  name: hyperzine 微量注射器
   parent: [ChemicalMedipen, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: StimpackMini
-  description: A microinjector of hyperzine that give you about 15 seconds of the chemical's effects.
+  description: 一款超辛微量注射器，能讓你體驗該化學物質約15秒的效應。
   components:
   - type: Item
     inhandVisuals:
@@ -619,7 +619,7 @@
     price: 583 # 3500 for 6 as a freaky fraction
 
 - type: entity
-  name: combat medipen
+  name: 戰鬥醫用筆
   parent: [ChemicalMedipen, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: CombatMedipen
   description: A single-use medipen containing chemicals that regenerate most types of damage.
@@ -663,10 +663,10 @@
     price: 1500
 
 - type: entity
-  name: pen
+  name: hypopen 包裝盒
   suffix: Hypopen
   parent: [Pen, BaseC3SyndicateContraband] # It is just like normal pen, isn't it?
-  description: A dark ink pen.
+  description: 一個小盒子，裡面裝著一支「Hypopen」。開封時包裝會自行分解，不留任何痕跡。
   id: Hypopen
   components:
   - type: SolutionContainerManager
@@ -693,8 +693,8 @@
 - type: entity
   parent: [ BaseItem, BaseC3SyndicateContraband ] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: HypopenBox
-  name: hypopen box
-  description: A small box containing a hypopen. Packaging disintegrates when opened, leaving no evidence behind.
+  name: weh 自動注射器
+  description: 一劑「噁」的速效配方。內含會讓你感到「噁」的果汁。
   components:
   - type: Item
     size: Tiny

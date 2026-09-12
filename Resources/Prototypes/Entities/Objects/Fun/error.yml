@@ -2,7 +2,7 @@
   parent: BaseItem
   id: Error
   name: error
-  description: Hmmmm. Something went wrong.
+  description: 嗯……好像出了點問題。
   components:
   - type: Sprite
     sprite: error.rsi

@@ -1,5 +1,6 @@
+
 <Document>
-  # COMET-CLASS ENGINEERING SHUTTLE
+  # 彗星級工程飛船
   <Box>
   <GuideEntityEmbed Entity="PowerDrill"/>
   <GuideEntityEmbed Entity="JawsOfLife"/>
@@ -9,15 +10,15 @@
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapComet" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 2-5
+  [color=#a4885c]建議船員人數：[/color] 2-5 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "The Comet is a mining and engineering vessel intended for assistance in construction projects or repairs."
+  「『彗星號』是一艘採礦與工程船，專門用於協助建造工程或維修作業。」
 
   # Ship Functions
 

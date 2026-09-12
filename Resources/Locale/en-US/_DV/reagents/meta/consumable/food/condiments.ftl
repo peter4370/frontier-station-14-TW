@@ -1,8 +1,6 @@
-reagent-name-pesto = pesto
-reagent-desc-pesto = A combination of salt, herbs, garlic, oil, and pine nuts.
-
-reagent-name-tomatosauce = tomato sauce
-reagent-desc-tomatosauce = Tomato with salt and herbs.
-
-reagent-name-bechamel = bechamel
-reagent-desc-bechamel = A classic white sauce common to several cultures.
+reagent-name-pesto = 羅勒醬 pesto
+reagent-desc-pesto = 由鹽、香草、大蒜、油和松子混合而成。
+reagent-name-tomatosauce = 番茄醬
+reagent-desc-tomatosauce = 撒上鹽和香草的番茄。
+reagent-name-bechamel = 白醬 bechamel
+reagent-desc-bechamel = 一種常見於多個文化中的經典白醬。

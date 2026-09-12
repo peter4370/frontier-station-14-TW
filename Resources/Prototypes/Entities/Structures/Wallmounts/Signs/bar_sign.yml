@@ -74,7 +74,7 @@
 - type: entity
   parent: BaseBarSign
   id: BarSignEmergencyRumParty
-  name: Emergency Rum Party
+  name: 緊急朗姆酒派對
   description: Recently relicensed after a long closure.
   components:
   - type: BarSign
@@ -110,7 +110,7 @@
 - type: entity
   parent: BaseBarSign
   id: BarSignOfficerBeersky
-  name: Officer Beersky
+  name: 比爾斯基警官
   description: Man eat a dong, these drinks are great.
   components:
   - type: BarSign
@@ -119,7 +119,7 @@
 - type: entity
   parent: BaseBarSign
   id: BarSignRobustaCafe
-  name: Robusta Cafe
+  name: 羅布斯塔咖啡館
   description: Holder of the 'Most Lethal Barfights' record 5 years uncontested.
   components:
   - type: BarSign
@@ -128,7 +128,7 @@
 - type: entity
   parent: BaseBarSign
   id: BarSignTheAleNath
-  name: The Ale Nath
+  name: '《艾爾·納斯》'
   description: All right, buddy. I think you've had EI NATH. Time to get a cab.
   components:
   - type: BarSign
@@ -137,7 +137,7 @@
 - type: entity
   parent: BaseBarSign
   id: BarSignTheBirdCage
-  name: The Bird Cage
+  name: '《鳥籠》'
   description: Caw caw!
   components:
   - type: BarSign
@@ -236,7 +236,7 @@
 - type: entity
   parent: BaseBarSign
   id: BarSignWiggleRoom
-  name: Wiggle Room
+  name: 迴旋餘地
   description: MoMMIs got moves.
   components:
   - type: BarSign

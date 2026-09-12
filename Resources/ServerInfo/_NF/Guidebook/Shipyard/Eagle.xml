@@ -1,8 +1,9 @@
+
 <Document>
-    # EAGLE-CLASS MEDICAL SHUTTLE
+    # 鷹級醫療穿梭機
     <Box>
       <GuideEntityEmbed Entity="ComputerCrewMonitoring" Caption="Crew Monitor"/>
-      <GuideEntityEmbed Entity="GasThermoMachineFreezer" Caption="Cryo Pods"/>
+      <GuideEntityEmbed Entity="GasThermoMachineFreezer" Caption="冷凍艙"/>
       <GuideEntityEmbed Entity="EngineeringTechFab" Caption="EngineeringFab"/>
       <GuideEntityEmbed Entity="MedicalTechFab" Caption="MedicalFab"/>
       <GuideEntityEmbed Entity="ChemMaster" Caption="ChemMaster"/>
@@ -11,41 +12,41 @@
       <GuideEntityEmbed Entity="ShuttleMapEagle" Caption=""/>
     </Box>
 
-    [color=#a4885c]Ship Size:[/color] Medium
+    [color=#a4885c]船隻尺寸：[/color] 中型
 
-    [color=#a4885c]Recommended Crew:[/color] 2-4
+    [color=#a4885c]建議船員人數：[/color] 2-4 人
 
-    [color=#a4885c]Power Gen Type:[/color] Uranium
+    [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 飛船簡介
 
-  "A medium-sized engineering and medical vessel. Focused on responding to shuttle distress, the Eagle comes equipped to restore most crew and shuttles to good health."
+  「一艘中型工程與醫療船。」 「『鷹號』專注於應對太空梭的緊急狀況，並配備了相關設備，足以使大多數機組人員和太空梭恢復正常運作。」
 
-  # Ship Functions
-  ## Ship Buttons
+  # 船隻功能
+  ## 船隻按鈕
   <Box>
-  <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Toggle Thrusters and Searchlight"/>
+  <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="切換推進器與探照燈"/>
   </Box>
 
-  # Medical
+  # 醫學
 
-  [textlink="Medicine" link="Medical Doctor"/]
+  [textlink="醫學" link="醫師"/]
 
-  [textlink="Chemistry" link="Chemist"/]
+  [textlink="化學" link="化學家"/]
 
-  [textlink="Chemicals" link="Chemicals"/]
+  [textlink="化學品" link="化學品"/]
 
-  # Piloting
+  # 駕駛
 
-  [textlink="Piloting" link="Piloting"/]
+  [textlink="駕駛" link="駕駛"/]
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="星區拓撲" link="星區拓撲"/]
 
-  # Hiring crew
+  # 僱用船員
 
-  [textlink="Hiring" link="Hiring"/]
+  [textlink="僱用" link="僱用"/]
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  身為納諾特拉森（Nanotrasen）船隻的船長，你有權隨意僱用、解僱、降職或晉升船員。
 
   # PREFLIGHT CHECKLIST
 

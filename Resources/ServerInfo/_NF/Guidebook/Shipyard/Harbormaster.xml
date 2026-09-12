@@ -1,26 +1,27 @@
+
 <Document>
-  # HARBORMASTER-CLASS SERVICE SHUTTLE
+  # 港務長級服務接駁船
   <Box>
   <GuideEntityEmbed Entity="NFPosterContrabandLvhiLogo" Caption=""/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapHarbormaster" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻大小：[/color] 小型
 
-	[color=#a4885c]Recommended Crew:[/color] 1+
+	[color=#a4885c]建議船員人數：[/color] 1+
 
-	[color=#a4885c]Power Gen Type:[/color] Bananium
+	[color=#a4885c]動力產生類型：[/color] 巴納尼姆
 
-	[color=#a4885c]Expeditions:[/color] None
+	[color=#a4885c]探險任務：[/color] 無
 
-	[color=#a4885c]IFF Console:[/color] None
+	[color=#a4885c]敵我識別控制台：[/color] 無
 
-  "An affordable shuttle for towing derelict ships to and from Frontier Station. Manufactured by Langstad-Voigt Heavy Industries."
+  「一款價格實惠的穿梭機，可用於將廢棄船隻拖曳至邊境站並拖回。」 Manufactured by Langstad-Voigt Heavy Industries."
 
-  # Tips on running LVHI Harbormaster shuttles
-  - The total power load for the shuttle in standard complectation is 36 [bold]kW[/bold]. For more general info on the power grid, see the guidebook article [textlink="Power" link="Power"].
-  - Be warned that D-K Jr.-type portable generator is radioactive, wear radiation suit when working with the generator.
+  # 關於營運 LVHI 港務局接駁船的建議
+  - 標準配置下，該接駁船的總功率負載為 36 [bold]kW[/bold]。 如需更多關於電力網的一般資訊，請參閱指南中的文章 [textlink="電力" link="電力"].
+  - 請注意，D-K Jr. 型便攜式發電機具有放射性，操作時請穿著防輻射服。
   - For basics of shuttle piloting see [textlink="Piloting" link="Piloting"].
 
 </Document>

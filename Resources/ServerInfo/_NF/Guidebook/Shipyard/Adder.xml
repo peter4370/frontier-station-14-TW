@@ -1,25 +1,26 @@
+
 <Document>
-  # ADDER-CLASS MINING SHUTTLE
+  # ADDER 級採礦穿梭艙
   <Box>
   <GuideEntityEmbed Entity="NFPosterContrabandLvhiShuttle" Caption=""/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapAdder" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻大小：[/color] 小型
 
-	[color=#a4885c]Recommended Crew:[/color] 2
+	[color=#a4885c]建議船員人數：[/color] 2
 
-	[color=#a4885c]Power Gen Type:[/color] Plasma
+	[color=#a4885c]動力產生類型：[/color] 等離子
 
-	[color=#a4885c]Expeditions:[/color] None
+	[color=#a4885c]探險任務：[/color] 無
 
-	[color=#a4885c]IFF Console:[/color] None
+	[color=#a4885c]敵我識別（IFF）控制台：[/color] 無
 
-  "A small maneuverable shuttle designed for mining. Manufactured by Langstad-Voigt Heavy Industries."
+  「一款專為採礦設計、機動性強的小型穿梭機。 「由 Langstad-Voigt 重工業製造。」
 
-  # Tips on running LVHI Adder shuttles
-  - Optimal Target Power (kW) for the generator unit is 14 [bold]kW[/bold]. If you've added additional machines, check APC unit to see shuttle's power draw and adjust generator Target Power accordingly. For more general info on power grid see guidebook article [textlink="Power" link="Power"].
-  - For basics of shuttle piloting see [textlink="Piloting" link="Piloting"].
+  # 關於操作 LVHI Adder 梭機的提示
+  - 發電機組的最佳目標功率（kW）為 14 [粗體]kW[/粗體]。 若您已新增其他機器，請檢查 APC 裝置以確認穿梭機的耗電量，並據此調整發電機的「目標功率」。 有關電網的更多一般資訊，請參閱指南文章 [textlink="電力" link="電力"]。
+  - 關於太空梭駕駛的基本知識，請參閱 [textlink="駕駛" link="駕駛"]。
 
 </Document>

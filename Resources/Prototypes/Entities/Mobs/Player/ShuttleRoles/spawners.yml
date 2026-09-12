@@ -5,7 +5,7 @@
 # Command
 
 - type: entity
-  name: command visitor spawner
+  name: 訪客生成器指令
   id: CommandVisitorSpawner
   parent: MarkerBase
   components:
@@ -25,7 +25,7 @@
     - RandomHumanoidVisitorRD
 
 - type: entity
-  name: visiting captain spawner
+  name: 造訪「船長斯波納」
   id: VisitorCaptainSpawner
   parent: MarkerBase
   components:
@@ -39,7 +39,7 @@
     - RandomHumanoidVisitorCaptain
 
 - type: entity
-  name: visiting chief engineer spawner
+  name: 訪問首席工程師斯波納
   id: VisitorCESpawner
   parent: MarkerBase
   components:
@@ -53,7 +53,7 @@
     - RandomHumanoidVisitorCE
 
 - type: entity
-  name: visiting chief medical officer spawner
+  name: 訪問首席醫療官斯波納
   id: VisitorCMOSpawner
   parent: MarkerBase
   components:
@@ -67,7 +67,7 @@
     - RandomHumanoidVisitorCMO
 
 - type: entity
-  name: visiting head of personnel spawner
+  name: 造訪人事主管生成器
   id: VisitorHOPSpawner
   parent: MarkerBase
   components:
@@ -81,7 +81,7 @@
     - RandomHumanoidVisitorHOP
 
 - type: entity
-  name: visiting head of security spawner
+  name: 來訪的安全主管生成器
   id: VisitorHOSSpawner
   parent: MarkerBase
   components:
@@ -95,7 +95,7 @@
     - RandomHumanoidVisitorHOS
 
 - type: entity
-  name: visiting research director spawner
+  name: 客座研究主任 Spawner
   id: VisitorRDSpawner
   parent: MarkerBase
   components:
@@ -109,7 +109,7 @@
     - RandomHumanoidVisitorRD
 
 - type: entity
-  name: visiting quartermaster spawner
+  name: 造訪軍需官生成點
   id: VisitorQMSpawner
   parent: MarkerBase
   components:
@@ -125,7 +125,7 @@
 # Security
 
 - type: entity
-  name: security visitor spawner
+  name: 安全訪客生成器
   id: SecurityVisitorSpawner
   parent: MarkerBase
   components:
@@ -145,7 +145,7 @@
     rareChance: 0.05
 
 - type: entity
-  name: visiting security cadet spawner
+  name: 造訪安全學員生成器
   id: VisitorSecurityCadetSpawner
   parent: MarkerBase
   components:
@@ -159,7 +159,7 @@
     - RandomHumanoidVisitorSecurityCadet
 
 - type: entity
-  name: visiting security officer spawner
+  name: 訪客安全人員生成器
   id: VisitorSecurityOfficerSpawner
   parent: MarkerBase
   components:
@@ -173,7 +173,7 @@
     - RandomHumanoidVisitorSecurityOfficer
 
 - type: entity
-  name: visiting detective spawner
+  name: 造訪偵探生成器
   id: VisitorDetective
   parent: MarkerBase
   components:
@@ -187,7 +187,7 @@
     - RandomHumanoidVisitorDetective
 
 - type: entity
-  name: visiting warden spawner
+  name: 造訪監獄長生成點
   id: VisitorWarden
   parent: MarkerBase
   components:
@@ -203,7 +203,7 @@
 # Cargo
 
 - type: entity
-  name: cargonian visitor spawner
+  name: 卡戈尼亞訪客生成器
   id: VisitingCargonianSpawner
   parent: MarkerBase
   components:
@@ -221,7 +221,7 @@
     rareChance: 0.05
 
 - type: entity
-  name: visiting cargo technician spawner
+  name: 訪客貨運技術人員生成器
   id: VisitorCargoTechnicianSpawner
   parent: MarkerBase
   components:
@@ -235,7 +235,7 @@
     - RandomHumanoidVisitorCargoTechnician
 
 - type: entity
-  name: visiting salvage specialist spawner
+  name: 造訪打撈專家斯波納
   id: VisitorSalvageSpecialistSpawner
   parent: MarkerBase
   components:
@@ -251,7 +251,7 @@
 # Engineering
 
 - type: entity
-  name: engineering visitor spawner
+  name: 工程訪客生成器
   id: EngineeringVisitorSpawner
   parent: MarkerBase
   components:
@@ -270,7 +270,7 @@
     rareChance: 0.05
 
 - type: entity
-  name: visiting atmospheric technician spawner
+  name: 造訪大氣技術員生成器
   id: VisitorAtmosTechSpawner
   parent: MarkerBase
   components:
@@ -284,7 +284,7 @@
     - RandomHumanoidVisitorAtmosTech
 
 - type: entity
-  name: visiting technical assistant spawner
+  name: 訪客技術助理 Spawner
   id: VisitorTechnicalAssistantSpawner
   parent: MarkerBase
   components:
@@ -298,7 +298,7 @@
     - RandomHumanoidVisitorTechnicalAssistant
 
 - type: entity
-  name: visiting engineer spawner
+  name: 訪客工程師生成器
   id: VisitorEngineerSpawner
   parent: MarkerBase
   components:
@@ -314,7 +314,7 @@
 # Medical
 
 - type: entity
-  name: medical visitor spawner
+  name: 醫療訪客生成器
   id: VisitingMedicalSpawner
   parent: MarkerBase
   components:
@@ -338,7 +338,7 @@
     rareChance: 0.05
 
 - type: entity
-  name: visiting chemist spawner
+  name: 巡迴化學家生成器
   id: VisitorChemistSpawner
   parent: MarkerBase
   components:
@@ -352,7 +352,7 @@
     - RandomHumanoidVisitorChemist
 
 - type: entity
-  name: visiting medical intern spawner
+  name: 訪視實習醫師生成器
   id: VisitorMedicalInternSpawner
   parent: MarkerBase
   components:
@@ -366,7 +366,7 @@
     - RandomHumanoidVisitorMedicalIntern
 
 - type: entity
-  name: visiting medical doctor spawner
+  name: 巡診醫師生成器
   id: VisitorMedicalDoctorSpawner
   parent: MarkerBase
   components:
@@ -380,7 +380,7 @@
     - RandomHumanoidVisitorMedicalDoctor
 
 - type: entity
-  name: visiting paramedic spawner
+  name: '「造訪救護員」生成器'
   id: VisitorParamedicSpawner
   parent: MarkerBase
   components:
@@ -394,7 +394,7 @@
     - RandomHumanoidVisitorParamedic
 
 - type: entity
-  name: visiting virologist spawner
+  name: 來訪的病毒學家斯波納
   id: VisitorVirologistSpawner
   parent: MarkerBase
   components:
@@ -408,7 +408,7 @@
     - RandomHumanoidVisitorVirologist
 
 - type: entity
-  name: visiting geneticist spawner
+  name: 來訪的遺傳學家產卵者
   id: VisitorGeneticistSpawner
   parent: MarkerBase
   components:
@@ -422,7 +422,7 @@
     - RandomHumanoidVisitorGeneticist
 
 - type: entity
-  name: visiting psychologist spawner
+  name: 造訪的心理學家生成器
   id: VisitorPsychologistSpawner
   parent: MarkerBase
   components:
@@ -436,7 +436,7 @@
     - RandomHumanoidVisitorPsychologist
 
 - type: entity
-  name: visiting dentist spawner
+  name: 造訪牙醫生成器
   id: VisitorDentistSpawner
   parent: MarkerBase
   components:
@@ -452,7 +452,7 @@
 # Science
 
 - type: entity
-  name: scientific visitor spawner
+  name: 科學訪問者產卵者
   id: VisitingScientistSpawner
   parent: MarkerBase
   components:
@@ -470,7 +470,7 @@
     rareChance: 0.05
 
 - type: entity
-  name: visiting scientist spawner
+  name: 客座科學家生成器
   id: VisitorScientistSpawner
   parent: MarkerBase
   components:
@@ -484,7 +484,7 @@
     - RandomHumanoidVisitorScientist
 
 - type: entity
-  name: visiting research assistant spawner
+  name: 客座研究助理 Spawner
   id: VisitorResearchAssistantSpawner
   parent: MarkerBase
   components:
@@ -500,7 +500,7 @@
 # Civilian
 
 - type: entity
-  name: civilian visitor spawner
+  name: 平民訪客生成器
   id: VisitingCivilianSpawner
   parent: MarkerBase
   components:
@@ -530,7 +530,7 @@
     rareChance: 0.03
 
 - type: entity
-  name: visiting bartender spawner
+  name: 訪客調酒師生成器
   id: VisitorBartenderSpawner
   parent: MarkerBase
   components:
@@ -544,7 +544,7 @@
     - RandomHumanoidVisitorBartender
 
 - type: entity
-  name: visiting botanist spawner
+  name: 造訪的植物學家 產卵者
   id: VisitorBotanistSpawner
   parent: MarkerBase
   components:
@@ -558,7 +558,7 @@
     - RandomHumanoidVisitorBotanist
 
 - type: entity
-  name: visiting boxer spawner
+  name: 造訪拳擊手產卵者
   id: VisitorBoxerSpawner
   parent: MarkerBase
   components:
@@ -572,7 +572,7 @@
     - RandomHumanoidVisitorBoxer
 
 - type: entity
-  name: visiting chaplain spawner
+  name: 巡迴牧師斯波納
   id: VisitorChaplainSpawner
   parent: MarkerBase
   components:
@@ -586,7 +586,7 @@
     - RandomHumanoidVisitorChaplain
 
 - type: entity
-  name: visiting chef spawner
+  name: 客座主廚生成器
   id: VisitorChefSpawner
   parent: MarkerBase
   components:
@@ -600,7 +600,7 @@
     - RandomHumanoidVisitorChef
 
 - type: entity
-  name: visiting clown spawner
+  name: 造訪小丑魚生成點
   id: VisitorClownSpawner
   parent: MarkerBase
   components:
@@ -614,7 +614,7 @@
     - RandomHumanoidVisitorClown
 
 - type: entity
-  name: visiting janitor spawner
+  name: 造訪清潔工生成器
   id: VisitorJanitorSpawner
   parent: MarkerBase
   components:
@@ -628,7 +628,7 @@
     - RandomHumanoidVisitorJanitor
 
 - type: entity
-  name: visiting lawyer spawner
+  name: 訪客律師生成器
   id: VisitorLawyerSpawner
   parent: MarkerBase
   components:
@@ -642,7 +642,7 @@
     - RandomHumanoidVisitorLawyer
 
 - type: entity
-  name: visiting centcom lawyer spawner
+  name: 造訪中央司令部律師斯波納
   id: VisitorLawyerCentcomSpawner
   parent: MarkerBase
   components:
@@ -656,7 +656,7 @@
     - RandomHumanoidVisitorLawyerCentcom
 
 - type: entity
-  name: visiting librarian spawner
+  name: 巡迴圖書館員生成器
   id: VisitorLibrarianSpawner
   parent: MarkerBase
   components:
@@ -670,7 +670,7 @@
     - RandomHumanoidVisitorLibrarian
 
 - type: entity
-  name: visiting musician spawner
+  name: 客座音樂家生成器
   id: VisitorMusicianSpawner
   parent: MarkerBase
   components:
@@ -684,7 +684,7 @@
     - RandomHumanoidVisitorMusician
 
 - type: entity
-  name: visiting fancy musician spawner
+  name: 造訪「華麗音樂家生成器」
   id: VisitorMusicianFancySpawner
   parent: MarkerBase
   components:
@@ -698,7 +698,7 @@
     - RandomHumanoidVisitorMusicianFancy
 
 - type: entity
-  name: visiting relaxed musician spawner
+  name: 造訪「輕鬆音樂家生成器」
   id: VisitorMusicianRelaxedSpawner
   parent: MarkerBase
   components:
@@ -712,7 +712,7 @@
     - RandomHumanoidVisitorMusicianRelaxed
 
 - type: entity
-  name: visiting mime spawner
+  name: 瀏覽 Mime Spawner
   id: VisitorMimeSpawner
   parent: MarkerBase
   components:
@@ -726,7 +726,7 @@
     - RandomHumanoidVisitorMime
 
 - type: entity
-  name: visiting reporter spawner
+  name: 訪客記者生成器
   id: VisitorReporterSpawner
   parent: MarkerBase
   components:
@@ -740,7 +740,7 @@
     - RandomHumanoidVisitorReporter
 
 - type: entity
-  name: visiting service worker spawner
+  name: 訪問服務工作者生成器
   id: VisitorServiceWorkerSpawner
   parent: MarkerBase
   components:
@@ -754,7 +754,7 @@
     - RandomHumanoidVisitorServiceWorker
 
 - type: entity
-  name: visiting zookeeper spawner
+  name: 造訪動物園管理員生成器
   id: VisitorZookeeperSpawner
   parent: MarkerBase
   components:
@@ -772,7 +772,7 @@
 # Command
 
 - type: entity
-  name: disaster victim spawner
+  name: 災難受害者生成器
   id: ChallengeVictimSpawner
   parent: MarkerBase
   suffix: CHALLENGE
@@ -800,7 +800,7 @@
 # Cargo
 
 - type: entity
-  name: challenge cargo technician spawner
+  name: 挑戰貨運技術員生成器
   id: ChallengeCargoTechnicianSpawner
   parent: MarkerBase
   suffix: CHALLENGE
@@ -827,7 +827,7 @@
 ### Misc
 
 - type: entity
-  name: NanoTrasen visitor spawner
+  name: NanoTrasen 訪客生成器
   id: NTVisitorSpawner
   parent: MarkerBase
   components:
@@ -943,7 +943,7 @@
 ### Syndicate & Hostiles
 
 - type: entity
-  name: syndicate team leader spawner
+  name: 集團團隊領導者生成器
   id: SyndieSoldierTeamLeaderSpawner
   parent: MarkerBase
   components:
@@ -957,7 +957,7 @@
     - RandomHumanoidSyndieSoldierTeamLeader
 
 - type: entity
-  name: syndicate soldier spawner
+  name: 黑手黨士兵生成器
   id: SyndieSoldierSpawner
   parent: MarkerBase
   components:
@@ -971,7 +971,7 @@
     - RandomHumanoidSyndieSoldier
 
 - type: entity
-  name: syndie disaster victim spawner
+  name: syndie 災難受害者生成器
   id: SyndieVisitorSpawner
   parent: MarkerBase
   components:
@@ -985,7 +985,7 @@
     - RandomHumanoidSyndieVisitor
 
 - type: entity
-  name: pirate crewman spawner
+  name: 海盜船員生成器
   suffix: scooner
   id: PirateScoonerSpawner
   parent: MarkerBase
@@ -1000,7 +1000,7 @@
     - RandomHumanoidPirateScooner
 
 - type: entity
-  name: pirate captain spawner
+  name: 海盜船長生成器
   suffix: scooner
   id: PirateCaptainScoonerSpawner
   parent: MarkerBase
@@ -1017,7 +1017,7 @@
 ### Other
 
 - type: entity
-  name: Blackmarketeer spawner
+  name: 黑市商人生成器
   id: VisitorBlackmarketeerSpawner
   parent: MarkerBase
   components:
@@ -1031,7 +1031,7 @@
     - RandomHumanoidVisitorBlackmarketeer
 
 - type: entity
-  name: cossack spawner
+  name: 哥薩克生成器
   id: CossackSpawner
   parent: MarkerBase
   components:

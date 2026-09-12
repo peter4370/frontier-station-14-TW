@@ -1,2 +1,2 @@
-reagent-physical-desc-ethereal = ethereal
-reagent-physical-desc-glittery = glittery
+reagent-physical-desc-ethereal = 空靈的
+reagent-physical-desc-glittery = 閃亮的

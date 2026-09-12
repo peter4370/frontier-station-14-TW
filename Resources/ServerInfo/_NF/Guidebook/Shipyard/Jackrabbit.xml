@@ -1,29 +1,30 @@
+
 <Document>
-  # JACKRABBIT-CLASS PRIVATE SECURITY SHUTTLE
+  # JACKRABBIT 級私人安保接駁車
 <Box>
-  <GuideEntityEmbed Entity="NFWeaponPistolPollock" Caption="Safeguard"/>
-  <GuideEntityEmbed Entity="Handcuffs" Caption="Detain"/>
-  <GuideEntityEmbed Entity="CrateTradeSecureNormal" Caption="Transport"/>
-  <GuideEntityEmbed Entity="ClothingHeadHelmetRiot" Caption="Assault"/>
+  <GuideEntityEmbed Entity="NFWeaponPistolPollock" Caption="保障"/>
+  <GuideEntityEmbed Entity="Handcuffs" Caption="拘留"/>
+  <GuideEntityEmbed Entity="CrateTradeSecureNormal" Caption="運輸"/>
+  <GuideEntityEmbed Entity="ClothingHeadHelmetRiot" Caption="襲擊"/>
 </Box>
 <Box>
   <GuideEntityEmbed Entity="ShuttleMapJackrabbit" Caption=""/>
 </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻尺寸：[/color] 小型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-2
+  [color=#a4885c]建議船員人數：[/color] 1-2 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 飛船簡介
 
-  "Whether your goal is to overpower or merely intimidate, the PT Jackrabbit has you covered for all of your asset protection needs."
+  「無論您的目標是壓倒對手，還是僅僅為了威懾，PT Jackrabbit 都能滿足您所有資產保護的需求。」
 
-  "Fast, lightweight, and outfitted with a personal armory, this ship gets the job done."
+  「這艘船速度快、輕巧，還配備了個人武器庫，絕對能勝任任務。」
 
-  [italic]Prestige Travel: Making life for the rich even easier.[/italic]
+  [斜體]Prestige Travel：讓富人的生活更加輕鬆。[/斜體]
 
-  # Ship Functions
+  # 船上設施
 
   <Box>
   <GuideEntityEmbed Entity="ButtonFrameExit" Caption="Bolt Exterior Airlocks"/>
@@ -31,19 +32,19 @@
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Toggle Shutters"/>
 </Box>
 
-  [italic]Note: Airlock closing, bolting, and shuttering is controlled by a signal timer located inside the airlock. Connections to airlocks and shutters are made from here.[/italic]
+  [斜體]註：氣鎖的關閉、鎖緊及閘門關閉，均由位於氣鎖內部的一台訊號計時器控制。 從此處連接至氣閘和閘門。[italic]
 
-# Piloting
+# 駕駛
 
-[textlink="Piloting" link="Piloting"/]
+[textlink="駕駛" link="駕駛"/]
 
-[textlink="Sector Topology" link="SectorTopology"/]
+[textlink="星區拓撲" link="SectorTopology"/]
 
-# Hiring crew
+# 招募船員
 
-[textlink="Hiring" link="Hiring"/]
+[textlink="招募" link="招募"/]
 
-As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員。
 
 # PREFLIGHT CHECKLIST
 

@@ -1,11 +1,12 @@
+
 <Document>
-  # Dwarves
+  # 矮人
 
   <Box>
     <GuideEntityEmbed Entity="MobDwarf" Caption=""/>
   </Box>
 
-  An industrious species, dwarves are similar to humans in most respect, but can be resuscitated with alcohol and at worst will face only a killer hangover from severe drinking.
+  矮人是一種勤勞的種族，在多數方面都與人類相似，但只要喝點酒就能恢復精神，即使喝得再慘，頂多也只是會因酗酒而遭受劇烈的宿醉罷了。
 
   <Box>
     <GuideEntityEmbed Entity="WallRockChromiteDiamond" Caption=""/>
@@ -13,6 +14,6 @@
     <GuideEntityEmbed Entity="NFWallRockBluespace" Caption=""/>
   </Box>
 
-  A dwarf instinctively knows where the choice ore veins are on any rock, and can sense the presence of ore up to 5 meters away.
+  矮人本能地知道任何岩石上哪裡有優質礦脈，並能感知遠達 5 公尺外礦脈的存在。
 
 </Document>

@@ -71,7 +71,7 @@
   abstract: true
   parent: ClothingShoesBaseButcherable
   id: ClothingShoesBaseWinterBoots
-  description: Fluffy boots to help survive even the coldest of winters.
+  description: 毛茸茸的靴子，助您度過最嚴寒的冬天。
   components:
   - type: TemperatureProtection
     heatingCoefficient: 1.025

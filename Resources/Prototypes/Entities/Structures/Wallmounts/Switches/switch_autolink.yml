@@ -3,7 +3,7 @@
 - type: entity
   id: SignalButtonExt1
   parent: SignalButton
-  name: exterior button 1
+  name: 外部按鈕 1
   suffix: Autolink, Ext1
   categories: [ HideSpawnMenu ] # Frontier: they can link with autolink shutters/blastdoors in other ships
   components:
@@ -13,7 +13,7 @@
 - type: entity
   id: SignalButtonExt2
   parent: SignalButton
-  name: exterior button 2
+  name: 外部按鈕 2
   suffix: Autolink, Ext2
   categories: [ HideSpawnMenu ] # Frontier: they can link with autolink shutters/blastdoors in other ships
   components:
@@ -23,7 +23,7 @@
 - type: entity
   id: SignalButtonExt3
   parent: SignalButton
-  name: exterior button 3
+  name: 外部按鈕 3
   suffix: Autolink, Ext3
   categories: [ HideSpawnMenu ] # Frontier: they can link with autolink shutters/blastdoors in other ships
   components:
@@ -33,7 +33,7 @@
 - type: entity
   id: SignalButtonBridge
   parent: SignalButton
-  name: bridge windows button
+  name: Bridge Windows 按鈕
   suffix: Autolink, Bridge
   categories: [ HideSpawnMenu ] # Frontier: they can link with autolink shutters/blastdoors in other ships
   components:
@@ -43,7 +43,7 @@
 - type: entity
   id: SignalButtonWindows
   parent: SignalButton
-  name: exterior windows button
+  name: 外部窗戶按鈕
   suffix: Autolink, Windows
   categories: [ HideSpawnMenu ] # Frontier: they can link with autolink shutters/blastdoors in other ships
   components:

@@ -1,23 +1,16 @@
-marking-SlimeGradientLeftArm-gradient_l_arm = Slime Left Arm (Gradient)
+marking-SlimeGradientLeftArm-gradient_l_arm = 史萊姆左臂（漸變色）
 marking-SlimeGradientLeftArm = Slime Left Arm (Gradient)
-
-marking-SlimeGradientRightArm-gradient_r_arm = Slime Right Arm (Gradient)
+marking-SlimeGradientRightArm-gradient_r_arm = 史萊姆右臂（漸變色）
 marking-SlimeGradientRightArm = Slime Right Arm (Gradient)
-
-marking-SlimeGradientLeftFoot-gradient_l_foot = Slime Left Foot (Gradient)
+marking-SlimeGradientLeftFoot-gradient_l_foot = 史萊姆左腳（漸層）
 marking-SlimeGradientLeftFoot = Slime Left Foot (Gradient)
-
-marking-SlimeGradientRightFoot-gradient_r_foot = Slime Right Foot (Gradient)
+marking-SlimeGradientRightFoot-gradient_r_foot = 史萊姆右腳（漸層）
 marking-SlimeGradientRightFoot = Slime Right Foot (Gradient)
-
-marking-SlimeGradientLeftLeg-gradient_l_leg = Slime Left Leg (Gradient)
+marking-SlimeGradientLeftLeg-gradient_l_leg = 史萊姆左腿（漸變色）
 marking-SlimeGradientLeftLeg = Slime Left Leg (Gradient)
-
-marking-SlimeGradientRightLeg-gradient_r_leg = Slime Right Leg (Gradient)
+marking-SlimeGradientRightLeg-gradient_r_leg = 史萊姆右腿（漸變色）
 marking-SlimeGradientRightLeg = Slime Right Leg (Gradient)
-
-marking-SlimeGradientLeftHand-gradient_l_hand = Slime Left Hand (Gradient)
+marking-SlimeGradientLeftHand-gradient_l_hand = 史萊姆左手（漸層）
 marking-SlimeGradientLeftHand = Slime Left Hand (Gradient)
-
-marking-SlimeGradientRightHand-gradient_r_hand = Slime Right Hand (Gradient)
+marking-SlimeGradientRightHand-gradient_r_hand = 史萊姆右手（漸層）
 marking-SlimeGradientRightHand = Slime Right Hand (Gradient)

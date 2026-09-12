@@ -1,5 +1,6 @@
+
 <Document>
-  # GARDEN-CLASS SERVICE SHUTTLE
+  # 花園級服務接駁車
   <Box>
   <GuideEntityEmbed Entity="hydroponicsTray"/>
   <GuideEntityEmbed Entity="hydroponicsTray"/>
@@ -8,31 +9,31 @@
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapGarden" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻尺寸：[/color] 小型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-2
+  [color=#a4885c]建議船員人數：[/color] 1-2 人
 
-  [color=#a4885c]Power Gen Type:[/color] Plasma
+  [color=#a4885c]動力產生類型：[/color] 等離子
 
-  # Shuttle Brief
+  # 飛船簡介
 
-  "A small botany vessel dedicated to horticultural experimentation."
+  「一艘專門用於園藝實驗的小型植物學船隻。」
 
-  # Ship Functions
+  # 船艦功能
 
-  [textlink="Botany" link="Botany"/]
+  [textlink="植物學" link="植物學"/]
 
-  # Piloting
+  # 駕駛
 
-  [textlink="Piloting" link="Piloting"/]
+  [textlink="駕駛" link="駕駛"/]
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="星區拓撲" link="星區拓撲"/]
 
-  # Hiring crew
+  # 招募船員
 
-  [textlink="Hiring" link="Hiring"/]
+  [textlink="招募" link="招募"/]
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員。
 
   # PREFLIGHT CHECKLIST
 

@@ -2,7 +2,7 @@
   parent: [ClothingShoesBase, BaseToggleClothing]
   id: ClothingShoesBootsMagBase
   name: magboots
-  description: Magnetic boots, often used during extravehicular activity to ensure the user remains safely attached to the vehicle.
+  description: 磁力靴，通常在太空行走期間使用，以確保使用者能安全地固定在太空船上。
   abstract: true
   components:
   - type: Sprite
@@ -47,7 +47,7 @@
   parent: [ClothingShoesBootsMagBase] # Frontier: removed BaseGrandTheftContraband
   id: ClothingShoesBootsMagAdv
   name: advanced magboots
-  description: State-of-the-art magnetic boots that do not slow down their wearer.
+  description: 最先進的磁力靴，穿著時不會拖慢穿著者腳步。
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Boots/magboots-advanced.rsi
@@ -78,8 +78,8 @@
 - type: entity
   parent: ClothingShoesBootsMagBase
   id: ClothingShoesBootsMagBlinding
-  name: magboots of blinding speed
-  description: These would look fetching on a fetcher like you.
+  name: 擁有驚人速度的魔靴
+  description: 像你這樣迷人的女孩穿上這些，肯定會格外迷人。
   components:
   - type: ClothingSpeedModifier
     walkModifier: 1.1 #PVS isn't too much of an issue when you are blind...
@@ -90,8 +90,8 @@
 - type: entity
   parent: [ClothingShoesBootsMagBase, BaseJetpack, BaseC3SyndicateContraband, ContrabandClothing] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband, added ContrabandClothing as parent
   id: ClothingShoesBootsMagSyndie
-  name: blood-red magboots
-  description: Reverse-engineered magnetic boots that have a heavy magnetic pull and integrated thrusters. It can hold 0.75 L of gas.
+  name: 血紅色的魔靴
+  description: 這是一款經逆向工程設計的磁力靴，具備強大的磁吸力與內建推進器，可容納 0.75 公升的氣體。
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Boots/magboots-syndicate.rsi
@@ -119,8 +119,8 @@
 - type: entity
   parent: BaseAction
   id: ActionToggleMagboots
-  name: Toggle Magboots
-  description: Toggles the magboots on and off.
+  name: 切換 Magboots
+  description: 切換磁力靴的開啟與關閉狀態。
   components:
   - type: Action
     itemIconStyle: BigItem

@@ -1,14 +1,12 @@
 # Metals
-materials-scrap = scrap
+materials-scrap = 廢料
 materials-bluespace = bluespace
-
 # Ores
-materials-raw-scrap = scrap
-materials-raw-scrap-tech = tech scrap
-
+materials-raw-scrap = 廢料
+materials-raw-scrap-tech = 科技廢料
 # Other
-materials-anomalite = anomalite
-materials-reinforced-uranium-glass = reinforced uranium glass
-materials-uranium-glass = uranium glass
-materials-clockwork-glass = clockwork glass
-materials-brass = brass
+materials-anomalite = 異常石
+materials-reinforced-uranium-glass = 強化鈾玻璃
+materials-uranium-glass = 鈾玻璃
+materials-clockwork-glass = 鐘錶玻璃
+materials-brass = 黃銅

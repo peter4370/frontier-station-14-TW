@@ -2,8 +2,8 @@
   abstract: true
   parent: BaseItem
   id: ShardCrystalBase
-  name: crystal shard
-  description:  A small piece of crystal.
+  name: 水晶碎片
+  description:  一小塊水晶。
   components:
   - type: Sharp
   - type: Execution
@@ -182,7 +182,7 @@
 - type: entity
   parent: ShardCrystalBase
   id: ShardCrystalRandom
-  name: random crystal shard
+  name: 隨機的水晶碎片
   components:
   - type: RandomSpawner
     prototypes:

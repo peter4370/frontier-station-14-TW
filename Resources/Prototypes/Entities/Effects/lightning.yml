@@ -1,5 +1,5 @@
 ﻿- type: entity
-  name: lightning
+  name: 閃電
   id: BaseLightning
   abstract: true
   components:
@@ -39,7 +39,7 @@
       canArc: true
 
 - type: entity
-  name: spooky lightning
+  name: 詭異的閃電
   id: LightningRevenant
   parent: BaseLightning
   categories: [ HideSpawnMenu ]
@@ -63,7 +63,7 @@
       shockDamage: 30
 
 - type: entity
-  name: charged lightning
+  name: 帶電的閃電
   id: ChargedLightning
   parent: BaseLightning
   categories: [ HideSpawnMenu ]
@@ -109,7 +109,7 @@
       - HideContextMenu
 
 - type: entity
-  name: supercharged lightning
+  name: 超充能閃電
   id: SuperchargedLightning
   parent: ChargedLightning
   categories: [ HideSpawnMenu ]
@@ -135,7 +135,7 @@
       castShadows: false
 
 - type: entity
-  name: hypercharged lightning
+  name: 超強閃電
   id: HyperchargedLightning
   parent: ChargedLightning
   categories: [ HideSpawnMenu ]

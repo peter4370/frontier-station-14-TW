@@ -1,2 +1,2 @@
-ent-ClothingBackpackCaptain = captain's backpack
-    .desc = It's a special backpack made exclusively for Nanotrasen-contracted captains.
+ent-ClothingBackpackCaptain = 隊長背包
+    .desc = 這是一款專為 Nanotrasen 簽約船長量身打造的特別背包。

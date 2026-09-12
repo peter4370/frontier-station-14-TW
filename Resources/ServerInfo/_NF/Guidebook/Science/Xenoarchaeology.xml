@@ -1,55 +1,56 @@
+
 <Document>
-# Xenoarchaeology
-Xenoarchaeology is a field of science focused on researching and experimenting on alien artifacts.
+# 外星考古學
+外星考古學是一門專注於研究和實驗外星文物的科學領域。
 
-Artifacts can be found by mining asteroids found around the sector, or you can buy some from miners or salvagers.
+玩家可以透過開採該星區周圍的小行星來取得文物，或者向礦工或回收者購買。
 
-By researching the unique things each artifact can do, you gain Research Points, increase the artifact's sale value, and potentially discover a useful ability or two!
+透過研究每件文物所能發揮的獨特功效，你不僅能獲得研究點數、提升文物的售價，甚至還有機會發現一兩項實用的能力！
 
-## Artifact Nodes
+## 遺物節點
 <Box>
 <GuideEntityEmbed Entity="ComplexXenoArtifact" Caption=""/>
 <GuideEntityEmbed Entity="ComplexXenoArtifactItem" Caption=""/>
 </Box>
-Artifacts consist of a randomly-generated tree of nodes. These nodes have a "[color=#a4885c]depth[/color]", representing how dangerous the node is, and the number of other nodes connected to it, called "[color=#a4885c]edges[/color]",
+遺物由一棵隨機生成的節點樹組成。 這些節點具有一個「[color=#a4885c]深度[/color]」，代表該節點的危險程度，以及與其相連的其他節點數量，稱為「[color=#a4885c]邊[/color]」，
 
-Artifacts always start at depth zero, the root of the tree. Travelling the tree to find as many nodes as possible is the main goal of the scientists working on them. Knowledge is extracted from nodes to gain Research Points and increase the artifact's sale value.
+遺物總是從深度零開始，即樹的根節點。 沿著樹形圖遍歷以找出盡可能多的節點，是從事這方面研究的科學家們的主要目標。 從節點中提取知識，以獲得研究點數並提高神器出售的價值。
 
-Each node has two components: its [color=#a4885c]stimulus[/color] and a [color=#a4885c]reaction[/color].
+每個節點有兩個組成部分：其 [color=#a4885c]刺激[/color] 和 [color=#a4885c]反應[/color]。
 
-A stimulus is the external behavior that triggers the reaction. There's a variety of these, and higher depth nodes have more difficult to accomplish stimuli. Some stimuli will need improvisation to trigger, and you may need special materials or resources to get everything you need.
+刺激是指引發反應的外部行為。 這類刺激有多種，而深度越高的節點，其刺激的達成難度就越高。 某些刺激需要即興發揮才能觸發，而且你可能需要特殊的材料或資源，才能取得所需的一切。
 
-Some reactions are instantaneous effects while others are permanent changes. Once an artifact is triggered, the reaction causes the artifact to randomly move to another node it is linked to.
+有些反應會立即產生效果，而有些則會造成永久性的改變。 一旦神器被觸發，該反應會導致神器隨機移動到它所連結的另一個節點。
 
-With some experimental science, you can begin to grasp how the different nodes of an artifact are connected, and how to move between them by repeatedly activating nodes.
+透過一些實驗性研究，你可以開始理解一件人工製品中各個節點是如何相互連結的，以及如何透過反覆啟動節點在它們之間移動。
 
-All non-zero-depth nodes will have exactly one edge that leads up to its parent node. All other edges a node has lead down to the next depth.
+所有深度不為零的節點，都將有一條且僅有一條邊通往其父節點。 該節點的所有其他邊均通往下一層深度。
 
-## Artifact Analyzer and Analysis Console
+## 遺物分析器與分析主控台
 <Box>
 <GuideEntityEmbed Entity="MachineArtifactAnalyzer"/>
 <GuideEntityEmbed Entity="ComputerAnalysisConsole"/>
 </Box>
-The main equipment that you'll be using for Xenoarchaeology is the [color=#a4885c]artifact analyzer[/color] and the [color=#a4885c]analysis console[/color]. You can use these to create reports that contain valuable information about an artifact.
+進行外星考古學研究時，您主要會使用 [color=#a4885c]文物分析儀[/color] 和 [color=#a4885c]分析主控台[/color] 這兩項主要設備。 您可以利用這些功能來建立包含有關某項工件之重要資訊的報告。
 
-To set them up, simply link them with a network configurator and set an artifact on top of the analyzer. Every science vessel has at least one of these machines already set up.
+要設定這些元件，只需透過網路配置工具將它們連結起來，並在分析器上方設定一個元件即可。 每艘科學研究船上都已安裝至少一台這類機器。
 
-Use the console's [color=#a4885c]scan[/color] button to discover what stimulus the artifact needs and what its reaction will do. Scanning takes thirty seconds.
+使用主機的 [color=#a4885c]掃描[/color] 按鈕，來找出這個遺物需要什麼刺激，以及它的反應會產生什麼效果。 掃描需要三十秒。
 
-Use the [color=#a4885c]print[/color] button to save the scan result, so you can refer to it later.
+請使用 [color=#a4885c]列印[/color] 按鈕儲存掃描結果，以便日後參考。
 
-Once you've discovered a new node, you can extract points from the artifact using the [color=#a4885c]Extract[/color] button.
+一旦發現了新的節點，您就可以透過 [color=#a4885c]萃取[/color] 按鈕，從該遺物中萃取點。
 
-## Artifexium and You
+## Artifexium 與您
 
-Some nodes can be particularly difficult to reach. One way to mitigate this is with [color=#a4885c]artifexium[/color]. When [color=#a4885c]sprayed[/color] or [color=#a4885c]splashed[/color] on an artifact. This will start unlocking nodes if the artifact isn't already doing it, and it will count as a wildcard stimulus for the triggers.
+某些節點可能特別難以抵達。 緩解此問題的一種方法是使用 [color=#a4885c]artifexium[/color]。 當 [color=#a4885c]噴灑[/color] 或 [color=#a4885c]濺到[/color] 文物上時。 如果該神器尚未開始解鎖節點，此操作將啟動解鎖程序，且會被視為觸發器的萬用刺激。
 
-In order to get artifexium, artifact fragments can be [color=#a4885c]ground[/color] in a [color=#a4885c]reagent grinder[/color].
+要獲得「人工精華」，可將「神器碎片」放入 [color=#a4885c]試劑研磨機[/color] 中 [color=#a4885c]研磨[/color]。
 
-It is worth note that using artifexium taints the observation process, resulting in fewer research points and value generated in the artifacts. Still, it is a useful tool in a pinch.
+值得注意的是，使用「artifexium」會影響觀察過程，導致從文物中獲得的研究點數與產值減少。 儘管如此，在緊急情況下，這仍是一個有用的工具。
 
-## Assembling Artifacts
+## 組裝文物
 <GuideEntityEmbed Entity="ArtifactFragment" Caption="Artifact Fragment"/>
 
-It is possible to gather multiple artifact fragments and assemble them into a working artifact. You can ask for these from mining ships, who usually find these while mining asteroids or on Expeditions.
+可以收集多個神器碎片，並將它們組合成一件可運作的神器。 您可以向採礦船索取這些物品，它們通常是在開採小行星或進行探險時發現這些物品的。
 </Document>

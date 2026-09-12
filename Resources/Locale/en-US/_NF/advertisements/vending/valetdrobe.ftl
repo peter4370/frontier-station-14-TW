@@ -1,10 +1,9 @@
-advertisement-valetdrobe-1 = Be right back? We've got a sign for that!
-advertisement-valetdrobe-2 = Wear the hat! It's corporate policy!
-advertisement-valetdrobe-3 = Dress in red, they'll see you coming!
-advertisement-valetdrobe-4 = Good shift so far? Brighten up someone else's!
-advertisement-valetdrobe-5 = Got a spare pair of white gloves?
-
-goodbye-valetdrobe-1 = Be sure and do your best out there.
-goodbye-valetdrobe-2 = Remember to check in with the boss!
-goodbye-valetdrobe-3 = Make 'em smile!
-goodbye-valetdrobe-4 = Remember, be attentive!
+advertisement-valetdrobe-1 = 「馬上回來？」我們正好有這樣一個標語！
+advertisement-valetdrobe-2 = 戴上帽子！這是公司規定！
+advertisement-valetdrobe-3 = 穿上紅色衣服，他們就會看見你走過來！
+advertisement-valetdrobe-4 = 到目前為止，這班過得還不錯嗎？那就讓別人的心情也亮起來吧！
+advertisement-valetdrobe-5 = 你有多餘的一雙白手套嗎？
+goodbye-valetdrobe-1 = 在場上務必全力以赴。
+goodbye-valetdrobe-2 = 別忘了向老闆匯報！
+goodbye-valetdrobe-3 = 讓他們露出笑容吧！
+goodbye-valetdrobe-4 = 請記住，要專心！

@@ -1,5 +1,6 @@
+
 <Document>
-  # PLACEBO-CLASS PSYCHOLOGY SHUTTLE
+  # 安慰劑級心理學穿梭車
   <Box>
   <GuideEntityEmbed Entity="PsychBed"/>
   <GuideEntityEmbed Entity="CrateNPCEmotionalSupport"/>
@@ -8,15 +9,15 @@
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapPlacebo" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻尺寸：[/color] 小型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-2
+  [color=#a4885c]建議乘員人數：[/color] 1-2 人
 
-  [color=#a4885c]Power Gen Type:[/color] Plasma
+  [color=#a4885c]動力產生類型：[/color] 等離子
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "A small psychology vessel. Named after the famous Placebo effect."
+  「一艘小型心理學研究船。 「其名稱源自著名的『安慰劑效應』。」
 
   # Ship Functions
 

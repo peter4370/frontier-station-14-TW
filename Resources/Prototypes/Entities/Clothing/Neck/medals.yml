@@ -2,8 +2,8 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckBronzeheart
-  name: bronzeheart medal
-  description: Given to crewmates for exemplary bravery in the face of danger.
+  name: 青銅之心勳章
+  description: 頒發給在面對危險時展現出卓越勇氣的船員。
   components:
   - type: Sprite
     sprite: Clothing/Neck/Medals/bronzeheart.rsi
@@ -18,7 +18,7 @@
   parent: ClothingNeckBase
   id: ClothingNeckGoldmedal
   name: gold medal of crewmanship
-  description: Given to crewmates who display excellent crewmanship.
+  description: 頒發給展現出卓越團隊精神的船員。
   components:
   - type: Sprite
     sprite: Clothing/Neck/Medals/gold.rsi
@@ -34,8 +34,8 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckCargomedal
-  name: cargo medal
-  description: Given for the best work in the cargo department.
+  name: 貨運勳章
+  description: 頒發予貨運部門表現最優異者。
   components:
   - type: Sprite
     sprite: Clothing/Neck/Medals/cargomedal.rsi
@@ -49,8 +49,8 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckEngineermedal
-  name: engineer medal
-  description: Given for the best work in the engineering department.
+  name: 工程師獎章
+  description: 頒發予工程系最傑出的作品。
   components:
   - type: Sprite
     sprite: Clothing/Neck/Medals/engineermedal.rsi
@@ -64,8 +64,8 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckMedicalmedal
-  name: medical medal
-  description: Given for the best work in the medical department.
+  name: 醫學獎章
+  description: 頒發予醫學系中最傑出的作品。
   components:
   - type: Sprite
     sprite: Clothing/Neck/Medals/medicalmedal.rsi
@@ -79,8 +79,8 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckSciencemedal
-  name: science medal
-  description: Given for the best work in the science department.
+  name: 科學獎章
+  description: 頒發予科學系中最優秀的作品。
   components:
   - type: Sprite
     sprite: Clothing/Neck/Medals/sciencemedal.rsi
@@ -94,8 +94,8 @@
 - type: entity
   parent: ClothingNeckBase
   id: ClothingNeckSecuritymedal
-  name: security medal
-  description: Given for the best work in the security department.
+  name: 安全勳章
+  description: 頒發予安全部門中表現最優異者。
   components:
   - type: Sprite
     sprite: Clothing/Neck/Medals/securitymedal.rsi
@@ -110,7 +110,7 @@
   parent: ClothingNeckBase
   id: ClothingNeckClownmedal
   name: clown medal
-  description: Given for the best joke in the universe. HONK!
+  description: 頒發給宇宙中最棒的笑話。嗷——！
   components:
   - type: Sprite
     sprite: Clothing/Neck/Medals/clownmedal.rsi

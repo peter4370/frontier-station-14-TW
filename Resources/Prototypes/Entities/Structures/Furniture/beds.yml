@@ -2,7 +2,7 @@
   name: bed
   id: Bed
   parent: BaseStructure
-  description: This is used to lie in, sleep in or strap on. Resting here provides extremely slow healing.
+  description: 這可以用來躺臥、睡覺或綁在身上。在此休息可獲得極其緩慢的恢復效果。
   components:
   - type: HealOnBuckle
     damage:
@@ -67,8 +67,8 @@
 - type: entity
   parent: Bed
   id: MedicalBed
-  name: medical bed
-  description: A hospital bed for patients to recover in. Resting here provides fairly slow healing.
+  name: 醫療用病床
+  description: 一張供患者休養的病床。在此休息可讓傷勢以相當緩慢的速度康復。
   components:
   - type: Sprite
     state: bed-MED
@@ -88,8 +88,8 @@
 - type: entity
   parent: Bed
   id: DogBed
-  name: dog bed
-  description: A comfy-looking dog bed. You can even strap your pet in, in case the gravity turns off.
+  name: 狗床
+  description: 一張看起來很舒適的狗床。萬一重力突然消失，你甚至可以將寵物綁在上面。
   components:
   - type: Sprite
     state: dogbed
@@ -130,8 +130,8 @@
 - type: entity
   parent: Bed
   id: Mattress
-  name: mattress
-  description: Better sleep in that then on the floor i guess.
+  name: 床墊
+  description: 我想，睡在那裡總比睡在地板上好些吧。
   components:
   - type: Sprite
     state: mattress
@@ -159,8 +159,8 @@
 - type: entity
   parent: Bed
   id: WebBed
-  name: web bed
-  description: You got webbed.
+  name: 網床
+  description: 你被網住了。
   components:
   - type: Damageable
     damageModifierSet: Web
@@ -199,8 +199,8 @@
 - type: entity
   parent: Bed
   id: PsychBed
-  name: psychologist bed
-  description: An upholstered bed for the psychological care of patients.
+  name: 心理學家專用床
+  description: 一款用於患者心理照護的軟墊床。
   components:
   - type: Sprite
     state: psychbed

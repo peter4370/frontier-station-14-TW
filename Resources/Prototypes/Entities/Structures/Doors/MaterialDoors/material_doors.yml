@@ -3,7 +3,7 @@
   parent: BaseStructure
   name: door
   abstract: true
-  description: A door, where will it lead?
+  description: 一扇門，它會通往何處？
   components:
   - type: Anchorable
     flags:
@@ -71,7 +71,7 @@
 
 - type: entity
   id: MetalDoor
-  name: metal door
+  name: 金屬門
   parent: BaseMaterialDoorNavMap
   components:
   - type: Construction
@@ -80,7 +80,7 @@
 
 - type: entity
   id: WoodDoor
-  name: wooden door
+  name: 木門
   parent: BaseMaterialDoorNavMap
   components:
   - type: Sprite
@@ -107,7 +107,7 @@
 
 - type: entity
   id: PaperDoor
-  name: paper door
+  name: 紙門
   parent: BaseMaterialDoorNavMap
   components:
   - type: Sprite
@@ -131,7 +131,7 @@
 
 - type: entity
   id: PlasmaDoor
-  name: plasma door
+  name: 等離子門
   parent: BaseMaterialDoorNavMap
   components:
   - type: Sprite
@@ -153,7 +153,7 @@
 
 - type: entity
   id: GoldDoor
-  name: gold door
+  name: 金門
   parent: BaseMaterialDoorNavMap
   components:
   - type: Sprite
@@ -164,7 +164,7 @@
 
 - type: entity
   id: SilverDoor
-  name: silver door
+  name: 銀色門
   parent: BaseMaterialDoorNavMap
   components:
   - type: Sprite
@@ -175,7 +175,7 @@
 
 - type: entity
   id: BananiumDoor
-  name: bananium door
+  name: 香蕉門
   parent: BaseMaterialDoorNavMap
   components:
   - type: Sprite
@@ -191,9 +191,9 @@
 
 - type: entity
   id: WebDoor
-  name: web door
+  name: 網路門戶
   parent: BaseMaterialDoorNavMap
-  description: A door, leading to the lands of the spiders... or a spaced room.
+  description: 一扇門，通往蜘蛛的國度……抑或是一間空蕩蕩的房間。
   components:
   - type: Sprite
     sprite: Structures/Doors/web_door.rsi
@@ -236,7 +236,7 @@
 - type: entity
   id: CardDoor
   parent: BaseMaterialDoorNavMap
-  name: cardboard door
+  name: 紙板門
   components:
   - type: Sprite
     sprite: Structures/Doors/MineralDoors/card_door.rsi

@@ -1,46 +1,35 @@
-
-station-event-bluespace-dungeon-start-announcement = Signatures of a large inbound object have been detected. Investigate with caution, NanoTrasen is not liable for damages sustained or loss of life.
-station-event-bluespace-dungeon-warning-announcement = Bluespace instability detected on foreign object, five minutes until estimated departure.
-station-event-bluespace-dungeon-end-announcement = Critical bluespace instability detected, the foreign object has exited the sector.
-
-station-event-bluespace-scrap-start-announcement = Storms detected in bluespace lanes, expect inbound wreckage shortly. Wrecked ships are valid salvage targets.
-station-event-bluespace-scrap-warning-announcement = Bluespace instability detected on wreckage, five minutes until expected departure.
-station-event-bluespace-scrap-end-announcement = Critical bluespace instability detected, storm wreckage has exited the sector.
-
-station-event-bluespace-vault-start-announcement = A NanoTrasen armored vault is inbound to the sector. The NFSD may declare the vault a No Fly Zone. Station accounts will be rewarded for its safe return.
-station-event-bluespace-vault-warning-announcement = Remote FTL procedures initialized, five minutes until vault extraction.
-station-event-bluespace-vault-end-announcement = We have retrieved the vault from your sector. Station accounts have been paid.
-
-station-event-bluespace-cache-start-announcement = A Syndicate weapons cache is inbound to the sector. The NFSD may declare the cache a No Fly Zone. Station accounts will be rewarded for guarding the cache.
-station-event-bluespace-cache-warning-announcement = Remote FTL procedures initialized, five minutes until weapons cache extraction.
-station-event-bluespace-cache-end-announcement = We have retrieved the Syndicate weapons cache from your sector. Station accounts have been paid.
-
-station-event-bluespace-asteroid-start-announcement = Long range scans indicate an unusually large asteroid entering the sector. NanoTrasen advises prospectors to divert operations for maximum profit potential.
-station-event-bluespace-asteroid-warning-announcement = Bluespace instability detected on asteroid, five minutes until estimated departure.
-station-event-bluespace-asteroid-end-announcement = Critical bluespace instability detected, the asteroid has exited the sector.
-
-station-event-bluespace-ship-start-announcement = We have detected an unusual FTL signature - long range scans indicate an unknown ship. NanoTrasen cannot confirm safety for prospectors within its vicinity, be advised.
-station-event-bluespace-ship-warning-announcement = Remote FTL procedures initialized, five minutes until ship dissipation.
-station-event-bluespace-ship-end-announcement = In compliance with NanoTrasen FTL traffic patterns, the unknown ship has been dissipated to ensure non-collision.
-
-station-event-bluespace-syndicate-ftl-interception-start-announcement = Attention all available NanoTrasen personnel! NanoTrasen Naval Command disrupted the FTL-jump of Syndicate vessel, according to our deepspace scanners the vessel either already entered the real space in your sector or is about to enter. Code: Intercept, Expunge, Decimate, Cauterise. Expect armed opposition, use of lethal force against enemy agents is authorized. Do note: any loss of NT-affiliated personnel lives will not be compensated. Reminder: NT personnel who are granted security clearance for the engagement are required to surrender any hazardous materials to the local security department to ensure safe transportation of Syndicate technology to CentCom for study. Should there be any prisoners, security personnel is required to prepare them for transportation to CentCom for interrogation through the NT-patented Contraband Exchange System (tm).
-station-event-bluespace-syndicate-ftl-interception-warning-announcement = Remote FTL procedures initialized, five minutes until Syndicate vessel dissipation.
-station-event-bluespace-syndicate-ftl-interception-end-announcement = In compliance with NanoTrasen FTL traffic patterns, the Syndicate vessel has been dissipated to ensure non-collision.
-
-station-event-bluespace-wizardfederation-scout-start-announcement = Attention all available NanoTrasen personnel! NanoTrasen Naval Command detected a Bluespace Anomaly in your sector with the signature indicative of the imminent arrival of a small Wizard Federation vessel. Code: Intercept, Detain, Incarcerate. Arrest the intruders and prepare them for transportation to CentCom for interrogation through NT patented Contraband Exchange System (tm).
-station-event-bluespace-wizardfederation-scout-warning-announcement = Remote FTL procedures initialized, five minutes until Wizard Federation vessel dissipation.
-station-event-bluespace-wizardfederation-scout-end-announcement = In compliance with NanoTrasen FTL traffic patterns, the Wizard Federation vessel has been dissipated to ensure non-collision.
-
-station-event-bluespace-bloodmoon-start-announcement = Attention all available NanoTrasen personnel! NanoTrasen Naval Command detected a Bluespace Anomaly in your sector with the signature indicative of the imminent arrival of a Blood Cult vessel. Code: Intercept, Expunge, Exterminate, Cauterise. Expect armed opposition, use of lethal force against enemy combatants is mandatory, take no prisoners. Warning! Materials on the Blood Cult vessel possess Level 3 Cognitohazard! Local security force is advised to take steps to limit NT personnel's exposure to hazardous materials. Reminder: NT personnel who are granted security clearance for the engagement are required to surrender any hazardous materials to the local security department for containment and undergo a medical examination afterward.
-station-event-bluespace-bloodmoon-warning-announcement = Remote FTL procedures initialized, five minutes until Blood Cult vessel dissipation.
-station-event-bluespace-bloodmoon-end-announcement = In compliance with NanoTrasen FTL traffic patterns, the Blood Cult vessel has been dissipated to ensure non-collision.
-
-station-event-bluespace-generic-ftl-start-announcement = Attention all NanoTrasen personnel! NanoTrasen Naval Command has detected an unidentified vessel entering the Frontier Sector. Investigate with caution, NanoTrasen is not liable for damages sustained or loss of life.
-station-event-bluespace-generic-ftl-warning-announcement = Remote FTL procedures initialized, five minutes until unidentified vessel dissipation.
-station-event-bluespace-generic-ftl-end-announcement = In compliance with NanoTrasen FTL traffic patterns, the unidentified vessel has been dissipated to ensure non-collision.
-
-station-event-bluespace-name-BrokenMcDelivery = McDelivery
-station-event-bluespace-name-Cave = Cave
-station-event-bluespace-name-UnidentifiedVessel = Unidentified Vessel
-station-event-bluespace-name-SecureNTVault = Secure NT Vault
-station-event-bluespace-name-SyndicateWeaponsCache = Syndicate Weapons Cache
+station-event-bluespace-dungeon-start-announcement = 已偵測到大型來襲物體的訊號。請謹慎調查，NanoTrasen 對因此造成的損害或人命傷亡概不負責。
+station-event-bluespace-dungeon-warning-announcement = 在異物上偵測到藍色空間不穩定現象，預估離去時間尚有五分鐘。
+station-event-bluespace-dungeon-end-announcement = 偵測到嚴重的藍色空間不穩定現象，該異物已離開該區域。
+station-event-bluespace-scrap-start-announcement = 在藍域航道偵測到風暴，預計不久後將有殘骸闖入。失事船隻均屬合法打撈目標。
+station-event-bluespace-scrap-warning-announcement = 在殘骸上偵測到藍域不穩定現象，預計起飛前還有五分鐘。
+station-event-bluespace-scrap-end-announcement = 偵測到嚴重的藍色空間不穩定現象，風暴殘骸已離開該區段。
+station-event-bluespace-vault-start-announcement = 一艘 NanoTrasen 裝甲金庫正駛向該星區。NFSD 可能會將該金庫劃定為禁飛區。若能確保其安全返航，空間站帳戶將獲得獎勵。
+station-event-bluespace-vault-warning-announcement = 遠端 FTL 程序已啟動，距離金庫提取還有五分鐘。
+station-event-bluespace-vault-end-announcement = 我們已從您的區域取回保險庫。站內帳單已結清。
+station-event-bluespace-cache-start-announcement = 一個「辛迪加」的武器儲藏點正朝該星區移動。NFSD 可能會將該儲藏點劃定為禁飛區。成功守護該儲藏點的空間站帳號將獲得獎勵。
+station-event-bluespace-cache-warning-announcement = 遠端 FTL 程序已啟動，距離武器庫提取還有五分鐘。
+station-event-bluespace-cache-end-announcement = 我們已從貴區回收了「辛迪加」的武器庫存。空間站的帳款已結清。
+station-event-bluespace-asteroid-start-announcement = 遠程掃描顯示，一顆體積異常龐大的小行星正進入該區域。NanoTrasen 建議探礦者調整作業方向，以爭取最大獲利潛力。
+station-event-bluespace-asteroid-warning-announcement = 在小行星上偵測到藍域不穩定現象，預估離去時間還有五分鐘。
+station-event-bluespace-asteroid-end-announcement = 偵測到嚴重的藍色空間不穩定現象，該小行星已離開該區段。
+station-event-bluespace-ship-start-announcement = 我們偵測到一項異常的超光速訊號——長程掃描顯示為一艘未知船隻。NanoTrasen 無法確認該區域附近探礦者的安全，敬請留意。
+station-event-bluespace-ship-warning-announcement = 遠端 FTL 程序已啟動，距離艦船消散尚有五分鐘。
+station-event-bluespace-ship-end-announcement = 根據 NanoTrasen FTL 航行模式的規定，該不明船隻已遭驅離，以確保避免碰撞。
+station-event-bluespace-syndicate-ftl-interception-start-announcement = 所有待命中的 NanoTrasen 人員請注意！NanoTrasen 海軍指揮部已攔截了「辛迪加」組織船隻的超光速跳躍，根據我們的深空掃描器顯示，該船隻要麼已進入貴轄區的實空間，要麼即將進入。行動代號：攔截、清除、殲滅、徹底殲滅。 預期將遭遇武裝抵抗，授權對敵方特工使用致命武力。請注意：任何隸屬 NT 的人員若在行動中喪生，均不予賠償。 提醒：獲准參與此次行動的 NT 人員，必須將所有危險物品移交當地安全部門，以確保「辛迪加」技術能安全運送至中央指揮部（CentCom）進行研究。若有任何俘虜，安全人員須透過 NT 專利「違禁品交換系統（tm）」將其準備就緒，以便運送至中央指揮部進行審訊。
+station-event-bluespace-syndicate-ftl-interception-warning-announcement = 遠端超光速（FTL）程序已啟動，距「辛迪加」號艦船消散尚有五分鐘。
+station-event-bluespace-syndicate-ftl-interception-end-announcement = 為遵守 NanoTrasen FTL 的航行模式，該「辛迪加」組織的船隻已遭摧毀，以確保避免碰撞。
+station-event-bluespace-wizardfederation-scout-start-announcement = 所有待命的 NanoTrasen 人員請注意！NanoTrasen 海軍指揮部在貴轄區偵測到一處「藍色空間異常」，其訊號特徵顯示一艘小型「巫師聯邦」艦艇即將抵達。行動代號：攔截、扣留、監禁。 逮捕入侵者，並透過 NT 專利「違禁品交換系統（tm）」將其移送至中央指揮部接受訊問。
+station-event-bluespace-wizardfederation-scout-warning-announcement = 遠距超光速（FTL）程序已啟動，距巫師聯邦飛船消散尚有五分鐘。
+station-event-bluespace-wizardfederation-scout-end-announcement = 為遵守 NanoTrasen FTL 航行模式，巫師聯邦的飛船已遭消散，以確保避免碰撞。
+station-event-bluespace-bloodmoon-start-announcement = 所有待命的 NanoTrasen 人員請注意！NanoTrasen 海軍指揮部在貴轄區偵測到一處「藍域異常現象」，其訊號特徵顯示一艘「血 cult」艦船即將抵達。行動代號：攔截、清除、殲滅、灼燒。預期將遭遇武裝抵抗，對敵方戰鬥人員必須使用致命武力，不得俘虜。 警告！「血之教派」艦船上的物質具有第3級認知危害！建議當地安全部隊採取措施，限制納諾特拉森人員接觸危險物質。提醒：獲准參與此次行動且具備安全許可的納諾特拉森人員，必須將任何危險物質交由當地安全部門進行封存，並於事後接受醫療檢查。
+station-event-bluespace-bloodmoon-warning-announcement = 遠端 FTL 程序已啟動，距「血族」飛船消散尚有五分鐘。
+station-event-bluespace-bloodmoon-end-announcement = 為遵守 NanoTrasen FTL 交通航線規定，「血之邪教」的飛船已遭消散，以確保避免碰撞。
+station-event-bluespace-generic-ftl-start-announcement = 請所有 NanoTrasen 人員注意！NanoTrasen 海軍司令部已偵測到一艘未識別船隻進入邊境區。請謹慎調查，NanoTrasen 對因此造成的損害或人員傷亡概不負責。
+station-event-bluespace-generic-ftl-warning-announcement = 遠距超光速（FTL）程序已啟動，距未知航船消散尚有五分鐘。
+station-event-bluespace-generic-ftl-end-announcement = 根據 NanoTrasen FTL 航行模式的規定，該未識別船隻已偏離航線，以確保避免碰撞。
+station-event-bluespace-name-BrokenMcDelivery = 麥當勞外送
+station-event-bluespace-name-Cave = 洞穴
+station-event-bluespace-name-UnidentifiedVessel = 不明船隻
+station-event-bluespace-name-SecureNTVault = 安全 NT 保管庫
+station-event-bluespace-name-SyndicateWeaponsCache = 黑手黨武器庫

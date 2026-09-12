@@ -2,7 +2,7 @@
   abstract: true
   parent: BaseStructureDynamic
   id: BaseHardBomb
-  description: Just keep talking and nobody will explode.
+  description: 只要繼續說話，就不會有人發火。
   name: hardbomb
   components:
     - type: Appearance
@@ -54,8 +54,8 @@
 - type: entity
   parent: BaseHardBomb
   id: TrainingBomb
-  name: training bomb
-  description: A bomb for dummies, manual not included.
+  name: 訓練炸彈
+  description: '《傻瓜式炸彈製作指南》，不附說明書。'
   components:
     - type: Wires
       layoutId: Defusable
@@ -97,7 +97,7 @@
   parent: [BaseHardBomb, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: SyndicateBomb
   name: syndicate bomb
-  description: A bomb for Syndicate operatives and agents alike. The real deal, no more training, get to it!
+  description: 這是一款專為「辛迪加」成員與特工量身打造的炸彈。貨真價實，無需再進行訓練，馬上上手吧！
   components:
     - type: Sprite
       sprite: Structures/Machines/bomb.rsi
@@ -146,9 +146,9 @@
 - type: entity
   parent: SyndicateBomb
   id: DebugHardBomb
-  name: debug bomb
+  name: 除錯炸彈
   suffix: DEBUG
-  description: Holy shit this is gonna explode.
+  description: 天啊，這下要炸了。
   components:
     - type: Defusable
       disposable: true

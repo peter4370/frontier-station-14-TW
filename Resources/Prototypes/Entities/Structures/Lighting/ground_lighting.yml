@@ -1,6 +1,6 @@
 - type: entity
   id: LightPostSmall
-  name: post light
+  name: 柱燈
   description: "An always powered light."
   suffix: Always Powered
   parent: BaseStructure
@@ -70,7 +70,7 @@
 - type: entity
   id: PoweredLightPostSmallEmpty
   name: post light
-  description: "A small light post."
+  description: "一根小路燈桿。"
   suffix: Empty
   parent: LightPostSmall
   components:

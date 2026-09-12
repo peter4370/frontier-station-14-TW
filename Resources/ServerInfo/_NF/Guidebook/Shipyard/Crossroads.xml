@@ -1,45 +1,46 @@
+
 <Document>
-  # CROSSROADS-CLASS SERVICE SHUTTLE
+  # CROSSROADS 級服務接駁車
   <Box>
   <GuideEntityEmbed Entity="Airlock" Caption="Docking"/>
-  <GuideEntityEmbed Entity="FloraTree" Caption="Nature"/>
-  <GuideEntityEmbed Entity="SaxophoneInstrument" Caption="Entertainment"/>
+  <GuideEntityEmbed Entity="FloraTree" Caption="《自然》"/>
+  <GuideEntityEmbed Entity="SaxophoneInstrument" Caption="娛樂"/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapCrossroads" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 2-4
+  [color=#a4885c]建議船員人數：[/color] 2-4 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "The PHI Crossroads is a spacious meeting point for anyone looking to relax on the frontier. The Crossroad's many docking points, alongside its spacious, open, and lush interior, make it a helpful central hub for growing communities."
+  「PHI Crossroads 是一處寬敞的聚會場所，適合任何想在邊疆放鬆的人。」 「『十字路口』擁有眾多停靠點，加上其寬敞、開闊且綠意盎然的內部空間，使其成為正在成長中的社區極具助益的核心樞紐。」
 
   # Ship Functions
 
 <Box>
   <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Bolt Exterior Airlocks"/>
-  <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Power Down Thrusters"/>
+  <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="關閉推進器"/>
 </Box>
 
-  # Entertainment
+  # 娛樂
 
-  [textlink="Botany" link="Botany"/]
+  [textlink="植物學" link="植物學"/]
 
-  # Piloting
+  # 試飛
 
-  [textlink="Piloting" link="Piloting"/]
+  [textlink="試飛" link="試飛"/]
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="星區拓撲" link="星區拓撲"/]
 
-  # Hiring crew
+  # 僱用船員
 
-  [textlink="Hiring" link="Hiring"/]
+  [textlink="僱用" link="僱用"/]
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員。
 
   # PREFLIGHT CHECKLIST
 

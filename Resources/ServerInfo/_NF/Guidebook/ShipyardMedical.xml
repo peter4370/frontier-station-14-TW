@@ -1,7 +1,8 @@
-<Document>
-  # Medical ships
 
-Operated in partnership with Frontier Medical Dispatch, this shipyard houses emergency response and medical support vessels intended to preserve life throughout the sector. From rapid casualty retrieval to mobile treatment platforms, these ships ensure aid can reach those who need it most. Remember: every second saved in transit may mean another life brought home.
+<Document>
+  # 醫療船
+
+該船塢與「邊境醫療調度中心」合作營運，停泊著用於緊急應變及醫療支援的船隻，旨在為整個星區的民眾保命。 從快速傷員後送到行動醫療平台，這些船隻確保救援物資能送達最需要的人手中。 請記住：在運送過程中每節省一秒，就可能讓另一條生命平安返家。
 
   <Box>
     <GuideEntityEmbed Entity="BannerMedical" Caption=""/>

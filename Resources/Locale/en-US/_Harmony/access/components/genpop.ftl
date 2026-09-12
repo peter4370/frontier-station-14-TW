@@ -1,1 +1,1 @@
-genpop-prisoner-id-expire-radio = {$name} has expired. The prisoner's sentence has been served.'
+genpop-prisoner-id-expire-radio = { $name } 已過期。該囚犯已服完刑期。'

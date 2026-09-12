@@ -1,146 +1,147 @@
-<Document>
-  # Explorers
 
-  These foolhardy souls scavenge through ruins for the promise of loot and high adventure, similar to you. Unlike you, however, they do not possess the license to operate in NT-controlled space. Exterminate with prejudice.
+<Document>
+  # 探險家
+
+  這些魯莽的冒險者，就像你一樣，為了尋求戰利品與驚險刺激的冒險，在廢墟中四處搜尋。 然而，與你們不同的是，他們並未持有在NT管轄區域內運作的許可證。 予以徹底消滅。
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # Known Variants
-  # "Looter"
+  # 已知變體
+  # 「掠奪者」
 
-  Armed with a trusty pickaxe and greed, every group needs its grunts.
+  手持可靠的鎬頭，心中充滿貪婪，每個團體都需要這樣的雜兵。
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerMeleeT1"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 6 [color=red]Blunt[/color], 6 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（致命），130（死亡）
+  - [bold][color=#a4885c]奔跑速度：[/color][/bold] 4.5 米/秒[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 6 [color=red]鈍擊[/color]、6 [color=yellow]穿刺[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
 
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
+  [bold][color=#a4885c]*[/color][/bold] - [italic]一般人類的奔跑速度為 4.5 公尺/秒，步行速度為 2.5 公尺/秒。[/斜體]
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
 
-  # "Scrapper"
+  # 「Scrapper」
 
-  Proto-kinetic accelerator in one hand, flashlight in the other, beer in the belly. That's how you explore.
+  一手握著原動能加速器，另一手拿著手電筒，肚裡還裝著啤酒。 這就是探索的方式。
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerRangedT1"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 12 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (unwielded PKA)
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 100（致命），130（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 12 [color=red]鈍擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（未持有 PKA）
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # "Scavenger"
+  # 「拾荒者」
 
-  A looter that scavenged enough coins to afford some decent equipment.
+  一名掠奪者，撿拾了足夠的硬幣，得以購置一些像樣的裝備。
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerMeleeT2"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 7 [color=red]Blunt[/color], 6 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 10%; [color=orange]Heat[/color] 5%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 100（致命傷）、130（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4.5 米/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 7 [color=red]鈍擊[/color]、6 [color=red]劈砍[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 及 [color=yellow]穿刺[/color] 10%； [color=orange]灼熱[/color] 5%； [color=orange]腐蝕[/color] 10%
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # "Salvager"
+  # 「回收者」
 
-  Sawn-off proto-kinetic accelerator in one hand, crusher dagger in the other, magm-ale both in the belly and in the hardsuit's boots.
+  一手持截短型原動能加速器，另一手持粉碎匕首，肚腹與硬質戰甲的靴子中皆裝有岩漿啤酒。
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerRangedT2"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 12 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 10%; [color=orange]Heat[/color] 5%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (unwielded PKA)
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 100（致命），130（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/粗體] 12 [color=red]鈍擊[/color]
+  - [粗體][color=#a4885c]傷害抗性：[/color][/粗體] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 以及 [color=yellow]穿刺[/color] 10%； [color=orange]熱能[/color] 5%； [color=orange]腐蝕[/color] 10%
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（無需持握的 PKA）
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # "Miner"
+  # 「礦工」
 
-  Drilling in the name of... drilling. No rock formation can withstand the power of dual-wielded mining drills - good thing you aren't a rock.
+  以……鑽探之名進行鑽探。 沒有任何岩層能抵擋雙持採礦鑽頭的威力——幸好你不是塊岩石。
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerMeleeT3"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 2 [color=red]Blunt[/color], 2 [color=red]Slash[/color], 2 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 15%; [color=orange]Heat[/color] 10%; [color=orange]Caustic[/color] 15%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（致命傷）、130（死亡）
+  - [bold][color=#a4885c]奔跑速度：[/color][/粗體] 4.5 公尺/秒
+  - [粗體][color=#a4885c]傷害（類型）：[/color][/粗體] 2 [color=red]鈍擊[/color]，2 [color=red]斬擊[/color]，2 [color=yellow]穿刺[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 以及 [color=yellow]穿刺[/color] 15%； [color=orange]熱能[/color] 10%； [color=orange]腐蝕[/color] 15%
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # "Explorer"
+  # “探險家”
 
-  Veteran scrappers, these salvagers are wealthy enough to explore abandoned ruins for the adrenaline rush and adventure alone.
+  身為資深拆解者，這些回收者財力雄厚，僅僅為了尋求腎上腺素飆升與冒險的刺激，便足以讓他們深入探索廢棄遺跡。
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerRangedT3"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 15%; [color=orange]Heat[/color] 10%; [color=orange]Caustic[/color] 15%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (wielded PKA)
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 100（致命），130（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/粗體] 16 [color=red]鈍擊[/color]
+  - [粗體][color=#a4885c]傷害抗性：[/color][/粗體] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 以及 [color=yellow]穿刺[/color] 15%； [color=orange]熱能[/color] 10%； [color=orange]腐蝕[/color] 15%
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（配備 PKA 步槍）
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # "Hauler"
+  # 「運輸車」
 
-  Loaded with heavy equipment for industrial-scale looting. Pardon me, "asset recovery".
+  裝載重型設備，用於工業級規模的掠奪。 請原諒我，是「資產追回」。
 
-  [color=#a4885c]Immunity[/color]: invulnerable to specific types of damage.
+  [color=#a4885c]免疫[/color]：對特定類型的傷害免疫。
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerHauler"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 200 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 20 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color] 30%; [color=red]Slash[/color] 50%; [color=yellow]Piercing[/color] 30%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Damage weaknesses:[/color][/bold] [color=orange]Structural[/color] 20%; [color=orange]Shock[/color] 50%; [color=lime]Radiation[/color] 20%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Immunity ([color=orange]Cold[/color], [color=lime]Poison[/color], [color=#9A54BF]Asphyxiation[/color], [color=#9A54BF]Bloodloss[/color], [color=#da8b8b]Cellular[/color])
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 200（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4.5 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 20 [color=red]鈍擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color] 30%； [color=red]切割[/color] 50%； [color=yellow]穿刺[/color] 30%； [color=orange]腐蝕[/color] 10%
+  - [bold][color=#a4885c]傷害弱點：[/color][/粗體] [color=orange]結構性[/color] 20%； [color=orange]電擊[/color] 50%； [color=lime]輻射[/color] 20%
+  - [粗體][color=#a4885c]特殊能力：[/color][/bold] 免疫 ([color=orange]寒冷[/color]、[color=lime]毒[/color]、[color=#9A54BF]窒息[/color]、[color=#9A54BF]失血[/color]、[color=#da8b8b]細胞[/color])
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # "Explorer captain"
+  # 「探險船長」
 
-  Fearless and battle-hardened salvage team leaders, it takes years picking through the darkest corners of space and navigating the galaxy's criminal underbelly of the galaxy before you can become a captain. Not to be underestimated.
+  這些無畏且久經沙場的打撈隊隊長，必須耗費數年時間在宇宙最黑暗的角落中搜尋，並在銀河系的犯罪地下世界中穿梭，才能晉升為船長。 絕不可小覷。
 
   <Box>
   <GuideEntityEmbed Entity="MobExplorerBoss"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 120 (crit), 150 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=orange]Heat[/color], 4 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color] and [color=red]Slash[/color] 50%; [color=yellow]Piercing[/color] 50%; [color=orange]Heat[/color] 30%; [color=orange]Caustic[/color] 50%
-  - [bold][color=#a4885c]Special abilities: Deflection (2.5%)
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 120（致命傷），150（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4.5 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 16 [color=orange]熱能[/color]，4 [color=yellow]穿透[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color] 與 [color=red]斬擊[/color] 50%； [color=yellow]穿刺[/color] 50%； [color=orange]熱能[/color] 30%； [color=orange]腐蝕[/color] 50%
+  - [bold][color=#a4885c]特殊能力：偏轉（2.5%）
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
 
-  # Mission Objectives
-  ## Elimination
+  # 任務目標
+  ## 消滅
   <Box>
   <GuideEntityEmbed Entity="MobExplorerBoss"/>
   </Box>
-  Eliminate a large and dangerous creature - an [color=#a4885c]explorer captain[/color] within given time constraints.
+  在指定的時間限制內，消滅一隻體型龐大且危險的生物——一名 [color=#a4885c]探險隊隊長[/color]。
 
   ## Destruction
   <Box>
   <GuideEntityEmbed Entity="ExplorersLootRadar"/>
   </Box>
-  Destroy a certain number of [color=#a4885c]salvage radars[/color] within given time constraints.
+  在指定的時間限制內，摧毀一定數量的 [color=#a4885c]回收雷達[/color]。
 </Document>

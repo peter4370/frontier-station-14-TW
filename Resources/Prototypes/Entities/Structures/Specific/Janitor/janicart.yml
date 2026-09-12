@@ -1,9 +1,9 @@
 # Mop Bucket
 - type: entity
-  name: mop bucket
+  name: 拖把桶
   id: MopBucket
   parent: [BaseStructureDynamic, StructureWheeled]
-  description: Holds water and the tears of the janitor.
+  description: 盛載著水，以及清潔工的淚水。
   components:
   - type: Clickable
   - type: Sprite
@@ -142,7 +142,7 @@
   parent: BaseWrappedCube
   name: mop bucket cube
   id: MopBucketCubeWrapped
-  description: Unwrap this to get a mop bucket cube.
+  description: 拆開包裝，即可獲得一個拖把桶方塊。
   components:
   - type: SpawnItemsOnUse
     items:
@@ -153,10 +153,10 @@
 
 # Janicart
 - type: entity
-  name: janitorial trolley
+  name: 清潔推車
   id: JanitorialTrolley
   parent: [BaseStructureDynamic, StructureWheeled]
-  description: This is the alpha and omega of sanitation.
+  description: 這就是衛生工作的始與終。
   components:
     - type: Sprite
       noRot: true

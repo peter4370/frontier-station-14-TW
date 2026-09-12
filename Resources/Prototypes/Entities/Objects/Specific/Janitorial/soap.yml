@@ -2,7 +2,7 @@
   name: soap
   id: Soap
   parent: [BaseItem, RecyclableItemOrganicTiny] # Frontier: added RecyclableItemOrganicTiny
-  description: A cheap bar of soap. Doesn't smell.
+  description: 一塊便宜的肥皂。沒有味道。
   components:
   - type: Tag
     tags:
@@ -75,7 +75,7 @@
   name: soap
   id: SoapNT
   parent: Soap
-  description: A Nanotrasen brand bar of soap. Smells of plasma.
+  description: 一塊 Nanotrasen 品牌的香皂。散發著血漿的香氣。
   components:
   - type: Sprite
     layers:
@@ -100,7 +100,7 @@
   name: soap
   id: SoapDeluxe
   parent: Soap
-  description: A deluxe Waffle Co. brand bar of soap. Smells of strawberries.
+  description: 一款「Waffle Co.」品牌的豪華香皂。散發著草莓香氣。
   components:
   - type: Sprite
     layers:
@@ -150,7 +150,7 @@
   id: SoapletSyndie
   categories: [ HideSpawnMenu ]
   parent: Soap
-  description: A tiny piece of syndicate soap.
+  description: 一塊小小的黑幫肥皂劇。
   components:
   - type: Sprite
     layers:
@@ -190,7 +190,7 @@
   name: soap
   id: SoapHomemade
   parent: Soap
-  description: A homemade bar of soap. Smells of... well....
+  description: 一塊自製的肥皂。聞起來有種……嗯……
   components:
   - type: Sprite
     layers:
@@ -211,10 +211,10 @@
     residueColor: residue-red
 
 - type: entity
-  name: omega soap
+  name: 歐米茄香皂
   id: SoapOmega
   parent: Soap
-  description: The most advanced soap known to mankind. Smells of bluespace.
+  description: 人類迄今所知最先進的肥皂。散發著「藍色空間」的香氣。
   components:
   - type: Sprite
     layers:

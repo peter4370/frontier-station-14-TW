@@ -1,5 +1,5 @@
 - type: entity
   save: false
-  name: Urist McFluff
+  name: 尤里斯·麥克弗拉夫
   parent: BaseMobMoth
   id: MobMoth

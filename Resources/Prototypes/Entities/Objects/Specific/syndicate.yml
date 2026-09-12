@@ -4,7 +4,7 @@
   parent: [BaseItem, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: Telecrystal
   suffix: 20 TC
-  description: It seems to be pulsing with suspiciously enticing energies.
+  description: 它似乎正散發著一種令人難以抗拒的、可疑的能量，彷彿在脈動一般。
   components:
   - type: Sprite
     sprite: Objects/Specific/Syndicate/telecrystal.rsi
@@ -51,8 +51,8 @@
 - type: entity
   parent: [BaseItem, StorePresetUplink, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: BaseUplinkRadio
-  name: syndicate uplink
-  description: Suspiciously looking old radio...
+  name: 聯盟上行鏈路
+  description: 這台看起來很可疑的舊收音機……
   suffix: Empty
   components:
   - type: Sprite

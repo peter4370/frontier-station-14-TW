@@ -1,8 +1,8 @@
 # A little way to say happy birthday on Frontier's anniversary.
 - type: entity
   id: FrontierBirthdayGift
-  name: birthday present
-  description: A birthday present for Frontier Station. How sweet!
+  name: 生日禮物
+  description: 送給「邊境站」的生日禮物。真貼心！
   parent: BaseItem
   suffix: Cake, Party Hat
   components:
@@ -25,7 +25,7 @@
 
 - type: entity
   id: PaperFrontierBirthday
-  name: Anniversary Notice
+  name: 週年紀念公告
   categories: [ HideSpawnMenu ]
   suffix: "birthday"
   parent: Paper

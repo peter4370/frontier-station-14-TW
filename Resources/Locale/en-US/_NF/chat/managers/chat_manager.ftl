@@ -1,25 +1,22 @@
 chat-speech-verb-name-vulpkanin = Vulpkanin
-chat-speech-verb-vulpkanin-1 = rawrs
-chat-speech-verb-vulpkanin-2 = barks
+chat-speech-verb-vulpkanin-1 = 嗚嚕嗚嚕
+chat-speech-verb-vulpkanin-2 = 樹皮
 chat-speech-verb-vulpkanin-3 = rurs
-chat-speech-verb-vulpkanin-4 = yaps
-chat-speech-verb-vulpkanin-5 = yeeps
-
-chat-speech-verb-name-felinid = Felinid
+chat-speech-verb-vulpkanin-4 = 吠聲
+chat-speech-verb-vulpkanin-5 = 哎呀
+chat-speech-verb-name-felinid = 貓科動物
 chat-speech-verb-felinid-1 = mraows
 chat-speech-verb-felinid-2 = mews
-chat-speech-verb-felinid-3 = meows
-chat-speech-verb-felinid-4 = purrs out
-
+chat-speech-verb-felinid-3 = 喵～
+chat-speech-verb-felinid-4 = 輕聲呼嚕著
 chat-speech-verb-name-harpy = Harpy
-chat-speech-verb-harpy-1 = chirps
-chat-speech-verb-harpy-2 = tweets
+chat-speech-verb-harpy-1 = 啾啾聲
+chat-speech-verb-harpy-2 = 推文
 chat-speech-verb-harpy-3 = caws
-chat-speech-verb-harpy-4 = trills
-
-chat-speech-verb-name-goblin = Goblin
-chat-speech-verb-goblin-1 = jabbers
+chat-speech-verb-harpy-4 = 顫音
+chat-speech-verb-name-goblin = 哥布林
+chat-speech-verb-goblin-1 = 閒聊者
 chat-speech-verb-goblin-2 = vokers
-chat-speech-verb-goblin-3 = blurts out
-chat-speech-verb-goblin-4 = patters
+chat-speech-verb-goblin-3 = 脫口而出
+chat-speech-verb-goblin-4 = 節奏
 chat-speech-verb-goblin-5 = cuts

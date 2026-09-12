@@ -1,65 +1,54 @@
 ﻿cmd-whitelistadd-desc = Adds the player with the given username to the server whitelist.
-cmd-whitelistadd-help = Usage: whitelistadd <username or User ID>
-cmd-whitelistadd-existing = {$username} is already on the whitelist!
-cmd-whitelistadd-added = {$username} added to the whitelist
-cmd-whitelistadd-not-found = Unable to find '{$username}'
+cmd-whitelistadd-help = 用法：whitelistadd<username or User ID>
+cmd-whitelistadd-existing = { $username } 已經在白名單上了！
+cmd-whitelistadd-added = 已將 { $username } 加入白名單
+cmd-whitelistadd-not-found = 找不到 '{ $username }'
 cmd-whitelistadd-arg-player = [player]
-
-cmd-whitelistremove-desc = Removes the player with the given username from the server whitelist.
-cmd-whitelistremove-help = Usage: whitelistremove <username or User ID>
-cmd-whitelistremove-existing = {$username} is not on the whitelist!
-cmd-whitelistremove-removed = {$username} removed from the whitelist
-cmd-whitelistremove-not-found = Unable to find '{$username}'
+cmd-whitelistremove-desc = 將指定使用者名稱的玩家從伺服器白名單中移除。
+cmd-whitelistremove-help = 用法：whitelistremove<username or User ID>
+cmd-whitelistremove-existing = { $username } 未列入白名單！
+cmd-whitelistremove-removed = 已將 { $username } 從白名單中移除
+cmd-whitelistremove-not-found = Unable to find '{ $username }'
 cmd-whitelistremove-arg-player = [player]
-
-cmd-kicknonwhitelisted-desc = Kicks all non-whitelisted players from the server.
-cmd-kicknonwhitelisted-help = Usage: kicknonwhitelisted
-
-ban-banned-permanent = This ban will only be removed via appeal.
-ban-banned-permanent-appeal = This ban will only be removed via appeal. You can appeal at {$link}
-ban-expires = This ban is for {$duration} minutes and will expire at {$time} UTC.
-ban-banned-1 = You, or another user of this computer or connection, are banned from playing here.
-ban-banned-2 = The ban reason is: "{$reason}"
-ban-banned-3 = If this ban was a mistake or was made without a justification feel free to appeal on the discord following the guidelines.
-ban-banned-4 = Attempts to circumvent this ban such as creating a new account will result on escalation up to a community ban.
-
-soft-player-cap-full = The server is full!
-panic-bunker-account-denied = This server is in panic bunker mode, often enabled as a precaution against raids. New connections by accounts not meeting certain requirements are temporarily not accepted. Try again later
-panic-bunker-account-denied-reason = This server is in panic bunker mode, often enabled as a precaution against raids. New connections by accounts not meeting certain requirements are temporarily not accepted. Try again later. Reason: "{$reason}"
-panic-bunker-account-reason-account = Your account is new to this server. Your first connection was less than {$minutes} minutes ago
-panic-bunker-account-reason-overall = Your overall playtime on the server must be greater than {$hours} hours
-
-whitelist-playtime = You do not have enough playtime to join this server. You need at least {$minutes} minutes of playtime to join this server.
-whitelist-player-count = This server is currently not accepting players. Please try again later.
-whitelist-notes = You currently have too many admin notes to join this server. You can check your notes by typing /adminremarks in chat.
-whitelist-manual = You are not whitelisted on this server.
-whitelist-blacklisted = You are blacklisted from this server.
-whitelist-always-deny = You are not allowed to join this server.
-whitelist-fail-prefix = Not whitelisted: {$msg}
-
-cmd-blacklistadd-desc = Adds the player with the given username to the server blacklist.
-cmd-blacklistadd-help = Usage: blacklistadd <username>
-cmd-blacklistadd-existing = {$username} is already on the blacklist!
-cmd-blacklistadd-added = {$username} added to the blacklist
-cmd-blacklistadd-not-found = Unable to find '{$username}'
+cmd-kicknonwhitelisted-desc = 將所有未列入白名單的玩家從伺服器中踢出。
+cmd-kicknonwhitelisted-help = 用法：kicknonwhitelisted
+ban-banned-permanent = 此項禁令僅能透過上訴解除。
+ban-banned-permanent-appeal = 此禁令僅能透過提出上訴來解除。您可前往 { $link } 提出上訴。
+ban-expires = 此禁令為期 { $duration } 分鐘，並將於 { $time } UTC 失效。
+ban-banned-1 = 您，或這台電腦或此連線的其他使用者，已被禁止在此遊戲。
+ban-banned-2 = 封禁理由為：「{ $reason }」
+ban-banned-3 = 如果這項封禁是錯誤的，或是缺乏正當理由而實施的，請依照指引在 Discord 上提出申訴。
+ban-banned-4 = 任何試圖規避此禁令的行為（例如創建新帳號），都將導致處分升級，最嚴重者可能面臨社群禁令。
+soft-player-cap-full = 伺服器已滿！
+panic-bunker-account-denied = 此伺服器目前處於「緊急避難所模式」，此模式通常是作為防範突襲的預防措施而啟用。不符合特定要求的帳號所建立的新連線，目前暫時不予接受。請稍後再試
+panic-bunker-account-denied-reason = 此伺服器目前處於「緊急避難所」模式，此模式通常作為預防突襲的預防措施而啟用。不符合特定要求的帳號所建立的新連線將暫時不予接受。請稍後再試。原因：「{ $reason }」
+panic-bunker-account-reason-account = 您的帳戶在此伺服器上屬新帳戶。您首次連線的時間距今不到 { $minutes } 分鐘
+panic-bunker-account-reason-overall = 您在該伺服器上的總遊玩時間必須大於 { $hours } 小時
+whitelist-playtime = 您的遊戲時間不足，無法加入此伺服器。您需要至少 { $minutes } 分鐘的遊戲時間才能加入此伺服器。
+whitelist-player-count = 此伺服器目前不接受玩家加入。請稍後再試。
+whitelist-notes = 您目前的管理員備註過多，無法加入此伺服器。您可以透過在聊天視窗中輸入 /adminremarks 來查看您的備註。
+whitelist-manual = 您尚未被列入此伺服器的白名單。
+whitelist-blacklisted = 您已被列入此伺服器的黑名單。
+whitelist-always-deny = 您無權加入此伺服器。
+whitelist-fail-prefix = 未列入白名單：{ $msg }
+cmd-blacklistadd-desc = 將指定使用者名稱的玩家加入伺服器黑名單。
+cmd-blacklistadd-help = 用法：blacklistadd<username>
+cmd-blacklistadd-existing = { $username } 已經被列入黑名單了！
+cmd-blacklistadd-added = 已將 { $username } 加入黑名單
+cmd-blacklistadd-not-found = Unable to find '{ $username }'
 cmd-blacklistadd-arg-player = [player]
-
-cmd-blacklistremove-desc = Removes the player with the given username from the server blacklist.
-cmd-blacklistremove-help = Usage: blacklistremove <username>
-cmd-blacklistremove-existing = {$username} is not on the blacklist!
-cmd-blacklistremove-removed = {$username} removed from the blacklist
-cmd-blacklistremove-not-found = Unable to find '{$username}'
+cmd-blacklistremove-desc = 將指定使用者名稱的玩家從伺服器黑名單中移除。
+cmd-blacklistremove-help = 用法：blacklistremove<username>
+cmd-blacklistremove-existing = { $username } 並未列入黑名單！
+cmd-blacklistremove-removed = 已將 { $username } 從黑名單中移除
+cmd-blacklistremove-not-found = Unable to find '{ $username }'
 cmd-blacklistremove-arg-player = [player]
-
-baby-jail-account-denied = This server is a newbie server, intended for new players and those who want to help them. New connections by accounts that are too old or are not on a whitelist are not accepted. Check out some other servers and see everything Space Station 14 has to offer. Have fun!
-baby-jail-account-denied-reason = This server is a newbie server, intended for new players and those who want to help them. New connections by accounts that are too old or are not on a whitelist are not accepted. Check out some other servers and see everything Space Station 14 has to offer. Have fun! Reason: "{$reason}"
-baby-jail-account-reason-account = Your Space Station 14 account is too old. It must be younger than {$minutes} minutes
-baby-jail-account-reason-overall = Your overall playtime on the server must be younger than {$minutes} $minutes
-
-generic-misconfigured = The server is misconfigured and is not accepting players. Please contact the server owner and try again later.
-
-ipintel-server-ratelimited = This server uses a security system with external verification, which has reached its maximum verification limit. Please contact the administration team of the server for assistance and try again later.
-ipintel-unknown = This server uses a security system with external verification, but it encountered an error. Please contact the administration team of the server for assistance and try again later.
-ipintel-suspicious = You seem to be connecting through a datacenter or VPN. For administrative reasons we do not allow VPN connections to play. Please contact the administration team of the server for assistance if you believe this is false.
-
-hwid-required = Your client has refused to send a hardware id. Please contact the administration team for further assistance.
+baby-jail-account-denied = 本伺服器是專為新手設計的伺服器，旨在服務新玩家以及願意協助他們的人士。若帳號過於老舊或未列入白名單，將不接受其連線。不妨瀏覽其他伺服器，並探索「太空站 14」所提供的一切。玩得開心！
+baby-jail-account-denied-reason = 本伺服器為新手伺服器，專為新玩家以及願意協助他們的人士而設。若帳號過於老舊或未列入白名單，將不接受新連線。不妨瀏覽其他伺服器，並探索「Space Station 14」所提供的一切。玩得開心！原因：「{ $reason }」
+baby-jail-account-reason-account = 您的 Space Station 14 帳戶過於陳舊。該帳戶的建立時間必須少於 { $minutes } 分鐘
+baby-jail-account-reason-overall = 您在該伺服器上的總遊玩時間必須少於 { $minutes } $minutes
+generic-misconfigured = 伺服器設定有誤，目前不接受玩家連線。請聯絡伺服器管理員，並稍後再試。
+ipintel-server-ratelimited = 此伺服器採用具備外部驗證功能的安全系統，目前已達到驗證上限。請聯絡伺服器管理團隊尋求協助，並稍後再試。
+ipintel-unknown = 此伺服器採用具外部驗證功能的安全系統，但發生了錯誤。請聯絡伺服器管理團隊尋求協助，並稍後再試一次。
+ipintel-suspicious = 您似乎是透過資料中心或 VPN 連線。基於管理考量，我們不允許透過 VPN 連線進行遊戲。若您認為此限制不正確，請聯絡該伺服器的管理團隊尋求協助。
+hwid-required = 您的客戶拒絕提供硬體識別碼。請聯絡管理團隊以獲取進一步協助。

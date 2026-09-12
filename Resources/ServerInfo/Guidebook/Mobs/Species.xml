@@ -1,7 +1,8 @@
-<Document>
-  # Species
 
-  Nanotrasen employs a variety of sapient species.
+<Document>
+  # 物種
+
+  納諾特森僱用了各種具有智慧的物種。
 
   <Box>
   <GuideEntityEmbed Entity="MobArachnid" Caption="Arachnid"/>
@@ -16,12 +17,12 @@
   <GuideEntityEmbed Entity="MobVox" Caption="Vox"/>
   </Box>
 
-  # Frontier specific species
+  # 邊境特有物種
   <Box>
   <GuideEntityEmbed Entity="MobGoblin" Caption="Goblin"/>
   <GuideEntityEmbed Entity="MobSheleg" Caption="Sheleg"/>
   </Box>
-  # Delta-V specific species
+  # Delta-V 特定物種
   <Box>
   <GuideEntityEmbed Entity="MobVulpkanin" Caption="Vulpkanin"/>
   <GuideEntityEmbed Entity="MobFelinid" Caption="Felinid"/>

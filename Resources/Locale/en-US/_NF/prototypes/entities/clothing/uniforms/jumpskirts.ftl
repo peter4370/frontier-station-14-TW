@@ -1,2 +1,2 @@
-ent-ClothingUniformJumpskirtSeniorOfficer = senior officer jumpskirt
-    .desc = A sign of skill and prestige for officers.
+ent-ClothingUniformJumpskirtSeniorOfficer = 高級軍官跳躍裙
+    .desc = 這是軍官技藝與威望的象徵。

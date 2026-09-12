@@ -1,6 +1,6 @@
 - type: entity
   save: false
-  name: Urist McScales
+  name: 尤里斯·麥克斯凱爾斯
   suffix: Urisst' Mzhand
   parent: BaseMobReptilian
   id: MobReptilian

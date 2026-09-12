@@ -1,3 +1,3 @@
-anchorable-anchored = Anchored
-anchorable-unanchored = Unanchored
-anchorable-occupied = Tile occupied
+anchorable-anchored = 錨定
+anchorable-unanchored = 《無錨》
+anchorable-occupied = 磁磚已被佔用

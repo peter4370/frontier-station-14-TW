@@ -47,7 +47,7 @@
 - type: entity
   parent: MobStatusEffectDebuff
   id: StatusEffectForcedSleeping
-  name: forced sleep
+  name: 強制睡眠
   components:
   - type: ForcedSleepingStatusEffect
   - type: StunnedStatusEffect
@@ -83,7 +83,7 @@
 - type: entity
   parent: MobStatusEffectDebuff
   id: StatusEffectWoozy
-  name: woozy
+  name: 頭暈目眩
   components:
   - type: DrunkStatusEffect
 

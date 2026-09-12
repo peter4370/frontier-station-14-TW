@@ -1,3 +1,3 @@
-loadout-window = Loadout
+loadout-window = 裝備配置
 loadout-none = None
-loadout-window-title-loadout = { $job } loadout
+loadout-window-title-loadout = { $job } 裝備配置

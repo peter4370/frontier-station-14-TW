@@ -58,7 +58,7 @@
   name: lamp
   id: Lamp
   parent: BaseLamp
-  description: A light emitting device.
+  description: 一種發光裝置。
   components:
   - type: Sprite
     sprite: Objects/Misc/Lights/lamp.rsi
@@ -84,10 +84,10 @@
           festive: { state: christmaslamp-on }
 
 - type: entity
-  name: banana lamp
+  name: 香蕉燈
   id: LampBanana
   parent: BaseLamp
-  description: A light emitting device, shaped like a banana.
+  description: 一種形狀像香蕉的發光裝置。
   components:
   - type: Sprite
     layers:
@@ -98,10 +98,10 @@
         map: [ "light" ]
 
 - type: entity
-  name: desk lamp
+  name: 桌燈
   id: LampGold
   parent: [BaseLamp, MixedPowerMachine] # Frontier: Add MixedPowerMachine
-  description: A light emitting device that would look great on a desk.
+  description: 一款擺在桌上會非常好看的光發射裝置。
   components:
   - type: Anchorable # Frontier: Add Anchorable
   - type: Sprite
@@ -133,10 +133,10 @@
             state: christmaslamp-on
 
 - type: entity
-  name: interrogator lamp
+  name: 審訊燈
   id: LampInterrogator
   parent: BaseLamp # Frontier: removed BaseSecurityContraband
-  description: Ultra-bright lamp for the bad cop.
+  description: 專為「壞警察」設計的超亮手電筒。
   components:
   - type: Sprite
     sprite: Objects/Misc/Lights/lampint.rsi
@@ -190,10 +190,10 @@
           False: {visible: false}
 
 - type: entity
-  name: floodlight
+  name: 泛光燈
   id: Floodlight
   parent: [BaseLamp, MixedPowerMachine] # Frontier: Add MixedPowerMachine
-  description: A pole with powerful mounted lights on it.
+  description: 一根裝有強勁燈具的燈桿。
   components:
   - type: Item
     size: Normal
@@ -252,10 +252,10 @@
       Steel: 200
 
 - type: entity
-  name: broken floodlight
+  name: 損壞的泛光燈
   id: FloodlightBroken
   parent: BaseItem
-  description: A pole with powerful mounted lights on it. It's broken.
+  description: 一根裝有強勁照明燈的燈桿。它已經損壞了。
   components:
   - type: GoblinPreciousTrash # Frontier
   - type: Item

@@ -1,47 +1,48 @@
+
 <Document>
-  # Shipyards
+  # 造船廠
 
-To assist in developing the Frontier, shuttles from Nanotrasen and its subsidiaries can be rented for use.
-All rentals last for one shift. Rented shuttles return to Nanotrasen at the end of shift.
-The value of shuttles is returned to the purchaser when ended through a ship console.
-To avoid losses, [bold]make sure you end your rental before ending your shift[/bold].
+為協助開發「邊疆號」，可租用來自 Nanotrasen 及其子公司提供的穿梭機。
+所有租賃期限均為一個班次。 租用的接駁車會在班次結束時返回 Nanotrasen。
+當透過船艦控制台終止穿梭機的運作時，其價值將退還給購買者。
+為避免損失，[粗體]請務必在結束班次前先結束租賃[/粗體]。
 
-## Shipyard Console
+## 造船廠控制台
   <Box>
     <GuideEntityEmbed Entity="PassengerIDCard"/>
     <GuideEntityEmbed Entity="SpaceCash1000"/>
     <GuideEntityEmbed Entity="ComputerShipyard"/>
   </Box>
-  To rent a ship:
-- Eject the ID card from your PDA.
+  租船請至：
+- 請從您的 PDA 中彈出身分證。
+- 將身分證插入一個未使用的 [color=#cccc00]造船廠控制台[/color]。
+- 使用造船廠控制台調出其介面。
+- 請選擇您想租用的船隻。
+- 按下主機上的「購買」按鈕。
+- 按下「彈出」按鈕，將您的身分證從主機中取出。
+- 請將您的身分證重新插入 PDA 中。
+
+恭喜，你現在已是自己這艘船的船長了！
+
+若要結束租船：
+- 請確保您租用的船隻已停靠在「邊境前哨站」。
+- 請確認船上沒有任何人。
+- 請從您的 PDA 中取出 [粗體]用於購買該船隻[/粗體] 的身分證。
 - Insert the ID card into an unused [color=#cccc00]shipyard console[/color].
 - Use the shipyard console to bring up its interface.
-- Select the ship you would like to rent.
-- Press the Purchase button on the console.
+- 按下主機上的「賣出」按鈕。 該款項將匯入您的銀行帳戶。
 - Press the Eject button to remove your ID from the console.
 - Reinsert your ID card into your PDA.
 
-Congratulations, you're now the Captain of your own ship!
-
-To end your rental:
-- Make sure your rented ship is docked with Frontier Outpost.
-- Make sure nobody is aboard the ship.
-- Eject the ID card [bold]used to purchase the ship[/bold] from your PDA.
-- Insert the ID card into an unused [color=#cccc00]shipyard console[/color].
-- Use the shipyard console to bring up its interface.
-- Press the Sell button on the console. The value will be deposited into your bank account.
-- Press the Eject button to remove your ID from the console.
-- Reinsert your ID card into your PDA.
-
-## Provisions
+## 規定
   <Box>
     <GuideEntityEmbed Entity="LockerCaptain"/>
     <GuideEntityEmbed Entity="SuitStorageBase"/>
     <GuideEntityEmbed Entity="LockerParamedic"/>
   </Box>
-  Ships come equipped with the tools and supplies needed to perform one or more tasks in the Frontier (e.g. mining, research, medical, food services).
+  船隻配備了在邊疆執行一項或多項任務所需的工具與物資（例如：採礦、研究、醫療、膳食服務）。
 
-Ships, especially larger ones, work best with a crew. Refer to the [bold]Hiring[/bold] section for more info.
-Space is a lonely, dangerous place, and you'll have a much better time when you work with a crew.
+船隻，尤其是較大的船隻，有船員協助時運作效果最佳。 更多資訊請參閱 [粗體]招聘[/粗體] 部分。
+太空是個孤獨又危險的地方，若能與船員們並肩合作，你的旅程將會愉快許多。
 
 </Document>

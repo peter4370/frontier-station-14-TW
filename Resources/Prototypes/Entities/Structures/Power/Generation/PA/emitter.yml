@@ -1,8 +1,8 @@
 - type: entity
   parent: ParticleAcceleratorFinishedPart
   id: ParticleAcceleratorEmitterPort
-  name: PA port containment emitter
-  description: This launchs the Alpha particles, might not want to stand near this end.
+  name: PA 端口封裝發射極
+  description: 這會釋放出α粒子，最好別站在這邊。
   components:
   - type: Sprite
     sprite: Structures/Power/Generation/PA/emitter_port.rsi
@@ -15,7 +15,7 @@
 - type: entity
   parent: ParticleAcceleratorFinishedPart
   id: ParticleAcceleratorEmitterFore
-  name: PA fore containment emitter
+  name: PA 前端封裝發射器
   description: This launchs the Alpha particles, might not want to stand near this end.
   components:
   - type: Sprite
@@ -29,7 +29,7 @@
 - type: entity
   parent: ParticleAcceleratorFinishedPart
   id: ParticleAcceleratorEmitterStarboard
-  name: PA starboard containment emitter
+  name: PA 右舷封裝輻射器
   description: This launchs the Alpha particles, might not want to stand near this end.
   components:
   - type: Sprite
@@ -47,7 +47,7 @@
   id: ParticleAcceleratorEmitterPortUnfinished
   name: PA port containment emitter
   suffix: Unfinished, Port
-  description: This launchs the Alpha particles, might not want to stand near this end. It looks unfinished.
+  description: 這會釋放出α粒子，最好別站在這邊。看起來還沒完工。
   components:
   - type: Sprite
     sprite: Structures/Power/Generation/PA/emitter_port.rsi

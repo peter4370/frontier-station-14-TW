@@ -1,2 +1,2 @@
-ent-CaptainSabre = captain's sabre
-    .desc = A ceremonial weapon fit for a captain.
+ent-CaptainSabre = 船長軍刀
+    .desc = 一件配得上船長的禮儀用武器。

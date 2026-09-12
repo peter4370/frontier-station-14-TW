@@ -1,6 +1,5 @@
-gun-comp-enabled = The gun is turned [color=green]on[/color].
-gun-comp-disabled = The gun is turned [color=red]off[/color].
-
-auto-fire-enabled = Gun turned on.
-auto-fire-disabled = Gun turned off.
-auto-fire-enabled-no-power = Gun turned on; but it has no power!
+gun-comp-enabled = 這把槍已 [color=green]開啟[/color]。
+gun-comp-disabled = 這把槍已被 [color=red]關閉[/color]。
+auto-fire-enabled = 槍已上膛。
+auto-fire-disabled = 槍已關閉。
+auto-fire-enabled-no-power = 槍已開啟；但沒有電力！

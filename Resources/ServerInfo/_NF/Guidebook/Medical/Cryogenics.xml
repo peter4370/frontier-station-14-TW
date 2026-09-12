@@ -1,18 +1,19 @@
-<Document>
-# Cryogenics
-Cryogenics can be a bit daunting to understand, but hopefully, quick run through of this diagram, you'll learn how to work it! So, let's go over what each part does:
 
-- Air in: Air comes in here through the distro or an air tank, giving those inside something to breathe, and the freezer something to chill.
-- Gas pump: Limits the network pressure, so those in the tube aren't crushed.
-- Freezer: Chills the air, and by extension, patients in the tube, so Cryoxadone can activate.
-- Gas filters: Removes waste gas (Carbon Dioxide and Nitrous Oxide) from the loop.
-- Air out: Waste gasses go here, either into a storage tank, or into the waste network.
+<Document>
+# 低溫技術
+低溫技術可能讓人覺得有點難以理解，但希望透過快速瀏覽這張示意圖，您就能學會如何操作！ 那麼，讓我們來看看每個部分的功能：
+
+- 進氣口：空氣透過分配器或氣罐從這裡進入，既為內部人員提供呼吸用的空氣，也為冷凍庫提供冷卻所需的空氣。
+- 氣泵：限制管路內的壓力，以免管內物體被壓扁。
+- 冷凍機：使空氣冷卻，進而使管內的患者降溫，以便 Cryoxadone 能發揮作用。
+- 氣體過濾器：將廢氣（二氧化碳和一氧化二氮）從迴路中去除。
+- 排氣：廢氣會從這裡排出，要么導入儲存槽，要么排入廢氣管網。
 <Box>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeStraight" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeStraight" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="0"/>
-<GuideEntityEmbed Entity="CryoPod" Caption="cryo pod" Rotation="0"/>
+<GuideEntityEmbed Entity="CryoPod" Caption="冷凍艙" Rotation="0"/>
 <GuideEntityEmbed Entity="GasThermoMachineFreezerEnabled" Rotation="0"/>
 </Box>
 <Box>
@@ -24,27 +25,27 @@ Cryogenics can be a bit daunting to understand, but hopefully, quick run through
 <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="270"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="GasPort" Caption="air out" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPort" Caption="通風" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeTJunction" Rotation="180"/>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="270"/>
-<GuideEntityEmbed Entity="GasPort" Caption="air in" Rotation="90"/>
+<GuideEntityEmbed Entity="GasPort" Caption="空氣流入" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPressurePump" Rotation="90"/>
 <GuideEntityEmbed Entity="GasPipeBend" Rotation="270"/>
 </Box>
 
-Not every network will look like this, but hopefully, it's enough to give you the basic gist of how it's functioning.
+並非每個網路都會像這樣，但希望這足以讓你大致了解它的運作原理。
 
-An important thing to note, winter clothing (and hardsuits) will make cryogenic treatment less, or completely ineffective. Be sure to remove cold preventative clothing before placing people in the pod.
+有一點必須注意：冬季服裝（以及重型防護服）會降低低溫治療的效果，甚至使其完全失效。 在將人員安置於艙內前，請務必先脫下防寒衣物。
 
-## Using the Pod
+## 使用 Pod
 
-Once things have been set up, you're going to require cryogenic medications (all listed below). They each provide healing when a patient is chilled, and should be loaded into the pod directly with a beaker. Do note, patients won't begin to heal until they've chilled to the appropriate temperature, it may be worthwhile to wait a bit before placing a beaker inside.
+完成設定後，您將需要一些低溫藥物（以下列出所有項目）。 當患者體溫過低時，這些物品都能提供治療效果，應連同量杯一起直接裝入艙內。 請注意，患者必須先冷卻至適當溫度，才會開始癒合；因此在將燒杯放入之前，稍等片刻或許是值得的。
 
-## Additional Information:
+## 補充資訊：
 
-The standard pressure for a gas pump is 100.325 kpa. Cryogenics medicines work at under 213K (150K for Opporozidone), but it is standard practice to set the freezer to 100K for faster freezing.
+加油機的標準壓力為 100.325 kPa。 低溫醫學藥物的作用溫度低於 213K（Opporozidone 則為 150K），但為了加快冷凍速度，通常會將冷凍櫃設定為 100K。
 
-Cryo pods filter out each cryogenic medicine from the beaker in the pod, injecting a small, steady amount of each into the patient. This allows for medicine to be administered twice as efficiently than with injection or oral administration.
+冷凍艙會將艙內燒杯中的每種低溫藥物過濾出來，並以微量且穩定的速度將每種藥物注入患者體內。 這使得藥物給藥的效率比注射或口服高出一倍。
 
 <GuideReagentEmbed Reagent="Aloxadone"/>
 <GuideReagentEmbed Reagent="Cryoxadone"/>

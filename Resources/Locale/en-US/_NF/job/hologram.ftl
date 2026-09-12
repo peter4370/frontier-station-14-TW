@@ -1,17 +1,13 @@
-hologram-return-to-shuttle = Return to the shuttle.
-
-interview-hologram-approve = Approve
-interview-hologram-rescind = Rescind Approval
-interview-hologram-dismiss = Dismiss
-interview-hologram-dismiss-and-close = Dismiss and Close
-interview-hologram-dismiss-self = Dismiss Yourself
-
-interview-hologram-verb-message-need-deed = You need to have an ID with a deed to this ship to do that.
-
-interview-hologram-message-cancelled = You have left the interview.
-interview-hologram-message-dismissed = You have been dismissed from the interview.
-interview-hologram-message-accepted = You got the job!
-
-interview-hologram-pda-notification = {$applicant} has arrived to interview for {INDEFINITE($jobTitle)} {$jobTitle} position.
-interview-notification-pda-header = Job Application
+hologram-return-to-shuttle = 返回穿梭機。
+interview-hologram-approve = 批准
+interview-hologram-rescind = 撤銷批准
+interview-hologram-dismiss = 關閉
+interview-hologram-dismiss-and-close = 取消並關閉
+interview-hologram-dismiss-self = 請自行離開
+interview-hologram-verb-message-need-deed = 要這麼做，您必須持有附有這艘船產權證的身份證明文件。
+interview-hologram-message-cancelled = 您已經離開面試現場了。
+interview-hologram-message-dismissed = 您已被淘汰出本次面試。
+interview-hologram-message-accepted = 你錄取了！
+interview-hologram-pda-notification = { $applicant } 已抵達，將參加 { INDEFINITE($jobTitle) } { $jobTitle } 職位的面試。
+interview-notification-pda-header = 求職申請
 interview-notification-default-job = job

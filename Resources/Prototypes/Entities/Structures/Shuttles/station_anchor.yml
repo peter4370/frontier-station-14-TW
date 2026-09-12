@@ -1,8 +1,8 @@
 ﻿- type: entity
   id: StationAnchorBase
   abstract: true
-  name: station anchor
-  description: Prevents stations from moving.
+  name: 電視台主播
+  description: 防止電台移動。
   suffix: On
   placement:
     mode: AlignTileAny

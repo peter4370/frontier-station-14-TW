@@ -115,7 +115,7 @@
   parent: MobSiliconBase
   id: MobFireBot
   name: firebot
-  description: A little fire extinguishing bot. He looks rather anxious.
+  description: 一個小小的滅火機器人。他看起來頗為焦慮。
   components:
   - type: Sprite
     sprite: Mobs/Silicon/Bots/firebot.rsi
@@ -164,7 +164,7 @@
   parent: MobSiliconBase
   id: MobHonkBot
   name: honkbot
-  description: Horrifying.
+  description: 太可怕了。
   components:
   - type: SpamEmitSound
     minInterval: 2
@@ -268,7 +268,7 @@
   parent: MobSiliconBase
   id: MobCleanBot
   name: cleanbot
-  description: The creep of automation now threatening space janitors.
+  description: 自動化浪潮正逐漸侵蝕太空清潔工的生計。
   components:
   - type: Sprite
     sprite: Mobs/Silicon/Bots/cleanbot.rsi
@@ -316,7 +316,7 @@
   - StripableInventoryBase
   id: MobMedibot
   name: medibot
-  description: No substitute for a doctor, but better than nothing.
+  description: 雖然無法取代醫生，但總比什麼都沒有好。
   components:
   - type: Medibot
     treatments:
@@ -366,7 +366,7 @@
   - StripableInventoryBase
   id: MobMimeBot
   name: mimebot
-  description: Why not give the mimebot a friendly wave?
+  description: 何不向這個默劇機器人友善地揮揮手呢？
   components:
   - type: Sprite
     sprite: Mobs/Silicon/Bots/mimebot.rsi
@@ -397,7 +397,7 @@
   parent: MobSiliconBase
   id: MobSupplyBot
   name: supplybot
-  description: Delivers cargo!
+  description: 運送貨物！
   components:
   - type: Sprite
     sprite: Mobs/Silicon/Bots/supplybot.rsi

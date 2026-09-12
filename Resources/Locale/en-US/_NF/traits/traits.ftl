@@ -1,44 +1,30 @@
-trait-stinky-name = Stinky
-trait-stinky-desc = You smell bad, like a dying corpse.
-
-trait-stinky-examined = [color=lightblue]{CAPITALIZE(SUBJECT($target))} smells foul.[/color]
-
-trait-stinky-in-range-others = {$target} smells foul!
-trait-stinky-in-range-self = Something smells foul!
-
-trait-goblin-accent-name = Goblin cant
-trait-goblin-accent-desc = You speak in a secret language many find annoying and not that secretive.
-
-trait-scandinavian-name = Scandinavian accent
-trait-scandinavian-desc = You have to assemble the sentence yourself.
-
-trait-pious-name = Pious
-trait-pious-desc = You are in touch with the gods, but your vows keep you from striking in anger.
-
-trait-streetpunk-accent-name = Streetpunk accent
-trait-streetpunk-accent-desc = Ya were born in a sprawlin' megacity an' never went to school. An' it shows, choom.
-
-trait-clumsy-name = Clumsy
-trait-clumsy-desc = You are very clumsy! Certain actions, like shooting, are more difficult.
-
-trait-unclonable-name = Unclonable
-trait-unclonable-desc = Whether due to an administrative oversight or abnormal genetics, your genes aren't sequenced by NT, and you cannot be cloned.
-
-trait-lizard-accent-name = Reptilian accent
-trait-lizard-accent-desc = Be it through continual ekssposssure or otherwissse, you sssound like a reptile.
-
-trait-moth-accent-name = Moth accent
-trait-moth-accent-desc = Some of your words have a certain buzzz to them.
-
-trait-dwarf-accent-name = Dwarven accent
-trait-dwarf-accent-desc = Ye sound like ye've spent tae long wi ae pickaxe in your hands. Rock and stone!
-
-trait-russian-accent-name = Russian Accent
-trait-russian-accent-desc = Usнаика иот iисludеd.
-
-trait-fluffy-name = Fluffy (Moth only)
-trait-fluffy-desc = You look more fluffy than other moths.
-
+trait-stinky-name = 臭臭
+trait-stinky-desc = 你身上散發著難聞的氣味，就像一具垂死的屍體。
+trait-stinky-examined = [color=lightblue]{ CAPITALIZE(SUBJECT($target)) } 散發著難聞的氣味。[/color]
+trait-stinky-in-range-others = { $target } 聞起來好臭！
+trait-stinky-in-range-self = 有股難聞的氣味！
+trait-goblin-accent-name = 哥布林語
+trait-goblin-accent-desc = 你說著一種許多人覺得惱人、而且其實也沒那麼隱秘的秘密語言。
+trait-scandinavian-name = 斯堪的納維亞口音
+trait-scandinavian-desc = 你必須自己把句子組合起來。
+trait-pious-name = 虔誠的
+trait-pious-desc = 你與諸神心意相通，但你的誓言使你無法在憤怒中出手。
+trait-streetpunk-accent-name = 街頭龐克口音
+trait-streetpunk-accent-desc = 你出生在一個綿延不絕的巨型都市，卻從未上過學。這點顯而易見啊，老兄。
+trait-clumsy-name = 笨手笨腳
+trait-clumsy-desc = 你真是太笨手笨腳了！某些動作，例如射擊，會比較困難。
+trait-unclonable-name = 無法複製
+trait-unclonable-desc = 無論是出於行政疏失還是基因異常，你的基因並不會透過 NT 進行定序，因此你無法被克隆。
+trait-lizard-accent-name = 爬蟲類口音
+trait-lizard-accent-desc = 無論是因長期接觸，還是其他原因，你聽起來就像一隻爬行動物。
+trait-moth-accent-name = 飛蛾點綴
+trait-moth-accent-desc = 你說的一些話聽起來帶有一種特別的「嗡嗡」感。
+trait-dwarf-accent-name = 矮人口音
+trait-dwarf-accent-desc = 聽起來你好像拿著一把鎬太久了。全是岩石和石頭！
+trait-russian-accent-name = 俄式口音
+trait-russian-accent-desc = Usnaika 及 iisludеd。
+trait-fluffy-name = Fluffy（僅限蛾類）
+trait-fluffy-desc = 你看起來比其他蛾子更蓬鬆。
 # These traits are bound to be replaced with a slider, but they live here for now.
-trait-tall-name = Tall
-trait-short-name = Short
+trait-tall-name = 高
+trait-short-name = 簡短

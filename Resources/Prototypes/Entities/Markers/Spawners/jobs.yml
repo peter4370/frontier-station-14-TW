@@ -12,7 +12,7 @@
     sprite: Markers/jobs.rsi
 
 - type: entity
-  name: observer spawn point
+  name: 觀察者重生點
   id: SpawnPointObserver
   parent: MarkerBase
   components:
@@ -27,7 +27,7 @@
     spawn_type: Observer
 
 - type: entity
-  name: latejoin spawn point
+  name: 延遲加入的出生點
   id: SpawnPointLatejoin
   parent: SpawnPointJobBase
   components:
@@ -37,7 +37,7 @@
     spawn_type: LateJoin
 
 - type: entity
-  name: any job spawn point
+  name: 任何任務生成點
   id: SpawnPointAnyJob # used for integration tests so we don't need to map every single job spawner on the test map
   parent: SpawnPointJobBase
   components:
@@ -52,7 +52,7 @@
 - type: entity
   id: SpawnPointQuartermaster
   parent: SpawnPointJobBase
-  name: quartermaster
+  name: 軍需官
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -66,7 +66,7 @@
 - type: entity
   id: SpawnPointCargoTechnician
   parent: SpawnPointJobBase
-  name: cargotechnician
+  name: 貨運技術員
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -79,7 +79,7 @@
 - type: entity
   id: SpawnPointSalvageSpecialist
   parent: SpawnPointJobBase
-  name: salvagespecialist
+  name: 打撈專家
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -107,7 +107,7 @@
 - type: entity
   id: SpawnPointTechnicalAssistant
   parent: SpawnPointJobBase
-  name: technical assistant
+  name: 技術助理
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -120,7 +120,7 @@
 - type: entity
   id: SpawnPointMedicalIntern
   parent: SpawnPointJobBase
-  name: medical intern
+  name: 實習醫師
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -133,7 +133,7 @@
 - type: entity
   id: SpawnPointSecurityCadet
   parent: SpawnPointJobBase
-  name: security cadet
+  name: 保安見習生
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -146,7 +146,7 @@
 - type: entity
   id: SpawnPointResearchAssistant
   parent: SpawnPointJobBase
-  name: research assistant
+  name: 研究助理
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -159,7 +159,7 @@
 - type: entity
   id: SpawnPointServiceWorker
   parent: SpawnPointJobBase
-  name: service worker
+  name: 服務工作程式
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -237,7 +237,7 @@
 - type: entity
   id: SpawnPointChaplain
   parent: SpawnPointJobBase
-  name: chaplain
+  name: 軍牧
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -250,7 +250,7 @@
 - type: entity
   id: SpawnPointLibrarian
   parent: SpawnPointJobBase
-  name: librarian
+  name: 圖書館員
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -289,7 +289,7 @@
 - type: entity
   id: SpawnPointMusician
   parent: SpawnPointJobBase
-  name: musician
+  name: 音樂家
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -302,7 +302,7 @@
 - type: entity
   id: SpawnPointBoxer
   parent: SpawnPointJobBase
-  name: boxer
+  name: 拳擊手
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -345,7 +345,7 @@
 - type: entity
   id: SpawnPointHeadOfPersonnel
   parent: SpawnPointJobBase
-  name: headofpersonnel
+  name: 人事主管
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -360,7 +360,7 @@
 - type: entity
   id: SpawnPointChiefEngineer
   parent: SpawnPointJobBase
-  name: chiefengineer
+  name: 總工程師
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -373,7 +373,7 @@
 - type: entity
   id: SpawnPointStationEngineer
   parent: SpawnPointJobBase
-  name: stationengineer
+  name: 車站工程師
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -386,7 +386,7 @@
 - type: entity
   id: SpawnPointAtmos
   parent: SpawnPointJobBase
-  name: atmospherics
+  name: 大氣現象
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -401,7 +401,7 @@
 - type: entity
   id: SpawnPointChiefMedicalOfficer
   parent: SpawnPointJobBase
-  name: chiefmedicalofficer
+  name: 首席醫療官
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -414,7 +414,7 @@
 - type: entity
   id: SpawnPointMedicalDoctor
   parent: SpawnPointJobBase
-  name: medicaldoctor
+  name: 醫師
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -455,7 +455,7 @@
 - type: entity
   id: SpawnPointResearchDirector
   parent: SpawnPointJobBase
-  name: researchdirector
+  name: 研究主任
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -509,7 +509,7 @@
 - type: entity
   id: SpawnPointSecurityOfficer
   parent: SpawnPointJobBase
-  name: securityofficer
+  name: 保安人員
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -522,7 +522,7 @@
 - type: entity
   id: SpawnPointDetective
   parent: SpawnPointJobBase
-  name: detective
+  name: 偵探
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -535,7 +535,7 @@
 - type: entity
   id: SpawnPointBrigmedic
   parent: SpawnPointJobBase
-  name: brigmedic
+  name: 艦醫
   components:
   - type: SpawnPoint # Frontier
     job_id: Brigmedic # Frontier
@@ -561,7 +561,7 @@
 - type: entity
   id: SpawnPointERTChaplain
   parent: SpawnPointJobBase
-  name: ERTchaplain
+  name: ERT 隨軍牧師
   components:
   - type: SpawnPoint
     job_id: ERTChaplain
@@ -573,7 +573,7 @@
 - type: entity
   id: SpawnPointERTEngineer
   parent: SpawnPointJobBase
-  name: ERTengineer
+  name: ERT工程師
   components:
   - type: SpawnPoint
     job_id: ERTEngineer
@@ -609,7 +609,7 @@
 - type: entity
   id: SpawnPointERTJanitor
   parent: SpawnPointJobBase
-  name: ERTjanitor
+  name: ERT清潔員
   components:
   - type: SpawnPoint
     job_id: ERTJanitor
@@ -636,7 +636,7 @@
 - type: entity
   id: SpawnPointPsychologist
   parent: SpawnPointJobBase
-  name: psychologist
+  name: 心理學家
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint
@@ -649,7 +649,7 @@
 - type: entity
   id: SpawnPointZookeeper
   parent: SpawnPointJobBase
-  name: zookeeper
+  name: ZooKeeper
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: SpawnPoint

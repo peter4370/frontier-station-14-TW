@@ -1,35 +1,36 @@
+
 <Document>
-  # BROADHEAD-CLASS SECURITY SHUTTLE
+  # 布羅德黑德級安全接駁車
   <Box Margin="-130">
   <GuideEntityEmbed Entity="ShuttleBannerNFSD" Caption=""/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapBroadhead" Caption="" Margin="-20"/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Fleet Shuttle:[/color] No
+  [color=#a4885c]艦隊穿梭機：[/color] 否
 
-  [color=#a4885c]Recommended Crew:[/color] 2-3
+  [color=#a4885c]建議船員人數：[/color] 2-3 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力來源類型：[/color] 鈾
 
-  [color=#a4885c]Expeditions:[/color] No
+  [color=#a4885c]探勘任務：[/color] 無
 
-  [color=#a4885c]IFF Console:[/color] Yes
+  [color=#a4885c]敵我識別控制台：[/color] 有
 
-  [color=#a4885c]Minimum Access Level:[/color] Detective
+  [color=#a4885c]最低存取等級：[/color] 偵探
 
-  "A medium size detective ship with facilities for autopsies, interrogations and detailed investigations."
+  「一艘中型偵探船，配備屍檢、審訊及詳細調查的設施。」
 
   # Ship Functions
   <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Toggle Shutters"/>
-  - There are various buttons throughout the ship. They control the nearby shutters or blast doors respectively.
+  - 整艘船上設有各式各樣的按鈕。 它們分別控制附近的百葉窗或防爆門。
 
-  # Tips on running NSF Broadhead shuttles
-  - Optimal [bold]Target Power[/bold] (kW) for the generator units is [color=#a4885c]41.1 [bold]kW[/bold][/color]. If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
-  - For the basics of [bold]shuttle piloting[/bold], refer to [textlink="Piloting" link="Piloting"] and [textlink="Sector Topology" link="SectorTopology"/].
-  - For the basics of [bold]cargo hauling[/bold], refer to [textlink="Cargo Hauling" link="CargoHauling"].
-  - For the basics of [bold]expedition diving[/bold], refer to [textlink="Expeditions" link="Expeditions"].
-  - As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will, refer to [textlink="Hiring" link="Hiring"] for more information.
+  # 運行 NSF Broadhead 穿梭機的要訣
+  - 發電機組的最佳 [bold]目標功率[/bold] (kW) 為 [color=#a4885c]41.1 [bold]kW[/bold][/color]。 若您已新增其他機器，請檢查穿梭車的 [bold]APC 裝置[/bold]，以監控穿梭車的耗電量，並據此調整發電機的 [bold]目標功率[/bold]。 有關電力網及其他生命維持系統的更多一般資訊，請參閱 [textlink="電力" link="電力"] 指南文章以及 [textlink="起飛前檢查清單" link="PreflightChecklist"/]。
+  - 關於 [bold]太空梭駕駛[/bold] 的基礎知識，請參閱 [textlink="駕駛" link="駕駛"] 及 [textlink="星區拓撲" link="星區拓撲"/]。
+  - 關於 [bold]貨物運輸[/bold] 的基礎知識，請參閱 [textlink="貨物運輸" link="CargoHauling"]。
+  - 有關 [bold]探險潛水[/bold] 的基礎知識，請參閱 [textlink="探險行程" link="探險行程"]。
+  - 身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員，詳情請參閱 [textlink="僱用" link="僱用"]。
 </Document>

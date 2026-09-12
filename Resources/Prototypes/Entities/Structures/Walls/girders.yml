@@ -1,8 +1,8 @@
 - type: entity
   id: Girder
   parent: BaseStructureDynamic
-  name: girder
-  description: A large structural assembly made out of metal; It requires a layer of metal before it can be considered a wall.
+  name: 樑
+  description: 由金屬製成的大型結構組件；必須先鋪設一層金屬，才能被視為一堵牆。
   components:
   - type: Transform
     anchored: true
@@ -63,8 +63,8 @@
 - type: entity
   id: ReinforcedGirder
   parent: Girder
-  name: reinforced girder
-  description: A large structural assembly made out of metal and plasteel; It requires a layer of plasteel before it can be considered a reinforced wall.
+  name: 鋼筋梁
+  description: 由金屬和塑鋼製成的大型結構組件；必須先鋪設一層塑鋼，才能被視為加固牆。
   components:
     - type: Sprite
       sprite: Structures/Walls/solid.rsi
@@ -106,8 +106,8 @@
 - type: entity
   id: ClockworkGirder
   parent: ReinforcedGirder
-  name: wall gear
-  description: A large gear with mounting brackets for additional plating; This could be made into a wall with more brass plating.
+  name: 牆面齒輪
+  description: 一個附有安裝支架的大型齒輪，供額外鍍層使用；若增加更多黃銅鍍層，便可將其製成一面牆。
   components:
     - type: Sprite
       sprite: Structures/Walls/clock.rsi

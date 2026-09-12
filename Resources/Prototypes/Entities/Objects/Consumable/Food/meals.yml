@@ -8,7 +8,7 @@
   abstract: true
   parent: FoodInjectableBase
   id: FoodMealBase
-  description: A delicious meal, cooked with love.
+  description: 一頓美味的餐點，充滿愛意地烹調而成。
   components:
   - type: Item
     shape:
@@ -30,8 +30,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealPotatoLoaded
-  name: loaded baked potato
-  description: Totally baked.
+  name: 加料烤馬鈴薯
+  description: 徹底搞砸了。
   components:
   - type: Item
     storedOffset: 0,-2
@@ -46,8 +46,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealFries
-  name: space fries
-  description: AKA, French Fries, Freedom Fries, etc.
+  name: 太空薯條
+  description: 又名：法式炸薯條、自由薯條等。
   components:
   - type: Item
     storedOffset: 0,-3
@@ -62,8 +62,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealFriesCheesy
-  name: cheesy fries
-  description: Fries. Covered in cheese. Duh.
+  name: 起司薯條
+  description: 薯條。淋上起司。這還用說嗎。
   components:
   - type: Item
     storedOffset: 0,-3
@@ -79,8 +79,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealFriesCarrot
-  name: carrot fries
-  description: Tasty fries from fresh carrots.
+  name: 胡蘿蔔條
+  description: 用新鮮胡蘿蔔做的美味炸薯條。
   components:
   - type: Item
     storedOffset: 0,-3
@@ -105,8 +105,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealNachos
-  name: nachos
-  description: Chips from Space Mexico.
+  name: 納喬
+  description: 來自墨西哥的太空薯片。
   components:
   - type: Item
     storedOffset: 0,-2
@@ -132,8 +132,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealNachosCheesy
-  name: cheesy nachos
-  description: The delicious combination of nachos and melting cheese.
+  name: 起司納喬
+  description: 納喬與融化的起司所交織出的絕妙滋味。
   components:
   - type: Item
     storedOffset: 0,-2
@@ -162,8 +162,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealNachosCuban
-  name: Cuban nachos
-  description: That's some dangerously spicy nachos.
+  name: 古巴式納喬
+  description: 這份墨西哥玉米片辣得簡直危險。
   components:
   - type: Item
     storedOffset: 0,-2
@@ -195,8 +195,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealMint
-  name: mint
-  description: It's wafer thin.
+  name: 薄荷
+  description: 它薄如薄片。
   components:
   - type: Item
     storedOffset: 0,-1
@@ -218,8 +218,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealEggplantParm
-  name: eggplant parmigiana
-  description: The only good recipe for eggplant.
+  name: 帕爾馬干酪茄子
+  description: 唯一一道好吃的茄子食譜。
   components:
   - type: Item
     storedOffset: 0,-2
@@ -248,8 +248,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealPotatoYaki
-  name: yaki imo
-  description: Made with roasted sweet potatoes!
+  name: 烤地瓜
+  description: 採用烤地瓜製成！
   components:
   - type: Item
     storedOffset: 0,-2
@@ -265,7 +265,7 @@
   parent: FoodMealBase
   id: FoodMealCubancarp
   name: Cuban carp
-  description: A grifftastic sandwich that burns your tongue and then leaves it numb!
+  description: 一款超棒的三明治，先灼燒你的舌頭，接著讓它麻木！
   components:
   - type: Item
     storedOffset: 3,-7
@@ -300,8 +300,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealCornedbeef
-  name: corned beef and cabbage
-  description: Now you can feel like a real tourist vacationing in Ireland.
+  name: 醃牛肉配高麗菜
+  description: 現在，您就能體驗到像真正的遊客一樣在愛爾蘭度假的感覺。
   components:
   - type: Item
     storedOffset: 0,-1
@@ -330,8 +330,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealBearsteak
-  name: filet migrawr
-  description: Because eating bear wasn't manly enough.
+  name: 菲力米格拉
+  description: 因為吃熊肉還不夠「男子氣概」。
   components:
   - type: Item
     size: Normal
@@ -363,8 +363,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealPigblanket
-  name: pig in a blanket
-  description: A tiny sausage wrapped in a flakey, buttery roll. Free this pig from its blanket prison by eating it.
+  name: 香腸捲
+  description: 一根小小的香腸，裹在一片酥脆香濃的奶油麵包裡。快把它吃掉，讓這隻小豬從這層「毯子」的牢籠中解脫出來吧。
   components:
   - type: Item
     size: Tiny
@@ -393,8 +393,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealRibs
-  name: bbq ribs
-  description: BBQ ribs, slathered in a healthy coating of BBQ sauce. The least vegan thing to ever exist.
+  name: 烤肋排
+  description: 烤肋排，塗滿了一層厚厚的烤肉醬。這大概是世上最不「純素」的食物了。
   components:
   - type: Item
     storedOffset: 0,-4
@@ -428,8 +428,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealEggsbenedict
-  name: eggs benedict
-  description: There is only one egg on this, how rude.
+  name: 班尼迪克蛋
+  description: 這上面只有一顆蛋，真沒禮貌。
   components:
   - type: FlavorProfile
     flavors:
@@ -458,8 +458,8 @@
 - type: entity
   parent: FoodMealOmelette
   id: FoodMealCheeseOmelette # NF: FoodMealCheeseOmelette < FoodMealOmelette
-  name: cheese omelette
-  description: Cheesy.
+  name: 起司歐姆蛋
+  description: 太做作了。
   components:
   - type: Item
     storedOffset: 0,-1
@@ -484,8 +484,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealFriedegg
-  name: fried egg
-  description: A fried egg, with a touch of salt and pepper.
+  name: 煎蛋
+  description: 一枚煎蛋，撒上少許鹽和胡椒。
   components:
   - type: Item
     storedOffset: 0,-1
@@ -515,8 +515,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealMilkape
-  name: milk ape
-  description: The king of Jungle Thick.
+  name: 牛奶猿
+  description: 叢林濃郁之王。
   components:
   - type: Item
     size: Normal
@@ -533,8 +533,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealMemoryleek
-  name: memory leek
-  description: This should refresh your memory.
+  name: 記憶洩漏
+  description: 這應該能讓你回憶起來。
   components:
   - type: Item
     shape:
@@ -558,8 +558,8 @@
 - type: entity
   parent: FoodMealBase
   id: DisgustingSweptSoup
-  name: salty sweet miso cola soup
-  description: Jesus christ.
+  name: 鹹甜味噌可樂湯
+  description: 天啊。
   components:
   - type: Item
     size: Normal
@@ -587,7 +587,7 @@
   parent: FoodMealBase
   id: FoodMealQueso
   name: queso
-  description: A classic dipping sauce that you can't go wrong with.
+  description: 一款經典的蘸醬，無論怎麼搭配都絕對不會出錯。
   components:
     - type: Item
       storedOffset: 0,-6
@@ -599,10 +599,10 @@
 # Its queso! Everyone loves queso... Right?.
 
 - type: entity
-  name: sashimi
+  name: 生魚片
   parent: FoodMealBase
   id: FoodMealSashimi
-  description: Its taste can only be described as "Exotic". The poisoning though? That's pretty common.
+  description: 它的味道只能用「異國風情」來形容。至於中毒？那可是相當常見的。
   components:
   - type: FlavorProfile
     flavors:
@@ -626,8 +626,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealEnchiladas
-  name: enchiladas
-  description: Viva La Mexico!
+  name: 恩奇拉達
+  description: 墨西哥萬歲！
   components:
     - type: Item
       storedOffset: -1,0
@@ -659,8 +659,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodSaladWatermelonFruitBowl
-  name: melon fruit bowl
-  description: The only salad where you can eat the bowl.
+  name: 哈密瓜果盤
+  description: 這是唯一一道連碗都能一起吃的沙拉。
   components:
   - type: Item
     storedOffset: 0,-3
@@ -694,8 +694,8 @@
 - type: entity
   parent: FoodMealBase
   id: FoodMealCornInButter
-  name: corn in butter
-  description: Buttery.
+  name: 黃油玉米
+  description: 奶油般的。
   components:
   - type: Item
     storedOffset: 0,-5

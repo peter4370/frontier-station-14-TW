@@ -1,4 +1,4 @@
-queue-title = Join Queue
-queue-quit = Disconnect
-queue-position = Position in queue:
-queue-total = Total in queue:
+queue-title = 加入佇列
+queue-quit = 斷開連接
+queue-position = 隊列中的位置：
+queue-total = 隊列中總數：

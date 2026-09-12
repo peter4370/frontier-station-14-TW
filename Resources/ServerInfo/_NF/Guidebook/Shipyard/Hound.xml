@@ -1,31 +1,32 @@
+
 <Document>
-  # HOUND-CLASS SECURITY SHUTTLE
+  # HOUND 級安全穿梭機
   <Box>
-  <GuideEntityEmbed Entity="HolosignSecurity" Caption="Keep The Peace"/>
-  <GuideEntityEmbed Entity="Handcuffs" Caption="Stop the Crime"/>
-  <GuideEntityEmbed Entity="SignSecurity" Caption="Secure the Sector"/>
+  <GuideEntityEmbed Entity="HolosignSecurity" Caption="維持和平"/>
+  <GuideEntityEmbed Entity="Handcuffs" Caption="遏止犯罪"/>
+  <GuideEntityEmbed Entity="SignSecurity" Caption="確保該區域的安全"/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapHound" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻尺寸：[/color] 小型
 
-	[color=#a4885c]Recommended Crew:[/color] 1
+	[color=#a4885c]建議船員人數：[/color] 1
 
-	[color=#a4885c]Power Gen Type:[/color] Plasma
+	[color=#a4885c]發電類型：[/color] 等離子體
 
-  [color=#a4885c]Base Power Draw:[/color] 11.7 kW
+  [color=#a4885c]基本耗電量：[/color] 11.7 kW
 
-	[color=#a4885c]Expeditions:[/color] No
+	[color=#a4885c]探勘任務：[/color] 無
 
-	[color=#a4885c]IFF Console:[/color] None
+	[color=#a4885c]友方識別（IFF）控制台：[/color] 無
 
-  "A security vessel meant for the sector's Security Guard! able to hold prisoners, and any evidence on them, while having a lounge beffiting any high profile escorts! brought to you by the Clean Bee Company! here to put your skeletons in the finest of clossets!"
+  「一艘專為該星區『安全衛士』設計的安全艦！」 不僅能關押囚犯及扣留其身上的任何證據，還設有與任何高規格護送任務相稱的休息室！ 由 Clean Bee Company 為您呈獻！ 「快來這裡，把你的骷髏藏進最精緻的衣櫥裡吧！」
 
   <Box>
-  <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Roudy Prisoner Panic Button"/>
-  <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Engine Toggle"/>
-  <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Shutter Toggle"/>
+  <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Roudy 囚犯緊急按鈕"/>
+  <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="引擎切換開關"/>
+  <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="快門開關"/>
   </Box>
 
 # Piloting

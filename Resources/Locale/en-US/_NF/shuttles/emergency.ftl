@@ -1,1 +1,1 @@
-nf-emergency-shuttle-docked = The Shift has ended. See you next time, Frontiersman. The next shift will begin in {$time} seconds.
+nf-emergency-shuttle-docked = 本輪值班已結束。下次見，拓荒者。下一輪值班將於 { $time } 秒後開始。

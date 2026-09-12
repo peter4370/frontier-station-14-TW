@@ -3,7 +3,7 @@
   parent: BaseMob # we use this since it can technically get inhabited
   name: artifact
   # description: A strange artifact from time unknown. Looks like a good time. # Frontier
-  description: A strange artifact of unknown origin. Its shape is bizarre and alien. # Frontier
+  description: 一件來歷不明的奇異文物。它的形狀怪異且充滿外星感。 # Frontier
   abstract: true
   noSpawn: true
   components:
@@ -54,8 +54,8 @@
 - type: entity
   parent: BaseAction
   id: ActionArtifactActivate
-  name: Activate Artifact
-  description: Activate yourself, causing chaos to those near you.
+  name: 啟動神器
+  description: 啟動自己，讓身邊的人陷入混亂。
   components:
   - type: Action
     icon:

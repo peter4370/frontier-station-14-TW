@@ -1,1 +1,1 @@
-crayon-drawing-label-unlimited = Drawing: [color={$color}]{$state}[/color]
+crayon-drawing-label-unlimited = 圖示：[color={ $color }]{ $state }[/color]

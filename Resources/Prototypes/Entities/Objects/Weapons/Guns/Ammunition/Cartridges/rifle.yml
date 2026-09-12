@@ -32,7 +32,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: CartridgeRiflePractice
-  name: cartridge (.20 rifle practice)
+  name: 子彈（.20 步槍練習用）
   parent: BaseCartridgeRifle
   components:
   - type: CartridgeAmmo
@@ -48,7 +48,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: CartridgeRifleIncendiary
-  name: cartridge (.20 rifle incendiary)
+  name: 子彈（.20 步槍燃燒彈）
   parent: BaseCartridgeRifle
   components:
   - type: CartridgeAmmo
@@ -64,7 +64,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: CartridgeRifleUranium
-  name: cartridge (.20 rifle uranium)
+  name: 子彈（.20 步槍鈾彈）
   parent: BaseCartridgeRifle
   components:
   - type: CartridgeAmmo

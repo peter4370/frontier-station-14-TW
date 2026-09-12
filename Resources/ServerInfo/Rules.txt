@@ -1,91 +1,91 @@
-﻿[head=3][color=#ff0000]You must be 17 or older to play. Users under 17 will be banned immediately.[/head][/color]
+﻿[head=3][color=#ff0000]您必須年滿 17 歲方可遊玩。 未滿 17 歲的用戶將立即遭封禁。[/head][/color]
 
-[color=#99ff99]Frontier Station is a Medium Roleplay server. Try to immerse yourself into your character. This includes doing your job as a station or ship crew member and delegating tasks that are outside of that description, or striking out upon space as a Captain of your ship. This does not imply you’re forced to play the whole round; Frontier Station is designed with pop-in-and-out gameplay in mind, where some players will come and go but their bank account remains persistent across server restarts.[/color]
+[color=#99ff99]Frontier Station 是一個 Medium 平台上的角色扮演伺服器。 試著徹底融入你的角色。 這包括履行身為空間站或飛船船員的職責，並將職責範圍以外的任務委派給他人，或是以飛船船長的身分馳騁太空。 這並不表示你必須打完整場遊戲；「邊境站」的設計理念是讓玩家能隨時加入或離開，部分玩家可能會來來去去，但他們的銀行帳戶在伺服器重啟後仍會保留。[/color]
 
-[color=#99ff99]You can access more information about the game using the Guidebook (NUMPAD 0).[/color]
+[color=#99ff99]您可以透過《指南手冊》（數字鍵盤 0）查閱更多關於這款遊戲的資訊。[/color]
 
-[color=#a4885c][head=3]0. Admins can disregard any and all of these rules if they deem it in the best interest of the current round, server, and/or community at large.[/head][/color]
-	• They will of course be held fully accountable for their actions if they exercise this privilege.
+[color=#a4885c][head=3]0. 若管理員認為此舉符合當前輪次、伺服器及／或整個社群的最佳利益，可忽略上述任何或所有規則。[/head][/color]
+	• 當然，若他們行使這項特權，將須為其行為承擔全部責任。
 
-[color=#a4885c][head=3]0.1. All of these rules apply as they are intended.[/head][/color]
-	• Every example of a rule break cannot be defined as written, therefore, enforcement of the rules is subject to staff interpretation of the rule's intention.
+[color=#a4885c][head=3]0.1. 所有這些規則均按其原意適用。[[/head][/color]]
+	• 並非每一起違反規則的案例都能完全符合文字規定，因此，規則的執行須視乎工作人員對該規則意圖的詮釋。
 
-[color=#a4885c][head=3]0.2. Staff is not obligated to cover player losses, deaths or delays.[/head][/color]
-	• This includes but is not limited to ship deeds, money, respawns or revivals. Any action taken will depend on the circumstances at hand.
+[color=#a4885c][head=3]0.2. 工作人員無義務為玩家的損失、角色死亡或延誤負責。[/head][/color]
+	• 這包括但不限於船隻產權、金錢、重生或復活。 將採取何種行動，將視具體情況而定。
 
-[color=#a4885c][head=3]1. Erotic Roleplay (ERP), erotic content, or 18+ sexual content is[/color] [color=#ff0000]not allowed under any circumstance.[/head][/color]
+[color=#a4885c][head=3]1. 情色角色扮演（ERP）、情色內容或 18 歲以上性內容[/color] [color=#ff0000]在任何情況下均不允許。[/head][/color]
 
-[color=#a4885c][head=3]2. Follow the community expectations. This includes both in game and elsewhere in our community.[/head][/color]
-	• Don't be a dick nor harass other players.
-	• Do not evade bans.
-	• Don't be racist or bigoted.
-	• Do not attempt to cause lag to the server.
-	• Do not grief as a non-antagonist; this includes against AFK and SSD/Catatonic Players.
-	• Do not leave the server to avoid punishment from Admin staff.
-	• Do not respawn to avoid punishment from Security Forces, or respawn as the same character if given a permanent confinement sentence.
-	• Exploits, abusing bugs, cheating, power-gaming, and other extremely lame behavior are forbidden.
+[color=#a4885c][head=3]2. 請遵守社群的期望。 這包括遊戲內以及我們社群中的其他地方。[/head][/color]
+	• 不要當個混蛋，也不要騷擾其他玩家。
+	• 請勿規避禁令。
+	• 切勿抱持種族主義或偏見。
+	• 請勿試圖造成伺服器延遲。
+	• 身為非敵對玩家時，請勿進行惡意騷擾；這包括針對 AFK 以及 SSD／木僵狀態的玩家。
+	• 請勿離開伺服器，以免受到管理員的處分。
+	• 請勿重生，以免遭到安全部隊的懲處；若被判處永久監禁，亦請勿以同一角色重生。
+	• 嚴禁利用漏洞、濫用程式錯誤、作弊、濫用遊戲機制，以及其他極其低級的行為。
 
-[color=#a4885c][head=3]3. Do not use information gained outside of in-character means, and do not say In Character (IC) things in the Local Out Of Character (LOOC) chat channel.[/head][/color]
-	• Voice Chat with other players currently playing on the server is [color=#ff0000]not allowed under any circumstance. [/color]
-	• I.e. metagaming. This especially refers to communication between players outside of the game via things like Discord, known as meta-comms. Characters are otherwise allowed to know everything about in-game mechanics or antagonists, as well as keep persistent friendships and relationships with other characters when not for the purpose of unfair advantage by teaming up together for little IC reason.
-	• Do not say LOOC things in IC either, like saying you “need to go afk because your dog wants to go outside,” in the IC chat.
+[color=#a4885c][head=3]3. 請勿使用透過角色外方式取得的資訊，亦請勿在「本地角色外」（LOOC）聊天頻道中發表「角色內」（IC）的內容。[/head][/color]
+	• 無論在任何情況下，[color=#ff0000]均不得與目前正在該伺服器上遊玩的其他玩家進行語音聊天。 [/color]
+	• 即 超策略。 這尤其指的是玩家透過 Discord 等平台在遊戲外進行的溝通，此類溝通被稱為「元溝通」（meta-comms）。 除此之外，角色被允許了解遊戲機制或反派角色的所有資訊，並能與其他角色維持長久的友誼與關係——只要並非為了透過缺乏劇情依據的合作來獲取不公平優勢。
+	• 在遊戲內（IC）也請勿說出 LOOC 內容，例如在遊戲內聊天頻道中表示「因為你的狗想出去，所以你得暫時離開」。
 
-[color=#a4885c][head=3]4. After cloning, respawning, or taking a ghost role, you must follow the new life rule.[/head][/color]
-	• If cloned, resuscitated, or respawned, you don't have amnesia, but you can only recall vague details of who or what had killed you.
-	• If taking a ghost role, you have no memories from any past lives for the duration of playing as a ghost role.
-	• A 15 minute non-aggression period is required after respawning, so you can’t immediately get in a ship and try to go kill whoever killed you.
-	• Don't act on anything you saw while ghosted.
+[color=#a4885c][head=3]4. 在克隆、重生或擔任幽靈角色後，你必須遵守新的生命規則。[/head][/color]
+	• 若被克隆、復活或重生，你並不會失憶，但只能隱約回憶起是誰或什麼殺了你。
+	• 若扮演幽靈角色，在扮演該角色的期間內，你將不具備任何前世的記憶。
+	• 重生後有 15 分鐘的「不攻擊」時段，因此你無法立刻登上飛船，試圖去殺死那個殺死你的玩家。
+	• 切勿根據你在被「鬼化」期間所見的任何情況採取行動。
 
-[color=#a4885c][head=3]5. Follow Chat Guidelines[/head][/color]
-	• Only speak in English.
-	• Do not spam.
-	• Do not advertise.
-	• Do not use Netspeak (i.e. LOL, ROFL, XD, FR).
-	• Hate speech, slurs and bigotry are [color=#ff0000]not allowed.[/color] Words that are closely tied to, or intended to replace/imitate, real life slurs are [color=#ff0000]not allowed.[/color]
+[color=#a4885c][head=3]5. 遵循聊天守則[/head][/color]
+	• 請僅使用英語交談。
+	• 請勿發送垃圾訊息。
+	• 請勿刊登廣告。
+	• 請勿使用網路語（例如：LOL、ROFL、XD、FR）。
+	• 仇恨言論、侮辱性言詞及偏見均[color=#ff0000]不被允許。[/color] 任何與現實生活中的侮辱性言詞密切相關，或意圖取代／模仿此類言詞的詞語，均[color=#ff0000]不被允許。[/color]
 
-[color=#a4885c][head=3]6. Follow Roleplay Guidelines[/head][/color]
-	• Your IC name must be realistic and fit into the game's setting. Avoid joke names and names of locations, brands, fictional/real people or names parodying off from them (e.g. Baul Sadman, Tom Ford.) Additionally:
-		- Do not use numbers, symbols, titles or adjectives (i.e Mr ,Dr ,Big ,Old).
-		- Avoid using character names of other well-known players, do not impersonate players this way.
-		- All species have a naming convention, be sure to generally follow it.
-	• Treat your character as a separate entity from you, the player. Your character's actions, feelings, and knowledge in-game should be based solely on the character's experiences and not your own as the player. Low roleplay actions that have no regard for your character or the setting (Memes, silly copy paste spam IC) are not acceptable.
-	• Previous experiences with other characters are allowed to lead to meta-friending, but you may not meta-grudge another character.
+[color=#a4885c][head=3]6. 遵循角色扮演指南[/head][/color]
+	• 您的 IC 名稱必須切合實際，並符合遊戲的設定。 請避免使用玩笑性質的名稱，以及地名、品牌名稱、虛構或真實人物的名字，或以此類名稱為基礎的戲仿名稱（例如：Baul Sadman、Tom Ford）。此外：
+		- 請勿使用數字、符號、頭銜或形容詞（例如：Mr、Dr、Big、Old）。
+		- 請避免使用其他知名玩家的角色名稱，切勿藉此冒充該等玩家。
+		- 所有物種都有其命名規則，請務必大致遵循該規則。
+	• 將你的角色視為與你（玩家）截然不同的個體。 你所扮演的角色在遊戲中的行為、感受與知識，應完全基於該角色的經歷，而非你身為玩家的自身經歷。 那些不顧角色設定或遊戲背景的低品質角色扮演行為（例如：網路迷因、無意義的複製貼上垃圾訊息等），是不可接受的。
+	• 其他角色之間的過往經歷可以發展成「元友誼」，但不得對其他角色懷有「元怨恨」。
 
-[color=#a4885c][head=3]7. Follow Antagonist Guidelines[/head][/color]
-	• All ghost roles have a set description for how the role should be played, you must follow the ghost role description unless told otherwise by an admin. Spamming ahelp asking for an exception will likely lead to being banned.
-	• Antagonists are not necessarily your friends. Traitors, rat kings, and sometimes wizards are free agents, but no one should be working together with xenomorphs, nuclear operatives, space dragons, or zombies.
-	• Non-pirates may not assist or work with pirate crews, examples are such as watching mass scanners and tipping them off who to attack, pretending to be hostages, or knowingly funding the pirates for equipment/ships.
+[color=#a4885c][head=3]7. 遵循反派角色指南[/head][/color]
+	• 所有幽靈角色皆有既定的角色扮演說明，除非管理員另有指示，否則您必須遵循該說明。若頻繁發送「ahelp」訊息要求例外處理，很可能導致帳號遭封禁。
+	• 敵人未必是你的朋友。 叛徒、老鼠王，有時還有巫師，這些都是自由行動者；但絕不該有人與異形、核武特工、太空龍或殭屍聯手。
+	• 非海盜者不得協助或與海盜船員合作，例如監看群體掃描器並向他們透露攻擊目標、假扮人質，或明知故犯地資助海盜購置裝備／船隻。
 
-[color=#a4885c][head=3]8. Follow Station Safezone Guidelines[/head][/color]
-	• [color=#ff0000] The immediate 200 meters around the Frontier and the Frontier itself is considered a safe zone and absolutely no antag activity or griefing is permitted within that zone.[/color] This includes but is not limited to destruction, modification, removal, or otherwise restriction of use of any machine or device designed for public use, and the structure of the station itself.
-	• For any non-antagonistic or roleplay modifications of the station, Station Rep's approval is always required.
-	• Fights and confrontations is completely disallowed on the safezone such as shooting, attacking or any forms of harm.
-	• Pirate actions may not begin on the Frontier. This includes stowing away while at the Frontier with intentions to steal the ship, outright stealing the ship or its cargo from the dock, selling someone else’s ship you hadn’t pirated outside the safe zone, or joining the crew under false pretenses with the intention to mutiny and take the ship.
-	• Dangerous research like artifacts and anomalies must not be done while inside the safezone boundaries.
-	• Do not transport any kind of creature or objects with the intent to cause harm/death, or bait into a conflict inside of the frontier.
+[color=#a4885c][head=3]8. 遵循車站安全區指引[/head][/color]
+	• [color=#ff0000] 「邊境」及其周邊 200 公尺範圍內被視為安全區，該區域內嚴禁任何敵對行為或惡意破壞。[/color] 這包括但不限於破壞、修改、移除或以其他方式限制任何供公眾使用的機器或裝置，以及空間站本身的結構。
+	• 針對該站點的任何非對抗性或角色扮演類的修改，均須事先獲得站點代表（Station Rep）的批准。
+	• 在安全區內嚴禁任何形式的鬥毆與衝突，例如開槍、攻擊或任何形式的傷害行為。
+	• 海盜行動不得在邊境地區展開。 這包括在「邊境」區域以盜取船隻為目的潛入船上、直接從碼頭盜取船隻或其貨物、在安全區外出售未經盜取的他人船隻，或是以欺騙手段加入船員行列，意圖發動叛變並奪取船隻。
+	• 在安全區範圍內，嚴禁進行如「遺物」和「異常現象」這類危險的研究。
+	• 不得攜帶任何生物或物品進入邊境，意圖造成傷害／致死，或誘發衝突。
 
-[color=#a4885c][head=3]9. Security Forces and Station Staff roles are held to a higher standard of roleplay and are strictly non-antagonists.[/head][/color]
-	• Security Forces roleplaying as ‘bad cops’ and intentionally violating space law is forbidden. Space Law is not optional for these roles, and strong knowledge is required before taking a security position.
-	• Civilian and Security staff are expected to maintain a minimum of competency and performance on their jobs. Security staff must follow NFSD Standard Operating Procedure (see Wiki in the menu for more details).
-	• Assets seized from criminals may only be used to make victims whole and to pay for any fines under the law. Any excess financials received from the sale of criminal assets is to be returned to their original owners, and are not to be plundered or extorted by security forces. This is a strict zero-tolerance policy.
-	• All players that are hired on as crew to the station as security or service staff, or through other direct jobs working for paychecks from the station, are considered non-antags and official Nanotrasen employees. Engaging in any hostile antagonistic activities, or abuse of the equipment provided while working in these roles, is strictly prohibited.
+[color=#a4885c][head=3]9. 安全部隊與站務人員的角色扮演須符合更高的標準，且嚴格禁止扮演反派角色。[/head][/color]
+	• 嚴禁安全部隊扮演「壞警察」並蓄意違反太空法。 對於這些職位而言，太空法並非可有可無的知識，在擔任安全職務之前，必須具備扎實的相關知識。
+	• 文職及安全人員應在其職務上維持最低限度的能力與表現。 安保人員必須遵循 NFSD 標準作業程序（詳情請參閱選單中的 Wiki）。
+	• 從犯罪分子處查扣的資產，僅得用於彌補受害人的損失，以及支付法律規定的任何罰款。 從販賣犯罪資產所獲得的任何超額款項，均應歸還給原所有者，且不得由安全部隊掠奪或勒索。 這是一項嚴格的零容忍政策。
+	• 凡受僱於該站擔任安保或服務人員，或透過其他直接工作從該站領取薪資的所有玩家，均被視為非反派角色，並為 Nanotrasen 的正式員工。 嚴禁在擔任上述職務期間從事任何敵對或對抗性活動，或濫用所提供的設備。
 
-[color=#a4885c][head=3]10. Sector Command roles such as Station Rep and Sheriff are vital to the operation of the sector and are held to a much higher degree of roleplay and role handling.[/head][/color]
-	• Sector Command is expected and [color=#ff0000]required [/color] to maintain pay for their respective staff as a part of their job. Payroll should be a minimum of 10,000 for station crew, 20,000 for Station Rep and Sheriff, and 15,000 for security per hour. Embezzlement of station funds is strictly forbidden.
-	• Both of these roles have higher access to station resources than should be allowed for most crew members. As such, if you must ever end your shift early, always bring your ID with you, and always return to cryosleep so that your access cannot be stolen and the station funds embezzled. If for any reason you cannot (disconnect, crash, power outage, etc.) Please ping the game admins in Discord and we will handle your in-game character accordingly.
-	• Sector Command is permitted and expected to issue and enforce any docking fines related to loitering in the terminal for shuttles that have been idle for more than 10 minutes in the station docks without a valid reason, up to and including forced eviction of shuttles.  Fines collected in this way are permitted to be used as payroll or the acquisition of station supplies. Time spent docked and waiting at the station is to be kept at a minimum.
-	• You may not tax, lease, rent, or otherwise reserve the free and fair use of station resources and space to the detriment of the public or for personal gain. This includes, but is not limited to: charging docking fees, granting docking extensions, vending access, and moving station resources behind access locked doors to restrict access.
+[color=#a4885c][head=3]10. 各分區的指揮職務（例如站長代表和警長）對於分區的運作至關重要，對其角色扮演與職責履行有極高的要求。[/head][/color]
+	• 各部門指揮官應且 [color=#ff0000]必須 [/color] 確保其所屬人員的薪資得以維持，此為其職責之一。 工作站工作人員的時薪應至少為 10,000，工作站代表及警長為 20,000，而保全人員則為 15,000。 嚴禁挪用站內資金。
+	• 這兩個職務在空間站資源的存取權限上，都比大多數組員應有的權限更高。 因此，若您必須提前結束班次，請務必隨身攜帶身分證件，並務必返回冷凍睡眠艙，以免您的存取權限遭竊，導致空間站資金遭侵吞。 若因任何原因（例如：斷線、遊戲當機、停電等）導致您無法繼續遊戲，請透過 Discord 聯繫遊戲管理員，我們將據此處理您的遊戲角色。
+	• 區域指揮部有權且應對因無正當理由在站台停靠處閒置超過 10 分鐘的接駁車，開立並執行任何與在航站樓內徘徊相關的停靠罰款，處分措施最高可包含強制驅離接駁車。  以這種方式徵收的罰款，可作為支付薪資或購置電台物資之用。 在車站停靠及等候的時間應盡量縮短。
+	• 不得對電台資源及場地徵收費用、出租、租賃，或以其他方式佔用其自由且公平的使用權，以致損害公眾利益或謀取私利。 這包括但不限於：收取停靠費、批准延長停靠時間、開放自動販賣機使用權限，以及將站內資源移至需授權才能進入的門後以限制存取。
 
-[color=#a4885c][head=3]11. Follow Escalation Guidelines[/head][/color]
-	• Antagonistic ghost roles, and pest ghost roles like mice are always fair game for attack. Don't grief nanotrasen-aligned ghost roles like familiars, drones, or pets without provocation.
-	• Do not attack another player without a legitimate, explainable roleplay reason that could be applied in a similar, real-life scenario. A fistfight does not suddenly escalate into a gunfight.
-	• If a fight results in someone being critically injured or killed, seek medical help for them.
-	• If at any point combat is disengaged and both parties leave the area, you cannot skip escalation and plunge back into a fight. What’s done is done.
-	• Security Forces are expected to resolve situations with non-lethal force and to de-escalate IC confrontation except in cases where there is a reasonable chance of harm/death.
-	• Do not End of Round Grief (EORG), attacking/killing/griefing other players is not permitted after the shift ends.
+[color=#a4885c][head=3]11. 遵循升級處理準則[/head][/color]
+	• 敵對的幽靈角色，以及像老鼠這類惱人的幽靈角色，始終都是可以攻擊的目標。 除非受到挑釁，否則請勿騷擾與納諾特拉森結盟的幽靈角色，例如隨從、無人機或寵物。
+	• 除非有正當且能合理解釋的角色扮演理由，且該理由在現實生活中的類似情境下亦能成立，否則請勿攻擊其他玩家。 一場拳腳之爭不會突然升級為槍戰。
+	• 若鬥毆導致有人重傷或死亡，請為當事人尋求醫療協助。
+	• 若戰鬥在任何時刻結束，且雙方均離開該區域，則無法跳過戰況升級階段，直接重新投入戰鬥。 既成事實，就別再追究了。
+	• 安全部隊應以非致命武力解決事態，並緩解與 IC 之間的對峙，惟若存在造成傷害或死亡的合理可能性時，則不在此限。
+	• 請勿進行「回合結束後惡作劇」（EORG）；輪班結束後，嚴禁攻擊、殺害或惡作劇其他玩家。
 
-[color=#a4885c][head=3]12. Follow PVP & Piracy Guidelines[/head][/color]
-	• Pirates/antagonists must ahelp before starting a crew and receive permission to begin antag activity. Spamming ahelp asking to be a pirate or pirating without permission will likely lead to being banned.
-	• Pirate crews may never exceed a total force of four members, including the Captain.
-	• Non-hostile vessels that surrender: cannot be killed, left stranded, completely bankrupt, or otherwise. The safety of non-hostile merchant vessels is to be guaranteed by all parties. All vessels being boarded must first attempt to negotiate before any hostile actions may take place.
-	• Hostile forces that are known, declared, and confirmed, may be considered 'belligerent', boarded non-conventionally, and have their systems disabled in attempts to bring them to justice. All suspects taken alive must be adequately cared for and unharmed according to Space Law.
+[color=#a4885c][head=3]12. 遵循 PVP 與盜版指引[/head][/color]
+	• 海盜／反派角色必須在組建船員之前提出協助，並獲得許可後，方可展開反派活動。 在 ahelp 頻道不斷發送垃圾訊息要求成為海盜，或未經許可進行盜版行為，很可能會導致帳號遭封禁。
+	• 海盜船員總數（含船長在內）不得超過四人。
+	• 投降的非敵對船隻：不得被殺害、拋棄、使之完全破產，或遭受其他任何處置。 各方應確保非敵對商船的安全。 在對任何船隻採取敵對行動之前，必須首先嘗試進行協商。
+	• 已知、已宣戰且經確認的敵對勢力，可被視為「交戰方」，並可對其採取非常規登船行動，同時使其系統失效，以將其繩之以法。 根據《太空法》，所有被活捉的嫌疑人必須獲得妥善照料，且不得受到傷害。

@@ -1,46 +1,47 @@
+
 <Document>
-  # VITALIS-CLASS MEDICAL SHUTTLE
+  # VITALIS 級醫療接駁車
   <Box>
     <GuideEntityEmbed Entity="hydroponicsTray"/>
     <GuideEntityEmbed Entity="ComputerCrewMonitoring" Caption="crew monitor"/>
     <GuideEntityEmbed Entity="RollerBed"/>
     <GuideEntityEmbed Entity="CryoPod"/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-3
+  [color=#a4885c]建議船員人數：[/color] 1-3 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 飛船簡介
 
-  The Vitalis is a medium-sized medical support vessel designed for cryogenic deployment and medical personnel support.
+  「維塔利斯號」是一艘中型醫療支援艦，專為低溫環境部署及醫療人員支援而設計。
 
-  # Ship Functions
+  # 船艦職能
 
-  # Medical
+  # 醫療
 
-  [textlink="Medicine" link="Medical Doctor"/]
+  [textlink="醫學" link="醫師"/]
 
-  [textlink="Chemistry" link="Chemist"/]
+  [textlink="化學" link="化學家"/]
 
-  [textlink="Chemicals" link="Chemicals"/]
+  [textlink="化學品" link="化學品"/]
 
-  [textlink="Cryogenics" link="Cryogenics"/]
+  [textlink="低溫技術" link="低溫技術"/]
 
-  [textlink="Botany" link="Botany"/]
+  [textlink="植物學" link="植物學"/]
 
-  # Piloting
+  # 飛行駕駛
 
-  [textlink="Piloting" link="Piloting"/]
+  [textlink="飛行駕駛" link="飛行駕駛"/]
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="星區拓撲" link="SectorTopology"/]
 
-  # Hiring crew
+  # 招募船員
 
-  [textlink="Hiring" link="Hiring"/]
+  [textlink="招募" link="招募"/]
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員。
 
   # PREFLIGHT CHECKLIST
 

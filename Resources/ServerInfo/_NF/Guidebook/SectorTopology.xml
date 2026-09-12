@@ -1,20 +1,21 @@
+
 <Document>
-# Sector Topology
+# 區段拓撲結構
 
 <!-- Note: range values will not scale with the world size cvar! -->
 
-The Frontier sector consists of a large, disk-like asteroid belt. In the center of the belt, Frontier Outpost serves as the arrival point for greenhorns and seasoned pilgrims alike.
+「邊疆」星區由一個巨大的、呈圓盤狀的小行星帶組成。 在「邊境地帶」的中心地帶，「邊境前哨站」既是新手，也是資深朝聖者的抵達點。
 
-The area immediately around Frontier Outpost is mostly empty space. Beyond this, there are [bold]three distinct zones[/bold]:
+「邊境前哨站」周邊的區域大多是空地。 除此之外，還有 [bold]三個截然不同的區域[/bold]：
 
 <Box Margin="0">
   <GuideEntityEmbed Entity="NFSectorMap" Caption="" Margin="-20"/>
 </Box>
 
-- The [color=#c73232]inner ring[/color] ([color=gold]≤5 km[/color]) has been developed into a base for service stations like [color=forestgreen]Trade Outpost[/color] and [color=mediumturquoise]Medical Dispatch[/color]. You can still find errant scrap, small asteroids, and the occasional wreck, but better materials are found further out. At the edge of this zone, you'll find [color=green]Cargo Depots[/color], the destination for most cargo freighters.
-- The [color=#fbf236]middle ring[/color] ([color=gold]~5–9 km[/color]) is the foundation for our industrial base. With a wide variety of [color=orchid]minerals[/color] available for mining and a variety of [color=lightpink]gas deposits[/color] available for drilling, this is a [color=peru]miner's[/color] breadbasket.
-- The [color=#286c9c]outer ring[/color] ([color=gold]~9–15 km[/color]) is where you'll find massive [color=skyblue]icy asteroids[/color] and unusual [color=orange]brass wrecks[/color]. This ring is the subject of interest for most [color=plum]researchers[/color] in the sector.
+- [color=#c73232]內環[/color]（[color=gold]≤5 公里[/color]）已發展成為各類服務站的據點，例如 [color=forestgreen]貿易前哨站[/color] 和 [color=mediumturquoise]醫療調度站[/color]。 雖然你仍能找到散落的廢料、小型小行星，以及偶爾出現的殘骸，但更好的材料得往更遠的地方才能找到。 在這個區域的邊緣，你會發現 [color=green]貨運站[/color]，這是大多數貨運船的最終目的地。
+- [color=#fbf236]中間環[/color] ([color=gold]約 5–9 公里[/color]) 是我們工業基礎的根基。 這裡不僅有種類繁多的 [color=orchid]礦物[/color] 可開採，還有各式各樣的 [color=lightpink]天然氣礦藏[/color] 可鑽探，可說是 [color=peru]礦工[/color] 的糧倉。
+- 在 [color=#286c9c]外環[/color]（[color=gold]約 9–15 公里[/color]）中，你可以發現龐大的 [color=skyblue]冰質小行星[/color] 以及奇特的 [color=orange]黃銅殘骸[/color]。 這枚戒指是該領域大多數 [color=plum]研究人員[/color] 關注的焦點。
 
-Beyond this, there is a massive void between any nearby sector. Without engines capable of inter-sector travel, leaving the edge of the asteroid belt is not recommended.
+除此之外，與任何鄰近星區之間存在著一片巨大的虛空。 若沒有能夠進行星區間航行的引擎，不建議離開小行星帶邊緣。
 
 </Document>

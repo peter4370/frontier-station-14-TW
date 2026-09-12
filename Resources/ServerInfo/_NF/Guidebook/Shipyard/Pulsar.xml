@@ -1,22 +1,23 @@
+
 <Document>
-# PULSAR-CLASS SCIENCE SHUTTLE
+# 脈衝星級科學飛船
 <Box>
-  <GuideEntityEmbed Entity="SignAnomaly" Caption="Discover"/>
+  <GuideEntityEmbed Entity="SignAnomaly" Caption="探索"/>
   <GuideEntityEmbed Entity="NFPosterContrabandFscLogo" Caption="Profit"/>
-  <GuideEntityEmbed Entity="SignAnomaly2" Caption="Exploit"/>
+  <GuideEntityEmbed Entity="SignAnomaly2" Caption="漏洞利用"/>
 </Box>
 <Box>
   <GuideEntityEmbed Entity="ShuttleMapPulsar" Caption=""/>
 </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-4
+  [color=#a4885c]建議船員人數：[/color] 1-4 人
 
-  [color=#a4885c]Power Gen Type:[/color] Bananium
+  [color=#a4885c]動力產生類型：[/color] 巴納尼姆
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "A scientific research and exploration shuttle produced by the Far Star Corporation for the exploration of hostile spaces and in xenoarcheological artifact recovery and quarantine."
+  「由遠星公司（Far Star Corporation）生產的科學研究與探索用穿梭機，專門用於探索敵對空間，以及進行外星考古文物回收與隔離。」
 
   # Ship Functions
 
@@ -26,33 +27,33 @@
   <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Toggle Shutters"/>
 </Box>
 
-# Science
+# 科學
 
-[textlink="Science" link="Science"/]
+[textlink="科學" link="科學"/]
 
-# Medical
+# 醫學
 
-[textlink="Medicine" link="Medical Doctor"/]
+[textlink="醫學" link="醫師"/]
 
-[textlink="Chemistry" link="Chemist"/]
+[textlink="化學" link="化學家"/]
 
-[textlink="Chemicals" link="Chemicals"/]
+[textlink="化學品" link="化學品"/]
 
-[textlink="Cryogenics" link="Cryogenics"/]
+[textlink="極低溫技術" link="極低溫技術"/]
 
-[textlink="Botany" link="Botany"/]
+[textlink="植物學" link="植物學"/]
 
-# Piloting
+# 駕駛
 
-[textlink="Piloting" link="Piloting"/]
+[textlink="駕駛" link="駕駛"/]
 
-[textlink="Sector Topology" link="SectorTopology"/]
+[textlink="區塊拓撲" link="SectorTopology"/]
 
-# Hiring crew
+# 招募船員
 
-[textlink="Hiring" link="Hiring"/]
+[textlink="招募" link="Hiring"/]
 
-As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+身為納諾特拉森（Nanotrasen）船隻的船長，你有權隨意僱用、解僱、降職或晉升船員。
 
 # PREFLIGHT CHECKLIST
 

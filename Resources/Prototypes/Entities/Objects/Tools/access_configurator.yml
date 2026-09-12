@@ -1,8 +1,8 @@
 - type: entity
   parent: [BaseItem, BaseCommandContraband] # Frontier: Added BaseCommandContraband
   id: AccessConfigurator
-  name: access configurator
-  description: Used to modify the access level requirements for airlocks and other lockable devices.
+  name: 存取設定工具
+  description: 用於修改氣閘及其他可上鎖裝置的存取等級要求。
   components:
     - type: EmitSoundOnLand
       sound:
@@ -58,7 +58,7 @@
       - GenpopEnter
       - GenpopLeave
       privilegedIdSlot:
-        name: id-card-console-privileged-id
+        name: 身分證-主控台-特權-身分證
         ejectSound: /Audio/Machines/id_swipe.ogg
         insertSound: /Audio/Weapons/Guns/MagIn/batrifle_magin.ogg
         ejectOnBreak: true
@@ -87,9 +87,9 @@
 - type: entity
   parent: AccessConfigurator
   id: AccessConfiguratorUniversal
-  name: universal access configurator
+  name: 通用存取設定工具
   suffix: Admin
-  description: A modified access configurator used only by the mythical Administrator.
+  description: 一個僅供傳說中的「管理員」使用的改良版存取設定工具。
   components:
   - type: Sprite
     sprite: Objects/Tools/universal_access_configurator.rsi

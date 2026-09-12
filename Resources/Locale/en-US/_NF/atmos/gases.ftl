@@ -1,2 +1,2 @@
 gas-respiron-abbreviation = R
-gas-helium-abbreviation = He
+gas-helium-abbreviation = 他

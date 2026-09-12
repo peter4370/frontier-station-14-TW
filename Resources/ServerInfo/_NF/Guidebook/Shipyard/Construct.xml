@@ -1,23 +1,24 @@
+
 <Document>
-  # CONSTRUCT-CLASS SHUTTLE
+  # CONSTRUCT-CLASS 穿梭車
   <Box>
   <GuideEntityEmbed Entity="Wrench"/>
   <GuideEntityEmbed Entity="ClothingHeadHelmetEVALarge"/>
   <GuideEntityEmbed Entity="ClothingOuterHardsuitEVA"/>
   <GuideEntityEmbed Entity="SheetSteel"/>
-  </Box>  
+  </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapConstruct" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small (Micro)
+  [color=#a4885c]船體尺寸：[/color] 小型（微型）
 
-  [color=#a4885c]Recommended Crew:[/color] Legally we can't recommend anyone use this shuttle.
+  [color=#a4885c]建議乘員人數：[/color] 根據法律規定，我們無法建議任何人使用這艘穿梭機。
 
-  [color=#a4885c]Power Gen Type:[/color] Plasma
+  [color=#a4885c]動力產生類型：[/color] 等離子體
 
-  # Shuttle Brief
+  # 太空梭簡介
 
-  "Technically a spacefaring vessel. No livery. Perfect for engineers wishing to build theirown shuttle*."
+  「嚴格來說是一艘太空航行船。」 無車身塗裝。 「非常適合希望親手打造專屬太空梭*的工程師。」
 
   # Ship Functions
 

@@ -1,8 +1,8 @@
 - type: entity
   id: BaseDefibrillator
   parent: BaseItem
-  name: defibrillator
-  description: CLEAR! Zzzzat!
+  name: 除顫器
+  description: 清場！咻——！
   abstract: true
   components:
     - type: Sprite
@@ -70,8 +70,8 @@
 - type: entity
   id: DefibrillatorCompact # This should be a research item at some point
   parent: [ BaseDefibrillator, PowerCellSlotMediumItem ]
-  name: compact defibrillator
-  description: Now in fun size!
+  name: 小型除顫器
+  description: 現在推出迷你裝！
   components:
   - type: Sprite
     sprite: Objects/Specific/Medical/defibsmall.rsi
@@ -100,8 +100,8 @@
 - type: entity
   id: DefibrillatorSyndicate
   parent: [ DefibrillatorCompact, BaseC3SyndicateContrabandNoValue ] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContrabandNoValue
-  name: interdyne defibrillator
-  description: Doubles as a self-defense weapon against war-crime inclined tiders.
+  name: Interdyne 除顫器
+  description: 同時也能作為自衛武器，用以對抗有犯下戰爭罪傾向的潮汐者。
   components:
   - type: Sprite
     sprite: Objects/Specific/Medical/defibsyndi.rsi

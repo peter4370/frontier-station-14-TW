@@ -1,1 +1,1 @@
-botany-cannot-be-swabbed-message = You cannot swab that!
+botany-cannot-be-swabbed-message = 你不能用棉籤擦那個！

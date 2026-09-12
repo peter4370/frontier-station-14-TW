@@ -15,7 +15,7 @@
 
 - type: entity
   name: ointment
-  description: Used to treat those nasty burns. Less effective on caustic burns.
+  description: 用於治療那些嚴重的燒傷。對苛性燒傷的療效較低。
   parent: BaseHealingItem
   id: Ointment
   suffix: Full
@@ -62,8 +62,8 @@
     count: 1
 
 - type: entity
-  name: regenerative mesh
-  description: Used to treat even the nastiest burns. Also effective against caustic burns.
+  name: 再生網格
+  description: 用於治療即使是最嚴重的燒傷。對腐蝕性燒傷也同樣有效。
   parent: BaseHealingItem
   id: RegenerativeMesh
   suffix: Full
@@ -110,8 +110,8 @@
     count: 1
 
 - type: entity
-  name: bruise pack
-  description: A therapeutic gel pack and bandages designed to treat blunt-force trauma.
+  name: 瘀傷敷料包
+  description: 一款專為治療鈍性創傷而設計的治療用凝膠包及繃帶。
   parent: BaseHealingItem
   id: Brutepack
   suffix: Full
@@ -155,8 +155,8 @@
     count: 1
 
 - type: entity
-  name: medicated suture
-  description: A suture soaked in medicine, treats blunt-force trauma effectively and closes wounds.
+  name: 藥用縫合線
+  description: 浸泡過藥液的縫合線，能有效治療鈍性創傷並縫合傷口。
   parent: BaseHealingItem
   id: MedicatedSuture
   suffix: Full
@@ -202,8 +202,8 @@
     count: 1
 
 - type: entity
-  name: blood pack
-  description: Contains a groundbreaking universal blood replacement created by Nanotrasen's advanced medical science.
+  name: 血袋
+  description: 內含由 Nanotrasen 先進醫療科技所研發的、具有突破性的通用型血液替代品。
   parent: BaseHealingItem
   id: Bloodpack
   suffix: Full
@@ -250,8 +250,8 @@
 - type: entity
   parent: BaseHealingItem
   id: Tourniquet
-  name: tourniquet
-  description: Stops bleeding! Hopefully.
+  name: 止血帶
+  description: 止血！希望如此。
   components:
     - type: Tag
       tags:
@@ -282,8 +282,8 @@
           variation: 0.125
 
 - type: entity
-  name: roll of gauze
-  description: Some sterile gauze to wrap around bloody stumps.
+  name: 一捲紗布
+  description: 一些無菌紗布，用來包紮流血的殘肢。
   parent: BaseHealingItem
   id: Gauze
   suffix: Full
@@ -332,7 +332,7 @@
 
 - type: entity
   name: aloe cream
-  description: A topical cream for burns.
+  description: 一種用於燒傷的外用乳膏。
   parent: Ointment ##Yes it's a direct reskin
   id: AloeCream
   components:
@@ -346,8 +346,8 @@
 - type: entity
   parent: BaseHealingItem
   id: HealingToolbox
-  name: healing toolbox
-  description: A powerful toolbox imbued with robust energy. It can heal your wounds and fill you with murderous intent.
+  name: 療癒工具箱
+  description: 一個蘊含強大能量的強大工具箱。它既能治癒你的傷口，也能讓你充滿殺意。
   categories: [ DoNotMap ]
   components:
   - type: Sprite
@@ -397,7 +397,7 @@
           Quantity: 10
 
 - type: entity
-  name: pill canister
+  name: 藥丸罐
   parent: PillCanister
   id: PillCanisterDexalin
   suffix: Dexalin 10u, 7
@@ -753,7 +753,7 @@
       amount: 3
 
 - type: entity
-  name: romerol pill
+  name: 羅美羅爾錠
   parent: Pill
   id: PillRomerol
   components:
@@ -766,7 +766,7 @@
           Quantity: 10
 
 - type: entity
-  name: ambuzol pill
+  name: 安布佐爾錠
   parent: Pill
   id: PillAmbuzol
   components:
@@ -779,7 +779,7 @@
               Quantity: 10
 
 - type: entity
-  name: ambuzol plus pill
+  name: 安布佐爾加片
   parent: Pill
   id: PillAmbuzolPlus
   components:

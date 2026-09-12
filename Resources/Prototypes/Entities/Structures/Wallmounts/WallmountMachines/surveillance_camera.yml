@@ -1,8 +1,8 @@
 - type: entity
   abstract: true
   id: SurveillanceCameraBase
-  name: camera
-  description: A surveillance camera. It's watching you. Kinda.
+  name: 相機
+  description: 一台監視器。它正在監視你。算是吧。
   components:
   - type: Physics
     bodyType: Static
@@ -226,7 +226,7 @@
 - type: entity
   id: SurveillanceCameraAssembly
   name: camera
-  description: A surveillance camera. Doesn't seem to be watching anybody any time soon. Probably.
+  description: 一台監視器。看來短期內應該不會監控到任何人。大概吧。
   components:
     - type: Clickable
     - type: InteractionOutline

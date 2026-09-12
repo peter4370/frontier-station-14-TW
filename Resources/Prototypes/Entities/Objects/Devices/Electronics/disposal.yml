@@ -2,7 +2,7 @@
   id: MailingUnitElectronics
   parent: BaseElectronics
   name: mailing unit electronics
-  description: An electronics board used in mailing units.
+  description: 郵寄裝置中使用的電子電路板。
   components:
     - type: Sprite
       sprite: Objects/Misc/module.rsi

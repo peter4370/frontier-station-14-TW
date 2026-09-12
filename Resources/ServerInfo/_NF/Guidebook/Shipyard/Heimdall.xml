@@ -1,33 +1,34 @@
+
 <Document>
-  # HEIMDALL-CLASS INVESTIGATIVE SHUTTLE
+  # 海姆達爾級偵查飛船
   <Box Margin="-130">
   <GuideEntityEmbed Entity="ShuttleBannerNFSD" Caption=""/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapHeimdall" Caption="" Margin="-20"/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻尺寸：[/color] 小型
 
-  [color=#a4885c]Fleet Shuttle:[/color] No
+  [color=#a4885c]艦隊穿梭機：[/color] 否
 
-  [color=#a4885c]Recommended Crew:[/color] 1-2
+  [color=#a4885c]建議乘員人數：[/color] 1-2 人
 
-  [color=#a4885c]Power Gen Type:[/color] Plasma
+  [color=#a4885c]動力生成類型：[/color] 等離子
 
-  [color=#a4885c]Expeditions:[/color] No
+  [color=#a4885c]探勘任務：[/color] 無
 
-  [color=#a4885c]IFF Console:[/color] Yes
+  [color=#a4885c]敵我識別控制台：[/color] 有
 
-  [color=#a4885c]Minimum Access Level:[/color] Detective
+  [color=#a4885c]最低存取等級：[/color] 偵探
 
-  "A small detective runabout for intelligence gathering and forensic work. Equipped with a long-range scanner to assist with identifying vessels of interest and monitoring investigative targets."
+  「一艘小型偵探巡邏艇，專用於情報蒐集與鑑識工作。」 「配備長程掃描器，用以協助識別目標船隻並監控調查對象。」
 
   # Ship Functions
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Toggle Shutters"/>
-  - There is one button in the cockpit and one in the office space. Both control the shutters near their respective buttons.
+  - 駕駛艙內有一個按鈕，辦公區內也有一個按鈕。 兩者皆可控制其對應按鈕附近的快門。
 
-  # Tips on running NSF Heimdall shuttles
-  - Optimal [bold]Target Power[/bold] (kW) for the generator unit is [color=#a4885c]17 [bold]kW[/bold][/color]. If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
+  # 運行 NSF Heimdall 穿梭機的提示
+  - 發電機組的最佳 [bold]目標功率[/bold] (kW) 為 [color=#a4885c]17 [bold]kW[/bold][/color]。 If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
   - For the basics of [bold]shuttle piloting[/bold], refer to [textlink="Piloting" link="Piloting"] and [textlink="Sector Topology" link="SectorTopology"/].
   - For the basics of [bold]cargo hauling[/bold], refer to [textlink="Cargo Hauling" link="CargoHauling"].
   - For the basics of [bold]expedition diving[/bold], refer to [textlink="Expeditions" link="Expeditions"].

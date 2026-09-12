@@ -3,7 +3,7 @@
   parent: BaseBoardEntity
   id: ChessBoard
   name: chessboard
-  description: A chessboard. Pieces included!
+  description: 一個棋盤。附棋子！
   components:
   - type: Sprite
     sprite: Objects/Fun/Tabletop/chessboard.rsi
@@ -29,7 +29,7 @@
 # White pieces
 - type: entity
   id: WhiteKing
-  name: white king
+  name: 白方國王
   parent: BaseTabletopPiece
   components:
   - type: Sprite
@@ -38,7 +38,7 @@
 
 - type: entity
   id: WhiteQueen
-  name: white queen
+  name: 白后
   parent: BaseTabletopPiece
   components:
     - type: Sprite
@@ -47,7 +47,7 @@
 
 - type: entity
   id: WhiteRook
-  name: white rook
+  name: 白車
   parent: BaseTabletopPiece
   components:
     - type: Sprite
@@ -56,7 +56,7 @@
 
 - type: entity
   id: WhiteBishop
-  name: white bishop
+  name: 白象
   parent: BaseTabletopPiece
   components:
     - type: Sprite
@@ -65,7 +65,7 @@
 
 - type: entity
   id: WhiteKnight
-  name: white knight
+  name: 白騎士
   parent: BaseTabletopPiece
   components:
     - type: Sprite
@@ -74,7 +74,7 @@
 
 - type: entity
   id: WhitePawn
-  name: white pawn
+  name: 白方兵
   parent: BaseTabletopPiece
   components:
     - type: Sprite
@@ -84,7 +84,7 @@
 # Black pieces
 - type: entity
   id: BlackKing
-  name: black king
+  name: 黑方國王
   parent: BaseTabletopPiece
   components:
     - type: Sprite
@@ -93,7 +93,7 @@
 
 - type: entity
   id: BlackQueen
-  name: black queen
+  name: 黑后
   parent: BaseTabletopPiece
   components:
     - type: Sprite
@@ -102,7 +102,7 @@
 
 - type: entity
   id: BlackRook
-  name: black rook
+  name: 黑車
   parent: BaseTabletopPiece
   components:
     - type: Sprite
@@ -111,7 +111,7 @@
 
 - type: entity
   id: BlackBishop
-  name: black bishop
+  name: 黑象
   parent: BaseTabletopPiece
   components:
     - type: Sprite
@@ -120,7 +120,7 @@
 
 - type: entity
   id: BlackKnight
-  name: black knight
+  name: 黑騎士
   parent: BaseTabletopPiece
   components:
     - type: Sprite
@@ -129,7 +129,7 @@
 
 - type: entity
   id: BlackPawn
-  name: black pawn
+  name: 黑兵
   parent: BaseTabletopPiece
   components:
     - type: Sprite

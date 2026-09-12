@@ -1,5 +1,6 @@
+
 <Document>
-  # BARGE-CLASS CARGO SHUTTLE
+  # 駁船級貨運穿梭船
   <Box>
   <GuideEntityEmbed Entity="OreProcessor"/>
   <GuideEntityEmbed Entity="VendingMachineSalvage"/>
@@ -10,15 +11,15 @@
   <Box>
    <GuideEntityEmbed Entity="ShuttleMapBarge" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 2-4
+  [color=#a4885c]建議船員人數：[/color] 2-4 人
 
-  [color=#a4885c]Power Gen Type:[/color] Solar/Uranium
+  [color=#a4885c]動力類型：[/color] 太陽能／鈾能
 
-  # Shuttle Brief
+  # 飛船簡介
 
-  "An endurance cruiser designed for long term salvage and cargo work deployments in deep space."
+  「一款專為在深空執行長期打撈與貨運任務而設計的耐力型巡洋艦。」
 
   # Ship Functions
 
@@ -29,21 +30,21 @@
   <GuideEntityEmbed Entity="ButtonFrameJanitor" Caption="Toggle Generator Power"/>
 </Box>
 
-  # Cargo
+  # 貨運
 
-  [textlink="Cargo Hauling" link="CargoHauling"/]
+  [textlink="貨運運輸" link="CargoHauling"/]
 
-  # Piloting
+  # 引航
 
-  [textlink="Piloting" link="Piloting"/]
+  [textlink="引航" link="Piloting"/]
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="星區拓撲結構" link="SectorTopology"/]
 
-  # Hiring crew
+  # 僱用船員
 
-  [textlink="Hiring" link="Hiring"/]
+  [textlink="僱用" link="僱用"/]
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員。
 
   # PREFLIGHT CHECKLIST
 

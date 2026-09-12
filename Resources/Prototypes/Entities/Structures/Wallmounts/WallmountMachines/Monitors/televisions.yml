@@ -61,7 +61,7 @@
 - type: entity
   parent: BaseWallmountGlass
   id: WallmountTelevisionFrame
-  name: television frame
+  name: 電視畫框
   description: Finally, some decent reception around here...
   components:
   - type: Construction

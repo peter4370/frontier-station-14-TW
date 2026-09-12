@@ -1,8 +1,8 @@
 - type: entity
-  name: sink
+  name: 水槽
   id: SinkEmpty
   suffix: Empty
-  description: The faucets have been tightened to the maximum possible torque but are still known to drip.
+  description: 水龍頭已擰緊至最大扭力，但據悉仍會滴水。
   placement:
     mode: SnapgridCenter
   components:
@@ -83,7 +83,7 @@
           Quantity: 500
 
 - type: entity
-  name: wide sink
+  name: 寬型水槽
   id: SinkWide
   parent: Sink
   components:

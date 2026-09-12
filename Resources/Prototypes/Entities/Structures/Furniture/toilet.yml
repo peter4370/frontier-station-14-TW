@@ -2,7 +2,7 @@
   name: toilet
   id: BaseToilet
   parent: [ DisposalUnitBase, SeatBase ]
-  description: The HT-451, a torque rotation-based, waste disposal unit for small matter. This one seems remarkably clean.
+  description: HT-451 是一款採用扭力旋轉原理的小型廢棄物處理機。這台看起來格外乾淨。
   abstract: true
   components:
   - type: Sprite
@@ -147,7 +147,7 @@
   id: ToiletGoldenEmpty
   parent: BaseToilet
   name: golden toilet
-  description: The HT-451G is the gold version of the device. It says on the side that it is made of the purest Mercurian gold and a real leather seat.
+  description: HT-451G 是該裝置的金色版本。機身側面標示，其採用最純淨的水銀金製成，並配備真皮座椅。
   suffix: Empty
   components:
   - type: Sprite

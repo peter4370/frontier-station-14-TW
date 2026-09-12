@@ -1,5 +1,6 @@
+
 <Document>
-  # DENDRON-CLASS HYDROPONICS SHUTTLE
+  # DENDRON 級水耕運輸船
 <Box>
   <GuideEntityEmbed Entity="hydroponicsTray"/>
   <GuideEntityEmbed Entity="Biogenerator"/>
@@ -8,47 +9,47 @@
 <Box>
   <GuideEntityEmbed Entity="ShuttleMapDendron" Caption=""/>
 </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-3
+  [color=#a4885c]建議船員人數：[/color] 1-3 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "The Dendron is a medium-sized botany shuttle designed for cultivating, mutating and processing crops for profit."
+  「『登德隆』是一艘中型植物學穿梭機，專為種植、變異及加工農作物以牟利而設計。」
 
-  "This vessel features 22 hydroponics trays, an industrial reagent grinder, a ChemMaster for chemical storage, a SmartFridge for produce storage and 2 plant boxes for produce transport.
-  It also includes living quarters for crew and basic EVA and material recycling capabilities."
+  「這艘船配備了 22 個水耕栽培托盤、一台工業級試劑研磨機、一台用於儲存化學品的 ChemMaster、一台用於儲存農產品的 SmartFridge，以及 2 個用於運輸農產品的植物箱。」
+  「此外，它還包含供船員居住的艙室，以及基本的太空行走（EVA）與物料回收能力。」
 
   # Ship Functions
   <Box>
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Toggle Shutters"/>
-  <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Bridge: Toggle Engines"/>
-  <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="EVA: Toggle Blast Doors"/>
-  <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Dorms Light Switch"/>
+  <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="橋段：切換引擎"/>
+  <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="EVA：切換防爆門"/>
+  <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="宿舍電燈開關"/>
   </Box>
 
-  [textlink="Botany" link="Botany"/]
+  [textlink="植物學" link="植物學"/]
 
-# Piloting
+# 試行
 
-[textlink="Piloting" link="Piloting"/]
+[textlink="試行" link="試行"/]
 
-[textlink="Sector Topology" link="SectorTopology"/]
+[textlink="星區拓撲" link="SectorTopology"/]
 
-# Hiring crew
+# 招募船員
 
-[textlink="Hiring" link="Hiring"/]
+[textlink="招募" link="Hiring"/]
 
-As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+身為納諾特拉森（Nanotrasen）船隻的船長，你有權隨意僱用、解僱、降職或晉升船員。
 
-# PREFLIGHT CHECKLIST
+# 起飛前檢查清單
 
-- Standard power consumption during operation is 36.6kW, with the generator tuned to 38kW to allow for some tolerance.
-- In the event of a total power outage, it is recommended to increase the generator output to 40kW to allow the substation and SMES to recharge while keeping all APCs online.
-- The thrusters and gyroscope can be toggled with the use of the red-framed button next to the shuttle's controls. While driving is disengaged, power consumption will be lessened, and generator output may be safely lowered to 11kW to preserve fuel.
+- 運作時的標準耗電量為 36.6kW，發電機已調校至 38kW 以留有若干容差。
+- 若發生全面停電，建議將發電機輸出功率提高至 40kW，以便在維持所有 APC 持續供電的同時，讓變電站和 SMES 得以重新充電。
+- 可透過太空梭操控面板旁那個紅框按鈕，切換推進器與陀螺儀的功能。 當駕駛模式處於關閉狀態時，耗電量將減少，且為節省燃油，發電機輸出功率可安全地降至 11kW。
 
-[textlink="Preflight Checklist" link="PreflightChecklist"/]
+[textlink="起飛前檢查清單" link="PreflightChecklist"/]
 
 </Document>

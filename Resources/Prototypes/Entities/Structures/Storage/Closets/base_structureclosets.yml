@@ -2,7 +2,7 @@
   id: ClosetBase
   parent: BaseStructureDynamic
   name: closet
-  description: A standard-issue Nanotrasen storage unit.
+  description: 一間標準配備的 Nanotrasen 儲藏室。
   abstract: true
   components:
   - type: Animateable
@@ -135,8 +135,8 @@
   parent: BaseWallmountMetallic
   id: BaseWallCloset
   abstract: true
-  name: wall closet
-  description: A standard-issue Nanotrasen storage unit, now on walls.
+  name: 壁櫃
+  description: 一款標準配備的 Nanotrasen 儲物櫃，現已安裝在牆上。
   components:
   - type: ResistLocker
   - type: Weldable
@@ -233,8 +233,8 @@
 - type: entity
   id: SuitStorageBase
   parent: BaseStructure
-  name: suit storage unit
-  description: A fancy hi-tech storage unit made for storing space suits.
+  name: 西裝收納櫃
+  description: 一款專為存放太空服而設計的精緻高科技儲存裝置。
   components:
   - type: AccessReader
   - type: Lock

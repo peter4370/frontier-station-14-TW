@@ -1,7 +1,7 @@
 - type: entity
   id: HolosignWetFloor
   name: wet floor sign
-  description: The words flicker as if they mean nothing.
+  description: 那些字詞閃爍不定，彷彿毫無意義。
   placement:
     mode: SnapgridCenter
   components:
@@ -30,7 +30,7 @@
   id: HoloFan
   parent: HolosignWetFloor
   name: holofan
-  description: A barrier of hard light that blocks air, but nothing else.
+  description: 一道由堅硬光線構成的屏障，能阻擋空氣，但無法阻擋其他任何東西。
   components:
   - type: Sprite
     sprite: Structures/Holo/holofan.rsi
@@ -50,7 +50,7 @@
   id: HoloPeel
   parent: HolosignWetFloor
   name: holopeel
-  description: A banana peel made of slippery hard light, watch your step!
+  description: 一片由滑溜溜的硬光構成的香蕉皮，請小心腳下！
   components:
   - type: Sprite
     sprite: Structures/Holo/peel.rsi
@@ -87,8 +87,8 @@
 - type: entity
   id: HolosignSecurity
   parent: HolosignWetFloor
-  name: holographic barrier
-  description: A barrier of hard light that blocks movement, but pretty weak.
+  name: 全息屏障
+  description: 一道能阻擋移動的堅硬光牆，但強度相當薄弱。
   components:
     - type: Physics
       bodyType: Static
@@ -118,8 +118,8 @@
 - type: entity
   id: HolosignForcefield
   parent: HolosignWetFloor
-  name: holographic force field
-  description: A powerful temporal containment field that doesn't let anything through, not even a tesla or singularity.
+  name: 全息力場
+  description: 一個強大的時空封鎖場，任何東西都無法穿透，就連特斯拉或奇點也不例外。
   components:
   - type: Physics
     bodyType: Static

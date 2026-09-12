@@ -20,9 +20,9 @@
 
 - type: entity
   id: Kudzu
-  name: kudzu
+  name: 葛藤
   parent: BaseKudzu
-  description: A rapidly growing, dangerous plant. WHY ARE YOU STOPPING TO LOOK AT IT?!
+  description: 一種生長迅速且危險的植物。你為什麼還要停下來看它啊？！
   components:
     - type: MeleeSound
       soundGroups:
@@ -115,9 +115,9 @@
 
 - type: entity
   id: KudzuFlowerFriendly
-  name: floral carpet
+  name: 花卉地毯
   suffix: Friendly, Floral Anomaly
-  description: A colorful carpet of flowers sprawling in every direction. You're not sure whether to take it down or leave it up.
+  description: 一片色彩繽紛的花毯向四面八方延伸。你不知道該把它拆掉還是留著。
   parent: Kudzu
   components:
     - type: Sprite
@@ -167,9 +167,9 @@
 
 - type: entity
   id: FleshKudzu
-  name: tendons
+  name: 肌腱
   parent: BaseKudzu
-  description: A rapidly growing cluster of meaty tendons. WHY ARE YOU STOPPING TO LOOK AT IT?!
+  description: 一團正在迅速增生的肉質肌腱。你為什麼要停下來盯著它看啊？！
   placement:
     mode: SnapgridCenter
     snap:
@@ -268,7 +268,7 @@
       - Meat
 
 - type: entity
-  name: dark haze
+  name: 濃重的迷霧
   id: ShadowKudzu
   parent: [ BaseKudzu, BaseShadow ]
   components:

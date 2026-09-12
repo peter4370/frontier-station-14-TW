@@ -30,8 +30,8 @@
 - type: entity
   parent: [BaseItem, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: PenExplodingBox
-  name: exploding pen box
-  description: A small box containing an exploding pen. Packaging disintegrates when opened, leaving no evidence behind.
+  name: 會爆炸的筆盒
+  description: 一個裝有爆炸筆的小盒子。開封時包裝會自動分解，不會留下任何證據。
   components:
   - type: Item
     size: Tiny

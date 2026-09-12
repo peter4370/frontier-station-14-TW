@@ -1,145 +1,146 @@
+
 <Document>
-  # Xenos
-  
-  Xenos, occasionally referred to as simply "Aliens", are extraterrestrial lifeforms that use other living beings as hosts for development during their lifecycle. With black carapaces and wicked sharp claws, powerful night vision, and the ability to see people through walls, xenos are extremely dangerous. They are intelligent and capable of communicating to one another via hivemind. They hunt using co-operative tactics, and pose a massive threat to stations and planetside facilities if left unchecked.
-  
-  This species has fluorosulfuric acid for blood. Can be butchered for xeno meat.
-  
+  # 異形
+
+  異形（Xenos），有時簡稱為「外星人」，是一種外星生命體，其生命週期中會利用其他生物作為宿主來完成發育。 外星生物擁有黑色甲殼和鋒利異常的利爪，具備強大的夜視能力，還能穿牆窺視人類，因此極其危險。 牠們聰明且能夠透過群體意識彼此溝通。 牠們採用協同作戰的戰術進行獵食，若不加以制止，將對太空站及地表設施構成巨大威脅。
+
+  This species has fluorosulfuric acid for blood. 可被宰殺以取得外星肉。
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Known Variants
-  # "Burrower"
-  
-  A young stage of development, burrowers stay close to their nests and dig underground to stay in relative safety.
-  
+
+  # 已知變種
+  # 「掘穴者」
+
+  作為發育過程中的幼體階段，掘穴者會待在巢穴附近，並在地下挖掘以確保相對安全。
+
   <Box>
   <GuideEntityEmbed Entity="MobXeno"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4 m/s (4 m/s)[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 6 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Drone"
-  
-  The backbone of any xeno hive, drones serve as workers and nurses. They shape the environment to suit the hive's needs and care for unhatched eggs.
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 50（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4 公尺/秒 (4 公尺/秒)[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 6 [color=red]蠻力[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
+  [bold][color=#a4885c]*[/color][/bold] - [italic]一般人類的奔跑速度為 4.5 公尺/秒，步行速度為 2.5 公尺/秒。[/斜體]
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 「工蟻」
+
+  作為任何異族蜂巢的中流砥柱，工蟻負責勞動與照護工作。 牠們會根據蜂巢的需求來塑造環境，並照料尚未孵化的卵。
+
   <Box>
   <GuideEntityEmbed Entity="MobXenoDrone"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 70 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 5 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 70（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/bold] 3.5 公尺/秒（3 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 5 [color=red]蠻力[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Praetorian"
-  
-  Praetorians are larger than the smaller drones, with their robust body designed for protection and strength. Their impressive size also enables them to efficiently transport large prey back to the hive.
-  
+
+  # 「近衛兵」
+
+  近衛兵的體型比小型工蜂更大，其強健的軀體專為防護與力量而設計。 牠們驚人的體型，也讓牠們能夠高效地將大型獵物運回蜂巢。
+
   <Box>
   <GuideEntityEmbed Entity="MobXenoPraetorian"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4 公尺/秒 (4 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 10 [color=red]蠻力[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Ravager"
-  
-  Ravagers are large, vicious killers that specialize in brutal, high-damage hit-and-run attacks.
-  
+
+  # 「蹂躪者」
+
+  蹂躪者是體型龐大、兇殘的殺手，專精於殘暴且高傷害的突襲攻擊。
+
   <Box>
   <GuideEntityEmbed Entity="MobXenoRavager"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 150 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.2 m/s (2.3 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 14 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 150（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.2 公尺/秒（2.3 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 14 [color=red]蠻力[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Runner"
-  
-  Built for speed, the Runner is a very fast caste that excels at hit and run tactics and individual combat. Its lightweight frame leaves it vulnerable, though.
-  
+
+  # 「奔行者」
+
+  奔行者專為速度而生，是速度極快的種族，擅長打擊與撤退戰術及單挑。 不過，其輕量化的框架使其容易受到傷害。
+
   <Box>
   <GuideEntityEmbed Entity="MobXenoRunner"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 6 m/s (2.7 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 3 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 50（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/bold] 6 公尺/秒（2.7 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 3 [color=red]蠻力[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Spitter"
-  
-  The Spitter, a master of ranged combat among Xenos, spits globs of caustic saliva that can incapacitate foes with ease. With a quick flick of its elongated tongue, the Spitter unleashes a stream of corrosive goo that can burn through armor and sizzle flesh.
-  
+
+  # 「吐毒者」
+
+  吐毒者是外星種族中遠程戰鬥的高手，能吐出具腐蝕性的唾液團，輕而易舉地使敵人喪失行動能力。 「噴射者」只用細長的舌頭輕輕一甩，便會噴射出一道具腐蝕性的黏液，足以燒穿盔甲並灼燒 flesh。
+
   <Box>
   <GuideEntityEmbed Entity="MobXenoSpitter"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 75 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 5 [color=orange]Caustic[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (acid)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 75（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4 公尺/秒 (4 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/粗體] 5 [color=orange]腐蝕性[/color]
+  - [粗體][color=#a4885c]傷害抗性：[/color][/粗體] 無
+  - [粗體][color=#a4885c]特殊能力：[/color][/bold] 射擊者（酸液）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Xeno turret"
-  
-  The Xeno turret is an odd, immobile creature that secretes and spits the same caustic saliva as the Spitter.
-  
+
+  # 「異形砲塔」
+
+  異形砲塔是一種奇特的、無法移動的生物，它會分泌並噴吐與「噴酸者」相同的腐蝕性唾液。
+
   <Box>
   <GuideEntityEmbed Entity="WeaponTurretXeno"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 75 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 0 m/s (0 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 5 [color=orange]Caustic[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Turret, Shooter (acid)
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 75（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/bold] 0 公尺/秒 (0 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/粗體] 5 [color=orange]腐蝕[/color]
+  - [粗體][color=#a4885c]傷害抗性：[/color][/粗體] 無
+  - [粗體][color=#a4885c]特殊能力：[/color][/bold] 炮塔、射手（酸液）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Queen"
-  
-  Responsible for both laying eggs and providing direction to her children, the Queen is the most important member of a Xeno hive. If she dies, the hive will lose all direction.
-  
+
+  # 「女王」
+
+  女王不僅負責產卵，還負責引導其子代，是異形巢穴中最重要的成員。 如果她死了，蜂群將會失去方向。
+
   <Box>
   <GuideEntityEmbed Entity="MobXenoQueen"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 250 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.8 m/s (2.8 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 20 [color=red]Brute[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 250（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 3.8 米/秒（2.8 米/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 20 [color=red]蠻力[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Mission Objectives
-  ## Elimination
+
+  # 任務目標
+  ## 消滅
   <Box>
   <GuideEntityEmbed Entity="MobXenoQueen"/>
   </Box>
-  Eliminate a large and dangerous creature - a [color=#a4885c]queen[/color] within given time constraints.
-  
+  在指定的時間限制內，消滅一隻龐大且危險的生物——一隻 [color=#a4885c]女王[/color]。
+
   ## Destruction
   <Box>
   <GuideEntityEmbed Entity="XenoWardingTower"/>
   </Box>
-  Destroy a certain number of [color=#a4885c]xeno warding towers[/color] within given time constraints.
+  在指定的時間限制內，摧毀一定數量的 [color=#a4885c]外星防禦塔[/color]。
 </Document>

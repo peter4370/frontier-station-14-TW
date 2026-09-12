@@ -1,7 +1,7 @@
 - type: entity
   id: InflatableWall
-  name: inflatable barricade
-  description: An inflated membrane. Activate to deflate. Do not puncture.
+  name: 充氣路障
+  description: 一個充氣的膜。啟動以放氣。請勿刺破。
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: Clickable
@@ -45,7 +45,7 @@
   id: InflatableDoor
   name: inflatable door
   parent: BaseMaterialDoor
-  description: An inflated membrane. Activate to deflate. Now with a door. Do not puncture.
+  description: 一個充氣的膜。啟動即可放氣。現已加裝門。請勿刺破。
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: Clickable

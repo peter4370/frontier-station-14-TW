@@ -1,61 +1,62 @@
+
 <Document>
-[bold][color=#a4885c]Chapter One: On the Modest but Necessary Maintenance of Adept-Level Battle Staves[/color][/bold]
+[粗體][color=#a4885c]第一章：關於精通級戰鬥法杖的簡樸卻必要的保養[/color][/粗體]
 <Box>
   <GuideEntityEmbed Entity="WeaponInertStaffWizardIceAdept" Caption=""/>
   <GuideEntityEmbed Entity="WeaponInertStaffWizardLightningAdept" Caption="inert wizard staves"/>
   <GuideEntityEmbed Entity="WeaponInertStaffWizardBrickAdept" Caption=""/>
 </Box>
-It is a matter often overlooked by the inexperienced, yet well known to those who have spent long hours in the practice of the arcane arts, that the crystals set within adept-level wizard staves are not immune to wear. Through repeated invocation, prolonged channeling, and the strain of drawing upon unseen forces, these crystals may, in time, grow dim - clouded in aspect and unresponsive in function, as though some vital spark within them has been quietly extinguished.
+對於缺乏經驗者而言，這往往是個容易被忽略的事實；然而，對於那些長期鑽研玄奧之術的人來說，這卻是眾所周知的——鑲嵌在高階法師法杖中的水晶，同樣會受到磨損。 經過反覆的召喚、長時間的通靈，以及調動無形力量所造成的消耗，這些水晶終將逐漸黯淡——外觀變得朦朧，功能亦不再響應，彷彿其中某種生命之火已悄然熄滅。
 
-Such degradation, however, is neither permanent nor cause for undue alarm, provided one acts with appropriate diligence. To restore the staff to its intended state, proceed thus:
+然而，只要採取適當的謹慎措施，此類劣化既非永久性的，也不必過度擔憂。 若要將五線譜恢復至預設狀態，請依下列步驟操作：
 
 <Box>
   <GuideEntityEmbed Entity="ShardCrystalBlue" Caption=""/>
   <GuideEntityEmbed Entity="ShardCrystalYellow" Caption="crystal shards"/>
   <GuideEntityEmbed Entity="ShardCrystalRed" Caption=""/>
 </Box>
-First, acquire a replacement crystal shard of suitable quality. The old crystal, having served its purpose, must be carefully removed, and the new shard set in its place. Take care to lodge it firmly within the socket, ensuring that it sits secure and properly aligned, for even the slightest imbalance may hinder the flow of arcane energies.
+首先，取得一塊品質合適的替代水晶碎片。 那塊舊水晶既已發揮其作用，便須小心地將其取出，並將新碎片鑲入原處。 請務必將其穩固地插入插座中，確保其固定牢固且對齊正確，因為哪怕是最微小的失衡，都可能阻礙奧秘能量的流動。
 
-It is of utmost importance that the replacement crystal matches the original in both shade and character, as each staff is attuned to a specific resonance. To err in this selection is to invite instability, or worse, total dysfunction. Let the following correspondences be observed without deviation:
+替換用的水晶在色調與特質上必須與原裝水晶完全一致，這點至關重要，因為每支法杖都與特定的共振頻率相契合。 若在此選擇上出錯，將導致不穩定，甚至更糟——徹底失能。 請嚴格遵守以下對應關係：
 
-- For the Staff of Blue Curaçao Elemental, a blue crystal shard must be used.
-- For the Ice Staff, a shard of pale cyan is required.
-- For the Lightning Staff, a yellow crystal, bright and keen, is most appropriate.
-- For the Soap Staff, one must employ a black shard - dark as the soul of a clown.
-- For the Magic Bolt Staff, a pink crystal will suffice.
-- For the Fire Bolt Staff, select a shard of vivid orange.
-- For the Caustic Beam Staff, a green crystal, sharp in hue, is essential.
-- For the Brick Staff, acquire a shard of brick red.
+——製作「藍庫拉索元素之杖」時，必須使用一塊藍色水晶碎片。
+- 製作「冰杖」需要一塊淡青色的碎片。
+- 對於「閃電杖」而言，一顆明亮而銳利的黃色水晶最為合適。
+- 製作「肥皂杖」時，必須使用一塊黑色的碎片——其色如小丑的靈魂般漆黑。
+- 製作「魔法螺栓法杖」時，一顆粉紅色水晶就足夠了。
+- 製作「火球法杖」時，請選擇一塊鮮豔的橘色碎片。
+- 製作「蝕性光束法杖」時，必須使用一顆色澤鮮豔的綠色水晶。
+- 為了「磚頭小隊」，請取得一塊磚紅色碎片。
 
-Attend to these details with care, for the staff, though a tool, is not without its particularities.
+請仔細留意這些細節，因為這支筆雖然只是一件工具，卻也有其獨特之處。
 
-[bold][color=#a4885c]Chapter Three: On the Restoration and Replenishment of the Wizard's Staff[/color][/bold]
+[粗體][顏色=#a4885c]第三章：關於巫師法杖的修復與補充[/顏色][/粗體]
 <Box>
   <GuideEntityEmbed Entity="WeaponChargedStaffWizardSoapAdept" Caption="wizard's staff"/>
   <GuideEntityEmbed Entity="StaffRechargerWizard"/>
 </Box>
-To restore a wizard's staff to its full measure of potency, one need not resort to elaborate rites or costly reagents; rather, the process - though simple in appearance - relies upon forces no less profound.
+要讓巫師的法杖恢復至其全部威力，無需訴諸繁複的儀式或昂貴的藥劑；相反地，這個過程——儘管表面上看似簡單——卻仰賴著同樣深奧的力量。
 
-Place the staff with care upon the wizard's altar, ensuring it rests within the bounds of the inscribed design. For it is the arcane geometry itself - those deliberate lines and sigils, arranged in precise and ancient concord - that draws upon unseen currents and guides them, patiently and without error, back into the staff. In time, the energies will gather and settle, and the staff, once depleted, will stand renewed.
+請小心地將法杖放置在巫師的祭壇上，確保它置於刻有圖案的範圍內。 因為正是這玄奧的幾何學本身——那些經過深思熟慮的線條與符文，以精確且古老的和諧方式排列——它汲取了無形的能量流，並將其耐心地、毫無差錯地引導回法杖之中。 隨著時間推移，能量將匯聚並沉澱，而那根曾已耗盡的權杖，也將重獲新生。
 
-[bold][color=#a4885c]Chapter Three: On the Elevation of the Adept's Battle Staff to Master Battle Staff[/color][/bold]
+[粗體][color=#a4885c]第三章：關於將「行家戰杖」晉升為「大師戰杖」[/color][/粗體]
 <Box>
   <GuideEntityEmbed Entity="WeaponChargedStaffWizardBoltMagicAdept" Caption=""/>
   <GuideEntityEmbed Entity="WeaponChargedStaffWizardBoltFireAdept" Caption="adept-wizard staves"/>
   <GuideEntityEmbed Entity="WeaponChargedStaffWizardElementalAdept" Caption=""/>
 </Box>
-As one's understanding of the arcane deepens, and the once-mysterious currents of magic begin to yield to disciplined will, it becomes necessary that the staff - faithful companion though it may be - be brought into alignment with its wielder's growing command. An adept's staff, while serviceable, is not fashioned to bear the full weight of mastery.
+隨著對玄學的理解日益加深，那些曾經神秘莫測的魔法流轉開始屈服於嚴謹的意志，此時，法杖——儘管它是忠實的夥伴——也必須與持有者日益精進的掌控力保持一致。 行家的法杖雖能派上用場，卻並非為承載精通之道的全部重量而打造。
 
-Thus, the process of elevation must be undertaken.
+因此，必須展開提升的過程。
 
 <Box>
   <GuideEntityEmbed Entity="AnomalyCoreLiquid" Caption=""/>
   <GuideEntityEmbed Entity="AnomalyCoreShadow" Caption="anomaly cores"/>
   <GuideEntityEmbed Entity="AnomalyCoreIce" Caption=""/>
 </Box>
-Begin by acquiring an anomaly core, whether it lies dormant or yet hums faintly with residual energy. Such a core is no ordinary component, but a fragment of instability given form - a conduit through which greater forces may be accessed and restrained.
+首先，取得一個異變核心，無論它是處於休眠狀態，還是仍殘留著微弱的能量而發出低鳴。 這樣的核心並非尋常的組件，而是不穩定性具象化的碎片——一個既能引領更強大的力量，又能加以約束的通道。
 
-Once obtained, the core must be fused with the staff's existing crystal. This is no simple joining of materials, but a deliberate act of binding, through which the staff's connection to the arcane plane is both strengthened and refined. As the fusion takes hold, the staff will begin to change - subtly at first, then more profoundly - its potency increased, its responsiveness sharpened, and its presence within the unseen currents made more certain.
+取得核心後，必須將其與法杖現有的水晶融合。 這絕非單純地將材料拼接在一起，而是一項有意的結合過程，藉此既強化又精煉了法杖與玄奧位面之間的連結。 隨著融合逐漸穩固，這根法杖將開始產生變化——起初是微妙的，隨後愈發深遠——其威力增強，反應更為敏銳，而在無形氣流中的存在感也更加明確。
 
-In this way, the staff ceases to be merely an instrument of the adept, and instead becomes a fitting extension of the master's will.
+如此一來，法杖便不再僅僅是修行的行者的工具，而是成為了大師意志的恰當延伸。
 </Document>

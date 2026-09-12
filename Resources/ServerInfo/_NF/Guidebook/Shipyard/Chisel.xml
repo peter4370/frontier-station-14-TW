@@ -1,23 +1,24 @@
+
 <Document>
-  # CHISEL-CLASS SALVAGE SHUTTLE
+  # 「CHISEL」級打撈穿梭艦
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapChisel" Caption=""/>
   </Box>
-    [color=#a4885c]Ship Size:[/color] Small
+    [color=#a4885c]船隻大小：[/color] 小型
 
-	[color=#a4885c]Recommended Crew:[/color] 3+
+	[color=#a4885c]建議船員人數：[/color] 3 人以上
 
-	[color=#a4885c]Power Gen Type:[/color] Uranium
+	[color=#a4885c]動力類型：[/color] 鈾
 
-	[color=#a4885c]Expeditions:[/color] None
+	[color=#a4885c]探勘任務：[/color] 無
 
-	[color=#a4885c]IFF Console:[/color] None
+	[color=#a4885c]敵我識別（IFF）控制台：[/color] 無
 
-  "Standard small-size vessel, originally meant to aid in ship scrapping, now modified to function as a multipurpose salvage/mining/cargo-hauling shuttle."
+  「標準小型船艦，原設計用於協助船艦拆解，現已改裝為兼具打撈、採礦及貨物運輸功能的多用途穿梭機。」
 
-  # Tips on running ICR Chisel shuttles
-  - Optimal Target Power (kW) for S.U.P.E.R.P.A.C.M.A.N. generator unit is 24 [bold]kW[/bold]. If you've added additional machines, check APC unit to see shuttle's power draw and adjust generator Target Power accordingly. For more general info on power grid see guidebook article [textlink="Power" link="Power"].
-  - There is a conveyor belt line running under material processing machines in the shuttle's aft area. One can use the table to dump the contents of their ore bags and then activate the belt via a nearby lever.
+  # 關於運行 ICR Chisel 梭機的提示
+  - S.U.P.E.R.P.A.C.M.A.N. 的最佳目標功率 (kW) 發電機組的功率為 24 [粗體]kW[/粗體]。 If you've added additional machines, check APC unit to see shuttle's power draw and adjust generator Target Power accordingly. For more general info on power grid see guidebook article [textlink="Power" link="Power"].
+  - 在太空梭尾部區域的物料處理機下方，設有一條輸送帶生產線。 玩家可以利用這張桌子將礦石袋中的內容物傾倒出來，然後透過附近的槓桿啟動輸送帶。
   - For basics of shuttle piloting see [textlink="Piloting" link="Piloting"].
 
 </Document>

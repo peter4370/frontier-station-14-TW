@@ -1,29 +1,30 @@
+
 <Document>
-  # CLERIC-CLASS EMT SHUTTLE
+  # 神職階級 緊急醫療運輸接駁車
   <Box Margin="-130">
   <GuideEntityEmbed Entity="ShuttleBannerNFSD" Caption=""/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapCleric" Caption="" Margin="-20"/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Micro
+  [color=#a4885c]船隻尺寸：[/color] 微型
 
-  [color=#a4885c]Fleet Shuttle:[/color] Yes
+  [color=#a4885c]艦隊穿梭機：[/color] 是
 
-  [color=#a4885c]Recommended Crew:[/color] 1
+  [color=#a4885c]建議乘員：[/color] 1 人
 
-  [color=#a4885c]Power Gen Type:[/color] APU
+  [color=#a4885c]動力產生類型：[/color] APU
 
-  [color=#a4885c]Expeditions:[/color] No
+  [color=#a4885c]遠征任務：[/color] 無
 
-  [color=#a4885c]IFF Console:[/color] No
+  [color=#a4885c]敵我識別（IFF）控制台：[/color] 無
 
-  [color=#a4885c]Minimum Access Level:[/color] Deputy
+  [color=#a4885c]最低存取等級：[/color] 副手
 
-  "Micro support vessel used for emergency rescues and first aid. Purchasable from the NSF Empress Shipyard"
+  「用於緊急救援和急救的微型支援艦。」 「可於 NSF Empress 船廠購買」
 
-  # Tips on running NSF Cleric shuttles
-  - The Cleric supports up to [color=#a4885c]12 [bold]kW[/bold][/color] on its shuttle APUs. It is not recommended to go above this due to the small interior space. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
+  # 操作 NSF Cleric 穿梭機的訣竅
+  - Cleric 的穿梭機輔助動力單元（APU）最高可支援 [color=#a4885c]12 [bold]kW[/bold][/color]。 由於內部空間狹小，不建議超過此數值。 For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
   - For the basics of [bold]shuttle piloting[/bold], refer to [textlink="Piloting" link="Piloting"] and [textlink="Sector Topology" link="SectorTopology"/].
   - For the basics of [bold]cargo hauling[/bold], refer to [textlink="Cargo Hauling" link="CargoHauling"].
   - For the basics of [bold]expedition diving[/bold], refer to [textlink="Expeditions" link="Expeditions"].

@@ -1,57 +1,58 @@
+
 <Document>
-  # KESTREL-CLASS SALVAGE SHUTTLE
+  # 紅隼級打撈飛船
   <Box>
   <GuideEntityEmbed Entity="MiningDrill"/>
   <GuideEntityEmbed Entity="OreBag"/>
   <GuideEntityEmbed Entity="VendingMachineSalvage"/>
-  </Box>  
+  </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapKestrel" Caption=""/>
   </Box>
-    [color=#a4885c]Ship Size:[/color] Small
-	
-	[color=#a4885c]Recommended Crew:[/color] 2-4
-	
-	[color=#a4885c]Power Gen Type:[/color] Uranium
-	
-	[color=#a4885c]Expeditions:[/color] None
-	
-	[color=#a4885c]IFF Console:[/color] None
-	
-  "Once a local shipping lane freighter, this model has been converted for use in debris field mining and salvage operations."
-    
-  # PREFLIGHT CHECKLIST
-  
-  ## 1. Power supply
-  
-  ## 1.1. Battery units
+    [color=#a4885c]船隻大小：[/color] 小型
+
+	[color=#a4885c]建議船員人數：[/color] 2-4 人
+
+	[color=#a4885c]發電類型：[/color] 鈾
+
+	[color=#a4885c]探勘任務：[/color] 無
+
+	[color=#a4885c]敵我識別（IFF）控制台：[/color] 無
+
+  「此機型原為在地航線貨運船，經改裝後專用於碎片帶採礦與打撈作業。」
+
+  # 起飛前檢查清單
+
+  ## 1. 電源供應器
+
+  ## 1.1. 電池組
   <Box>
   <GuideEntityEmbed Entity="SMESBasic"/>
   <GuideEntityEmbed Entity="SubstationBasic"/>
   <GuideEntityEmbed Entity="APCBasic"/>
   </Box>
-  
-  - Check that the SMES unit is anchored to the floor.
-  - Check that the substation unit is anchored to the floor.
-  - Check that the APC unit's Main Breaker is toggled on.
-  - Check the APC unit's current Load* (W).
-  
-  ## 1.2. S.U.P.E.R.P.A.C.M.A.N. generator unit
+
+  - 請確認 SMES 裝置已牢固地固定於地板上。
+  - 請確認變電站單元已牢固地固定於地面上。
+  - 請確認 APC 裝置的主斷路器已切換至開啟狀態。
+  - 檢查 APC 裝置的當前負載*（W）。
+
+  ## 1.2. S.U.P.E.R.P.A.C.M.A.N. 發電機組
   <Box>
   <GuideEntityEmbed Entity="PortableGeneratorSuperPacman"/>
   <GuideEntityEmbed Entity="SheetUranium"/>
   <GuideEntityEmbed Entity="SignRadiationMed"/>
   </Box>
-  
-  - Check that the S.U.P.E.R.P.A.C.M.A.N. generator unit is anchored to the floor.
-  - Check that the S.U.P.E.R.P.A.C.M.A.N. generator unit has fuel. For extended flights make sure that you have enough fuel stockpiled to sustain prolonged power generation during flight.
-  - Check that the S.U.P.E.R.P.A.C.M.A.N. generator unit is set to HV output.
-  - Set Target Power for 29-30** [bold]kW[/bold].
-  - Start the S.U.P.E.R.P.A.C.M.A.N. generator unit.
-  
-  ## 2. Atmospherics
-  
-  ## 2.1. Distribution Loop
+
+  - 請確認 S.U.P.E.R.P.A.C.M.A.N. 發電機組已固定於地面。
+  - Check that the S.U.P.E.R.P.A.C.M.A.N. 發電機組內有燃料。 若要進行長途飛行，請務必儲備足夠的燃料，以確保飛行期間能持續發電。
+  - Check that the S.U.P.E.R.P.A.C.M.A.N. 發電機組已設定為高壓輸出。
+  - 將目標功率設定為 29-30** [粗體]kW[/粗體]。
+  - 啟動 S.U.P.E.R.P.A.C.M.A.N. 發電機組。
+
+  ## 2. 大氣現象
+
+  ## 2.1. 配電迴路
   <Box>
   <GuideEntityEmbed Entity="GasPort"/>
   <GuideEntityEmbed Entity="OxygenCanister"/>
@@ -59,44 +60,44 @@
   <GuideEntityEmbed Entity="GasMixer"/>
   <GuideEntityEmbed Entity="GasPressurePump"/>
   </Box>
-  
-  - Check that the O2 canister is anchored to connector port.
-  - Check that the N2 canister is anchored to connector port.
-  - Check that the gas mixer is set to the correct mixing ratio (21% Oxygen, 79% Nitrogen).
-  - Check that the gas mixer is set to 101kPa.
-  - Enable gas mixer.
-  
-  ## 2.2. Waste Loop
+
+  - 請確認 O2 罐已牢固固定於連接埠上。
+  - 請確認 N2 氣瓶已牢固地安裝在連接埠上。
+  - 請確認氣體混合器已設定為正確的混合比例（21% 氧氣、79% 氮氣）。
+  - 請確認氣體混合器的設定值為 101kPa。
+  - 啟用氣體混合器。
+
+  ## 2.2. 廢物循環
   <Box>
   <GuideEntityEmbed Entity="GasPressurePump"/>
   <GuideEntityEmbed Entity="AirAlarm"/>
   </Box>
-    
-  - Enable waste loop pump.
-  
-  ## 3. Other checks
+
+  - 啟用廢液迴路泵。
+
+  ## 3. 其他檢查項目
   <Box>
   <GuideEntityEmbed Entity="Gyroscope"/>
   <GuideEntityEmbed Entity="GravityGeneratorMini"/>
   <GuideEntityEmbed Entity="BlastDoor"/>
   </Box>
-  
-  - Check that the gyroscope is anchored, powered, and enabled.
-  - Check that the mini gravity generator is anchored, powered, and enabled.
-  - Check that the blast doors are closed.
-  
-  ## Sidenotes
-  
-  * - Kestrel-class salvage ships are equipped with five APC units that can be used to appraise the ship's total power consumption. Unmodified Kestrel-class ship requires 28.6 kW of power to remain operational.
-  
-  ** - Kestrel-class salvage ships have higher power demand than a standard P.A.C.M.A.N. can provide at optimal settings, and come equipped with a S.U.P.E.R.P.A.C.M.A.N. instead. Please note that the recommended Target Power value to avoid blackouts during Gravity Generator charging sequence is 30 kW.
-  
+
+  - 請確認陀螺儀已固定、已供電且已啟用。
+  - 請確認迷你重力發生器已固定到位、接通電源且已啟用。
+  - 請確認防爆門是否已關閉。
+
+  ## 附註
+
+  * - 「Kestrel」級打撈船配備五台 APC 裝置，可用於評估該船的總耗電量。 未經改裝的「Kestrel」級艦艇需消耗 28.6 千瓦的電力才能維持運作。
+
+  ** - 「Kestrel」級打撈船的電力需求高於標準型 P.A.C.M.A.N. 能在最佳設定下提供，並配備了 S.U.P.E.R.P.A.C.M.A.N. 而是。 請注意，為避免在重力發電機充電過程中發生停電，建議的「目標功率」值為 30 千瓦。
+
   <Box>
   <GuideEntityEmbed Entity="SignRadiationMed"/>
   <GuideEntityEmbed Entity="ClothingOuterSuitRad"/>
   <GuideEntityEmbed Entity="GeigerCounter"/>
   <GuideEntityEmbed Entity="ShuttersRadiation"/>
   </Box>
-  Note: Be sure to take all necessary protective measures when working with radioactive materials: use a radiation suit, engage internals, make sure to enable Geiger's counter, wash your hands after, and keep radiation shutters closed at all times.
+  注意：處理放射性物質時，請務必採取所有必要的防護措施：穿著防護服、啟動內部防護裝置、確保蓋格計數器已開啟、事後務必洗手，並隨時保持輻射遮蔽板關閉。
 
 </Document>

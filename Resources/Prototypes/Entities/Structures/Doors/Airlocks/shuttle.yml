@@ -2,8 +2,8 @@
   parent: AirlockRCDResistant
   id: AirlockShuttle
   suffix: Docking
-  name: external airlock
-  description: Necessary for connecting two space craft together.
+  name: 外部氣閘
+  description: 用於將兩艘太空船連接在一起。
   components:
   - type: Docking
     dockType: Airlock # Frontier: Prevent shuttle airlocks from docking to transit-exclusive airlocks
@@ -91,9 +91,9 @@
 - type: entity
   id: AirlockShuttleAssembly
   parent: AirlockAssembly
-  name: external airlock assembly
+  name: 外部氣閘組件
   suffix: Docking
-  description: An incomplete structure necessary for connecting two space craft together.
+  description: 一個用於將兩艘太空船連接在一起的、尚未完工的結構。
   components:
   - type: Transform
     anchored: true

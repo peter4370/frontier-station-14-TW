@@ -1,11 +1,9 @@
-napkin-verb-wipe = Wipe Face
-
-napkin-wipe-self-actor-success = You wiped your face with the napkin.
-napkin-wipe-self-observer-success = {CAPITALIZE(THE($user))} wiped {POSS-ADJ($user)} face with the napkin.
-
-napkin-wipe-actor-start = You start wiping {THE($target)}'s face.
-napkin-wipe-actor-success = You wiped {THE($target)}'s face.
-napkin-wipe-target-start = {CAPITALIZE(THE($user))} is trying to wipe your face.
-napkin-wipe-target-success = {CAPITALIZE(THE($user))} wiped your face.
-napkin-wipe-observer-start = {CAPITALIZE(THE($user))} starts wiping {THE($target)}'s face.
-napkin-wipe-observer-success = {CAPITALIZE(THE($user))} wiped {THE($target)}'s face.
+napkin-verb-wipe = 擦臉
+napkin-wipe-self-actor-success = 你用餐巾擦了擦臉。
+napkin-wipe-self-observer-success = { CAPITALIZE(THE($user)) } 用餐巾擦拭 { POSS-ADJ($user) } 的臉。
+napkin-wipe-actor-start = 你開始為 { THE($target) } 擦臉。
+napkin-wipe-actor-success = 你為 { THE($target) } 擦了擦臉。
+napkin-wipe-target-start = { CAPITALIZE(THE($user)) } 正試圖擦你的臉。
+napkin-wipe-target-success = { CAPITALIZE(THE($user)) } 擦了擦你的臉。
+napkin-wipe-observer-start = { CAPITALIZE(THE($user)) } 開始擦拭 { THE($target) } 的臉。
+napkin-wipe-observer-success = { CAPITALIZE(THE($user)) } 擦掉了 { THE($target) } 的臉。

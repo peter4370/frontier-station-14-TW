@@ -1,3 +1,3 @@
-objective-condition-kill-person-title = Kill or maroon {$targetName}, {CAPITALIZE($job)}
-objective-condition-kill-maroon-title = Kill and maroon {$targetName}, {CAPITALIZE($job)}
-objective-condition-maroon-person-title = Prevent {$targetName}, {CAPITALIZE($job)} from reaching CentComm.
+objective-condition-kill-person-title = 刪除或移除 { $targetName }, { CAPITALIZE($job) }
+objective-condition-kill-maroon-title = 刪除並標記 { $targetName }, { CAPITALIZE($job) }
+objective-condition-maroon-person-title = 防止 { $targetName }, { CAPITALIZE($job) } 傳遞至 CentComm。

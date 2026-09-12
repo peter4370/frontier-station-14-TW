@@ -1,7 +1,7 @@
-emergency-light-component-on-examine = The battery indicator displays: {$batteryStateText}.
+emergency-light-component-on-examine = 電池指示燈顯示：{ $batteryStateText }。
 # Frontier: station<sector
-emergency-light-component-on-examine-alert = The current sector alert level is: [color={$color}]{$level}[/color].
-emergency-light-component-light-state-full = [color=darkgreen]full[/color]
-emergency-light-component-light-state-empty = [color=darkgreen]empty[/color]
-emergency-light-component-light-state-charging = [color=darkgreen]charging[/color]
-emergency-light-component-light-state-on = [color=darkgreen]on[/color]
+emergency-light-component-on-examine-alert = 該部門目前的警戒等級為：[color={ $color }]{ $level }[/color]。
+emergency-light-component-light-state-full = [color=darkgreen]完整[/color]
+emergency-light-component-light-state-empty = [color=darkgreen]空白[/color]
+emergency-light-component-light-state-charging = [color=darkgreen]正在充電[/color]
+emergency-light-component-light-state-on = [color=darkgreen]開啟[/color]

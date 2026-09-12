@@ -1,8 +1,9 @@
-<Document>
-  # Space Law: Crime Listing
-  Crime codes are colored by linked crime groups, which are collections of non-stackable crimes. Suffixes are also included in the Quick Crime Guide to identify linked crimes.
 
-  ## Quick Crime Guide
+<Document>
+  # 太空法：罪行列表
+  罪行代碼的顏色由所連結的罪行群組決定，這些群組是由無法疊加的罪行所組成。 《快速犯罪指南》中亦收錄了後綴，用以辨識相關聯的犯罪。
+
+  ## 犯罪速查指南
   <Table Columns="6">
     <ColorBox>
       <Box>
@@ -263,9 +264,9 @@
     </ColorBox>
   </Table>
 
-  ## Minor Crimes
-  - Warnings should be issued for a first offense.
-  - If multiple minor crimes have been committed or it is a repeat offense, 5 minutes per minor crime is the maximum.
+  ## 輕微犯罪
+  - 初犯應予以警告。
+  - 若涉及多項輕微犯罪，或屬再犯，每項輕微犯罪的最高處罰為 5 分鐘。
   <Table Columns="4">
     <ColorBox>
       <Box>
@@ -415,9 +416,9 @@
     </ColorBox>
   </Table>
 
-  ## Moderate Crimes
-  - The maximum sentence per moderate crime is 5 minutes.
-  - Depending on the situation you may want to issue a warning instead of a detaining.
+  ## 中度罪行
+  - 每項中度罪行的最高刑期為 5 分鐘。
+  - 視情況而定，您或許應選擇給予警告，而非實施扣留。
   <Table Columns="4">
     <ColorBox>
       <Box>
@@ -523,10 +524,10 @@
     </ColorBox>
   </Table>
 
-  ## Major Crimes
-  - The maximum sentence per major crime is 10 minutes.
-  - Assault and Manslaughter are linked crimes, and cannot be stacked against a suspect.
-  - It is recommended to not use maximum sentences for those being compliant.
+  ## 重大罪行
+  - 每項重大罪行的最高刑期為 10 分鐘。
+  - 襲擊罪與過失致死罪是相關聯的罪行，不得對嫌疑人進行疊加指控。
+  - 建議對配合調查者，不要判處最高刑期。
   <Table Columns="4">
     <ColorBox>
       <Box>
@@ -715,11 +716,11 @@
     </ColorBox>
   </Table>
 
-  ## Extreme Crimes
-  - The maximum sentence per extreme crime is 15 minutes.
-  - Particularly violent offenders may be placed in perma. (Attacking officers in an attempt to escape prison)
-  - Attempted murder and murder are linked crimes and cannot be stacked together.
-  - Attempted murderers should be granted a more lenient sentence than a murderer.
+  ## 極度罪行
+  - 每項極度罪行的最高刑期為 15 分鐘。
+  - 特別暴力之犯罪者可能會被安置於永久監禁。 （為逃離監獄而襲擊警員）
+  - 謀殺未遂與謀殺屬相關罪行，不可併科。
+  - 謀殺未遂者應獲得比謀殺犯更輕的刑罰。
   <Table Columns="4">
     <ColorBox>
       <Box>
@@ -823,8 +824,8 @@
     </ColorBox>
   </Table>
 
-  ## Capital Crimes
-  - Capital crimes should usually lead to a death sentence or shift lasting detainment.
+  ## 死罪
+  - 死罪通常應判處死刑或長期監禁。
   <Table Columns="4">
     <ColorBox>
       <Box>

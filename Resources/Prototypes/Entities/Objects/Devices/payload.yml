@@ -20,7 +20,7 @@
         acts: [ "Destruction" ]
 
 - type: entity
-  name: explosive payload
+  name: 爆炸性彈頭
   parent: [ BasePayload, BaseC2ContrabandUnredeemable ] # Frontier: BaseSecurityContraband>BaseC2ContrabandUnredeemable
   id: ExplosivePayload
   components:
@@ -44,10 +44,10 @@
         acts: [ "Destruction" ]
 
 - type: entity
-  name: chemical payload
+  name: 化學載荷
   parent: [ BasePayload, BaseC2ContrabandUnredeemable ] # Frontier: BaseMedicalScienceContraband>BaseC2ContrabandUnredeemable
   id: ChemicalPayload
-  description: A chemical payload. Has space to store two beakers. In combination with a trigger and a case, this can be used to initiate chemical reactions.
+  description: 一種化學載荷。內部有空間可存放兩個燒杯。搭配觸發器與外殼使用，即可引發化學反應。
   components:
   - type: Sprite
     sprite: Objects/Devices/payload.rsi
@@ -80,10 +80,10 @@
     price: 60
 
 - type: entity
-  name: flash payload
+  name: Flash 有效載荷
   parent: [ BasePayload, BaseC2ContrabandUnredeemable ] # Frontier: BaseSecurityScienceCommandContraband>BaseC2ContrabandUnredeemable
   id: FlashPayload
-  description: A single-use flash payload.
+  description: 一次性的閃存載荷。
   components:
     - type: Sprite
       sprite: Objects/Devices/payload.rsi

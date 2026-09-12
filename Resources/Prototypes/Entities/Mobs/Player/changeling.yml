@@ -1,7 +1,7 @@
 - type: entity
   parent: MobHuman
   id: MobLing
-  name: Urist McLing
+  name: 尤里斯·麥克林
   suffix: Non-Antag
   components:
   - type: ChangelingDevour

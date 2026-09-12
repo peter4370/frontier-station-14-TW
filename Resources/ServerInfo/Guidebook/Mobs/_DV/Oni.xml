@@ -1,26 +1,27 @@
+
 <Document>
-  # Onis
+  # 奧尼斯
 
   <Box>
     <GuideEntityEmbed Entity="MobOniDummy" Caption=""/>
   </Box>
 
-  Large, horned people that come in a variety of colors. Their accuracy with guns is terrible, but their physical strength brings them a lot of boons both in and out of combat.
+  體型龐大、長著犄角的人類，膚色各異。 他們使用槍械的準頭極差，但其體能優勢卻為他們在戰場內外帶來許多好處。
 
-  ## Diet
-  - Nothing special.
+  ## 飲食
+  - 沒什麼特別的。
 
-  ## Benefits
-  - Takes 15% less Blunt, Slash and Piercing damage.
-  - Does more damage in melee; 35% more Blunt and Asphyxiation, 20% more Slash and Piercing.
-  - Due to their big size, they can easily carry, shove and pull any other morphotypes.
-  - They are harder to shove.
-  - Slightly more stamina than Humans.
-  - They have an easier time prying open doors, taking around 50% less time than other species.
+  ## 效果
+  - 承受的鈍擊、斬擊和穿刺傷害減少 15%。
+  - 近戰時造成更多傷害；鈍擊與窒息傷害增加 35%，斬擊與穿刺傷害增加 20%。
+  - 由於體型龐大，牠們能輕易地搬運、推擠及拖曳任何其他形態類型。
+  - 這些東西比較難推開。
+  - 耐力比人類略高一些。
+  - 牠們撬開門更為輕鬆，所需時間比其他物種少約 50%。
 
-  ## Drawbacks
-  - Their accuracy with guns is terrible.
-  - They are harder to carry and pull.
-  - They are bigger than Humans, making them easier to hit.
+  ## 缺點
+  - 他們使用槍械時的準頭極差。
+  - 它們較難搬運和拉動。
+  - 牠們比人類體型更大，因此更容易擊中。
 
 </Document>

@@ -1,47 +1,32 @@
-marking-SlimeNose-nose = Nose (Profile)
+marking-SlimeNose-nose = 鼻子（側面）
 marking-SlimeNose = Nose (Profile)
-
-marking-SlimeMouth-mouth = Mouth
+marking-SlimeMouth-mouth = 嘴巴
 marking-SlimeMouth = Mouth
-
 marking-SlimeBrain-brain = Brain
 marking-SlimeBrain = Brain
-
-marking-SlimeEyeglow-eyeglow = Eye Glow
+marking-SlimeEyeglow-eyeglow = 眼部光采
 marking-SlimeEyeglow = Eye Glow
-
-marking-SlimeCore-core = Core
+marking-SlimeCore-core = 核心
 marking-SlimeCore = Core
-
-marking-SlimeLungs-lungs = Lungs
+marking-SlimeLungs-lungs = 肺
 marking-SlimeLungs = Lungs
-
-marking-SlimeBonehead-bonehead = Floating Skull
+marking-SlimeBonehead-bonehead = 漂浮的骷髏
 marking-SlimeBonehead = Floating Skull
-
-marking-SlimeBonechest-bonechest = Floating Ribcage
+marking-SlimeBonechest-bonechest = 漂浮的肋骨籠
 marking-SlimeBonechest = Floating Ribcage
-
-marking-SlimeBonearmleft-bonearmleft = Floating Bones (Left Arm)
+marking-SlimeBonearmleft-bonearmleft = 漂浮的骨頭（左臂）
 marking-SlimeBonearmleft = Floating Bones (Left Arm)
-
-marking-SlimeBonearmright-bonearmright = Floating Bones (Right Arm)
+marking-SlimeBonearmright-bonearmright = 漂浮的骨頭（右臂）
 marking-SlimeBonearmright = Floating Bones (Right Arm)
-
-marking-SlimeBonefootleft-bonefootleft = Floating Bones (Left Foot)
+marking-SlimeBonefootleft-bonefootleft = 漂浮的骨頭（左腳）
 marking-SlimeBonefootleft = Floating Bones (Left Foot)
-
-marking-SlimeBonefootright-bonefootright = Floating Bones (Right Foot)
+marking-SlimeBonefootright-bonefootright = 漂浮的骨頭（右腳）
 marking-SlimeBonefootright = Floating Bones (Right Foot)
-
-marking-SlimeBonehandleft-bonehandleft = Floating Bones (Left Hand)
+marking-SlimeBonehandleft-bonehandleft = 漂浮的骨頭（左手）
 marking-SlimeBonehandleft = Floating Bones (Left Hand)
-
-marking-SlimeBonehandright-bonehandright = Floating Bones (Right Hand)
+marking-SlimeBonehandright-bonehandright = 漂浮的骨頭（右手）
 marking-SlimeBonehandright = Floating Bones (Right Hand)
-
-marking-SlimeBonelegleft-bonelegleft = Floating Bones (Left Leg)
+marking-SlimeBonelegleft-bonelegleft = 漂浮的骨頭（左腿）
 marking-SlimeBonelegleft = Floating Bones (Left Leg)
-
-marking-SlimeBonelegright-bonelegright = Floating Bones (Right Leg)
+marking-SlimeBonelegright-bonelegright = 漂浮的骨頭（右腿）
 marking-SlimeBonelegright = Floating Bones (Right Leg)

@@ -2,8 +2,8 @@
   parent: [BaseItem, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: EmagUnlimited
   suffix: Unlimited
-  name: cryptographic sequencer
-  description: The all-in-one hacking solution. Friend of any syndicate agent. The iconic EMAG. # Frontier: add "agent"
+  name: 加密序列器
+  description: 一機多用的駭客解決方案。各犯罪組織探員的得力助手。傳奇的 EMAG。 #Frontier: add "agent"
   components:
   - type: Emag
   - type: Sprite

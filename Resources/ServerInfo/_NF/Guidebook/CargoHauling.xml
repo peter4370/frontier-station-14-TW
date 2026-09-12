@@ -1,38 +1,39 @@
-<Document>
-  # Cargo Hauling
 
-One of the ways you can make money on the Frontier is by moving shipments of [color=peru]trading crates[/color].
+<Document>
+  # 貨物運輸
+
+在《Frontier》中賺錢的方式之一，就是運送 [color=peru]貿易貨箱[/color]。
 
   <Box>
     <GuideEntityEmbed Entity="CrateTradeSecureNormal"/>
     <GuideEntityEmbed Entity="CrateTradeContrabandSecure1"/>
   </Box>
 
-You can find these by:
-  - Buying them at [color=peru]cargo request computers[/color] at the [color=forestgreen]Trade Outpost[/color]
-  - Salvaging them from [color=#88b0d1]space wrecks[/color]
-  - Finding [color=#c83737]contraband crates[/color] to be smuggled (ask around to find out how)
+您可以透過以下方式取得這些物品：
+  - 在 [color=forestgreen]貿易前哨站[/color]
+  - 從 [color=#88b0d1]太空殘骸[/color] 中回收
+  - 尋找 [color=#c83737]走私貨箱[/color] 以進行走私 （向周圍打聽以了解方法）
 
-Each trading crate starts with a [bold]label[/bold] saying [bold]where the create is headed[/bold], and will have a [bold][color=orange]destination symbol[/color][/bold] on the right side of the crate. Examining the crate ([color=yellow]Shift+Click[/color]) shows the name of the station it should be delivered to.
+每個貿易貨箱起初都附有標示 [bold]目的地[/bold] 的 [bold]標籤[/bold]，且貨箱右側會有 [bold][color=orange]目的地符號[/color][/bold]。 檢視貨箱（[color=yellow]Shift+點擊[/color]）即可顯示其應送達的站點名稱。
 
-[bold]Selling a crate at its destination[/bold] station will result in receiving [bold][color=lightgreen]more money[/color][/bold] than the crate is worth, while [bold]selling it at other stations[/bold] will result in [bold][color=lightpink]less money[/color][/bold].
+[bold]在目的地[/bold]車站出售一個貨箱，所獲得的[bold][color=lightgreen]金額[/color][/粗體]，而 [粗體]在其他車站出售該貨箱[/粗體] 則會獲得 [粗體][color=lightpink]較少的錢[/color][/粗體]。
 
-## Express Deliveries
+## 快遞
 
-Some crates are labelled as [color=yellow]express deliveries[/color]. These provide a bonus if delivered [bolditalic]to the destination[/bolditalic] on time.
+部分貨箱標示為 [color=yellow]快遞[/color]。 若能準時將這些貨物送達 [bolditalic]目的地[/bolditalic]，即可獲得額外獎勵。
 
   <Box>
     <GuideEntityEmbed Entity="CrateTradeSecureHigh"/>
     <GuideEntityEmbed Entity="CrateTradeContrabandSecure2"/>
   </Box>
 
-To make deliveries in time, make sure to keep your cargo bay organized so the crates for each destination can be removed from the cargo bay in order.
+為了準時送達，請務必保持貨艙整潔有序，以便能依序將各目的地的貨箱從貨艙中取出。
 
-Remember, more hands make light work, so crew up to help deliveries run smoothly!
+請記住，人多力量大，所以快召集人手，讓配送工作順利進行吧！
 
-## Cargo Storage
+## 貨物儲存
 
-One of the ways to store more trading crates on a ship at one time is by using [color=dodgerblue]crate storage racks[/color]. These racks take up only one tile, but can hold up to [bold][color=forestgreen]four[/color] trading crates at a time[/bold]!
+要在船上一次儲存更多貿易貨箱的方法之一，就是使用 [color=dodgerblue]貨箱儲存架[/color]。 這些貨架僅佔用一格空間，但一次最多可放置 [bold][color=forestgreen]四個[/color] 貿易箱[/bold]！
 
   <Box>
     <GuideEntityEmbed Entity="CrateStorageRackBase" Caption=""/>
@@ -41,27 +42,27 @@ One of the ways to store more trading crates on a ship at one time is by using [
     <GuideEntityEmbed Entity="CrateStorageRack" Caption=""/>
   </Box>
 
-If your ship doesn't come with any, you can [bold][color=dodgerblue]construct these yourself![/color][/bold] You'll need a welder, a welding mask, some steel and some metal rods. All in all, each rack takes [bold]7 sheets of steel[/bold] to construct.
+如果你的飛船沒有配備這些，你可以 [bold][color=dodgerblue]自己動手製作！[/color][/bold] 你需要一台焊機、一副焊接面罩、一些鋼材和幾根金屬棒。 總而言之，每座機架的製造需要 [bold]7 張鋼板[/bold]。
 
-In order to insert or remove trading crates to a [color=dodgerblue]crate storage rack[/color], a [color=yellow]mech[/color] with a [color=yellow]power fork[/color] module [bolditalic]must be used[/bolditalic] with the rack.
+若要將貿易貨箱放入或從 [color=dodgerblue]貨箱儲存架[/color] 中取出，[color=yellow]機甲[/color] 必須配備 [color=yellow]動力叉[/color] 模組，[bolditalic]才可操作[/bolditalic] 該儲存架。
 
-Each power fork can hold up to four crates at a time. When picking crates up off the ground, a fork picks up one crate at a time. When inserting or removing crates from a [color=dodgerblue]crate storage rack[/color], the fork can completely fill or empty a rack if there's space.
+每台動力叉車一次最多可搬運四個貨箱。 當從地面搬運貨箱時，叉車每次只搬運一個貨箱。 在將貨箱放入或從 [color=dodgerblue]貨箱儲存架[/color] 取出時，若架上有空間，叉車可將貨箱完全填滿或清空該層架。
 
-### Cargo Mechs
+### 貨運機械人
 
-To acquire a cargo mech:
-- Buy a [color=yellow]Ripley[/color] from a scientist, ask them to put one or two power fork modules in it. Make sure to get a large battery!
-- Buy an [color=orange]Emu[/color] from the cargo request consoles on the Trade Outpost for $10,000.
+取得貨運機械人的方法：
+- 向科學家購買一架 [color=yellow]瑞普利[/color]，並請他們在其中安裝一至兩個動力叉模組。 務必選購大容量的電池！
+- 從貿易前哨站的貨運委託終端機以 10,000 美元購買一隻 [color=orange]鴯鶓[/color]。
 
   <Box>
     <GuideEntityEmbed Entity="MechRipley"/>
     <GuideEntityEmbed Entity="MechEmu"/>
   </Box>
 
-The [color=orange]Emu[/color] is [bold]fast[/bold], but has [bold]only one power fork[/bold].
+[color=orange]鴯鶓[/color]雖然[bold]跑得很快[/bold]，但[bold]只有一對強勁的叉狀爪[/bold]。
 
-The [color=yellow]Ripley[/color] is [bold]slower, upgradeable,[/bold] and has [bold]two slots for power forks[/bold].
+[color=yellow]Ripley[/color] 的速度 [bold]較慢，可升級，[/bold] 並配備 [bold]兩個動力前叉插槽[/bold]。
 
-Use this knowledge to help move freight faster. Good luck out there.
+運用這項知識，協助加快貨運速度。 祝你一切順利。
 
 </Document>

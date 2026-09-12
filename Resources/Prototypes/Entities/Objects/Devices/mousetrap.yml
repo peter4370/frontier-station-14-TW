@@ -1,8 +1,8 @@
 - type: entity
-  name: mousetrap
+  name: 捕鼠器
   parent: [BaseItem, RecyclableItemPlasticSmall] # Frontier: added RecyclableItemPlasticSmall
   id: Mousetrap
-  description: Useful for catching rodents sneaking into your kitchen.
+  description: 有助於捕捉潛入廚房的囓齒類動物。
   components:
     - type: Sprite
       sprite: Objects/Devices/mousetrap.rsi

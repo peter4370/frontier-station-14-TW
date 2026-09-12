@@ -1,46 +1,47 @@
+
 <Document>
 
-  # Smuggling Prevention
+  # 防範走私
 
-  As an officer in the NFSD, part of your job is to prevent smuggling.
+  身為 NFSD 的警員，你的職責之一便是防範走私。
 
-  Smugglers use [color=#9ef5ff]dead drops[/color], objects where the Syndicate leaves notes with clues to the location of [color=#c4261d]drop pods[/color] filled with contraband.
-  
-  Remember: 
-  - These are spread across the seedier points of interest across the sector.
-  - Use any clue you might find lying around.
-  - Ask around to see if the public's seen suspicious activity.
-  - Be on the lookout for strange traffic patterns.
+  走私者會利用 [color=#9ef5ff]死信點[/color]——即黑手黨用來藏匿便條的物品，這些便條上會記載裝滿走私貨物的 [color=#c4261d]投送艙[/color] 的位置線索。
 
-  As NFSD officers, part of your job is to prevent smuggling, and to catch smugglers in the act.
-  
-  Keep Nanotrasen's monopoly on commerce in the sector strong, for a secure future.
+  請記住：
+  —— 這些地點散佈在該區域較為陰暗的景點之中。
+  - 善用任何你可能在周遭發現的線索。
+  - 向周圍的人打聽，看看民眾是否曾目擊可疑活動。
+  - 請留意異常的交通狀況。
+
+  身為 NFSD 警員，你們的工作之一便是防止走私，並當場逮捕走私犯。
+
+  為了確保未來穩固，必須維持納諾特拉森在該領域的商業壟斷地位。
 
   <Box>
-    <GuideEntityEmbed Entity="CrateTradeContrabandSecure1" Caption="contraband crate"/>
+    <GuideEntityEmbed Entity="CrateTradeContrabandSecure1" Caption="走私貨箱"/>
   </Box>
 
-  ## Notifications
+  ## 通知
 
-  When a note is taken from a [color=#9ef5ff]dead drop[/color], a [color=#c4261d]drop pod[/color] is teleported into the sector. This [color=#c4261d]drop pod[/color] contains cargo, some of it contraband, and these illicit goods tend to be sold for profit.
+  當從 [color=#9ef5ff]秘密藏點[/color] 取走一張便條時，一個 [color=#c4261d]投放艙[/color] 會被傳送至該區域。 這個 [color=#c4261d]降落艙[/color] 裝載著貨物，其中部分屬違禁品，而這些非法貨物通常會被出售以牟利。
 
-  With cutting-edge Nanotrasen bluespace technology, [bold]we can get signatures when these notes are taken[/bold], and, with some delay, get [bold]the approximate location of a [color=#c4261d]drop pod[/color][/bold].
+  透過尖端的 Nanotrasen bluespace 技術，[bold]我們能在記錄這些筆記時取得特徵訊號[/bold]，並在稍後獲得 [bold][color=#c4261d]逃生艙[/color][/bold] 的近似位置。
 
-  Due to the nature of bluespace, [bold]these notifications are not completely reliable[/bold], but that is no excuse for laziness. Remain vigilant.
+  鑑於 bluespace 的特性，[粗體]這些通知並非完全可靠[/粗體]，但這絕不能成為懶惰的藉口。 請保持警惕。
 
-  ## Forensics
+  ## 鑑識
 
-  As an incentive to prevent smuggling and catch active smugglers, a [color=#5d8c45]contraband forensics module[/color] comes standard in a Detective's gear. [bold]Using these rewards your department for good field work[/bold].
+  為了鼓勵防止走私並緝捕活躍的走私犯，[color=#5d8c45]違禁品鑑識模組[/color] 已列為偵探裝備的標準配備。 [粗體]藉此獎勵貴部門在實地工作方面的優異表現[/粗體]。
 
-  [color=#5d8c45]Scanning[/color] active or previously used [color=#9ef5ff]dead drops[/color], and Syndicate [color=#c4261d]drop pods[/color] credits the NFSD's bank with spesos and FUCs. FUCs will be paid out to the scanning officer when enough have been collected.
+  [color=#5d8c45]掃描[/color] 活躍或先前使用過的 [color=#9ef5ff]秘密交接點[/color]，以及「辛迪加」的 [color=#c4261d]投送艙[/color]，會將斯佩索斯（spesos）和 FUC 存入 NFSD 的銀行帳戶。 當累積到足夠的FUC時，將支付給掃描人員。
 
-  [bold]You get bigger rewards by being the first to a [color=#9ef5ff]dead drop[/color], so get moving![/bold]
+  [粗體]只要率先抵達 [color=#9ef5ff]秘密交接點[/color]，就能獲得更豐厚的獎勵，所以快點出發吧！[/粗體]
 
   <Box>
-    <GuideEntityEmbed Entity="ContrabandForensicsModule" Caption="forensics module"/>
+    <GuideEntityEmbed Entity="ContrabandForensicsModule" Caption="鑑識模組"/>
     <GuideEntityEmbed Entity="FrontierUplinkCoin"/>
   </Box>
 
-  [bold]Remember to use any DNA you find to track down and prosecute the smugglers.[/bold] It is one of your duties as an NFSD officer to keep sector commerce legal.
+  [粗體]請務必利用任何發現的 DNA，追查並起訴走私者。[/粗體] 維持該區域商業活動的合法性，是您身為 NFSD 警官的職責之一。
 
 </Document>

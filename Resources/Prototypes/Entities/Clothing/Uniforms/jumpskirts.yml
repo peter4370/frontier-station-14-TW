@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtBartender
-  name: bartender's uniform
-  description: A nice and tidy uniform. Shame about the bar though.
+  name: 調酒師制服
+  description: 這身制服很整潔美觀。不過那條橫條就讓人有點遺憾了。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/bartender.rsi
@@ -12,8 +12,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase # Frontier: remove BaseCommandContraband
   id: ClothingUniformJumpskirtCaptain
-  name: captain's jumpskirt
-  description: It's a blue jumpskirt with some gold markings denoting the rank of "Captain".
+  name: 船長跳躍裙
+  description: 這是一件藍色的連身裙，上面有些金色標記，標示著「上尉」的軍銜。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/captain.rsi
@@ -23,8 +23,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtCargo
-  name: cargo tech jumpskirt
-  description: A sturdy jumpskirt, issued to members of the Cargo department.
+  name: Cargo Tech 跳躍式短裙
+  description: 一款結實耐用的跳傘裙，發放給貨運部門的成員。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/cargotech.rsi
@@ -34,8 +34,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase # Frontier: remove BaseCommandContraband
   id: ClothingUniformJumpskirtChiefEngineer
-  name: chief engineer's jumpskirt
-  description: It's a high visibility jumpskirt given to those engineers insane enough to achieve the rank of Chief Engineer.
+  name: 首席工程師的連身裙
+  description: 這是一件高能見度的連身裙，專門頒發給那些瘋狂到足以晉升為首席工程師的工程師。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/ce.rsi
@@ -45,8 +45,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase # Frontier: remove BaseCommandContraband
   id: ClothingUniformJumpskirtChiefEngineerTurtle
-  name: chief engineer's turtleneck
-  description: A yellow turtleneck designed specifically for work in conditions of the engineering department.
+  name: 總工程師的高領毛衣
+  description: 一款專為工程部門工作環境設計的黃色高領衫。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/ce_turtle.rsi
@@ -56,8 +56,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtChaplain
-  name: chaplain's jumpskirt
-  description: It's a black jumpskirt, often worn by religious folk.
+  name: 牧師的跳躍裙
+  description: 這是一件黑色的連身裙，常被宗教人士穿著。
   components:
     - type: Sprite
       sprite: Clothing/Uniforms/Jumpskirt/chaplain.rsi
@@ -67,8 +67,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtChef
-  name: chef uniform
-  description: Can't cook without this.
+  name: 廚師制服
+  description: 沒有這個就做不了菜。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/chef.rsi
@@ -78,8 +78,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtChemistry
-  name: chemistry jumpskirt
-  description: There's some odd stains on this jumpskirt. Hm.
+  name: 化學跳舞裙
+  description: 這條連身裙上有幾處奇怪的污漬。嗯。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/chemistry.rsi
@@ -89,8 +89,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtVirology
-  name: virology jumpskirt
-  description: It's made of a special fiber that gives special protection against biohazards. It has a virologist rank stripe on it.
+  name: 病毒學跳裙
+  description: 它採用一種特殊纖維製成，能提供針對生物危害的特殊防護。上面還繡有病毒學家級別的肩章。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/virology.rsi
@@ -100,8 +100,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtGenetics
-  name: genetics jumpskirt
-  description: It's made of a special fiber that gives special protection against biohazards. It has a geneticist rank stripe on it.
+  name: 遺傳學跳躍裙
+  description: 它由一種特殊纖維製成，能提供針對生物危害的特殊防護。上面繡有遺傳學家級別的肩章。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/genetics.rsi
@@ -111,8 +111,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase # Frontier: remove BaseCommandContraband
   id: ClothingUniformJumpskirtCMO
-  name: chief medical officer's jumpskirt
-  description: It's a jumpskirt worn by those with the experience to be Chief Medical Officer. It provides minor biological protection.
+  name: 首席醫療官的跳跳裙
+  description: 這是一款由具備擔任首席醫療官資歷者所穿著的連身裙式防護服。它能提供輕微的生物防護。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/cmo.rsi
@@ -122,8 +122,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase # Frontier: remove BaseCommandContraband
   id: ClothingUniformJumpskirtCMOTurtle
-  name: chief medical officer's turtleneck jumpskirt
-  description: It's a turtleneck worn by those with the experience to be Chief Medical Officer. It provides minor biological protection.
+  name: 首席醫療官的高領連身裙
+  description: 這是一件由具備擔任首席醫療官資歷的人士所穿的高領衫。它能提供輕微的生物防護。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/cmo_turtle.rsi
@@ -133,8 +133,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtDetective
-  name: detective hard-worn suitskirt # Frontier - Added detective to name
-  description: Someone who wears this means business.
+  name: 偵探那套磨損嚴重的套裝裙 # Frontier - Added detective to name
+  description: 穿這件衣服的人，可是認真的。
   components:
     - type: Sprite
       sprite: Clothing/Uniforms/Jumpskirt/detective.rsi
@@ -144,8 +144,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtDetectiveGrey
-  name: detective noir suitskirt # Frontier - Added detective to name
-  description: A hard-boiled private investigator's grey suit, complete with tie clip.
+  name: 黑色偵探風套裝裙 # Frontier - Added detective to name
+  description: 一位硬派私家偵探的灰色西裝，配有領帶夾。
   components:
     - type: Sprite
       sprite: Clothing/Uniforms/Jumpskirt/detective_grey.rsi
@@ -155,8 +155,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtEngineering
-  name: engineering jumpskirt
-  description: If this suit was non-conductive, maybe engineers would actually do their damn job.
+  name: 工程跳躍裙
+  description: 如果這套防護服不導電的話，說不定工程師們真的會好好做他們該做的事。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/engineering.rsi
@@ -166,8 +166,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase # Frontier: removed BaseCommandContraband
   id: ClothingUniformJumpskirtHoP
-  name: head of personnel's jumpskirt
-  description: Rather bland and inoffensive. Perfect for vanishing off the face of the universe.
+  name: 人事主管的跳躍裙
+  description: 相當平淡無奇，也不惹人厭。簡直是從宇宙中消失的絕佳選擇。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/hop.rsi
@@ -177,8 +177,8 @@
 - type: entity
   parent: [BaseC2ContrabandUnredeemable, ClothingUniformSkirtBase] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: ClothingUniformJumpskirtHoS
-  name: head of security's jumpskirt
-  description: It's bright red and rather crisp, much like security's victims tend to be.
+  name: 保安主管的跳躍裙
+  description: 它呈鮮紅色，質地相當爽脆，這點與安全人員的受害者通常的模樣頗為相似。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/hos.rsi
@@ -202,8 +202,8 @@
 - type: entity
   parent: [BaseC2ContrabandUnredeemable, ClothingUniformSkirtBase] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: ClothingUniformJumpskirtHoSAlt
-  name: head of security's turtleneck
-  description: It's a turtleneck worn by those strong and disciplined enough to achieve the position of Head of Security.
+  name: 保安主管的高領衫
+  description: 這是一件高領衫，只有那些足夠強悍且紀律嚴明、足以晉升為安全主管的人才會穿。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/hos_alt.rsi
@@ -213,8 +213,8 @@
 - type: entity
   parent: [BaseC2ContrabandUnredeemable, ClothingUniformSkirtBase] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: ClothingUniformJumpskirtHoSParadeMale
-  name: head of security's parade uniform
-  description: A head of security's luxury-wear, for special occasions.
+  name: 安全主管的閱兵禮服
+  description: 一名保安主管在特殊場合穿著的奢華服飾。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/hos_parade.rsi
@@ -225,7 +225,7 @@
   parent: [BaseCommandContraband, ClothingUniformSkirtBase]
   id: ClothingUniformJumpskirtCommandGeneric
   name: command jumpskirt
-  description: A generic Command-colored jumpsuit not associated with any particular department.
+  description: 一套通用款的「Command」色連身工作服，未隸屬於任何特定部門。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/commandgeneric.rsi
@@ -235,8 +235,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtHydroponics
-  name: hydroponics jumpskirt
-  description: Has a strong earthy smell to it. Hopefully it's merely dirty as opposed to soiled.
+  name: 水耕栽培跳躍裙
+  description: 散發出一股濃烈的泥土味。希望這只是髒了，而不是被弄髒了。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/hydro.rsi
@@ -246,8 +246,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtJanitor
-  name: janitor jumpskirt
-  description: The jumpskirt for the poor sop with a mop.
+  name: 清潔工的跳躍裙
+  description: 那件跳舞裙，是給那個拿著拖把的可憐蟲的。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/janitor.rsi
@@ -257,8 +257,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtMedicalDoctor
-  name: medical doctor jumpskirt
-  description: It's made of a special fiber that provides minor protection against biohazards. It has a cross on the chest denoting that the wearer is trained medical personnel.
+  name: 醫師跳裙
+  description: 它由一種特殊纖維製成，能提供輕微的生物危害防護。胸前繡有十字標誌，表示穿著者是受過訓練的醫護人員。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/medical.rsi
@@ -268,7 +268,7 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtMime
-  name: mime jumpskirt
+  name: mime 跳舞裙
   description: ...
   components:
   - type: Sprite
@@ -279,8 +279,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtParamedic
-  name: paramedic jumpskirt
-  description: It's got a plus on it, that's a good thing right?
+  name: 救護員跳裙
+  description: 上面標有「＋」，這應該是好事吧？
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/paramedic.rsi
@@ -290,8 +290,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtBrigmedic
-  name: brigmedic jumpskirt
-  description: This uniform is issued to qualified personnel who have been trained. No one cares that the training took half a day.
+  name: 軍醫跳躍裙
+  description: 這套制服是發放給已受過訓練且符合資格的人員。沒人在乎那場訓練只花了半天時間。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/brigmedic.rsi
@@ -301,8 +301,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: ClothingUniformJumpskirtPrisoner
-  name: prisoner jumpskirt
-  description: A jumpskirt used for prisoners. It has suit sensors automatically enabled at all times.
+  name: 囚犯式短裙
+  description: 一款供囚犯使用的跳躍裙。其服裝感測器會隨時自動啟用。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/color.rsi
@@ -341,8 +341,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase # Frontier: remove BaseCommandContraband
   id: ClothingUniformJumpskirtQM
-  name: quartermaster's jumpskirt
-  description: 'What can brown do for you?'
+  name: 軍需官的跳傘裙
+  description: '棕色能為您做些什麼？'
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/qm.rsi
@@ -352,8 +352,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase # Frontier: remove BaseCommandContraband
   id: ClothingUniformJumpskirtQMTurtleneck
-  name: quartermaster's turtleneck # Frontier: not plural
-  description: A sharp turtleneck made for the hardy work environment of supply.
+  name: 軍需官的高領衫 # Frontier: not plural
+  description: 一款剪裁利落的高領衫，專為供應鏈中嚴苛的工作環境而設計。
   components:
     - type: Sprite
       sprite: Clothing/Uniforms/Jumpskirt/qmturtleskirt.rsi
@@ -363,8 +363,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase # Frontier: remove BaseCommandContraband
   id: ClothingUniformJumpskirtResearchDirector
-  name: research director's turtleneck
-  description: It's a turtleneck worn by those with the know-how to achieve the position of Research Director. Its fabric provides minor protection from biological contaminants.
+  name: 研究主任的高領衫
+  description: 這是一件高領衫，專為那些具備勝任研究總監職位所需專業知識的人士所穿。其布料能提供輕微的防護，抵禦生物污染物。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/rnd.rsi
@@ -374,8 +374,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtScientist
-  name: scientist jumpskirt
-  description: It's made of a special fiber that increases perceived intelligence and decreases personal ethics. It has markings that denote the wearer as a scientist.
+  name: 科學家跳跳裙
+  description: 它由一種特殊纖維製成，能提升他人對穿戴者的智商印象，同時削弱其個人道德觀。上面印有標誌，表明穿戴者是一名科學家。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/scientist.rsi
@@ -385,8 +385,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtRoboticist
-  name: roboticist jumpskirt
-  description: It's a slimming black with reinforced seams; great for industrial work.
+  name: 機器人專家跳躍裙
+  description: 這是一款修身款的黑色工作服，縫線經過加固處理；非常適合從事工業工作。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/roboticist.rsi
@@ -396,8 +396,8 @@
 - type: entity
   parent: [BaseC2ContrabandUnredeemable, ClothingUniformSkirtBase] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: ClothingUniformJumpskirtSec
-  name: security jumpskirt
-  description: A jumpskirt made of strong material, providing robust protection.
+  name: 安全跳躍裙
+  description: 一款採用堅韌材質製成的跳躍裙，能提供強效的防護。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/security.rsi
@@ -422,8 +422,8 @@
 - type: entity
   parent: [BaseC2ContrabandUnredeemable, ClothingUniformSkirtBase] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: ClothingUniformJumpskirtWarden
-  name: warden's uniform
-  description: A formal security suit for officers complete with Nanotrasen belt buckle.
+  name: 獄警制服
+  description: 一套配備 Nanotrasen 皮帶扣的正式警用制服。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/warden.rsi
@@ -448,8 +448,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtLibrarian
-  name: librarian jumpskirt
-  description: A cosy green jumper fit for a curator of books.
+  name: 圖書館員跳跳裙
+  description: 一件舒適的綠色毛衣，非常適合一位圖書策展人。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/librarian.rsi
@@ -459,8 +459,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtCurator
-  name: sensible skirt
-  description: It's sensible. Too sensible...
+  name: 得體的裙子
+  description: 這很明智。實在太明智了……
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/curator.rsi
@@ -470,8 +470,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtPerformer
-  name: performer's jumpskirt
-  description: Hi, I'm Scott, president of Donk Pizza. Have you heard of [FAMOUS VIRTUAL PERFORMER]?
+  name: 表演者的跳躍裙
+  description: 嗨，我是 Scott，Donk Pizza 的總裁。你聽過 [知名虛擬表演者] 嗎？
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/performer.rsi
@@ -481,8 +481,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtCapFormalDress
-  name: captain's formal dress
-  description: A dress for special occasions.
+  name: 船長禮服
+  description: 一件適合特殊場合的洋裝。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/capformaldress.rsi
@@ -492,7 +492,7 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtCentcomFormalDress
-  name: central command formal dress
+  name: 中央司令部正式禮服
   description: A dress for special occasions.
   components:
   - type: Sprite
@@ -503,7 +503,7 @@
 - type: entity
   parent: [BaseC2ContrabandUnredeemable, ClothingUniformSkirtBase] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: ClothingUniformJumpskirtHosFormal
-  name: hos's formal dress
+  name: 霍斯的正式禮服
   description: A dress for special occasions.
   components:
   - type: Sprite
@@ -514,8 +514,8 @@
 - type: entity
   parent: [BaseC3SyndicateContraband, UnsensoredClothingUniformSkirtBase, ContrabandClothing ] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband, ContrabandClothing
   id: ClothingUniformJumpskirtOperative
-  name: operative jumpskirt
-  description: Uniform for elite syndicate operatives performing tactical operations in deep space.
+  name: 作戰式跳傘裙
+  description: 專為在深空執行戰術行動的精英組織特工設計的制服。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/operative_s.rsi
@@ -527,8 +527,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtTacticool
-  name: tacticool jumpskirt
-  description: Uniform for subpar operative LARPers performing tactical insulated glove theft in deep space.
+  name: 戰術風跳躍裙
+  description: 專為在深空執行「戰術隔熱手套竊盜」任務、表現平平的實境扮演者（LARPer）所設計的制服。
   components:
     - type: Sprite
       sprite: Clothing/Uniforms/Jumpskirt/tacticool_s.rsi
@@ -542,8 +542,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtAtmos
-  name: atmospheric technician jumpskirt
-  description: I am at work. I can't leave work. Work is breathing. I am testing air quality.
+  name: 大氣技術員的跳躍裙
+  description: 我正在上班。我不能離開工作崗位。工作就是我的呼吸。我正在檢測空氣品質。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/atmosf.rsi
@@ -553,8 +553,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtJanimaid
-  name: janitorial maid uniform
-  description: For professionals, not the posers.
+  name: 清潔女工制服
+  description: 專為專業人士而設，而非那些裝模作樣的人。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/janimaid.rsi
@@ -564,8 +564,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtJanimaidmini
-  name: janitorial maid uniform with miniskirt
-  description: Elite service, not some candy wrappers.
+  name: 穿著迷你裙的清潔女工制服
+  description: 頂級服務，可不是什麼糖果包裝紙。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/janimaidmini.rsi
@@ -575,8 +575,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtLawyerRed
-  name: red lawyer suitskirt
-  description: A flashy red suitskirt worn by lawyers and show-offs.
+  name: 紅色律師套裝裙裝
+  description: 一種由律師和愛出風頭的人穿著的、花俏的紅色套裝裙。
   components:
     - type: Sprite
       sprite: Clothing/Uniforms/Jumpskirt/lawyerred.rsi
@@ -586,8 +586,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtLawyerBlue
-  name: blue lawyer suitskirt
-  description: A flashy blue suitskirt worn by lawyers and show-offs.
+  name: 藍色律師套裝裙
+  description: 一種由律師和愛出風頭的人穿著的、花俏的藍色套裝裙。
   components:
     - type: Sprite
       sprite: Clothing/Uniforms/Jumpskirt/lawyerblue.rsi
@@ -597,8 +597,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtLawyerBlack
-  name: black lawyer suitskirt
-  description: A subtle black suitskirt worn by lawyers and gangsters.
+  name: 黑色律師套裝裙
+  description: 一種低調的黑色套裝裙，常見於律師和黑幫分子身上。
   components:
     - type: Sprite
       sprite: Clothing/Uniforms/Jumpskirt/lawyerblack.rsi
@@ -608,8 +608,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtLawyerPurple
-  name: purple lawyer suitskirt
-  description: A stylish purple piece worn by lawyers and show people.
+  name: 紫色律師套裝裙
+  description: 一款時尚的紫色單品，深受律師與演藝界人士青睞。
   components:
     - type: Sprite
       sprite: Clothing/Uniforms/Jumpskirt/lawyerpurple.rsi
@@ -619,8 +619,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtLawyerGood
-  name: good lawyer's suitskirt
-  description: A tacky suitskirt perfect for a CRIMINAL lawyer!
+  name: 優秀律師的套裝裙
+  description: 一件俗氣的套裝裙，簡直是為「犯罪」律師量身打造！
   components:
     - type: Sprite
       sprite: Clothing/Uniforms/Jumpskirt/lawyergood.rsi
@@ -630,8 +630,8 @@
 - type: entity
   parent: [BaseC3SyndicateContraband, ClothingUniformSkirtBase, ContrabandClothing] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband, ContrabandClothing
   id: ClothingUniformJumpskirtSyndieFormalDress
-  name: syndicate formal dress
-  description: "The syndicate's uniform is made in an elegant style, it's even a pity to do dirty tricks in this."
+  name: 辛迪加正式禮服
+  description: "該組織的制服設計優雅，穿著這身制服去搞些骯髒把戲，實在有些可惜。"
   components:
     - type: Sprite
       sprite: Clothing/Uniforms/Jumpskirt/syndieformaldress.rsi
@@ -641,8 +641,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtTacticalMaid
-  name: tactical maid suitskirt
-  description: It is assumed that the best maids should have designer suits.
+  name: 戰術女僕套裝裙
+  description: 一般認為，最優秀的傭人應該擁有設計師款套裝。
   components:
     - type: Sprite
       sprite: Clothing/Uniforms/Jumpskirt/tacticalmaid.rsi
@@ -652,8 +652,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtOfLife
-  name: skirt of life
-  description: A skirt that symbolizes the joy and positivity of our life.
+  name: 生命的裙襬
+  description: 一條象徵我們生活中的喜悅與正能量的裙子。
   components:
     - type: Sprite
       sprite: Clothing/Uniforms/Jumpskirt/skirtoflife.rsi
@@ -663,8 +663,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtSeniorEngineer
-  name: senior engineer jumpskirt
-  description: A sign of skill and prestige within the engineering department.
+  name: 資深工程師 跳跳裙
+  description: 工程部門內展現技術實力與聲望的象徵。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/senior_engineer.rsi
@@ -674,8 +674,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtSeniorResearcher
-  name: senior researcher jumpskirt
-  description: A sign of skill and prestige within the science department.
+  name: 資深研究員 jumpskirt
+  description: 這是科學系內展現專業能力與聲望的象徵。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/senior_researcher.rsi
@@ -685,8 +685,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtSeniorPhysician
-  name: senior physician jumpskirt
-  description: A sign of skill and prestige within the medical department.
+  name: 資深醫師的跳躍裙
+  description: 這是醫學界中展現專業能力與聲望的象徵。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/senior_physician.rsi
@@ -697,7 +697,7 @@
   parent: [BaseC2ContrabandUnredeemable, ClothingUniformSkirtBase] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: ClothingUniformJumpskirtSeniorOfficer
   name: senior officer jumpskirt
-  description: A sign of skill and prestige within the security department.
+  description: 這是保安部門內展現專業能力與聲望的象徵。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/senior_officer.rsi
@@ -707,8 +707,8 @@
 - type: entity
   parent: [BaseC2ContrabandUnredeemable, ClothingUniformSkirtBase] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: ClothingUniformJumpskirtSecGrey
-  name: grey security jumpskirt
-  description: A tactical relic of years past before Nanotrasen decided it was cheaper to dye the suits red instead of washing out the blood.
+  name: 灰色防彈連身裙
+  description: 這是過去某個時期的戰術遺物，那時「納諾特拉森」尚未決定，將防護服染成紅色比清洗掉血跡更划算。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/security_grey.rsi
@@ -718,8 +718,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtWeb
-  name: web jumpskirt
-  description: Makes it clear that you are one with the webs.
+  name: 網眼跳舞裙
+  description: 這清楚地表明，你與蛛網合而為一。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/web.rsi
@@ -749,8 +749,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtCasualBlue
-  name: casual blue jumpskirt
-  description: A loose worn blue shirt with a grey skirt, perfect for someone looking to relax.
+  name: 休閒款藍色連身裙
+  description: 一件寬鬆的舊藍色襯衫搭配灰色裙子，非常適合想要放鬆的人。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/casual.rsi
@@ -779,8 +779,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtCasualPurple
-  name: casual purple jumpskirt
-  description: A loose worn purple shirt with a grey skirt, perfect for someone looking to relax.
+  name: 休閒款紫色連身裙
+  description: 一件寬鬆的舊紫色襯衫搭配灰色裙子，非常適合想要放鬆的人。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/casual.rsi
@@ -809,8 +809,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtCasualRed
-  name: casual red jumpskirt
-  description: A loose worn red shirt with a grey skirt, perfect for someone looking to relax.
+  name: 休閒款紅色連身裙
+  description: 一件寬鬆的舊紅襯衫搭配灰色裙子，非常適合想要放鬆的人。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/casual.rsi
@@ -839,8 +839,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtCasualGreen
-  name: casual green jumpskirt
-  description: A loose worn green shirt with a grey skirt, perfect for someone looking to relax.
+  name: 休閒綠色連身裙
+  description: 一件寬鬆且略顯舊的綠色襯衫，搭配灰色裙子，非常適合想要放鬆的人。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpsuit/casual.rsi
@@ -869,8 +869,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtOldDress
-  name: old dress
-  description: A worn-looking dress from a very long time ago.
+  name: 舊洋裝
+  description: 一件看起來有些舊的、來自很久以前的洋裝。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/olddress.rsi
@@ -880,8 +880,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtMusician
-  name: musician's skirt
-  description: A fancy skirt for the musically inclined. Perfect for any lounge act!
+  name: 音樂家的裙子
+  description: 一款專為熱愛音樂的人士設計的華麗裙裝。非常適合任何沙龍表演！
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Jumpskirt/musician.rsi
@@ -891,8 +891,8 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtPsychologist
-  name: psychologist suitskirt
-  description: I don't lose things. I place things in locations which later elude me.
+  name: 心理學家套裝裙
+  description: 我不會弄丟東西。只是把東西放在某些地方，後來卻想不起來放在哪裡了。
   components:
     - type: Sprite
       sprite: Clothing/Uniforms/Jumpskirt/psychologist.rsi
@@ -902,7 +902,7 @@
 - type: entity
   parent: ClothingUniformSkirtBase
   id: ClothingUniformJumpskirtClown
-  name: clown skirt
+  name: 小丑裙
   description: HONK!
   components:
   - type: Sprite

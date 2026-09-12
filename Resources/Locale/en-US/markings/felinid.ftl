@@ -1,55 +1,44 @@
 # Frontier: all entries capitalized
 marking-FelinidEarsBasic = Basic Ears
-marking-FelinidEarsBasic-basic_outer = Outer Ear
-marking-FelinidEarsBasic-basic_inner = Inner Ear
-
-marking-FelinidEarsCurled = Curled Ears
+marking-FelinidEarsBasic-basic_outer = 外耳
+marking-FelinidEarsBasic-basic_inner = 內耳
+marking-FelinidEarsCurled = 捲耳
 marking-FelinidEarsCurled-curled_outer = Outer Ear
 marking-FelinidEarsCurled-curled_inner = Inner Ear
-
-marking-FelinidEarsDroopy = Droopy Ears
+marking-FelinidEarsDroopy = 垂耳
 marking-FelinidEarsDroopy-droopy_outer = Outer Ear
 marking-FelinidEarsDroopy-droopy_inner = Inner Ear
-
-marking-FelinidEarsFuzzy = Fuzzy Ears
+marking-FelinidEarsFuzzy = 毛茸茸的耳朵
 marking-FelinidEarsFuzzy-basic_outer = Outer Ear
-marking-FelinidEarsFuzzy-fuzzy_inner = Ear Fuzz
-
-marking-FelinidEarsStubby = Stubby Ears
+marking-FelinidEarsFuzzy-fuzzy_inner = 耳毛
+marking-FelinidEarsStubby = 短耳朵
 marking-FelinidEarsStubby-stubby_outer = Outer Ear
 marking-FelinidEarsStubby-stubby_inner = Inner Ear
-
-marking-FelinidEarsTall = Tall Ears
+marking-FelinidEarsTall = 大耳朵
 marking-FelinidEarsTall-tall_outer = Outer Ear
 marking-FelinidEarsTall-tall_inner = Inner Ear
 marking-FelinidEarsTall-tall_fuzz = Ear Fuzz
-
-marking-FelinidEarsTorn = Torn Ears
+marking-FelinidEarsTorn = 撕裂的耳朵
 marking-FelinidEarsTorn-torn_outer = Outer Ear
 marking-FelinidEarsTorn-torn_inner = Inner Ear
-
-marking-FelinidEarsWide = Wide Ears
+marking-FelinidEarsWide = 大耳朵
 marking-FelinidEarsWide-wide_outer = Outer Ear
 marking-FelinidEarsWide-wide_inner = Inner Ear
-
 marking-FelinidTailBasic = Basic Tail
-marking-FelinidTailBasic-basic_tail_tip = Tail Tip
-marking-FelinidTailBasic-basic_tail_stripes_even = Tail Stripes, Even
-marking-FelinidTailBasic-basic_tail_stripes_odd = Tail Stripes, Odd
-
-marking-FelinidTailBasicWithBow = Basic Tail with Bow
+marking-FelinidTailBasic-basic_tail_tip = 尾巴小貼士
+marking-FelinidTailBasic-basic_tail_stripes_even = 尾部條紋，均勻
+marking-FelinidTailBasic-basic_tail_stripes_odd = 尾部條紋，奇數
+marking-FelinidTailBasicWithBow = 基本款綁帶蝴蝶結
 marking-FelinidTailBasicWithBow-basic_tail_tip = Tail Tip
 marking-FelinidTailBasicWithBow-basic_tail_stripes_even = Tail Stripes, Even
 marking-FelinidTailBasicWithBow-basic_tail_stripes_odd = Tail Stripes, Odd
-marking-FelinidTailBasicWithBow-basic_bow = Bow
-
-marking-FelinidTailBasicWithBell = Basic Tail with Bell
+marking-FelinidTailBasicWithBow-basic_bow = 鞠躬
+marking-FelinidTailBasicWithBell = 基本尾飾（帶鈴鐺）
 marking-FelinidTailBasicWithBell-basic_tail_tip = Tail Tip
 marking-FelinidTailBasicWithBell-basic_tail_stripes_even = Tail Stripes, Even
 marking-FelinidTailBasicWithBell-basic_tail_stripes_odd = Tail Stripes, Odd
 marking-FelinidTailBasicWithBell-basic_bell = Bell
-
-marking-FelinidTailBasicWithBowAndBell = Basic Tail with Bow & Bell
+marking-FelinidTailBasicWithBowAndBell = 基本款尾巴，附蝴蝶結與鈴鐺
 marking-FelinidTailBasicWithBowAndBell-basic_tail_tip = Tail Tip
 marking-FelinidTailBasicWithBowAndBell-basic_tail_stripes_even = Tail Stripes, Even
 marking-FelinidTailBasicWithBowAndBell-basic_tail_stripes_odd = Tail Stripes, Odd

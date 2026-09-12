@@ -10,13 +10,13 @@
     messagePerceivedByOthers: hugging-success-generic-others
 
 - type: entity
-  name: skeleton pirate
+  name: 骷髏海盜
   parent: MobSkeletonPerson
   id: MobSkeletonPirate
   components:
   - type: GhostRole
-    name: ghost-role-information-skeleton-pirate-name
-    description: ghost-role-information-skeleton-pirate-description
+    name: 幽靈角色資訊－骷髏海盜－名字
+    description: 幽靈角色資訊－骷髏海盜－描述
     rules: ghost-role-information-freeagent-rules
     mindRoles:
     - MindRoleGhostRoleFreeAgent
@@ -29,13 +29,13 @@
 
 
 - type: entity
-  name: skeleton biker
+  name: 骷髏騎士
   parent: MobSkeletonPerson
   id: MobSkeletonBiker
   components:
   - type: GhostRole
-    name: ghost-role-information-skeleton-biker-name
-    description: ghost-role-information-skeleton-biker-description
+    name: 幽靈角色資訊模板－機車騎士－姓名
+    description: 幽靈角色資訊－骨架機車騎士－描述
     rules: ghost-role-information-freeagent-rules
     mindRoles:
     - MindRoleGhostRoleFreeAgent
@@ -49,10 +49,10 @@
 - type: entity
   parent: MobSkeletonPerson
   id: MobSkeletonCloset
-  name: closet skeleton
+  name: 衣櫥裡的骷髏
   components:
   - type: GhostRole
-    name: ghost-role-information-closet-skeleton-name
+    name: ghost-角色資訊-衣櫥-骨架名稱
     description: ghost-role-information-closet-skeleton-description
     rules: ghost-role-information-freeagent-rules
     mindRoles:

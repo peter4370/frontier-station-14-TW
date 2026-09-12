@@ -1,17 +1,15 @@
 ﻿general-station-record-console-window-title = Station Records Computer
-general-station-record-console-select-record-info = Select a record on the left.
+general-station-record-console-select-record-info = 請在左側選取一筆記錄。
 general-station-record-console-empty-state = No records found!
 general-station-record-console-no-record-found = No record was found for the selected person.
-
-general-station-record-console-record-age = Age: {$age}
-general-station-record-console-record-title = Job: {$job}
-general-station-record-console-record-species = Species: {$species}
-general-station-record-console-record-gender = Gender: {$gender}
-general-station-record-console-record-fingerprint = Fingerprint: {$fingerprint}
-general-station-record-console-record-dna = DNA: {$dna}
-
+general-station-record-console-record-age = 年齡：{ $age }
+general-station-record-console-record-title = 工作：{ $job }
+general-station-record-console-record-species = 物種：{ $species }
+general-station-record-console-record-gender = 性別：{ $gender }
+general-station-record-console-record-fingerprint = 指紋：{ $fingerprint }
+general-station-record-console-record-dna = DNA：{ $dna }
 general-station-record-for-filter-line-placeholder = Input text and press "Enter"
-general-station-record-name-filter = Name of person
+general-station-record-name-filter = 姓名
 general-station-record-job-filter = Job
 general-station-record-species-filter = Species
 general-station-record-prints-filter = Fingerprints

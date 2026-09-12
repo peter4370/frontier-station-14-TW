@@ -1,8 +1,8 @@
 - type: entity
   id: Bonfire
   parent: BaseStructure
-  name: bonfire
-  description: What can be better than a late evening under the sky with guitar and friends?
+  name: 篝火
+  description: 還有什麼比在深夜時分，在星空下與朋友們一起彈吉他更美好的呢？
   components:
   - type: Sprite
     noRot: true
@@ -38,8 +38,8 @@
 - type: entity
   id: LegionnaireBonfire
   parent: Bonfire
-  name: legionnaire bonfire
-  description: There, in the land of lava and ash, place to to cook marshmallow and potato.
+  name: 軍團士兵的篝火
+  description: 在那裡，在熔岩與火山灰交織的土地上，正是烤棉花糖和馬鈴薯的好地方。
   components:
   - type: Sprite
     layers:

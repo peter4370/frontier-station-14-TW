@@ -4,7 +4,7 @@
   parent: BaseHandheldComputer # Frontier: remove BaseGrandTheftContraband
   # CMO-only bud, don't add more.
   id: HandheldCrewMonitor
-  description: A hand-held crew monitor displaying the status of suit sensors.
+  description: 一款手持式機組人員監控器，用於顯示太空服感測器的狀態。
   components:
   - type: Item
     heldPrefix: scanner

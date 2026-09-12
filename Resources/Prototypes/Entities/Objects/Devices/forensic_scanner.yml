@@ -2,7 +2,7 @@
   name: forensic scanner
   parent: [BaseItem, RecyclableItemDeviceSmall] # Frontier: added RecyclableItemDeviceSmall, removed BaseSecurityContraband
   id: ForensicScanner
-  description: A handheld device that can scan objects for fingerprints and fibers.
+  description: 一款可掃描物體以偵測指紋和纖維的手持裝置。
   components:
   - type: Sprite
     sprite: _NF/Objects/Devices/forensic_scanner.rsi # Frontier: use _NF variant
@@ -53,10 +53,10 @@
       forensics_cartridge: !type:ContainerSlot {} # Frontier
 
 - type: entity
-  name: forensic scanner report
+  name: 鑑識掃描報告
   parent: Paper
   id: ForensicReportPaper
-  description: Circumstantial evidence, at best.
+  description: 頂多也只是間接證據罷了。
   components:
   - type: Sprite
     sprite: Objects/Misc/bureaucracy.rsi
@@ -83,8 +83,8 @@
 - type: entity
   parent: ForensicReportPaper
   id: PaperAccessLogs
-  name: access logs
-  description: A printout from the detective's trusty LogProbe.
+  name: 存取日誌
+  description: 來自那位偵探信賴的 LogProbe 的列印輸出。
   components:
   - type: PaperVisuals
     headerImagePath: null

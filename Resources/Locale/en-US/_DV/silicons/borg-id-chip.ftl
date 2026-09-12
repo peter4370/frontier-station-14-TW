@@ -1,2 +1,2 @@
-borg-id-chip-missing = ID chip missing
-borg-id-chip-installed = ID chip: {$name}
+borg-id-chip-missing = 缺少 ID 晶片
+borg-id-chip-installed = ID 晶片：{ $name }

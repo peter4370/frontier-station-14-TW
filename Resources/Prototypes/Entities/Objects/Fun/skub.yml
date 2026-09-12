@@ -2,7 +2,7 @@
   parent: BaseItem
   id: Skub
   name: skub
-  description: Skub is the fifth Chaos God.
+  description: 斯庫布是第五位混沌之神。
   components:
   - type: Sprite
     sprite: Objects/Misc/skub.rsi

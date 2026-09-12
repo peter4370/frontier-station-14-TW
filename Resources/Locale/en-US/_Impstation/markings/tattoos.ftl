@@ -1,29 +1,20 @@
-marking-TattooNanotrasenChest-tattoo_nanotrasen_chest = Chest Tattoo (Nanotrasen)
+marking-TattooNanotrasenChest-tattoo_nanotrasen_chest = 胸口刺青（Nanotrasen）
 marking-TattooNanotrasenChest = Chest Tattoo (Nanotrasen)
-
-marking-ArmDollJointsTattooLeft-l_arm_doll = Doll Joints Arm Tattoo (Left)
+marking-ArmDollJointsTattooLeft-l_arm_doll = 娃娃關節手臂刺青（左）
 marking-ArmDollJointsTattooLeft = Doll Joints Arm Tattoo (Left)
-
-marking-ArmDollJointsTattooRight-r_arm_doll = Doll Joints Arm Tattoo (Right)
+marking-ArmDollJointsTattooRight-r_arm_doll = 娃娃關節手臂刺青（右側）
 marking-ArmDollJointsTattooRight = Doll Joints Arm Tattoo (Right)
-
-marking-HandDollJointsTattooLeft-l_hand_doll = Doll Joints Hand Tattoo (Left)
+marking-HandDollJointsTattooLeft-l_hand_doll = 娃娃關節手部刺青（左）
 marking-HandDollJointsTattooLeft = Doll Joints Hand Tattoo (Left)
-
-marking-HandDollJointsTattooRight-r_hand_doll = Doll Joints Hand Tattoo (Right)
+marking-HandDollJointsTattooRight-r_hand_doll = 娃娃關節手部刺青（右側）
 marking-HandDollJointsTattooRight = Doll Joints Hand Tattoo (Right)
-
-marking-LegDollJointsTattooLeft-l_leg_doll = Doll Joints Leg Tattoo (Left)
+marking-LegDollJointsTattooLeft-l_leg_doll = 娃娃關節腿部刺青（左）
 marking-LegDollJointsTattooLeft = Doll Joints Leg Tattoo (Left)
-
-marking-LegDollJointsTattooRight-r_leg_doll = Doll Joints Leg Tattoo (Right)
+marking-LegDollJointsTattooRight-r_leg_doll = 娃娃關節腿部刺青（右）
 marking-LegDollJointsTattooRight = Doll Joints Leg Tattoo (Right)
-
-marking-FootDollJointsTattooLeft-l_foot_doll = Doll Joints Foot Tattoo (Left)
+marking-FootDollJointsTattooLeft-l_foot_doll = 娃娃關節腳部刺青（左）
 marking-FootDollJointsTattooLeft = Doll Joints Foot Tattoo (Left)
-
-marking-FootDollJointsTattooRight-r_foot_doll = Doll Joints Foot Tattoo (Right)
+marking-FootDollJointsTattooRight-r_foot_doll = 娃娃關節腳部刺青（右腳）
 marking-FootDollJointsTattooRight = Doll Joints Foot Tattoo (Right)
-
-marking-ChestCutHere-chest_cuthere = 'Cut Here' Tattoo
+marking-ChestCutHere-chest_cuthere = 「請在此處剪開」刺青
 marking-ChestCutHere = 'Cut Here' Tattoo

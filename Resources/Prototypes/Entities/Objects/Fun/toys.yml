@@ -55,8 +55,8 @@
 - type: entity
   parent: BaseRubberToy
   id: ToyRubberDuck
-  name: rubber ducky
-  description: Not carried here by ocean currents.
+  name: 橡皮鴨
+  description: 並非由洋流帶到此處。
   components:
   - type: Sprite
     sprite: Objects/Fun/ducky.rsi
@@ -90,8 +90,8 @@
 - type: entity
   parent: BaseRubberToy
   id: RubberChicken
-  name: rubber chicken
-  description: A stress inducing parody of nature's most delectable avian.
+  name: 橡皮雞
+  description: 一部以大自然中最美味的鳥類為題材、令人感到壓力的惡搞作品。
   components:
   - type: Sprite
     sprite: Objects/Fun/rubber_chicken.rsi
@@ -149,8 +149,8 @@
 - type: entity
   parent: BaseFigurineCheapo
   id: ToyAi
-  name: AI toy
-  description: A scaled-down toy AI core.
+  name: AI 玩具
+  description: 一個縮小版的玩具人工智慧核心。
   components:
   - type: Sprite
     sprite: Objects/Fun/AI.rsi
@@ -168,8 +168,8 @@
 - type: entity
   parent: BaseFigurineCheapo
   id: ToyNuke
-  name: nuke toy
-  description: A plastic model of a Nuclear Fission Explosive. No uranium included... probably.
+  name: 核武玩具
+  description: 一個核裂變爆炸裝置的塑膠模型。不含鈾……大概吧。
   components:
   - type: Sprite
     sprite: Objects/Fun/toy_nuke.rsi
@@ -210,8 +210,8 @@
 - type: entity
   parent: BasePlushie
   id: ToyIan
-  name: ian toy
-  description: Unable to eat, but just as fluffy as the real guy!
+  name: 伊恩·托伊
+  description: 雖然吃不了東西，但跟真的一樣蓬鬆！
   components:
   - type: Sprite
     sprite: Objects/Fun/toy_ian.rsi
@@ -268,8 +268,8 @@
 - type: entity
   parent: FoamWeaponBase
   id: FoamCrossbow
-  name: foam crossbow
-  description: Aiming this at Security may get you filled with lead.
+  name: 泡沫弩
+  description: 若將這東西對準保安人員，你可能會被子彈打穿。
   components:
   - type: Sprite
     sprite: Objects/Fun/Foam/foam_crossbow.rsi
@@ -300,7 +300,7 @@
   parent: BaseItem
   id: ToyGunBase
   name: ToyGunBase
-  description: A rooty tooty point and shooty.
+  description: 一款超棒的隨拍相機。
   abstract: true
   components:
   - type: Sprite
@@ -308,7 +308,7 @@
 - type: entity
   parent: ToyGunBase
   id: RevolverCapGun
-  name: cap gun
+  name: 玩具槍
   description: Looks almost like the real thing! Ages 8 and up.
   abstract: true # Frontier
   components:
@@ -373,7 +373,7 @@
   parent: BaseItem
   id: FoamBlade
   name: foamblade
-  description: It says "Sternside Changs number 1 fan" on it.
+  description: 上面寫著「斯特恩賽德·張的頭號粉絲」。
   components:
   - type: Sprite
     sprite: Objects/Fun/Foam/foam_blade.rsi
@@ -396,8 +396,8 @@
 - type: entity
   parent: BaseItem
   id: Basketball
-  name: basketball
-  description: Where dah courts at?
+  name: 籃球
+  description: 法院在哪裡啊？
   components:
   - type: Sprite
     sprite: Objects/Fun/Balls/basketball.rsi
@@ -429,7 +429,7 @@
   parent: BaseItem
   id: Football
   name: football
-  description: Otherwise known as a handegg.
+  description: 又名「手蛋」。
   components:
   - type: Sprite
     sprite: Objects/Fun/Balls/football.rsi
@@ -458,8 +458,8 @@
 - type: entity
   parent: BaseItem
   id: BeachBall
-  name: beach ball
-  description: The simple beach ball is one of Nanotrasen's most popular products. 'Why do we make beach balls? Because we can! (TM)' - Nanotrasen
+  name: 沙灘球
+  description: 這款簡約的沙灘球是 Nanotrasen 最受歡迎的產品之一。「為什麼我們要製作沙灘球？因為我們做得到！（TM）」——Nanotrasen
   components:
   - type: Sprite
     sprite: Objects/Fun/Balls/beach_ball.rsi
@@ -491,7 +491,7 @@
 - type: entity
   parent: BaseItem
   id: BalloonSyn
-  name: syndie balloon
+  name: 辛迪·巴隆
   description: Handed out to the bravest souls who survived the "atomic twister" ride at Syndieland.
   components:
   - type: Sprite
@@ -511,8 +511,8 @@
 - type: entity
   parent: BaseItem
   id: BalloonNT
-  name: nanotrasen balloon
-  description: Specially designed to inflict maximum psychological damage to Syndicate operatives.
+  name: 納米特拉森氣球
+  description: 專為對「辛迪加」特工造成最大心理傷害而設計。
   components:
   - type: Sprite
     sprite: Objects/Fun/Balloons/nanotrasen.rsi
@@ -529,8 +529,8 @@
 - type: entity
   parent: BaseItem
   id: BalloonCorgi
-  name: corgi balloon
-  description: Just like owning a real dog - but a lot floatier.
+  name: 柯基氣球
+  description: 就像養了一隻真正的狗一樣——只是更輕盈許多。
   components:
   - type: Sprite
     sprite: Objects/Fun/Balloons/corgi.rsi
@@ -547,8 +547,8 @@
 - type: entity
   parent: BaseItem
   id: SingularityToy
-  name: singuloth-brand toy
-  description: Mass-produced by a sadistic corporate conglomerate!
+  name: singuloth 品牌玩具
+  description: 由一家殘忍的跨國企業集團大量生產！
   components:
   - type: Sprite
     sprite: Objects/Fun/toy_singularity.rsi
@@ -572,8 +572,8 @@
 - type: entity
   parent: BaseItem
   id: TeslaToy
-  name: Teddy Tesla
-  description: The favorite toy of the great engineer Nikola Tesla.
+  name: 泰迪·特斯拉
+  description: 偉大工程師尼古拉·特斯拉最喜愛的玩具。
   components:
   - type: Sprite
     sprite: Structures/Power/Generation/Tesla/energy_miniball.rsi
@@ -606,8 +606,8 @@
 - type: entity
   parent: BaseItem # Frontier: remove BaseMagicalContraband
   id: PonderingOrb
-  name: pondering orb
-  description: Ponderous, man... Really ponderous.
+  name: 沉思之球
+  description: 真沉重啊，老兄……真的好沉重。
   components:
   - type: Sprite
     sprite: Objects/Fun/pondering_orb.rsi
@@ -627,7 +627,7 @@
   parent: [PonderingOrb, BaseC3WizardContraband] # Frontier: add BaseC3WizardContraband
   id: PonderingOrbWizard
   name: pondering orb
-  description: Ponderous, man... Really ponderous. Magically shows the station's camera network.
+  description: 真沉重啊，老兄……真的好沉重。神奇地顯示出車站的攝影機網絡。
   suffix: Wizard
   components:
   - type: ActivatableUI
@@ -648,8 +648,8 @@
 - type: entity
   parent: BaseItem
   id: ToySword
-  name: toy sword
-  description: New Sandy-Cat plastic sword! Comes with realistic sound and full color! Looks almost like the real thing!
+  name: 玩具劍
+  description: 全新「桑迪貓」塑膠劍！附有逼真音效與全彩設計！看起來簡直跟真的一樣！
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/e_sword.rsi
@@ -717,8 +717,8 @@
 - type: entity
   parent: BasePlushie
   id: ToyAmongPequeno
-  name: among pequeño
-  description: Sus!
+  name: 在「pequeño」之中
+  description: 噓！
   components:
   - type: Sprite
     sprite: Objects/Fun/pequeno.rsi
@@ -754,8 +754,8 @@
 - type: entity
   parent: BaseItem
   id: FoamCutlass
-  name: foam cutlass
-  description: Cosplay as a pirate and force your friends to walk the plank.
+  name: 泡沫短劍
+  description: 打扮成海盜，逼迫你的朋友走木板。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/cutlass.rsi
@@ -778,8 +778,8 @@
 - type: entity
   parent: BaseItem
   id: CardSword
-  name: cardboard sword
-  description: A cardboard tube fashioned into the shape of a sword.
+  name: 紙板劍
+  description: 一個被塑造成劍形的紙板管。
   components:
   - type: Sprite
     sprite: Objects/Fun/card_sword.rsi
@@ -817,7 +817,7 @@
   parent: BaseItem
   id: ClownRecorder
   name: clown recorder
-  description: When you just can't get those laughs coming the natural way!
+  description: 當你實在無法自然地逗人發笑的時候！
   components:
   - type: Sprite
     sprite: Objects/Fun/clownrecorder.rsi
@@ -847,8 +847,8 @@
 - type: entity
   parent: BaseItem
   id: ToyHammer
-  name: rubber hammer
-  description: A brightly colored hammer made of rubber.
+  name: 橡膠鎚
+  description: 一把由橡膠製成的色彩鮮豔的錘子。
   components:
   - type: Sprite
     sprite: Objects/Fun/rubber_hammer.rsi
@@ -884,8 +884,8 @@
 - type: entity
   parent: BaseItem
   id: WhoopieCushion
-  name: whoopie cushion
-  description: A practical joke device involving flatulence humour.
+  name: 放屁墊
+  description: 一種以放屁幽默為主題的惡作劇裝置。
   components:
   - type: Sprite
     sprite: Objects/Fun/whoopie.rsi
@@ -965,7 +965,7 @@
   name: banana
   parent: FoodProduceBase
   id: PlasticBanana
-  description: A plastic banana.
+  description: 一根塑膠香蕉。
   suffix: Plastic
   components:
   - type: Sprite
@@ -987,8 +987,8 @@
 - type: entity
   parent: DrinkBase
   id: CrazyGlue
-  name: crazy glue
-  description:  A bottle of crazy glue manufactured by Honk! Co.
+  name: 強力膠
+  description:  一瓶由 Honk! Co. 製造的「瘋狂膠水」。
   components:
   - type: Sprite
     sprite: Objects/Fun/glue.rsi
@@ -1026,8 +1026,8 @@
 - type: entity
   parent: BaseItem
   id: NewtonCradle
-  name: newton cradle
-  description: A device bored paper pushers use to remind themselves that time did not stop yet. Contains gravity.
+  name: 牛頓擺
+  description: 一種讓無聊的文員用來提醒自己「時間還沒停下來」的裝置。內含重力。
   components:
   - type: Sprite
     sprite: Objects/Fun/newton_cradle.rsi

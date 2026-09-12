@@ -31,8 +31,8 @@
 - type: entity
   parent: BaseKnife
   id: KitchenKnife
-  name: kitchen knife
-  description: A general purpose Chef's Knife made by Asters Merchant Guild. Guaranteed to stay sharp for years to come..
+  name: 廚房刀
+  description: 由 Asters Merchant Guild 製造的一把通用型主廚刀。保證未來多年都能保持鋒利。
   components:
   - type: Tag
     tags:
@@ -51,10 +51,10 @@
     - FoodRecipes
 
 - type: entity
-  name: butcher's cleaver
+  name: 屠夫的菜刀
   parent: BaseKnife
   id: ButchCleaver
-  description: A huge blade used for chopping and chopping up meat. This includes clowns and clown-by-products.
+  description: 一把用於剁切和切碎肉類的巨大刀。其適用對象包括小丑及其衍生產品。
   components:
   - type: Tag
     tags:
@@ -78,10 +78,10 @@
     - FoodRecipes
 
 - type: entity
-  name: combat knife
+  name: 戰鬥刀
   parent: [BaseKnife, BaseC1Contraband] # Frontier: BaseSecurityContraband<BaseC1Contraband
   id: CombatKnife
-  description: A deadly knife intended for melee confrontations.
+  description: 一把專為近身搏鬥設計的致命刀具。
   components:
   - type: Tag
     tags:
@@ -130,10 +130,10 @@
         friction: 0.2
 
 - type: entity
-  name: survival knife
+  name: 求生刀
   parent: [BaseC1Contraband, CombatKnife] # BaseSecurityCargoContraband<BaseC1Contraband
   id: SurvivalKnife
-  description: Weapon of first and last resort for combatting space carp.
+  description: 對抗太空鯉魚的首選暨最終手段。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/survival_knife.rsi
@@ -145,10 +145,10 @@
       sprite: Objects/Weapons/Melee/survival_knife.rsi
 
 - type: entity
-  name: kukri knife
+  name: 庫克里刀
   parent: [BaseC1Contraband, CombatKnife] # BaseSecurityCargoContraband<BaseC1Contraband
   id: KukriKnife
-  description: Professionals have standards. Be polite. Be efficient. Have a plan to kill everyone you meet.
+  description: 專業人士有其標準。要彬彬有禮。要高效。並要擬定計畫，將你遇到的每個人都殺光。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/kukri_knife.rsi
@@ -166,7 +166,7 @@
   parent: [ClothingHeadHatGreyFlatcap, BaseC1Contraband] # Frontier: BaseMinorContraband<BaseC1Contraband
   id: BladedFlatcapGrey
   name: grey flatcap
-  description: Fashionable for both the working class and old man Jenkins. It has glass shards hidden in the brim.
+  description: 無論是勞工階級還是老詹金斯，這頂帽子都十分時髦。帽簷裡藏著玻璃碎片。
   suffix: Bladed
   components:
   - type: Construction
@@ -192,7 +192,7 @@
   parent: BladedFlatcapGrey
   id: BladedFlatcapBrown
   name: brown flatcap
-  description: "\"Stupid clown! You made me look bad!\" It has glass shards hidden in the brim."
+  description: "「笨小丑！你讓我丟臉了！」帽簷裡藏著玻璃碎片。"
   components:
   - type: Construction
     graph: BladedFlatcapBrown
@@ -205,7 +205,7 @@
   name: shiv
   parent: [BaseKnife, BaseC1Contraband] # BaseMinorContraband<BaseC1Contraband
   id: Shiv
-  description: A crude weapon fashioned from a piece of cloth and a glass shard.
+  description: 一件由布條和玻璃碎片製成的粗陋武器。
   components:
   - type: Tag
     tags:
@@ -229,10 +229,10 @@
     malus: 0.225
 
 - type: entity
-  name: reinforced shiv
+  name: 加固型匕首
   parent: Shiv
   id: ReinforcedShiv
-  description: A crude weapon fashioned from a piece of cloth and a reinforced glass shard.
+  description: 一種由一塊布和一片強化玻璃碎片製成的粗糙武器。
   components:
   - type: Construction
     graph: ReinforcedShiv
@@ -248,10 +248,10 @@
     sprite: Objects/Weapons/Melee/reinforced_shiv.rsi
 
 - type: entity
-  name: plasma shiv
+  name: 等離子匕首
   parent: Shiv
   id: PlasmaShiv
-  description: A crude weapon fashioned from a piece of cloth and a plasma glass shard.
+  description: 一種用一塊布和一塊等離子玻璃碎片製成的粗糙武器。
   components:
   - type: Construction
     graph: PlasmaShiv
@@ -267,10 +267,10 @@
     sprite: Objects/Weapons/Melee/plasma_shiv.rsi
 
 - type: entity
-  name: uranium shiv
+  name: 鈾製短劍
   parent: Shiv
   id: UraniumShiv
-  description: A crude weapon fashioned from a piece of cloth and a uranium glass shard. Violates the geneva convention!
+  description: 一種用布片和鈾玻璃碎片製成的粗糙武器。這違反了《日內瓦公約》！
   components:
   - type: Construction
     graph: UraniumShiv
@@ -287,10 +287,10 @@
     sprite: Objects/Weapons/Melee/uranium_shiv.rsi
 
 - type: entity
-  name: throwing knife
+  name: 飛刀
   parent: [BaseKnife, BaseC1Contraband] # Frontier: BaseSyndicateContraband<BaseC1Contraband
   id: ThrowingKnife
-  description: This blood-red knife is very aerodynamic and easy to throw, but good luck trying to fight someone hand-to-hand.
+  description: 這把血紅色的刀流線型極佳，擲起來很輕鬆，但若想拿它與人近身搏鬥，那可就祝你好運了。
   components:
   - type: Tag
     tags:

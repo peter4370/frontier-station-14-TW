@@ -3,7 +3,7 @@
   parent: [RecyclableItemSteelSmall, BaseItem] # Frontier: add RecyclableItemSteelSmall
   id: GasPipeSansLayers
   name: gas pipe
-  description: Holds gas.
+  description: 可儲存氣體。
   placement:
     mode: SnapgridCenter
   components:
@@ -299,8 +299,8 @@
 - type: entity
   id: GasPipeBroken
   parent: GasPipeBase
-  name: broken pipe
-  description: It used to hold gas.
+  name: 破裂的管道
+  description: 它以前是用來儲存天然氣的。
   components:
   - type: Sprite
     sprite: Structures/Piping/Atmospherics/pipe.rsi
@@ -332,8 +332,8 @@
 - type: entity
   parent: GasPipeSansLayers
   id: GasPipeManifold
-  name: gas pipe manifold
-  description: Allows gas pipes of different configurations to be connected together.
+  name: 燃氣管路匯流排
+  description: 可將不同配置的瓦斯管相互連接。
   placement:
     mode: SnapgridCenter
   components:

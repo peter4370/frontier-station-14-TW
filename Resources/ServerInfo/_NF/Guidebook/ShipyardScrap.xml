@@ -1,7 +1,8 @@
-<Document>
-  # Scrap ships
 
-The Scrapyard Shipyard offers a collection of salvaged and refurbished vessels assembled from the Frontier's endless stream of discarded hulls and forgotten wreckage. Though many bear the marks of previous owners, each ship has been restored to operational standards and given a second chance among the stars. In the Frontier, resourcefulness is often worth more than luxury.
+<Document>
+  # 報廢船艦
+
+「拆船廠船塢」匯集了一系列由邊疆地區源源不絕的廢棄船體與被遺忘的殘骸所組裝、經打撈與翻新的船艦。 儘管許多船隻仍留有前任船主的痕跡，但每艘船都已修復至可運作的標準，並在星海之中獲得了第二次機會。 在邊疆，機智往往比奢華更為珍貴。
 
   <Box>
     <GuideEntityEmbed Entity="ScrapOre" Caption=""/>

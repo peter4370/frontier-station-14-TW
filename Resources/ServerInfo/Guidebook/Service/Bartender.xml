@@ -1,8 +1,9 @@
-<Document>
-# Bartender
-The bartender has a pretty simple job: serve drinks. People will come up to you and request drinks, and your job is just to hand it to them.
 
-[textlink="Click here to see a complete list of drinks." link="Drinks"]
+<Document>
+# 調酒師
+調酒師的工作相當簡單：端出飲料。 會有客人走過來向你點飲料，而你的工作就是把飲料遞給他們。
+
+[textlink="點此查看完整飲品清單。" link="飲品"]
 
 <Box>
 The materials for these drinks can be found in various places:
@@ -23,5 +24,5 @@ Don't forget containers to serve them in!
 <GuideEntityEmbed Entity="DrinkJigger"/>
 </Box>
 
-You can find a list of every drink that can be requested under the Reference Tables entry.
+您可以在「參考表格」條目下找到所有可點選的飲品清單。
 </Document>

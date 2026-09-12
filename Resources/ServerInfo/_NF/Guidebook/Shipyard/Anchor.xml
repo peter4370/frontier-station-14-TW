@@ -1,5 +1,6 @@
+
 <Document>
-# ANCHOR-CLASS EXPEDITION CRUISER
+# 錨級探險遊輪
 <Box>
 <GuideEntityEmbed Entity="DiceBag" Caption="Play"/>
 <GuideEntityEmbed Entity="VendingMachineBooze" Caption="Drink"/>
@@ -8,21 +9,21 @@
 <Box>
 <GuideEntityEmbed Entity="ShuttleMapAnchor" Caption=""/>
 </Box>
-[color=#a4885c]Ship Size:[/color] Large
+[color=#a4885c]船隻尺寸：[/color] 大型
 
-[color=#a4885c]Recommended Crew:[/color] 3-6
+[color=#a4885c]建議船員人數：[/color] 3-6 人
 
-[color=#a4885c]Power Gen Type:[/color] AME
+[color=#a4885c]發電類型：[/color] AME
 
-[color=#a4885c]Base Power Draw:[/color] 54 kW
+[color=#a4885c]基本功率消耗：[/color] 54 kW
 
-[color=#a4885c]Expeditions:[/color] Yes
+[color=#a4885c]探險任務：[/color] 是
 
-[color=#a4885c]IFF Console:[/color] None
+[color=#a4885c]敵我識別（IFF）控制台：[/color] 無
 
-[color=#a4885c]Available Roles:[/color] Contractor, Pilot, Mercenary
+[color=#a4885c]可用角色：[/color] 承包商、飛行員、傭兵
 
-"A large luxury cruiser capable of long ranged travel acrossed the sector, expedition capable."
+「一艘大型豪華巡洋艦，具備橫跨星區的長程航行能力，並可執行探險任務。」
 
 # Expeditions
 

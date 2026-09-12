@@ -2,7 +2,7 @@
   parent: [ClothingHeadBase, BaseChameleon]
   id: ClothingHeadHatChameleon
   name: beret
-  description: A beret, an artists favorite headwear.
+  description: 一頂貝雷帽，是藝術家最喜愛的頭飾。
   suffix: Chameleon
   components:
     - type: Tag
@@ -18,8 +18,8 @@
 - type: entity
   parent: ClothingHeadHatFedoraBrown
   id: ClothingHeadHatDetGadget
-  name: go go hat
-  description: A novel hat with a built in toolkit. Automatically stores and retrieves items at the say of a phrase!
+  name: go go 帽子
+  description: 一款內建工具組的創新帽子。只要說出一句口令，就能自動收納和取出物品！
   components:
   - type: Tag
     tags: [] # ignore "WhitelistChameleon" tag

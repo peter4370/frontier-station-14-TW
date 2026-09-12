@@ -1,12 +1,11 @@
 ﻿silicon-law-ui-verb = Manage laws
-silicon-law-ui-title = Silicon laws
-silicon-law-ui-new-law = New law
-silicon-law-ui-save = Save changes
+silicon-law-ui-title = 矽法則
+silicon-law-ui-new-law = 新法
+silicon-law-ui-save = 儲存變更
 silicon-law-ui-plus-one = +1
 silicon-law-ui-minus-one = -1
 silicon-law-ui-delete = Delete
-silicon-law-ui-check-corrupted = Corrupted law
-silicon-law-ui-check-corrupted-tooltip = If the law identifier should be set as 'corrupted', so symbols shuffling around.
-silicon-law-ui-placeholder = Type here to change law text...
-
-silicon-laws-updated = Updated laws
+silicon-law-ui-check-corrupted = 被篡改的法律
+silicon-law-ui-check-corrupted-tooltip = 如果法律識別碼應設定為「損壞」，則符號會出現錯亂。
+silicon-law-ui-placeholder = 請在此處輸入內容以修改法律條文……
+silicon-laws-updated = 修訂後的法律

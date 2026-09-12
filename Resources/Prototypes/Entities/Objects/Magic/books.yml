@@ -1,6 +1,6 @@
 ﻿- type: entity
   id: BaseSpellbook
-  name: spellbook
+  name: 法術書
   parent: [ BaseItem, BaseC3WizardContraband ] # Frontier: BaseMagicalContraband<BaseC3WizardContraband
   abstract: true
   components:
@@ -23,7 +23,7 @@
 # Do not add discounts or price inflation
 - type: entity
   id: WizardsGrimoire
-  name: wizards grimoire
+  name: 巫師魔典
   suffix: Wizard
   parent: [ BaseItem, StorePresetSpellbook, BaseC3WizardContraband ] # Frontier: BaseMagicalContraband<BaseC3WizardContraband
   components:
@@ -64,7 +64,7 @@
 
 - type: entity
   id: SpawnSpellbook
-  name: spawn spellbook
+  name: 生成法術書
   parent: BaseSpellbook
   components:
     - type: Spellbook
@@ -73,7 +73,7 @@
 
 - type: entity
   id: ForceWallSpellbook
-  name: force wall spellbook
+  name: '「力量之牆」法術書'
   parent: BaseSpellbook
   components:
     - type: Sprite
@@ -96,7 +96,7 @@
 
 - type: entity
   id: BlinkBook
-  name: blink spellbook
+  name: 眨眼法術書
   parent: BaseSpellbook
   components:
     - type: Sprite
@@ -117,7 +117,7 @@
 
 - type: entity
   id: SmiteBook
-  name: smite spellbook
+  name: '「擊殺」法術書'
   parent: BaseSpellbook
   components:
     - type: Sprite
@@ -140,7 +140,7 @@
 
 - type: entity
   id: KnockSpellbook
-  name: knock spellbook
+  name: 敲擊法術書
   parent: BaseSpellbook
   components:
     - type: Sprite
@@ -162,7 +162,7 @@
 
 - type: entity
   id: FireballSpellbook
-  name: fireball spellbook
+  name: 火球法術書
   parent: BaseSpellbook
   components:
     - type: Sprite
@@ -186,7 +186,7 @@
 
 - type: entity
   id: ScrollRunes
-  name: scroll of runes
+  name: 符文卷軸
   parent: BaseSpellbook
   components:
   - type: Item

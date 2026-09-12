@@ -1,108 +1,109 @@
+
 <Document>
-  # Punks
-  
-  Undesirable squatters in abandoned NT property, these punks wreak havoc, litter the surroundings, indulge in substance abuse, and generally damage property in the name of having a good time.
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Known Variants
-  # "Punks"
-  
-  "Criminally-inclined individuals", as NT Security documents call them, these are armed with a variety of weapons. These weapons range from makeshift shivs and machined truncheons to rusty pistols and shotguns. Some may be armored, so plan appropriately.
-  
+  # 龐克族
+
+  這些龐克族是國家信託（NT）廢棄物業中不受歡迎的非法佔屋者，他們以「尋歡作樂」為名，四處製造混亂、隨地亂丟垃圾、沉迷於藥物濫用，並大肆破壞財物。
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 已知變體
+  # 「龐克」
+
+  NT Security 文件稱其為「有犯罪傾向者」，這些人配備了各式各樣的武器。 這些武器的種類五花八門，從臨時拼湊的刀具和機加工警棍，到生鏽的手槍和霰彈槍，應有盡有。 有些可能有裝甲，因此請做好相應的準備。
+
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerMeleeT1" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 12 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（致命），140（死亡）
+  - [bold][color=#a4885c]奔跑速度：[/color][/bold] 4.5 公尺/秒[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 12 [color=red]鈍擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
+  [bold][color=#a4885c]*[/color][/粗體] - [斜體]一般人類的奔跑速度為 4.5 公尺/秒，步行速度為 2.5 公尺/秒。[/斜體]
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerMeleeT2" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%; [color=orange]Explosion[/color] 10% (punk armor)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 100（致命傷）、140（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4.5 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/粗體] 16 [color=red]鈍擊[/color]
+  - [粗體][color=#a4885c]傷害抗性：[/color][/粗體] [color=red]鈍擊[/color]、[color=red]切割[/color] 以及 [color=yellow]穿刺[/color] 25%； [color=orange]熱能[/color] 20%； [color=orange]腐蝕[/color] 10%； [color=orange]爆炸[/color] 10%（龐克盔甲）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerMeleeT3" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 18 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] 10%; [color=yellow]Piercing[/color] 60%; [color=orange]Heat[/color] 10%; [color=orange]Explosion[/color] 20% (punk heavy armor)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（致命傷），140（死亡）
+  - [bold][color=#a4885c]奔跑速度：[/color][/粗體] 4.5 米/秒
+  - [粗體][color=#a4885c]傷害（類型）：[/color][/粗體] 18 [color=red]鈍擊[/color]
+  - [粗體][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 10%； [color=yellow]穿刺[/color] 60%； [color=orange]熱能[/color] 10%； [color=orange]爆炸[/color] 20%（龐克重型護甲）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerPistol" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=yellow]Piercing[/color] (.35 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (mk 58)
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 100（致命），140（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 16 [color=yellow]穿刺[/color]（0.35 發）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（Mk 58）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerShotgun" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10-60 [color=yellow]Piercing[/color] (10 per shotgun pellet)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (shotgun)
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 100（致命），140（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 10-60 [color=yellow]穿刺[/color]（每顆霰彈 10 點）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（霰彈槍）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerSmg" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=yellow]Piercing[/color] (.35 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%; [color=orange]Explosion[/color] 10% (punk armor)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (drozd)
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 100（致命），140（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 16 [color=yellow]穿刺[/color]（0.35 發）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 及 [color=yellow]穿刺[/color] 25%； [color=orange]熱[/color] 20%； [color=orange]腐蝕[/color] 10%； [color=orange]爆炸[/color] 10%（龐克護甲）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（drozd）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Punk gang leader"
-  
-  It takes a formidable figure to lead a pack of street trash. These leaders usually wield scavenged SMGs and wear armor taken from unfortunate security forces. Usually high on meth and booze.
-  
+
+  # 「龐克幫派頭目」
+
+  要領導一幫街頭渣滓，必須具備令人望而生畏的氣勢。 這些首領通常手持從戰場上撿來的衝鋒槍，並身穿從倒楣的安保部隊身上奪來的防彈衣。 通常都處於吸食冰毒和酗酒的狀態。
+
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerLeader" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 17 [color=orange]Heat[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] 10%; [color=yellow]Piercing[/color] 60%; [color=orange]Heat[/color] 10%; [color=orange]Explosion[/color] 20% (punk heavy armor)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (laser rifle)
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 100（致命傷），140（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/粗體] 17 [color=orange]熱能[/color]
+  - [粗體][color=#a4885c]傷害抗性：[/color][/粗體] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 10%； [color=yellow]穿刺[/color] 60%； [color=orange]熱能[/color] 10%； [color=orange]爆炸[/color] 20%（龐克重型護甲）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（雷射步槍）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Mission Objectives
-  ## Elimination
+
+  # 任務目標
+  ## 消滅
   <Box>
   <GuideEntityEmbed Entity="MobPunkGangerLeader"/>
   </Box>
-  Eliminate a large and dangerous creature - a [color=#a4885c]punk gang leader[/color] within given time constraints.
-  
+  在指定的時間限制內，消滅一隻體型龐大且危險的生物——一名 [color=#a4885c]龐克幫派頭目[/color]。
+
   ## Destruction
   <Box>
   <GuideEntityEmbed Entity="PunkPartySupplies"/>
   </Box>
-  Destroy a certain number of [color=#a4885c]party supplies[/color] within given time constraints.
+  在指定的時間內摧毀一定數量的 [color=#a4885c]派對用品[/color]。
 </Document>

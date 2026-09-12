@@ -1,5 +1,6 @@
+
 <Document>
-  # INVESTIGATOR-CLASS RESEARCH SHUTTLE
+  # 調查級研究穿梭機
   <Box>
   <GuideEntityEmbed Entity="ComplexXenoArtifactItem"/>
   <GuideEntityEmbed Entity="MachineArtifactAnalyzer"/>
@@ -9,40 +10,40 @@
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapInvestigator" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船體尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 2-3
+  [color=#a4885c]建議船員人數：[/color] 2-3 人
 
-  [color=#a4885c]Power Gen Type:[/color] Solar/Plasma
+  [color=#a4885c]動力生成類型：[/color] 太陽能／等離子體
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "A medium research shuttle designed for xenoarcheological studies."
+  「一款專為外星考古學研究設計的中型研究穿梭機。」
 
-  # Shuttle Functions
+  # 穿梭函數
 
 <Box>
   <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Bolt Exterior Airlocks"/>
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Power Down Thrusters"/>
   <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Toggle Shutters"/>
-  <GuideEntityEmbed Entity="ButtonFrameJanitor" Caption="Toggle Generator Power"/>
+  <GuideEntityEmbed Entity="ButtonFrameJanitor" Caption="切換發電機電源"/>
 </Box>
 
-  # Science
+  # 科學
 
-  [textlink="Science" link="Science"/]
+  [textlink="科學" link="科學"/]
 
-  # Piloting
+  # 試飛
 
-  [textlink="Piloting" link="Piloting"/]
+  [textlink="試飛" link="試飛"/]
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="區段拓撲" link="區段拓撲"/]
 
-  # Hiring crew
+  # 僱用船員
 
-  [textlink="Hiring" link="Hiring"/]
+  [textlink="僱用" link="僱用"/]
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員。
 
   # PREFLIGHT CHECKLIST
 

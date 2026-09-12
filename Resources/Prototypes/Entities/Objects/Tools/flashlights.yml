@@ -2,7 +2,7 @@
   name: flashlight
   parent: [BaseItem, RecyclableItemDeviceSmall] # Frontier: added RecyclableItemDeviceSmall
   id: FlashlightLantern
-  description: It lights the way to freedom.
+  description: 它為通往自由之路照亮前路。
   components:
   - type: Tag
     tags:
@@ -79,7 +79,7 @@
   name: seclite
   parent: [FlashlightLantern, BaseC2ContrabandUnredeemable] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: FlashlightSeclite
-  description: A robust flashlight used by security.
+  description: 一款由安保人員使用的堅固手電筒。
   components:
   - type: Tag
     tags:

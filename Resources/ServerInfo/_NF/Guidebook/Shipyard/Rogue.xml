@@ -1,33 +1,34 @@
+
 <Document>
-  # ROGUE-CLASS STEALTH SHUTTLE
+  # 流氓級隱形穿梭機
   <Box Margin="-130">
   <GuideEntityEmbed Entity="ShuttleBannerNFSD" Caption=""/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapRogue" Caption="" Margin="-20"/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Micro
+  [color=#a4885c]船艦尺寸：[/color] 微型
 
-  [color=#a4885c]Fleet Shuttle:[/color] Yes
+  [color=#a4885c]艦隊穿梭機：[/color] 是
 
-  [color=#a4885c]Recommended Crew:[/color] 1
+  [color=#a4885c]建議乘員人數：[/color] 1
 
-  [color=#a4885c]Power Gen Type:[/color] APU
+  [color=#a4885c]發電類型：[/color] APU
 
-  [color=#a4885c]Expeditions:[/color] No
+  [color=#a4885c]遠征任務：[/color] 無
 
-  [color=#a4885c]IFF Console:[/color] Yes
+  [color=#a4885c]敵我識別（IFF）控制台：[/color] 有
 
-  [color=#a4885c]Minimum Access Level:[/color] Fleet Shuttle
+  [color=#a4885c]最低存取等級：[/color] 艦隊穿梭機
 
-  "Micro assault vessel with a toggle for going dark in deep space. Equipped with a 2 barrel grenade launcher."
+  「微型突擊艦，配備可在深空進入隱形狀態的開關。」 「配備一具雙管榴彈發射器。」
 
   # Ship Functions
   <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Fire grenade launcher"/>
-  - There is one button in the cockpit: The button with the red and black frame fires the grenade launcer at the front of the shuttle.
+  - 駕駛艙內有一個按鈕：那個紅黑相間邊框的按鈕，可觸發太空梭前方的榴彈發射器。
 
-  # Tips on running NSF Rogue shuttles
-  - The Rogue supports up to [color=#a4885c]12 [bold]kW[/bold][/color] on its shuttle APUs. It is not recommended to go above this due to the small interior space. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
+  # 關於運行 NSF Rogue 穿梭機的提示
+  - Rogue 的穿梭機輔助動力單元（APU）最高可支援 [color=#a4885c]12 [bold]kW[/bold][/color]。 It is not recommended to go above this due to the small interior space. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
   - For the basics of [bold]shuttle piloting[/bold], refer to [textlink="Piloting" link="Piloting"] and [textlink="Sector Topology" link="SectorTopology"/].
   - For the basics of [bold]cargo hauling[/bold], refer to [textlink="Cargo Hauling" link="CargoHauling"].
   - For the basics of [bold]expedition diving[/bold], refer to [textlink="Expeditions" link="Expeditions"].

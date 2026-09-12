@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseStructure
   id: Rack
-  name: rack
-  description: A rack for storing things on.
+  name: 機架
+  description: 一個用來存放物品的架子。
   components:
   - type: MeleeSound
     soundGroups:

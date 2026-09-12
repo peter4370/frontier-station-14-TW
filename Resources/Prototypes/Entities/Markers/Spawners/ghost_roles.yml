@@ -2,7 +2,7 @@
   abstract: true
   parent: MarkerBase
   id: BaseAntagSpawner
-  name: ghost role spawn point
+  name: 幽靈角色的生成點
   components:
   - type: GhostRole
     raffle:
@@ -16,8 +16,8 @@
   parent: MarkerBase
   components:
   - type: GhostRole
-    name: ghost-role-information-rat-king-name
-    description: ghost-role-information-rat-king-description
+    name: 幽靈角色資訊－鼠王－名稱
+    description: 幽靈角色資訊－鼠王－描述
     rules: ghost-role-information-antagonist-rules
     mindRoles:
     - MindRoleGhostRoleSoloAntagonist
@@ -39,8 +39,8 @@
   parent: MarkerBase
   components:
   - type: GhostRole
-    name: ghost-role-information-remilia-name
-    description: ghost-role-information-remilia-description
+    name: 幽靈角色資訊——雷米莉亞之名
+    description: 幽靈角色資訊 - 雷米莉亞 - 描述
     rules: ghost-role-information-familiar-rules
     mindRoles:
     - MindRoleGhostRoleFamiliar
@@ -124,8 +124,8 @@
   id: SpawnPointNukeopsCommander
   components:
   - type: GhostRole
-    name: roles-antag-nuclear-operative-commander-name
-    description: roles-antag-nuclear-operative-commander-objective
+    name: 角色-反派-核武作戰指揮官-姓名
+    description: 角色-反派-核武行動指揮官-目標
     rules: ghost-role-information-rules-default-team-antagonist
     mindRoles:
     - MindRoleGhostRoleTeamAntagonist
@@ -136,8 +136,8 @@
   id: SpawnPointNukeopsMedic
   components:
   - type: GhostRole
-    name: roles-antag-nuclear-operative-agent-name
-    description: roles-antag-nuclear-operative-agent-objective
+    name: 角色-反派-核武特工-代號
+    description: 角色-反派-核武特工-目標
     rules: ghost-role-information-rules-default-team-antagonist
     mindRoles:
     - MindRoleGhostRoleTeamAntagonist
@@ -148,8 +148,8 @@
   id: SpawnPointNukeopsOperative
   components:
   - type: GhostRole
-    name: roles-antag-nuclear-operative-name
-    description: roles-antag-nuclear-operative-objective
+    name: 角色-反派-核武特工-姓名
+    description: 角色-反派-核武特工-目標
     rules: ghost-role-information-rules-default-team-antagonist
     mindRoles:
     - MindRoleGhostRoleTeamAntagonist
@@ -160,8 +160,8 @@
   id: SpawnPointGhostDragon
   components:
   - type: GhostRole
-    name: ghost-role-information-space-dragon-name
-    description: ghost-role-information-space-dragon-description
+    name: 幽靈角色資訊空間之龍之名
+    description: 幽靈角色資訊－空間龍－描述
     rules: ghost-role-information-space-dragon-rules
     mindRoles:
     - MindRoleGhostRoleTeamAntagonist
@@ -177,8 +177,8 @@
   id: SpawnPointGhostSpaceNinja
   components:
   - type: GhostRole
-    name: ghost-role-information-space-ninja-name
-    description: ghost-role-information-space-ninja-description
+    name: 幽靈角色資訊空間忍者名稱
+    description: 幽靈角色資訊空間忍者描述
     rules: ghost-role-information-antagonist-rules
     mindRoles:
     - MindRoleGhostRoleSoloAntagonist
@@ -197,8 +197,8 @@
   id: SpawnPointGhostParadoxClone
   components:
   - type: GhostRole
-    name: ghost-role-information-paradox-clone-name
-    description: ghost-role-information-paradox-clone-description
+    name: 幽靈角色資訊悖論——克隆名稱
+    description: 幽靈角色資訊悖論——克隆描述
     rules: ghost-role-information-antagonist-rules
     mindRoles:
     - MindRoleGhostRoleSoloAntagonist
@@ -217,8 +217,8 @@
   id: SpawnPointGhostDerelictEngineeringCyborg
   components:
   - type: GhostRole
-    name: ghost-role-information-derelict-engineering-cyborg-name
-    description: ghost-role-information-derelict-engineering-cyborg-description
+    name: 幽靈角色資訊－廢棄工程－賽博格－名稱
+    description: 幽靈角色資訊－廢棄工程－賽博格－描述
     rules: ghost-role-information-silicon-rules
     raffle:
       settings: default
@@ -229,8 +229,8 @@
   id: SpawnPointGhostDerelictCyborg
   components:
   - type: GhostRole
-    name: ghost-role-information-derelict-cyborg-name
-    description: nf-ghost-role-information-derelict-cyborg-description # Frontier
+    name: 幽靈角色資訊－廢棄賽博格－名稱
+    description: nf-ghost-角色資訊-廢棄賽博格-描述 # Frontier
     rules: ghost-role-information-silicon-rules
     raffle:
       settings: default
@@ -247,8 +247,8 @@
   id: SpawnPointGhostDerelictJanitorCyborg
   components:
   - type: GhostRole
-    name: ghost-role-information-derelict-janitor-cyborg-name
-    description: ghost-role-information-derelict-janitor-cyborg-description
+    name: 幽靈角色資訊－廢棄物管理員－機械人－名稱
+    description: 幽靈角色資訊－廢棄物管理員－賽博格－描述
     rules: ghost-role-information-silicon-rules
     raffle:
       settings: default
@@ -259,8 +259,8 @@
   id: SpawnPointGhostDerelictMedicalCyborg
   components:
   - type: GhostRole
-    name: ghost-role-information-derelict-medical-cyborg-name
-    description: ghost-role-information-derelict-medical-cyborg-description
+    name: 幽靈角色資訊－廢棄醫療型機械人－名稱
+    description: 幽靈角色資訊－廢棄醫療型賽博格－描述
     rules: ghost-role-information-silicon-rules
     raffle:
       settings: default
@@ -271,8 +271,8 @@
   id: SpawnPointGhostDerelictMiningCyborg
   components:
   - type: GhostRole
-    name: ghost-role-information-derelict-mining-cyborg-name
-    description: ghost-role-information-derelict-mining-cyborg-description
+    name: 幽靈角色資訊－廢棄礦場－機械人－名稱
+    description: 幽靈角色資訊－廢棄礦場－機械人－描述
     rules: ghost-role-information-silicon-rules
     raffle:
       settings: default
@@ -283,8 +283,8 @@
   id: SpawnPointGhostDerelictSyndicateAssaultCyborg
   components:
   - type: GhostRole
-    name: ghost-role-information-derelict-syndicate-assault-cyborg-name
-    description: ghost-role-information-derelict-syndicate-assault-cyborg-description
+    name: 幽靈角色資訊-廢棄辛迪加-突襲-機械人-名稱
+    description: 幽靈角色資訊－廢棄集團襲擊－機械人－描述
     rules: ghost-role-information-silicon-rules
     raffle:
       settings: default

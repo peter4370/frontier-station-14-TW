@@ -1,5 +1,6 @@
- <Document>
-# AMBITION-CLASS ATMOSPHERICS PLATFORM
+
+<Document>
+# AMBITION-CLASS 大氣觀測平台
 <Box>
 <GuideEntityEmbed Entity="GasMiningDrill" Caption="Mine"/>
 <GuideEntityEmbed Entity="SignAtmos" Caption="Refine"/>
@@ -8,17 +9,17 @@
 <Box>
 <GuideEntityEmbed Entity="ShuttleMapAmbition" Caption=""/>
 </Box>
-[color=#a4885c]Ship Size:[/color] Large
+[color=#a4885c]船隻尺寸：[/color] 大型
 
-[color=#a4885c]Recommended Crew:[/color] 4-8
+[color=#a4885c]建議船員人數：[/color] 4-8
 
-[color=#a4885c]Power Gen Type:[/color] Bananium
+[color=#a4885c]動力產生類型：[/color] 巴納尼姆
 
-[color=#a4885c]Expeditions:[/color] No
+[color=#a4885c]探險任務：[/color] 無
 
-# Shuttle Brief
+# 穿梭機簡介
 
-"Declassified gas production and distribution platform seized in a hostile takeover of an Atmosian conglomerate. For the ultimate insurgent."
+「一處已解密的气體生產與分配平台，在對阿托西亞集團進行敵意收購時遭扣押。」 「獻給終極的叛逆者。」
 
 # Ship Functions
 
@@ -27,21 +28,21 @@
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Bridge Shutters"/>
 </Box>
 
-# Gas Extraction
+# 氣體開採
 
-[textlink="Asteroid Gas Extraction" link="OffshoreGasMining"/]
+[textlink="小行星氣體開採" link="OffshoreGasMining"/]
 
-# Piloting
+# 試航
 
-[textlink="Piloting" link="Piloting"/]
+[textlink="試航" link="Piloting"/]
 
-[textlink="Sector Topology" link="SectorTopology"/]
+[textlink="區域拓撲結構" link="SectorTopology"/]
 
-# Hiring crew
+# 招募船員
 
-[textlink="Hiring" link="Hiring"/]
+[textlink="招募" link="Hiring"/]
 
-As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+身為納諾特拉森（Nanotrasen）船隻的船長，你有權隨意僱用、解僱、降職或晉升船員。
 
 # PREFLIGHT CHECKLIST
 

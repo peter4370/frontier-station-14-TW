@@ -1,5 +1,5 @@
 - type: entity
-  name: Urist McSlime
+  name: 尤里斯·麥斯萊姆
   parent: BaseMobSpeciesOrganic
   id: BaseMobSlimePerson
   abstract: true

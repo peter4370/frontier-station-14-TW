@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingUniformBase
   id: UniformScrubsColorPurple
-  name: purple scrubs
-  description: A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
+  name: 紫色手術服
+  description: 這項設計兼具舒適性與實用性，旨在讓將某人體內的每個器官全部取出並賣給太空機器人的過程，看起來更加正式。
   components:
   - type: Sprite
     sprite: Clothing/Uniforms/Scrubs/purple.rsi
@@ -12,7 +12,7 @@
 - type: entity
   parent: ClothingUniformBase
   id: UniformScrubsColorGreen
-  name: green scrubs
+  name: 綠色手術服
   description: A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
   components:
   - type: Sprite
@@ -23,7 +23,7 @@
 - type: entity
   parent: ClothingUniformBase
   id: UniformScrubsColorBlue
-  name: blue scrubs
+  name: 藍色手術服
   description: A combination of comfort and utility intended to make removing every last organ someone has and selling them to a space robot much more official looking.
   components:
   - type: Sprite

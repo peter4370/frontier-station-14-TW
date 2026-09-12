@@ -2,7 +2,7 @@
   parent: BaseWallmountMachine
   id: WallmountTelescreen
   suffix: camera monitor
-  name: telescreen
+  name: 電視螢幕
   description: Finally, some decent reception around here...
   components:
   - type: Sprite
@@ -49,7 +49,7 @@
 - type: entity
   parent: BaseWallmountMetallic
   id: WallmountTelescreenFrame
-  name: telescreen frame
+  name: 電視螢幕邊框
   description: Finally, some decent reception around here...
   components:
   - type: Construction

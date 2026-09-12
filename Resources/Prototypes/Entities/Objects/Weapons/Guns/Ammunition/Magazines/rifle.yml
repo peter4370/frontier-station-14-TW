@@ -55,7 +55,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazineRifleEmpty
-  name: "magazine (.20 rifle any)"
+  name: "彈匣（任何型號的.20口徑步槍）"
   suffix: empty
   parent: MagazineRifle
   components:
@@ -77,7 +77,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazineRifleIncendiary
-  name: "magazine (.20 rifle incendiary)"
+  name: "彈匣（.20口徑步槍燃燒彈）"
   parent: MagazineRifle
   components:
   - type: BallisticAmmoProvider
@@ -104,7 +104,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazineRiflePractice
-  name: "magazine (.20 rifle practice)"
+  name: "彈匣（.20口徑步槍練習用）"
   parent: BaseMagazineRifle
   components:
   - type: BallisticAmmoProvider
@@ -131,7 +131,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazineRifleUranium
-  name: "magazine (.20 rifle uranium)"
+  name: "彈匣（.20 口徑步槍鈾彈）"
   parent: BaseMagazineRifle
   components:
   - type: BallisticAmmoProvider

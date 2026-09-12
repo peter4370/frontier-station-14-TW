@@ -1,8 +1,8 @@
 - type: entity
-  name: welding tool
+  name: 焊接工具
   parent: BaseItem
   id: Welder
-  description: "Melts anything as long as it's fueled, don't forget your eye protection!"
+  description: "只要有燃料，它就能熔化任何東西，別忘了戴上護目鏡！"
   components:
   - type: EmitSoundOnLand
     sound:
@@ -107,10 +107,10 @@
     temperature: 700
 
 - type: entity
-  name: industrial welding tool
+  name: 工業用焊接工具
   parent: Welder
   id: WelderIndustrial
-  description: "An industrial welder with over double the fuel capacity."
+  description: "一款工業用焊機，其燃料容量超過原有機型的兩倍。"
   components:
   - type: Sprite
     sprite: Objects/Tools/welder_industrial.rsi
@@ -125,10 +125,10 @@
         maxVol: 250
 
 - type: entity
-  name: advanced industrial welding tool
+  name: 先進的工業焊接工具
   parent: WelderIndustrial
   id: WelderIndustrialAdvanced
-  description: "An advanced industrial welder with over double the fuel capacity and hotter flame."
+  description: "一款先進的工業用焊機，其燃料容量超過原有機型的兩倍，且火焰溫度更高。"
   components:
   - type: Sprite
     sprite: Objects/Tools/welder_industrialadv.rsi
@@ -145,10 +145,10 @@
     speedModifier: 1.3
 
 - type: entity
-  name: experimental welding tool
+  name: 實驗性焊接工具
   parent: Welder
   id: WelderExperimental
-  description: "An experimental welder capable of self-fuel generation and less harmful to the eyes."
+  description: "一款能夠自行產生燃料且對眼睛傷害較小的實驗性焊接機。"
   components:
   - type: Sprite
     sprite: Objects/Tools/welder_experimental.rsi
@@ -175,10 +175,10 @@
     statusEffectTime: 5 # less harmful; sunglasses can block it
 
 - type: entity
-  name: emergency welding tool
+  name: 緊急焊接工具
   parent: Welder
   id: WelderMini
-  description: "A miniature welder used during emergencies."
+  description: "一種用於緊急情況的微型焊機。"
   components:
   - type: Sprite
     sprite: Objects/Tools/welder_mini.rsi
@@ -204,8 +204,8 @@
 - type: entity
   parent: [ Welder, BaseXenoborgContraband ]
   id: RefuelingWelder
-  name: refuling welding tool
-  description: "An slow welder that can refuel itself over time."
+  name: 焊接工具的加氣
+  description: "一台焊接速度較慢、但能隨著時間推移自行補充燃料的焊接機。"
   components:
   - type: Tool
     speedModifier: 0.5

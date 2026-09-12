@@ -1,13 +1,10 @@
-comp-gas-filter-ui-filter-status = Status:
+comp-gas-filter-ui-filter-status = 狀態：
 comp-gas-filter-ui-status-enabled = On
 comp-gas-filter-ui-status-disabled = Off
-
-comp-gas-filter-ui-filter-transfer-rate = Transfer Rate (L/s):
+comp-gas-filter-ui-filter-transfer-rate = 傳輸速率（L/s）：
 comp-gas-filter-ui-filter-set-rate = Set
-
-comp-gas-filter-ui-filter-gas-current = Currently Filtering:
-comp-gas-filter-ui-filter-gas-select = Select a gas to filter out:
-comp-gas-filter-ui-filter-gas-confirm = Set Gas
+comp-gas-filter-ui-filter-gas-current = 目前篩選條件：
+comp-gas-filter-ui-filter-gas-select = 請選擇要過濾的氣體：
+comp-gas-filter-ui-filter-gas-confirm = 設定氣體
 comp-gas-filter-ui-filter-gas-none = None
-
-comp-gas-filter-ui-needs-anchor = Anchor it first!
+comp-gas-filter-ui-needs-anchor = 先把它固定好！

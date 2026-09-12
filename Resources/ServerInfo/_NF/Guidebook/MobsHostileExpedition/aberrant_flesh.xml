@@ -1,154 +1,155 @@
-<Document>
-  # Aberrant Flesh
 
-  Shambling masses of flesh, animated by anomalous energy. The anomaly that spawned them has long since vanished, but these creatures are resilient enough to survive on their own. Not much is known about their lifecycle or biological makeup; it is clear that they will attack and attempt to assimilate any biological life forms. They are highly aggressive, and attack anything they consider a threat - approach with caution.
-  
-  For the most part, aberrant flesh monsters use brute force and numerical advantage to eliminate threats. However, some of them have evolved to attack at range.
-  
-  Can be butchered for meat. Edible if you can keep it down.
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Known Variants
-  # "Jared"
-  
-  "Jareds" are mindless meat shields who run at threats without any concern for their survival. They seem to be more fragile than the average human.
-  
+<Document>
+  # 異變肉塊
+
+  由異常能量驅動、蹣跚移動的肉塊群。 孕育出牠們的那種異常現象早已消失無蹤，但這些生物的韌性足以讓牠們獨立生存。 關於牠們的生命週期或生物結構，目前所知甚少；但可以確定的是，牠們會攻擊任何生物體，並試圖將其同化。 牠們極具攻擊性，會攻擊任何牠們視為威脅的對象——請謹慎靠近。
+
+  在大多數情況下，變異肉體怪物會憑藉蠻力與人數優勢來消除威脅。 然而，其中一些已演化出遠距離攻擊的能力。
+
+  可以宰殺取肉。 只要你能忍住不吐出來，這東西是可以吃的。
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 已知變體
+  # 「傑瑞德」
+
+  「傑瑞德」是一群毫無理智的肉盾，會不顧自身安危地衝向威脅。 他們似乎比一般人更脆弱。
+
   <Box>
   <GuideEntityEmbed Entity="MobFleshJaredExpeditions"/>
   <GuideEntityEmbed Entity="MobFleshJaredOldExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Golem"
-  
-  "Golems" are mindless brutes, similar to "Jareds" but with a heavier build. This makes them slightly more resilient, but less agile.
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 50（死亡）
+  - [bold][color=#a4885c]奔跑速度：[/color][/bold] 4.5 m/s[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 8 [color=red]鈍擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
+  [bold][color=#a4885c]*[/color][/bold] - [italic]一般人類的奔跑速度為 4.5 公尺/秒，步行速度為 2.5 公尺/秒。[/斜體]
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 「戈萊姆」
+
+  「戈萊姆」是沒有理智的莽夫，與「傑瑞德」相似，但體格更為魁梧。 這使得它們的韌性略為提升，但靈活性卻有所下降。
+
   <Box>
   <GuideEntityEmbed Entity="MobFleshGolemExpeditions"/>
   <GuideEntityEmbed Entity="MobFleshGolemAltExpeditions"/>
   <GuideEntityEmbed Entity="MobFleshGolemOldExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 70 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 70（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4.5 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 8 [color=red]鈍擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Clamp"
-  
-  "Clamps" are flying variants that have mutated to shoot biological projectiles, such as [color=#a4885c]bone spikes[/color] containing naturally secreted [color=lime]gastro toxins[/color] or small living organisms known simply as [color=#a4885c]"maws"[/color].
-  
-  [color=#a4885c]Flier[/color]: creature levitates above the ground and can bypass low obstacles such as tables, machine frames, or railings without being blocked or slowed down.
-  
+
+  # 「鉗子」
+
+  「鉗子」是經突變後能發射生物性彈丸的飛行變種，例如 [color=#a4885c]骨刺[/color]（內含天然分泌的 [color=lime]胃毒[/color]）或簡稱為 [color=#a4885c]「巨口」[/color] 的小型活體生物。
+
+  [color=#a4885c]飛行者[/color]：生物懸浮於地面之上，能夠越過桌子、機器框架或欄杆等低矮障礙物，且不會受到阻擋或減速。
+
   <Box>
   <GuideEntityEmbed Entity="MobFleshClampExpeditions"/>
   <GuideEntityEmbed Entity="DartAberrantFleshHorrorSpikeGuidebook"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 40 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 6 [color=yellow]Piercing[/color], 6 [color=lime]Toxin[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Flier, Shooter: bone spike / maw
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 40（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4.5 米/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 6 [color=yellow]穿刺[/color]，6 [color=lime]毒素[/color]
+  - [粗體][color=#a4885c]傷害抗性：[/color][/粗體] 無
+  - [粗體][color=#a4885c]特殊能力：[/color][/粗體] 飛行生物、射擊者：骨刺 / 巨口
+
   <GuideReagentEmbed Reagent="GastroToxin"/>
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
   <Box>
   <GuideEntityEmbed Entity="MobFleshClampOldExpeditions"/>
   <GuideEntityEmbed Entity="MobMawExpeditionsGuidebook"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 40 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 4 [color=red]Slash[/color] (maw)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Flier, Shooter: bone spike / maw
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 40（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4.5 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/粗體] 4 [color=red]斬擊[/color]（巨口）
+  - [粗體][color=#a4885c]傷害抗性：[/color][/粗體] 無
+  - [粗體][color=#a4885c]特殊能力：[/color][/bold] 飛行者、射擊者：骨刺／巨口
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Maw"
-  
-  Immobile, flesh-boring creatures that are launched at victims. They'll latch on with their teeth and bite their victims until killed or shaken off.
-  
+
+  # 「巨口」
+
+  無法移動、能鑽入肉體的生物，會被射向受害者。 牠們會用牙齒死死咬住獵物，並持續啃咬，直到獵物死亡或被甩開為止。
+
   <Box>
   <GuideEntityEmbed Entity="MobMawExpeditionsGuidebook"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 8 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 0 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 4 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 8（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 0 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 4 [color=red]斬擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Lover"
-  
-  The "Lover" shares similarities with "Jareds" and "Golems". Its light frame makes it fragile, but capable of flight.
-  
+
+  # 「戀人」
+
+  「戀人」與「傑瑞德」及「石像鬼」有相似之處。 它輕盈的機身使其雖顯脆弱，卻仍能翱翔天際。
+
   [color=#a4885c]Flier[/color]: creature levitates above the ground and can bypass low obstacles such as tables, machine frames, or railings without being blocked or slowed down.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobFleshLoverExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 30 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Flier
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 30（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 5 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 8 [color=red]鈍擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 飛行
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Partially assimilated miner"
-  
-  An unfortunate miner that was "infected" upon contact with aberrant flesh and has been slowly assimilated.
-  
+
+  # 「部分同化礦工」
+
+  一名不幸的礦工，在接觸異變肉體後遭到「感染」，並正逐漸被同化。
+
   <Box>
   <GuideEntityEmbed Entity="MobFleshAssimilatedMiner"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 140 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（致命），140（死亡）
+  - [bold][color=#a4885c]奔跑速度：[/color][/粗體] 4.5 公尺/秒
+  - [粗體][color=#a4885c]傷害（類型）：[/color][/粗體] 8 [color=red]鈍擊[/color]
+  - [粗體][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Horror"
-  
-  Tougher and more resilient than the average aberrant flesh monster, the "Horror" possesses sharp bone protrusions and highly developed musculature, allowing it to rend the flesh of its victims and tear through armor with efficiency.
-  
+
+  # 「恐怖」
+
+  「恐怖」比一般的變異肉怪更為強韌且耐打，其身上長有尖銳的骨刺，且肌肉發達，使其能高效地撕裂受害者的肉體並穿透盔甲。
+
   <Box>
   <GuideEntityEmbed Entity="MobHorrorExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 200 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.6 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 12 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] bone spike salvo (ghost role)
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 200（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4.6 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 12 [color=red]斬擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 骨刺齊射（幽靈角色）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Mission Objectives
-  ## Elimination
+
+  # 任務目標
+  ## 殲滅
   <Box>
   <GuideEntityEmbed Entity="MobHorrorExpeditions"/>
   </Box>
-  Eliminate a large and dangerous creature - an [color=#a4885c]aberrant flesh horror[/color] within given time constraints.
-  
-  ## Destruction
+  在指定的時間限制內，消滅一隻龐大且危險的生物——一隻 [color=#a4885c]異變肉體恐怖生物[/color]。
+
+  ## 毀滅
   <Box>
   <GuideEntityEmbed Entity="AberrantFleshDigestiveSack"/>
   </Box>
-  Destroy a certain number of [color=#a4885c]assimilation sacks[/color] within given time constraints. [bold][color=#a4885c]Note[/color][/bold]: each assimilation sack may spawn a few newborn aberrant flesh monsters periodically. Newborns are less robust than their fully grown counterparts.
+  在指定的時間限制內，摧毀一定數量的 [color=#a4885c]同化囊[/color]。 [粗體][color=#a4885c]注意[/color][/粗體]：每個同化袋可能會定期生成幾隻新生變異肉怪。 新生兒的體質不如成年人那樣強健。
 </Document>

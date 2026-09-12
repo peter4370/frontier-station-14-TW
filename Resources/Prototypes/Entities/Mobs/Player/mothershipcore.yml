@@ -9,8 +9,8 @@
   - BaseMachinePowered
   - BaseMob
   id: MothershipCore
-  name: mothership core
-  description: A sentient machine that can produce Xenoborgs. Without this the Xenoborgs are doomed.
+  name: 母艦核心
+  description: 一台能夠製造外星博格的有意識機器。若沒有這台機器，外星博格便注定滅亡。
   components:
   - type: Appearance
   - type: WiresVisuals
@@ -210,8 +210,8 @@
 - type: entity
   parent: BaseAGhostAction
   id: ActionXenoborgControlMonitor
-  name: Xenoborgs Control Console
-  description: View the Xenoborgs Control Console
+  name: 異形博格控制台
+  description: 檢視 Xenoborgs 控制台
   components:
   - type: Action
     icon: { sprite: Interface/Actions/actions_borg.rsi, state: xenoborg-basic-module }
@@ -224,8 +224,8 @@
 - type: entity
   parent: BaseAGhostAction
   id: ActionXenoborgCameraMonitor
-  name: Xenoborgs Camera Monitor
-  description: View the Xenoborgs Camera Monitor
+  name: Xenoborgs 攝影機螢幕
+  description: 檢視 Xenoborgs 攝影機螢幕
   components:
   - type: Action
     icon: { sprite: Interface/Actions/actions_borg.rsi, state: xenoborg-eye-module }

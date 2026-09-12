@@ -1,8 +1,8 @@
 - type: entity
-  name: jug
+  name: 水壺
   parent: [BaseItem, RecyclableItemPlasticMedium] # Frontier: addded RecyclableItemPlasticMedium
   id: Jug
-  description: Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+  description: 曾用於盛裝大量化學物質或溶液。極不建議一口氣喝光。
   components:
     - type: SolutionContainerManager
       solutions:

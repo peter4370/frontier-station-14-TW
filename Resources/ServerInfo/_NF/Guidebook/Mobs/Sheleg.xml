@@ -1,3 +1,4 @@
+
 <Document>
   # Shelegs
 
@@ -5,33 +6,33 @@
     <GuideEntityEmbed Entity="MobSheleg" Caption=""/>
   </Box>
 
-  Sheleg are a race of ice-like humanoid beings possessing blue skin and white hair, with a strong Nordic culture.
+  謝萊格（Sheleg）是一支冰霜般的類人生物種族，擁有藍色肌膚與白色頭髮，並具備濃厚的北歐文化特質。
 
-  ## Diet
-  - Normal medical chemicals have no effect, however cryo chemicals work with their cold body temperature.
+  ## 飲食
+  - 一般的醫療用化學藥劑對其無效，但低溫化學藥劑能利用牠們低體溫的特性發揮作用。
 
-  ## Benefits
-  - Takes [color=#1e90ff]no Cold damage and 20% less Blunt, Slash and Piercing damage.[/color]
-  - Due to their large size they can easily carry, shove and pull any other morphotypes.
+  ## 優勢
+  - [color=#1e90ff]完全不受寒冷傷害，且鈍擊、斬擊與穿刺傷害減少 20%。[/color]
+  - 由於體型龐大，牠們能輕易搬運、推擠及拉拽任何其他形態體。
   - They are harder to shove.
-  - Being cold has no walking and running speed reductions.
-  - As long as they are alive, they [color=#1e90ff]slowly passively heal heat damage.[/color]
+  - 受寒不會降低行走與奔跑的速度。
+  - 只要牠們還活著，就會 [color=#1e90ff]緩慢且被動地恢復熱傷害。[/color]
 
-  ## Special
-  - They have a body temperature of -172 °C. This requires them to wear an EVA suit in standard station atmospheres and they always start the shift provided with one.
-  - Cryoxadone blood.
-  - Inhale oxygen and exhale water vapor.
-  - Get hungry slower, but thirsty faster.
-  - Have no floor friction with no shoes.
-  - Bare-hand attacks deal Cold damage in addition to Blunt.
+  ## 特殊
+  - 牠們的體溫為 -172 °C。 這要求他們在空間站的標準大氣環境中穿著 EVA 太空服，而且他們每次開始輪班時都會配備一套。
+  - 克萊奧薩多恩血液。
+  - 吸入氧氣，呼出水蒸氣。
+  - 飢餓感來得較慢，但口渴感來得較快。
+  - 若不穿鞋，則不會與地板產生摩擦。
+  - 徒手攻擊除了造成鈍擊傷害外，還會造成寒冷傷害。
 
-  ## Drawbacks
-  - They are harder to carry and pull.
-  - They are larger than humans, making them easier to hit.
-  - They take [color=#ffa500]65% more Heat and 25% more Shock damage.[/color]
-  - They take [color=#ffa500]high Heat damage above 0 °C body temperature.[/color]
-  - They cannot be injected with syringes, hyposprays or darts due to their hardened skin.
-  - Slow food and chemical metabolisation means that they can only process one chemical at a time.
-  - They [color=#ffa500]react violently with potassium: touching it hurts, drinking it melts them.[/color]
+  ## 缺點
+  - 攜帶和拉動起來較為費力。
+  - 牠們比人類還大，因此更容易擊中。
+  - 牠們承受的 [color=#ffa500]熱傷害增加 65%，衝擊傷害增加 25%。[/color]
+  - 當體溫高於 0 °C 時，牠們會承受 [color=#ffa500]高熱傷害。[/color]
+  - 由於皮膚硬化，無法使用注射器、皮下噴霧器或麻醉飛鏢對其進行注射。
+  - 由於代謝速度緩慢，且化學物質的代謝過程較為緩慢，這意味著它們一次只能處理一種化學物質。
+  - 它們 [color=#ffa500]會與鉀發生劇烈反應：接觸鉀會感到疼痛，喝下鉀溶液則會使它們融化。[/color]
 
 </Document>

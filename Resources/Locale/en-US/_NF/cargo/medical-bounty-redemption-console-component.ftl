@@ -1,25 +1,21 @@
-medical-bounty-redemption-fail-no-items = Nothing detected in container.
-medical-bounty-redemption-fail-no-bounty = No bounty found on items in container.
-medical-bounty-redemption-fail-too-much-damage = Recovered body too damaged to redeem bounty.
-medical-bounty-redemption-fail-not-alive = Body must be revived before redeeming bounty.
-medical-bounty-redemption-success = Bounty redeemed! Payment dispensed.
-medical-bounty-redemption-success-to-station = Bounty redeemed! Payment sent to station accounts.
-
-medical-bounty-redemption-ui-title = Body Retrieval Unit
-
-medical-bounty-redemption-body-label-init = Systems booting.
-medical-bounty-redemption-body-label-no-items = No body detected.
-medical-bounty-redemption-body-label-body-present = Body present.
-medical-bounty-redemption-body-label-valid-bounty = Redeemable bounty found.
-
-medical-bounty-redemption-redeem-label-init = Loading NT BIOS v72.1...
-medical-bounty-redemption-redeem-label-no-items = Insert redeemable body into container.
-medical-bounty-redemption-redeem-label-no-bounty = No bounty detected.
-medical-bounty-redemption-redeem-label-too-much-damage = Body too damaged to redeem bounty.
-medical-bounty-redemption-redeem-label-not-alive = Must revive body before redeeming bounty.
-medical-bounty-redemption-redeem-label-valid-bounty = Value: {$amount}.
-medical-bounty-redemption-redeem-label-valid-bounty-to-station = Value: {$amount} (paid to station accounts).
-
-medical-bounty-redemption-ui-sell-button = Redeem
-medical-bounty-console-flavor-left = Treat all bodies as though they're family.
+medical-bounty-redemption-fail-no-items = 在容器中未偵測到任何內容。
+medical-bounty-redemption-fail-no-bounty = 未在容器內的物品上發現懸賞。
+medical-bounty-redemption-fail-too-much-damage = 尋獲的遺體損毀過於嚴重，無法領取懸賞金。
+medical-bounty-redemption-fail-not-alive = 在兌換賞金之前，必須先復活屍體。
+medical-bounty-redemption-success = 賞金已兌現！款項已發放。
+medical-bounty-redemption-success-to-station = 賞金已兌現！款項已匯入站點帳戶。
+medical-bounty-redemption-ui-title = 遺體尋回小組
+medical-bounty-redemption-body-label-init = 系統正在啟動。
+medical-bounty-redemption-body-label-no-items = 未偵測到任何物體。
+medical-bounty-redemption-body-label-body-present = 遺體已尋獲。
+medical-bounty-redemption-body-label-valid-bounty = 已發現可兌換的賞金。
+medical-bounty-redemption-redeem-label-init = 正在載入 NT BIOS v72.1...
+medical-bounty-redemption-redeem-label-no-items = 將可兌換的本體放入容器中。
+medical-bounty-redemption-redeem-label-no-bounty = 未偵測到懸賞。
+medical-bounty-redemption-redeem-label-too-much-damage = 屍體損毀過於嚴重，無法兌領懸賞金。
+medical-bounty-redemption-redeem-label-not-alive = 必須先復活身體，才能領取賞金。
+medical-bounty-redemption-redeem-label-valid-bounty = 值：{ $amount }。
+medical-bounty-redemption-redeem-label-valid-bounty-to-station = 金額：{ $amount }（支付至車站帳戶）。
+medical-bounty-redemption-ui-sell-button = 兌換
+medical-bounty-console-flavor-left = 將所有遺體都當作家人一樣對待。
 medical-bounty-console-flavor-right = v3.1

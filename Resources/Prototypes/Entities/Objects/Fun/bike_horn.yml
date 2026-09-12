@@ -2,7 +2,7 @@
   parent: BaseItem
   id: BikeHorn
   name: bike horn
-  description: A horn off of a bicycle.
+  description: 一隻自行車的喇叭。
   components:
   - type: Sprite
     sprite: Objects/Fun/bikehorn.rsi
@@ -66,7 +66,7 @@
   parent: BaseItem
   id: CluwneHorn
   name: broken bike horn
-  description: A broken horn off of a bicycle.
+  description: 一隻從自行車上斷下的車鈴。
   components:
   - type: UseDelay
   - type: Sprite
@@ -124,9 +124,9 @@
 - type: entity
   parent: BikeHorn
   id: GoldenBikeHorn
-  name: golden honker
+  name: 金鵝
   categories: [ DoNotMap ]
-  description: A happy honk prize, pray to the gods for your reward.
+  description: 一聲歡快的喇叭聲，就是獎品，祈求諸神賜予你獎賞吧。
   components:
   - type: Sprite
     sprite: Objects/Fun/goldbikehorn.rsi
@@ -150,8 +150,8 @@
 - type: entity
   parent: BikeHorn
   id: BananiumHorn
-  name: bananium horn
-  description: An air horn made from bananium.
+  name: 香蕉角
+  description: 一款由香蕉木製成的氣喇叭。
   components:
   - type: Sprite
     sprite: Objects/Fun/bananiumhorn.rsi
@@ -209,8 +209,8 @@
 - type: entity
   parent: BaseItem
   id: PushHorn
-  name: push horn
-  description: This powerful bikehorn is sure to blast frowns away.
+  name: 按鈕喇叭
+  description: 這款強勁的自行車喇叭，絕對能讓那些皺眉的表情一掃而空。
   components:
   - type: Sprite
     sprite: Objects/Fun/push_horn.rsi

@@ -1,7 +1,7 @@
 - type: entity
   id: FloorWaterEntity
   name: water
-  description: A real thirst quencher.
+  description: 這真是解渴的好東西。
   placement:
     mode: SnapgridCenter
     snap:

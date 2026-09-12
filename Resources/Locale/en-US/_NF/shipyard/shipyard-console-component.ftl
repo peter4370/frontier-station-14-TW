@@ -1,90 +1,84 @@
 ## UI
-shipyard-console-invalid-vessel = Cannot purchase vessel:
-shipyard-console-menu-title = Shipyard Menu
+
+shipyard-console-invalid-vessel = 無法購買船舶：
+shipyard-console-menu-title = 造船廠選單
 shipyard-console-menu-listing-free = Free
-shipyard-console-docking = {$owner} shuttle {$vessel} en route.
-shipyard-console-leaving = {$owner} shuttle {$vessel} sold by {$player}.
-shipyard-console-docking-secret = Unregistered vessel detected entering your sector.
-shipyard-console-leaving-secret = Unregistered vessel detected leaving your sector.
-shipyard-commands-purchase-desc = Spawns and FTL docks a specified shuttle from a grid file.
-shipyard-console-no-idcard = Insert ID card.
-shipyard-console-already-deeded = ID card already has a Deed.
-shipyard-console-invalid-station = Not a valid station.
-shipyard-console-no-bank = No bank account found.
-shipyard-console-no-deed = No ship deed found.
-shipyard-console-sale-reqs = Ship must be docked and all crew disembarked.
-shipyard-console-sale-not-docked = Ship must be docked.
-shipyard-console-sale-organic-aboard = All crew must disembark. {$name} is still aboard.
+shipyard-console-docking = { $owner } 接駁車 { $vessel } 正在途中。
+shipyard-console-leaving = { $owner } 穿梭機 { $vessel } 由 { $player } 販售。
+shipyard-console-docking-secret = 偵測到一艘未登記船隻進入您的管轄區。
+shipyard-console-leaving-secret = 偵測到一艘未註冊船隻正離開您的管轄區。
+shipyard-commands-purchase-desc = 根據網格檔案，生成並將指定的一艘穿梭機停靠至 FTL 停泊站。
+shipyard-console-no-idcard = 請插入身分證。
+shipyard-console-already-deeded = 身分證上已經附有產權證明書。
+shipyard-console-invalid-station = 此非有效車站。
+shipyard-console-no-bank = 未找到銀行帳戶。
+shipyard-console-no-deed = 未找到船舶產權文件。
+shipyard-console-sale-reqs = 船舶必須靠泊，且所有船員均須下船。
+shipyard-console-sale-not-docked = 船隻必須靠泊。
+shipyard-console-sale-organic-aboard = 所有船員必須下船。{ $name } 仍留在船上。
 # This error message is bad, but if it happens, something awful's happened.
-shipyard-console-sale-invalid-ship = Ship is invalid and cannot be sold.
-shipyard-console-sale-unknown-reason = Ship cannot be sold: {reason}
-shipyard-console-no-idcard-helper-line1 = Insert ID card to buy or sell a ship.
-shipyard-console-no-idcard-helper-line2 = Your ID card is in your PDA.
-shipyard-console-deed-label = Registered Ship:
-shipyard-console-appraisal-label = Shuttle Resale Value:{" "}
-shipyard-console-no-voucher-redemptions = All voucher redemptions have been used.
-shipyard-console-invalid-voucher-type = This voucher cannot be used at this console.
-shipyard-console-borg-chip = Cyborg chips cannot be used to purchase a ship.
-
-shipyard-console-contraband-onboard = Smuggled contraband detected onboard.
-shipyard-console-station-resources = Vital station resources detected onboard.
-shipyard-console-dangerous-materials = Dangerous materials detected onboard.
-shipyard-console-cute-pets = Adorable pets detected onboard.
-shipyard-console-fallback-prevent-sale = YML-class bugs detected onboard. Please file a bug report when possible.
-
-shipyard-console-menu-size-label = Size:{" "}
-shipyard-console-menu-class-label = Class:{" "}
-shipyard-console-menu-engine-label = Engine:{" "}
-shipyard-console-menu-sortby-label = Sort By:{" "}
-
+shipyard-console-sale-invalid-ship = 該船隻無效，無法出售。
+shipyard-console-sale-unknown-reason = 船舶不得出售： { reason }
+shipyard-console-no-idcard-helper-line1 = 請插入身分證以買賣船隻。
+shipyard-console-no-idcard-helper-line2 = 您的身分證就在您的PDA裡。
+shipyard-console-deed-label = 註冊船舶：
+shipyard-console-appraisal-label = Shuttle 轉售價值：{ " " }
+shipyard-console-no-voucher-redemptions = 所有禮券兌換額度均已用罄。
+shipyard-console-invalid-voucher-type = 此禮券無法在此主機上使用。
+shipyard-console-borg-chip = 無法使用賽博格晶片購買船隻。
+shipyard-console-contraband-onboard = 船上發現走私的違禁品。
+shipyard-console-station-resources = 偵測到機上具備關鍵站點資源。
+shipyard-console-dangerous-materials = 機上偵測到危險物品。
+shipyard-console-cute-pets = 機上偵測到可愛的寵物。
+shipyard-console-fallback-prevent-sale = 在系統中偵測到 YML 類別的錯誤。請在方便時提交錯誤報告。
+shipyard-console-menu-size-label = 尺寸：{ " " }
+shipyard-console-menu-class-label = 類別：{ " " }
+shipyard-console-menu-engine-label = 引擎：{ " " }
+shipyard-console-menu-sortby-label = 排序方式：{ " " }
 shipyard-console-purchase-available = Purchase
-shipyard-console-guidebook = Manual
-
+shipyard-console-guidebook = 手冊
 # Keep these in enum order for ease of validation.
 shipyard-console-category-All = All
-shipyard-console-category-Micro = Micro
+shipyard-console-category-Micro = 微型
 shipyard-console-category-Small = Small
 shipyard-console-category-Medium = Medium
 shipyard-console-category-Large = Large
-
 shipyard-console-class-All = All
-shipyard-console-class-Expedition = Expedition
-shipyard-console-class-Scrapyard = Scrapyard
+shipyard-console-class-Expedition = 探險
+shipyard-console-class-Scrapyard = 廢車場
 shipyard-console-class-Salvage = Salvage
 shipyard-console-class-Science = Science
-shipyard-console-class-Cargo = Cargo
-shipyard-console-class-Chemistry = Chemistry
-shipyard-console-class-Botany = Botany
+shipyard-console-class-Cargo = 貨物
+shipyard-console-class-Chemistry = 化學
+shipyard-console-class-Botany = 植物學
 shipyard-console-class-Engineering = Engineering
 shipyard-console-class-Atmospherics = Atmospherics
 shipyard-console-class-Medical = Medical
-shipyard-console-class-Civilian = Civilian
+shipyard-console-class-Civilian = 平民
 shipyard-console-class-Kitchen = Kitchen
 # Antag
 shipyard-console-class-Syndicate = Syndicate
 shipyard-console-class-Pirate = Pirate
 # NFSD
-shipyard-console-class-Capital = Capital
-shipyard-console-class-Detainment = Detainment
+shipyard-console-class-Capital = 首都
+shipyard-console-class-Detainment = 拘留
 shipyard-console-class-Detective = Detective
 shipyard-console-class-Fighter = Fighter
-shipyard-console-class-Patrol = Patrol
-shipyard-console-class-Pursuit = Pursuit
-
+shipyard-console-class-Patrol = 巡邏
+shipyard-console-class-Pursuit = 追逐
 shipyard-console-engine-All = All
 shipyard-console-engine-AME = AME
 shipyard-console-engine-TEG = TEG
-shipyard-console-engine-Supermatter = Supermatter
-shipyard-console-engine-Tesla = Tesla
-shipyard-console-engine-Singularity = Singularity
-shipyard-console-engine-Solar = Solar
+shipyard-console-engine-Supermatter = 超物質
+shipyard-console-engine-Tesla = 特斯拉
+shipyard-console-engine-Singularity = 奇點
+shipyard-console-engine-Solar = 太陽能
 shipyard-console-engine-RTG = RTG
 shipyard-console-engine-APU = APU
-shipyard-console-engine-Thermoelectric = Thermoelectric
-shipyard-console-engine-Welding = Welding Fuel
-shipyard-console-engine-Plasma = Plasma
-shipyard-console-engine-Uranium = Uranium
-shipyard-console-engine-Bananium = Bananium
-
-shipyard-console-sortby-Name = Name
+shipyard-console-engine-Thermoelectric = 熱電
+shipyard-console-engine-Welding = 焊接燃料
+shipyard-console-engine-Plasma = 等離子體 Plasma
+shipyard-console-engine-Uranium = 鈾 Uranium
+shipyard-console-engine-Bananium = 巴納尼姆 Bananium
+shipyard-console-sortby-Name = 姓名
 shipyard-console-sortby-Price = Price

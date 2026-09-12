@@ -2,7 +2,7 @@
   id: BoozeDispenserEmpty
   name: booze dispenser
   suffix: Empty
-  description: A booze dispenser with a single slot for a container to be filled.
+  description: 一款設有單一插槽的酒類分裝機，用於填充容器。
   parent: ReagentDispenserBase
   components:
   - type: Rotatable

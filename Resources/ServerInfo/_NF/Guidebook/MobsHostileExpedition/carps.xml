@@ -1,146 +1,147 @@
+
 <Document>
-  # Carps
-  
-  Space Carp are alien lifeforms that travel through space in schools. In the event a space station is in the path of a traveling school, anyone unlucky enough to be outside of the station's walls will be attacked.
-  
+  # 鯉魚
+
+  太空鯉是一種成群結隊在太空中遊蕩的外星生命體。 倘若太空站位於行進中的星團路徑上，任何不幸身處太空站外牆之外的人都會遭到攻擊。
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Known Variants
-  # "Carp"
-  
-  A variant of the common space carp, evolved to "swim" through gravity. Equally dangerous.
-  
+
+  # 已知變種
+  # 「鯉魚」
+
+  這是常見太空鯉魚的一種變種，已進化到能夠在重力環境中「游動」。 同樣危險。
+
   [color=#a4885c]Flier[/color]: creature levitates above the ground and can bypass low obstacles such as tables, machine frames, or railings without being blocked or slowed down.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobCarp"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 5 [color=red]Slash[/color], 5 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Flier
-  
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Magicarp"
-  
-  A lesser version of spaceproof giant carp believed to have magic powers. Contrary to popular belief, does not possess magical abilities.
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 50（死亡）
+  - [bold][color=#a4885c]奔跑速度：[/color][/bold] 4.5 公尺/秒[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 5 [color=red]劈砍[/color]，5 [color=yellow]穿刺[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 飛行
+
+  [bold][color=#a4885c]*[/color][/bold] - [italic]一般人類的奔跑速度為 4.5 公尺/秒，步行速度為 2.5 公尺/秒。[/斜體]
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 「魔鯉」
+
+  被認為擁有魔法力量的「抗太空巨鯉」的較低階版本。 與普遍認知相反，他並不具備魔法能力。
+
   [color=#a4885c]Flier[/color]: creature levitates above the ground and can bypass low obstacles such as tables, machine frames, or railings without being blocked or slowed down.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobCarpMagic"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 5 [color=red]Slash[/color], 5 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Flier
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Holocarp"
-  
-  Carp made out of holographic energies. Sadly for you, it is very much real.
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 50（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4.5 m/s
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 5 [color=red]斬擊[/color]，5 [color=yellow]穿刺[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/粗體] 無
+  - [粗體][color=#a4885c]特殊能力：[/color][/粗體] 飛行
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 「全息鯉魚」
+
+  由全息能量構成的鯉魚。 對你來說很遺憾，這確實是千真萬確的。
+
   [color=#a4885c]Flier[/color]: creature levitates above the ground and can bypass low obstacles such as tables, machine frames, or railings without being blocked or slowed down.
-  
+
   [color=#a4885c]Incorporeal[/color]: can only be damaged by melee attacks or energy weapons.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobCarpHolo"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 5 [color=red]Slash[/color], 5 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Flier, Incorporeal
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 50（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4.5 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 5 [color=red]斬擊[/color]，5 [color=yellow]穿刺[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 飛行、無形
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Rainbowcarp"
-  
-  "Wow such a shiny fishie!" you might say. Reasonable, but these are deadly nonetheless.
-  
+
+  # 「彩虹鯉」
+
+  「哇，這條小魚好閃亮啊！」你可能會這麼說。 這話說得有道理，但這些東西終究還是致命的。
+
   [color=#a4885c]Flier[/color]: creature levitates above the ground and can bypass low obstacles such as tables, machine frames, or railings without being blocked or slowed down.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobCarpRainbow"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 5 [color=red]Slash[/color], 5 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Flier
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 50（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4.5 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 5 [color=red]斬擊[/color]，5 [color=yellow]穿刺[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 飛行者
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Sharkminnow"
-  
-  A dangerous shark from the blackness of endless space, who loves to drink blood.
-  
+
+  # 「鯊魚小魚」
+
+  一隻來自無盡太空黑暗之中的危險鯊魚，嗜血成性。
+
   [color=#a4885c]Flier[/color]: creature levitates above the ground and can bypass low obstacles such as tables, machine frames, or railings without being blocked or slowed down.
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobShark"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 80 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 7 [color=red]Slash[/color], 5 [color=#9A54BF]Bloodloss[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Flier
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 80（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4.5 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 7 [color=red]斬擊[/color]，5 [color=#9A54BF]失血[/color]
+  - [粗體][color=#a4885c]傷害抗性：[/color][/粗體] 無
+  - [粗體][color=#a4885c]特殊能力：[/color][/bold] 飛行生物
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Snake"
-  
-  A small but menacing poisonous snake, distant relative of purple snake from Kepler-283c.
-  
-  [color=#a4885c]Small[/color]: creature is small enough to pass under tables and airlocks.
-  
+
+  # 「蛇」
+
+  一條體型雖小卻極具威脅性的毒蛇，是來自 Kepler-283c 的紫色蛇的遠親。
+
+  [color=#a4885c]小型[/color]：該生物體型足夠小，能夠鑽過桌子與氣閘下方。
+
   <Box>
   <GuideEntityEmbed Entity="MobSnake"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 4.5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 3 [color=red]Slash[/color], 3 [color=#9A54BF]Bloodloss[/color], 4 [color=lime]Poison[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Small, Poison
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 50（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 4.5 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 3 [color=red]斬擊[/color]，3 [color=#9A54BF]失血[/color]、4 [color=lime]毒[/color]
+  - [粗體][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 體型小，中毒
+
   <GuideReagentEmbed Reagent="Toxin"/>
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Space Dragon"
-  
-  A flying leviathan, loosely related to space carps. Capable of rending doors with its powerful jaws and known to eat its victims whole.
-  
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 「太空龍」
+
+  一隻會飛的巨獸，與太空鯉魚有若即若離的關聯。 它能憑藉強勁的下顎撕開門，且以將獵物整隻吞下而聞名。
+
   [color=#a4885c]Flier[/color]: creature levitates above the ground and can bypass low obstacles such as tables, machine frames, or railings without being blocked or slowed down.
-  
+
   <Box>
   <GuideEntityEmbed Entity="NFMobDragonDungeon"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 200 (death)
-  - [bold][color=#a4885c]Run speed:[/color][/bold] 5 m/s
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 15 [color=red]Slash[/color], 15 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Flier
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Mission Objectives
-  ## Elimination
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 200（死亡）
+  - [粗體][color=#a4885c]奔跑速度：[/color][/bold] 5 公尺/秒
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 15 [color=red]斬擊[/color]、15 [color=yellow]穿刺[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/粗體] 無
+  - [粗體][color=#a4885c]特殊能力：[/color][/粗體] 飛行
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 任務目標
+  ## 消滅
   <Box>
   <GuideEntityEmbed Entity="NFMobDragonDungeon"/>
   </Box>
-  Eliminate a large and dangerous creature - a [color=#a4885c]space dragon[/color] within given time constraints.
-  
+  在指定的時間限制內，消滅一隻龐大且危險的生物——一隻 [color=#a4885c]太空龍[/color]。
+
   ## Destruction
   <Box>
   <GuideEntityEmbed Entity="CarpStatue"/>
   </Box>
-  Destroy a certain number of [color=#a4885c]carp statues[/color] within given time constraints.
+  在指定的時間限制內，摧毀一定數量的 [color=#a4885c]鯉魚雕像[/color]。
 </Document>

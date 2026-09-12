@@ -1,8 +1,8 @@
 - type: entity
   id: Turnstile
   parent: BaseStructure
-  name: turnstile
-  description: A mechanical door that permits one-way access and prevents tailgating.
+  name: 旋轉閘
+  description: 一種允許單向通行並防止尾隨進入的機械式門。
   components:
   - type: Sprite
     sprite: Structures/Doors/turnstile.rsi

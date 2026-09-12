@@ -1,25 +1,26 @@
+
 <Document>
-  # STRINGER-CLASS SERVICE SHUTTLE
+  # 斯特林格級服務接駁車
   <Box>
   <GuideEntityEmbed Entity="NFPosterContrabandLvhiSpace" Caption=""/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapStringer" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻大小：[/color] 小型
 
-	[color=#a4885c]Recommended Crew:[/color] 2+
+	[color=#a4885c]建議船員人數：[/color] 2 人以上
 
-	[color=#a4885c]Power Gen Type:[/color] Uranium
+	[color=#a4885c]發電類型：[/color] 鈾
 
-	[color=#a4885c]Expeditions:[/color] None
+	[color=#a4885c]探險任務：[/color] 無
 
-	[color=#a4885c]IFF Console:[/color] None
+	[color=#a4885c]敵我識別（IFF）控制台：[/color] 無
 
-  "A small shuttle featuring a recording studio and interview room equipped with a holopad for live calls during shows, as well as a newsroom. Manufactured by Langstad-Voigt Heavy Industries."
+  「一艘小型穿梭機，配備錄音室與採訪室，採訪室內設有全息平板，可在節目直播時進行即時通話，此外還設有新聞編輯室。」 Manufactured by Langstad-Voigt Heavy Industries."
 
-  # Tips on running LVHI Stringer shuttles:
-  - Optimal [bold]Target Power[/bold] (kW) for the generator unit is [color=#a4885c]22 [bold]kW[/bold][/color]. If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
+  # 操作 LVHI Stringer 穿梭機的要訣：
+  - 發電機組的最佳 [bold]目標功率[/bold] (kW) 為 [color=#a4885c]22 [bold]kW[/bold][/color]。 If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
   - There are two buttons in the cockpit: the one with a yellow and black frame controls the window shutters. The button with the gray frame controls the mini anchor.
   <Box>
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Toggle Shutters"/>

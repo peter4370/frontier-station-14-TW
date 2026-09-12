@@ -1,21 +1,22 @@
+
 <Document>
-  # COFFEEHOUSE-CLASS RESTAURANT SHUTTLE
+  # 咖啡館風格餐廳接駁車
   <Box Margin="-100">
   <GuideEntityEmbed Entity="ShuttleBannerCoffeehouse" Caption="" Margin="-20"/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapCoffeehouse" Caption="" Margin="-20"/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻尺寸：[/color] 小型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-2
+  [color=#a4885c]建議乘員人數：[/color] 1-2 人
 
-  [color=#a4885c]Power Gen Type:[/color] Plasma
+  [color=#a4885c]動力類型：[/color] 等離子
 
-  # Shuttle Brief
+  # 飛船簡介
 
-  "A small and comfortable café ship to lounge in.
-  It contains all the supplies you might need to make accompanying desserts and dishes, ready to brew the best coffee, tea, and chocolate in the galaxy."
+  「一艘小巧舒適、適合悠閒放鬆的咖啡館飛船。」
+  「這裡備齊了您製作搭配甜點與菜餚所需的所有食材，讓您隨時都能沖泡出銀河系中最棒的咖啡、茶和熱巧克力。」
 
   [italic]Brought to you by Settler's Spacecraft Firm.[/italic]
 
@@ -27,11 +28,11 @@
   <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Toggle Shutters"/>
   </Box>
 
-  # Food and Drinks
+  # 餐飲
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  ## Brewing Coffee
+  ## 沖泡咖啡
 <Table Columns="3">
     <ColorBox Color="#a88b5e">
       <Box VerticalAlignment="Center">
@@ -148,17 +149,17 @@
 
   [bold][color=#a4885c]__________[/color]
 
-  ## Other Brews
-  
-  Other brews with similar method to brewing coffee.
-  
-  [color=#a4885c]Tea:[/color] 1:5 ratio of tea to water.
+  ## 其他沖泡方式
 
-  [color=#a4885c]Hot Cocoa:[/color] 1:1 ratio of cocoa powder to water
+  其他與沖泡咖啡方法相似的沖泡方式。
+
+  [color=#a4885c]茶：[/color] 茶與水的比例為 1:5。
+
+  [color=#a4885c]熱可可：[/color] 可可粉與水的比例為 1:1
 
   [bold][color=#a4885c]__________[/color]
 
-  ## Related Guides
+  ## 相關指南
 <Table Columns="3">
     <ColorBox Color="#a88b5e">
       <Box VerticalAlignment="Center">
@@ -195,17 +196,17 @@
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # Piloting
-  ### Piloting Equipment Specifications:
-  [color=#a4885c]Thrusters:[/color] [bold]6 Standard[/bold] [color=#999999](2 Forward, 2 Backward, 1 Left, 1 Right.)[/color]
+  # 駕駛
+  ### 駕駛設備規格：
+  [color=#a4885c]推進器：[/color] [bold]6 具標準型[/bold] [color=#999999](2 具向前、2 具向後、1 具向左、1 具向右。)[/color]
 
-  [color=#a4885c]Gyroscopes:[/color] [bold]1 Standard[/bold]
+  [color=#a4885c]陀螺儀：[/color] [bold]1 標準[/bold]
 
-  [color=#a4885c]This shuttle is equipped with a thruster/gyroscope switch, check the ship functions section.[/color]
+  [color=#a4885c]這艘太空梭配備了推進器/陀螺儀切換開關，請參閱「飛船功能」章節。[/color]
 
   [bold][color=#a4885c]__________[/color]
-  
-  ## Related Guides
+
+  ## 相關指南
 
 <Table Columns="2">
     <ColorBox Color="#a88b5e">
@@ -238,15 +239,15 @@
   - [textlink="For details on the process of Hiring, click here." link="Hiring"/]
 
   [color=#a4885c] As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will. [/color]
-  
-  ### Recommended Positions:
-  [color=#a4885c]Barista:[/color] Brew and serves drinks for customers.
 
-  [color=#a4885c]Botanist:[/color] Grows and harvests ingredients for drinks, such as coffee beans and tea leaves.
+  ### 推薦職位：
+  [color=#a4885c]咖啡師：[/color] 為顧客沖泡並提供飲品。
 
-  [bold][color=#a4885c]________________________________________________________________________[/color]
+  [color=#a4885c]植物學家：[/color] 種植並採收用於調製飲品的原料，例如咖啡豆和茶葉。
 
-  # Fuel and Power
+  [粗體][顏色=#a4885c]________________________________________________________________________[/顏色]
+
+  # 燃料與動力
 
 <Table Columns="2">
     <ColorBox Color="#a88b5e">

@@ -2,7 +2,7 @@
   id: Emitter
   name: emitter
   parent: ConstructibleMachine # Frontier: SmallConstructibleMachine<ConstructibleMachine (remove RequireProjectileTarget)
-  description: A heavy duty industrial laser. Shoots non-stop when turned on.
+  description: 一款重型工業用雷射器。一經開啟即可持續發射。
   placement:
     mode: SnapgridCenter
   components:

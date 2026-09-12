@@ -2,7 +2,7 @@
   name: spear
   parent: [BaseItem, BaseC1Contraband] # BaseMinorContraband<BaseC1Contraband
   id: Spear
-  description: Definition of a Classic. Keeping murder affordable since 200,000 BCE.
+  description: 經典之作的定義。自公元前200,000年起，讓謀殺始終物美價廉。
   components:
   - type: EmbeddableProjectile
     offset: -0.15,0.0
@@ -120,10 +120,10 @@
 
 
 - type: entity
-  name: reinforced spear
+  name: 加固長矛
   parent: Spear
   id: SpearReinforced
-  description: A spear with a reinforced glass shard as a tip.
+  description: 一支以強化玻璃碎片作為矛尖的長矛。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/reinforced_spear.rsi
@@ -140,10 +140,10 @@
     graph: SpearReinforced
 
 - type: entity
-  name: plasma spear
+  name: 等離子長矛
   parent: Spear
   id: SpearPlasma
-  description: A spear with a plasma shard as a tip.
+  description: 一支矛，矛尖鑲有等離子碎片。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/plasma_spear.rsi
@@ -160,10 +160,10 @@
     graph: SpearPlasma
 
 - type: entity
-  name: uranium spear
+  name: 鈾矛
   parent: Spear
   id: SpearUranium
-  description: A spear with a uranium shard as a tip.
+  description: 一支以鈾片作為矛尖的長矛。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/uranium_spear.rsi
@@ -182,10 +182,10 @@
     graph: SpearUranium
 
 - type: entity
-  name: bone spear
+  name: 骨矛
   parent: Spear
   id: SpearBone
-  description: A spear made of bones.
+  description: 一支用骨頭製成的長矛。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/bone_spear.rsi
@@ -217,10 +217,10 @@
         acts: [ "Destruction" ]
 
 - type: entity
-  name: sharkminnow tooth spear
+  name: 鯊魚小魚牙矛
   parent: Spear
   id: SpearSharkMinnow
-  description: A spear with a sharkminnow tooth as a tip.
+  description: 一支以鯊魚鯽魚牙齒作為矛尖的長矛。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/sharkminnow_spear.rsi

@@ -1,3 +1,3 @@
 # Add slots to the daishou
-clothing-belt-katana = Katana
-clothing-belt-wakizashi = Wakizashi
+clothing-belt-katana = 武士刀
+clothing-belt-wakizashi = 脇差

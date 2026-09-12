@@ -39,4 +39,4 @@ names-borg-dataset-38 = S.A.U.L
 names-borg-dataset-39 = Honker
 names-borg-dataset-40 = Is-The-Robot
 names-borg-dataset-41 = 9 of 7
-names-borg-dataset-42 = Dank bot
+names-borg-dataset-42 = 丹克機器人

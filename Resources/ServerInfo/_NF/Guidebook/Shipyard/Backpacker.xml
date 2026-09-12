@@ -1,5 +1,6 @@
+
 <Document>
-# BACKPACKER-CLASS CIVILIAN SHUTTLE
+# 背包客級平民接駁車
 <Box>
   <GuideEntityEmbed Entity="NFBedrollFolded" Caption="Roadtrip!"/>
   <GuideEntityEmbed Entity="KitchenElectricRange" Caption="Home-cooked-meal!"/>
@@ -10,19 +11,19 @@
   <GuideEntityEmbed Entity="ShuttleMapBackpacker" Caption=""/>
 </Box>
 
-[color=#a4885c]Ship Size:[/color] Medium
+[color=#a4885c]船隻尺寸：[/color] 中型
 
-[color=#a4885c]Recommended Crew:[/color] 1-2
+[color=#a4885c]建議船員人數：[/color] 1-2 人
 
-[color=#a4885c]Power Gen Type:[/color] Plasma
+[color=#a4885c]動力類型：[/color] 等離子
 
-[color=#a4885c]Expeditions:[/color] None
+[color=#a4885c]探險任務：[/color] 無
 
-[color=#a4885c]IFF Console:[/color] None
+[color=#a4885c]敵我識別（IFF）控制台：[/color] 無
 
-# Shuttle Brief
+# 穿梭機簡介
 
-"A small recreational shuttle for all your out in space adventure. Comes fully kitted with a small kitchen, toilet, work garage and highly customizable recreational spaces."
+「一艘小型休閒穿梭機，滿足您在太空中的所有冒險需求。」 「配備齊全，包含小型廚房、廁所、工作車庫，以及高度可客製化的休閒空間。」
 
 # Ship Functions
 
@@ -33,17 +34,17 @@
   <GuideEntityEmbed Entity="TwoWayLever" Caption="Toggle Thruster"/>
 </Box>
 
-# Piloting
+# 駕駛
 
-[textlink="Piloting" link="Piloting"/]
+[textlink="駕駛" link="駕駛"/]
 
-[textlink="Sector Topology" link="SectorTopology"/]
+[textlink="星區拓撲" link="星區拓撲"/]
 
-# Hiring crew
+# 僱用船員
 
-[textlink="Hiring" link="Hiring"/]
+[textlink="僱用" link="僱用"/]
 
-As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員。
 
 # PREFLIGHT CHECKLIST
 

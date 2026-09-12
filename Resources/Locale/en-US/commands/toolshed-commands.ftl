@@ -1,124 +1,62 @@
-command-description-visualize =
-    Takes the input list of entities and puts them into a UI window for easy browsing.
-command-description-runverbas =
-    Runs a verb over the input entities with the given user.
-command-description-acmd-perms =
-    Returns the admin permissions of the given command, if any.
-command-description-acmd-caninvoke =
-    Check if the given player can invoke the given command.
-command-description-jobs-jobs =
-    Returns all jobs on a station.
-command-description-jobs-job =
-    Returns a given job on a station.
-command-description-jobs-isinfinite =
-    Returns true if the input job is infinite, otherwise false.
-command-description-jobs-adjust =
-    Adjusts the number of slots for the given job.
-command-description-jobs-set =
-    Sets the number of slots for the given job.
-command-description-jobs-amount =
-    Returns the number of slots for the given job.
-command-description-laws-list =
-    Returns a list of all law bound entities.
-command-description-laws-get =
-    Returns all of the laws for a given entity.
-command-description-stations-list =
-    Returns a list of all stations.
-command-description-stations-get =
-    Gets the active station, if and only if there is only one.
-command-description-stations-getowningstation =
-    Gets the station that a given entity is "owned by" (within)
-command-description-stations-grids =
-    Returns all grids associated with the input station.
-command-description-stations-config =
-    Returns the config associated with the input station, if any.
-command-description-stations-addgrid =
-    Adds a grid to the given station.
-command-description-stations-rmgrid =
-    Removes a grid from the given station.
-command-description-stations-rename =
-    Renames the given station.
-command-description-stations-largestgrid =
-    Returns the largest grid the given station has, if any.
-command-description-stations-rerollBounties =
-    Clears all the current bounties for the station and gets a new selection.
-command-description-stationevent-lsprob =
-    Given a BasicStationEventScheduler prototype, lists the probability of different station events occuring out of the entire pool with current conditions.
-command-description-stationevent-lsprobtheoretical =
-    Given a BasicStationEventScheduler prototype, player count, and round time, lists the probability of different station events occuring based on the specified number of players and round time.
-command-description-stationevent-prob =
-    Given a BasicStationEventScheduler prototype and an event prototype, returns the probability of a single station event occuring out of the entire pool with current conditions.
-command-description-admins-active =
-    Returns a list of active admins.
-command-description-admins-all =
-    Returns a list of ALL admins, including deadmined ones.
-command-description-marked =
-    Returns the value of $marked as a List<EntityUid>.
-command-description-rejuvenate =
-    Rejuvenates the given entities, restoring them to full health, clearing status effects, etc.
-command-description-tag-list =
-    Lists tags on the given entities.
-command-description-tag-with =
-    Returns only the entities with the given tag from the piped list of entities.
-command-description-tag-add =
-    Adds a tag to the given entities.
-command-description-tag-rm =
-    Removes a tag from the given entities.
-command-description-tag-addmany =
-    Adds a list of tags to the given entities.
-command-description-tag-rmmany =
-    Removes a list of tags from the given entities.
-command-description-polymorph =
-    Polymorphs the input entity with the given prototype.
-command-description-unpolymorph =
-    Reverts a polymorph.
-command-description-solution-get =
-    Grabs the given solution off the given entity.
-command-description-solution-adjreagent =
-    Adjusts the given reagent on the given solution.
-command-description-mind-get =
-    Grabs the mind from the entity, if any.
-command-description-mind-control =
-    Assumes control of an entity with the given player.
-command-description-addaccesslog =
-    Adds an access log to this entity. Do note that this bypasses the log's default limit and pause check.
-command-description-stationevent-simulate =
-    Given a BasicStationEventScheduler prototype, N Rounds, N Players, mean round end, and stddev of round end, Simulates N number of rounds in which events will occur and prints the occurrences of every event after.
-command-description-xenoartifact-list =
-    List all EntityUids of spawned artifacts.
-command-description-xenoartifact-printMatrix =
-    Prints out matrix that displays all edges between nodes.
-command-description-xenoartifact-totalResearch =
-    Gets all research points that can be extracted from artifact currently.
-command-description-xenoartifact-averageResearch =
-    Calculates amount of research points average generated xeno artifact will output when fully activated.
-command-description-xenoartifact-unlockAllNodes =
-    Unlocks all nodes of artifact.
-command-description-jobboard-completeJob =
-    Completes a given salvage job board job for the station.
-command-description-scale-set =
-    Sets an entity's sprite size to a certain scale (without changing its fixture).
-command-description-scale-get =
-    Get an entity's sprite scale as set by ScaleVisualsComponent. Does not include any changes directly made in the SpriteComponent.
-command-description-scale-multiply =
-    Multiply an entity's sprite size with a certain factor (without changing its fixture).
-command-description-scale-multiplyvector =
-    Multiply an entity's sprite size with a certain 2d vector (without changing its fixture).
-command-description-scale-multiplywithfixture =
-    Multiply an entity's sprite size with a certain factor (including its fixture).
-command-description-dynamicrule-list =
-    Lists all currently active dynamic rules, usually this is just one.
-command-description-dynamicrule-get =
-    Gets the currently active dynamic rule.
-command-description-dynamicrule-budget =
-    Gets the current budget of the piped dynamic rule(s).
-command-description-dynamicrule-adjust =
-    Adjusts the budget of the piped dynamic rule(s) by the specified amount.
-command-description-dynamicrule-set =
-    Sets the budget of the piped dynamic rule(s) to the specified amount.
-command-description-dynamicrule-dryrun =
-    Returns a list of rules that could be activated if the rule ran at this moment with all current context. This is not a complete list of every single rule that could be run, just a sample of the current valid ones.
-command-description-dynamicrule-executenow =
-    Executes the piped dynamic rule as if it had reached its regular update time.
-command-description-dynamicrule-rules =
-    Gets a list of all the rules spawned by the piped dynamic rule.
+command-description-visualize = 將輸入的實體清單載入至使用者介面視窗中，以便輕鬆瀏覽。
+command-description-runverbas = 以指定使用者身分，對輸入實體執行該動詞。
+command-description-acmd-perms = 若存在，則回傳指定指令的管理員權限。
+command-description-acmd-caninvoke = 檢查指定玩家是否能執行指定指令。
+command-description-jobs-jobs = 返回某個工作站上的所有工作。
+command-description-jobs-job = 返回某個工作站上的指定工作。
+command-description-jobs-isinfinite = 若輸入工作為無限工作，則返回 true；否則返回 false。
+command-description-jobs-adjust = 調整指定工作的槽位數量。
+command-description-jobs-set = 設定指定工作所需的槽位數量。
+command-description-jobs-amount = 回傳指定工作的槽位數量。
+command-description-laws-list = 回傳所有受法律約束實體的清單。
+command-description-laws-get = 回傳指定實體的所有法律條文。
+command-description-stations-list = 回傳所有電台的清單。
+command-description-stations-get = 取得當前工作站，但僅當且僅當僅存在一個工作站時才如此。
+command-description-stations-getowningstation = 取得指定實體「所屬」（位於其中）的站點
+command-description-stations-grids = 回傳所有與輸入站點相關聯的網格。
+command-description-stations-config = 若存在，則返回與該輸入站相關聯的設定。
+command-description-stations-addgrid = 在指定的電台中新增一個網格。
+command-description-stations-rmgrid = 從指定的站點移除一個網格。
+command-description-stations-rename = 將指定的電台重新命名。
+command-description-stations-largestgrid = 若該站點有最大網格，則回傳該網格；若無，則不回傳。
+command-description-stations-rerollBounties = 清除該站點當前所有懸賞任務，並取得新的任務選項。
+command-description-stationevent-lsprob = 以一個 BasicStationEventScheduler 原型為例，列出在當前條件下，整個事件池中各種站點事件發生的機率。
+command-description-stationevent-lsprobtheoretical = 根據給定的 BasicStationEventScheduler 原型、玩家人數及回合時間，列出基於指定玩家人數與回合時間下，各種站點事件發生的機率。
+command-description-stationevent-prob = 給定一個 BasicStationEventScheduler 原型和一個事件原型，會根據當前條件，回傳在整個事件池中發生單一站點事件的機率。
+command-description-admins-active = 回傳一個包含所有活躍管理員的清單。
+command-description-admins-all = 回傳所有管理員的清單，包含已被移除的管理員。
+command-description-marked = 將 ` $marked ` 的值以 `<EntityUid>` 清單的形式傳回。
+command-description-rejuvenate = 使指定的對象恢復活力，使其生命值恢復至滿值，並清除狀態效果等。
+command-description-tag-list = 列出指定實體的標籤。
+command-description-tag-with = 僅從實體的管道式清單中，擷取具有指定標籤的實體。
+command-description-tag-add = 為指定的實體新增一個標籤。
+command-description-tag-rm = 從指定的實體中移除一個標籤。
+command-description-tag-addmany = 將一組標籤新增至指定的實體中。
+command-description-tag-rmmany = 從指定的實體中移除一組標籤。
+command-description-polymorph = 將輸入實體轉換為指定原型的多態實體。
+command-description-unpolymorph = 撤銷變形效果。
+command-description-solution-get = 從指定的實體中取得指定的解決方案。
+command-description-solution-adjreagent = 根據指定的溶液，調整其中所含的指定試劑。
+command-description-mind-get = 若該實體存在，則從其實體中奪取其心智。
+command-description-mind-control = 接管指定玩家所控制的實體。
+command-description-addaccesslog = 為此實體新增存取日誌。請注意，此操作會繞過日誌的預設限制及暫停檢查。
+command-description-stationevent-simulate = 給定一個 BasicStationEventScheduler 原型、N 輪、N 名玩家、每輪結束時間的平均值以及每輪結束時間的標準差，本程式將模擬 N 輪中事件發生的情況，並在模擬結束後列印每項事件的發生次數。
+command-description-xenoartifact-list = 列出所有已生成工件的 EntityUid。
+command-description-xenoartifact-printMatrix = 輸出一個矩陣，用以顯示節點之間的所有邊。
+command-description-xenoartifact-totalResearch = 取得目前可從該文物中萃取的所有研究點數。
+command-description-xenoartifact-averageResearch = 計算平均每件外星遺物在完全啟動時所產生的研究點數總量。
+command-description-xenoartifact-unlockAllNodes = 解鎖神器的所有節點。
+command-description-jobboard-completeJob = 為該站完成一項指定的打撈任務板任務。
+command-description-scale-set = 將實體的圖元大小設定為特定比例（不改變其固定點）。
+command-description-scale-get = 取得由 ScaleVisualsComponent 設定的實體貼圖比例。不包含在 SpriteComponent 中直接進行的任何變更。
+command-description-scale-multiply = 將實體的精靈大小乘以某個係數（不改變其固定點）。
+command-description-scale-multiplyvector = 將實體的貼圖尺寸乘以某個 2D 向量（不改變其固定點）。
+command-description-scale-multiplywithfixture = 將實體的貼圖大小（包括其固定物）乘以某個係數。
+command-description-dynamicrule-list = 列出所有目前有效的動態規則，通常只有一則。
+command-description-dynamicrule-get = 取得目前有效的動態規則。
+command-description-dynamicrule-budget = 取得透過管道傳遞的動態規則的當前預算。
+command-description-dynamicrule-adjust = 將串接動態規則的預算調整為指定金額。
+command-description-dynamicrule-set = 將串接的動態規則的預算設定為指定金額。
+command-description-dynamicrule-dryrun = 回傳一組規則清單，這些規則若在當前時刻以所有當前上下文執行，便可能被觸發。這並非所有可能執行的規則之完整清單，僅為當前有效規則的樣本。
+command-description-dynamicrule-executenow = 執行該管線式動態規則，就如同該規則已達到其例行更新時間一般。
+command-description-dynamicrule-rules = 取得由管道化動態規則所產生之所有規則的清單。

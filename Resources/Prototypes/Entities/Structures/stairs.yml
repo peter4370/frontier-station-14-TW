@@ -2,7 +2,7 @@
   id: Stairs
   name: stairs
   suffix: Steel
-  description: The greatest invention since rocket-propelled grenades.
+  description: 這是自火箭推進榴彈以來最偉大的發明。
   placement:
     mode: SnapgridCenter
   components:

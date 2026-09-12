@@ -2,7 +2,7 @@
   id: InflatableWallStack
   parent: [BaseItem, RecyclableItemPlasticSmall] # Frontier: added RecyclableItemPlasticSmall
   name: inflatable barricade
-  description: A folded membrane which rapidly expands into a large cubical shape on activation.
+  description: 一種摺疊狀的膜，在被激活時會迅速膨脹成大型立方體狀。
   suffix: Full
   categories: [ HideSpawnMenu ] # Frontier
   components:

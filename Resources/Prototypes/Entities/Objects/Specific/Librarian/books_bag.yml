@@ -1,8 +1,8 @@
 - type: entity
-  name: book bag # Frontier: books bag<book bag
+  name: 書包 # Frontier: books bag<book bag
   id: BooksBag
   parent: BaseStorageItem
-  description: A refined bag to carry your own library.
+  description: 一款精緻的包款，讓您隨身攜帶自己的私人圖書館。
   components:
     - type: Sprite
       sprite: Objects/Specific/Library/Equipment/books_bag.rsi

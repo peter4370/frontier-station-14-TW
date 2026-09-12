@@ -1,9 +1,9 @@
 # Hacky for the stress test so don't even consider adding to this
 - type: entity
-  name: burrower
+  name: 掘穴動物
   id: MobXeno
   parent: SimpleSpaceMobBase
-  description: They mostly come at night. Mostly.
+  description: 他們大多在晚上出現。大多是這樣。
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: Insulated
@@ -122,7 +122,7 @@
     speechVerb: LargeMob
 
 - type: entity
-  name: praetorian
+  name: 近衛軍
   parent: MobXeno
   id: MobXenoPraetorian
   categories: [ HideSpawnMenu ] # Frontier
@@ -156,7 +156,7 @@
         - MobLayer
 
 - type: entity
-  name: drone
+  name: 無人機
   parent: MobXeno
   id: MobXenoDrone
   categories: [ HideSpawnMenu ] # Frontier
@@ -194,7 +194,7 @@
         - MobLayer
 
 - type: entity
-  name: queen
+  name: 女王
   parent: MobXeno
   id: MobXenoQueen
   categories: [ HideSpawnMenu ] # Frontier
@@ -234,7 +234,7 @@
     - CannotSuicide
 
 - type: entity
-  name: ravager
+  name: 蹂躪者
   parent: MobXeno
   id: MobXenoRavager
   categories: [ HideSpawnMenu ] # Frontier
@@ -272,7 +272,7 @@
         - MobLayer
 
 - type: entity
-  name: runner
+  name: 跑者
   parent: MobXeno
   id: MobXenoRunner
   categories: [ HideSpawnMenu ] # Frontier
@@ -319,7 +319,7 @@
       amount: 3
 
 - type: entity
-  name: spitter
+  name: 吐痰者
   parent: MobXeno
   id: MobXenoSpitter
   categories: [ HideSpawnMenu ] # Frontier
@@ -367,10 +367,10 @@
         - MobLayer
 
 - type: entity
-  name: space adder
+  name: 空格加法器
   parent: SimpleSpaceMobBase
   id: MobPurpleSnake
-  description: A menacing purple snake from Kepler-283c.
+  description: 來自開普勒-283c的一條令人不寒而慄的紫色蛇。
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: Sprite
@@ -441,7 +441,7 @@
   parent: MobPurpleSnake
   id: MobSmallPurpleSnake
   suffix: small
-  description: A smaller version of the menacing purple snake from Kepler-283c.
+  description: 來自開普勒-283c的那條令人畏懼的紫色蛇的較小版本。
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: Sprite
@@ -469,7 +469,7 @@
 
 - type: entity
   name: '"Dale"'
-  description: A praetorian left over from the station's initial security sweep. Has a pair of bloodied dog tags engraved with the name "Pvt. Dale" stuck in its maw.
+  description: 這是該站最初安全清查時遺留下來的一名近衛軍。它的口中叼著一對沾滿血跡的軍牌，上面刻著「列兵戴爾」的名字。
   parent: SimpleSpaceMobBase
   id: MobXenoLonePraetorianNoGhost
   components:

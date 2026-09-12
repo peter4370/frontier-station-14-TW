@@ -1,6 +1,6 @@
 - type: entity
   id: BaseCartridgeLightRifle
-  name: cartridge (.30 rifle)
+  name: 子彈（.30 步槍）
   parent: [ BaseCartridge, BaseC1Contraband ] # Frontier: BaseSecurityContraband<BaseC1Contraband
   abstract: true
   components:
@@ -25,7 +25,7 @@
   id: CartridgeLightRifle
   name: cartridge (.30 rifle)
   parent: BaseCartridgeLightRifle
-  description: A classic intermediate cartridge used by many combat rifles and LMGs. Standard kinetic ammunition is common and useful in most situations.
+  description: 一種經典的中口徑彈藥，廣泛應用於許多戰鬥步槍和輕機槍。標準動能彈藥在大多數情況下都很常見且實用。
   components:
   - type: CartridgeAmmo
     # proto: BulletLightRifle # Frontier
@@ -33,9 +33,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: CartridgeLightRiflePractice
-  name: cartridge (.30 rifle practice)
+  name: 子彈（.30 步槍練習用）
   parent: BaseCartridgeLightRifle
-  description: A classic intermediate cartridge used by many combat rifles and LMGs. Chalk ammunition is generally non-harmful, used for practice.
+  description: 一種經典的中口徑彈藥，廣泛應用於許多戰鬥步槍和輕機槍。白堊彈通常無害，用於練習。
   components:
   - type: CartridgeAmmo
     # proto: BulletLightRiflePractice # Frontier
@@ -50,9 +50,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: CartridgeLightRifleIncendiary
-  name: cartridge (.30 rifle incendiary)
+  name: 子彈（.30 步槍燃燒彈）
   parent: BaseCartridgeLightRifle
-  description: A classic intermediate cartridge used by many combat rifles and LMGs. Incendiary ammunition contains a self-igniting compound that sets the target ablaze.
+  description: 一種經典的中口徑彈藥，廣泛應用於許多戰鬥步槍和輕機槍。燃燒彈內含自燃化合物，可使目標起火燃燒。
   components:
   - type: CartridgeAmmo
     # proto: BulletLightRifleIncendiary # Frontier
@@ -67,9 +67,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: CartridgeLightRifleUranium
-  name: cartridge (.30 rifle uranium)
+  name: 子彈（.30 步槍鈾彈）
   parent: BaseCartridgeLightRifle
-  description: A classic intermediate cartridge used by many combat rifles and LMGs. Uranium ammunition replaces the lead core of the bullet with fissile material, irradiating the target from the inside.
+  description: 一種經典的中口徑彈藥，廣泛應用於許多戰鬥步槍和輕機槍。鈾彈藥將子彈的鉛芯替換為可裂變材料，從內部對目標進行輻射照射。
   components:
   - type: CartridgeAmmo
     # proto: BulletLightRifleUranium # Frontier

@@ -1,8 +1,8 @@
 ﻿- type: entity
   parent: ClothingBeltStorageBase
   id: ClothingBeltQuiver
-  name: quiver
-  description: Can hold up to 15 arrows, and fits snug around your waist.
+  name: 箭袋
+  description: 最多可容納 15 支箭，並能緊貼腰部。
   components:
   - type: Sprite
     sprite: Clothing/Belt/quiver.rsi

@@ -1,29 +1,22 @@
-recipes-reinforced-secret-door-name = reinforced secret door
-recipes-shuttle-secret-door-name = shuttle secret door
-recipes-uranium-secret-door-name = uranium secret door
-recipes-wood-secret-door-name = wood secret door
-
-recipes-wall-diagonal-name = diagonal wall
-recipes-reinforced-wall-diagonal-name = diagonal reinforced wall
-
-recipes-asteroid-rock-wall-name = asteroid rock wall
-recipes-asteroid-rock-wall-desc = a wall made to look like an asteroid rock wall.
-recipes-asteroid-cobble-brick-wall-name = asteroid brick wall
-recipes-asteroid-cobble-brick-wall-desc = a wall made of asteroid rock bricks.
-
-
-recipes-computer-tabletop-name = computer frame (tabletop)
-recipes-computer-wallmount-name = computer frame (wallmount)
-
-recipes-glowshrooms-floor-name = glowshrooms (floor)
-recipes-glowshrooms-wallmount-name = glowshrooms (wallmount)
-
-recipes-stairs-name = stairs
-recipes-stairs-dark-name = stairs (dark)
-recipes-stairs-white-name = stairs (white)
-recipes-stairs-wood-name = stairs (wood)
-
-recipes-stairs-stage-name = stage stairs
-recipes-stairs-stage-dark-name = stage stairs (dark)
-recipes-stairs-stage-white-name = stage stairs (white)
-recipes-stairs-stage-wood-name = stage stairs (wood)
+recipes-reinforced-secret-door-name = 加固的隱藏門
+recipes-shuttle-secret-door-name = 穿梭機的秘密門
+recipes-uranium-secret-door-name = 鈾秘密門
+recipes-wood-secret-door-name = 木製隱藏門
+recipes-wall-diagonal-name = 對角牆
+recipes-reinforced-wall-diagonal-name = 斜向加固牆
+recipes-asteroid-rock-wall-name = 小行星岩壁
+recipes-asteroid-rock-wall-desc = 一堵仿照小行星岩壁打造的牆。
+recipes-asteroid-cobble-brick-wall-name = 小行星磚牆
+recipes-asteroid-cobble-brick-wall-desc = 一堵由小行星岩石磚砌成的牆。
+recipes-computer-tabletop-name = 電腦機殼（桌上型）
+recipes-computer-wallmount-name = 電腦機架（壁掛式）
+recipes-glowshrooms-floor-name = 發光蘑菇（地面）
+recipes-glowshrooms-wallmount-name = 發光蘑菇（壁掛式）
+recipes-stairs-name = 樓梯
+recipes-stairs-dark-name = 樓梯（昏暗）
+recipes-stairs-white-name = 樓梯（白色）
+recipes-stairs-wood-name = 樓梯（木製）
+recipes-stairs-stage-name = 舞台階梯
+recipes-stairs-stage-dark-name = 舞台階梯（深色）
+recipes-stairs-stage-white-name = 舞台階梯（白色）
+recipes-stairs-stage-wood-name = 舞台階梯（木製）

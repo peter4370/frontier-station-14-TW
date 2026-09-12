@@ -2,7 +2,7 @@
   parent: BaseElectronics
   id: FreezerElectronics
   name: freezer electronics
-  description: An electronics board used in kitchen freezers.
+  description: 一種用於廚房冷凍櫃的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi

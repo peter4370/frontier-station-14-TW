@@ -1,13 +1,13 @@
 # Names
-delta-chat-emote-name-honk = Honk
-delta-chat-emote-name-ring = Ring
-delta-chat-emote-name-pew = Pew
-delta-chat-emote-name-bang = Bang
-delta-chat-emote-name-beep = Beep
+delta-chat-emote-name-honk = 按喇叭
+delta-chat-emote-name-ring = 戒指
+delta-chat-emote-name-pew = 皮尤
+delta-chat-emote-name-bang = 砰
+delta-chat-emote-name-beep = 嗶
 delta-chat-emote-name-rev = Rev
-delta-chat-emote-name-caw = Caw
-delta-chat-emote-name-bark = Bark
-delta-chat-emote-name-snarl = Snarl
-delta-chat-emote-name-whine = Whine
-delta-chat-emote-name-howl = Howl
-delta-chat-emote-name-awoo = Awoo
+delta-chat-emote-name-caw = 嘎——
+delta-chat-emote-name-bark = 樹皮
+delta-chat-emote-name-snarl = 咆哮
+delta-chat-emote-name-whine = 抱怨
+delta-chat-emote-name-howl = 《嚎叫》
+delta-chat-emote-name-awoo = 阿嗚

@@ -1,8 +1,8 @@
 # Devices which are not portable but don't link up to anything
 - type: entity
   id: AtmosDeviceFanTiny
-  name: tiny fan
-  description: A tiny fan, releasing a thin gust of air.
+  name: 迷你風扇
+  description: 一台小小的風扇，吹出一陣微風。
   placement:
     mode: SnapgridCenter
   components:
@@ -28,8 +28,8 @@
 
 - type: entity
   id: AtmosDeviceFanDirectional
-  name: directional fan
-  description: A thin fan, stopping the movement of gases across it.
+  name: 可調向風扇
+  description: 一片薄扇，阻斷氣體穿過它的流動。
   placement:
     mode: SnapgridCenter
   components:

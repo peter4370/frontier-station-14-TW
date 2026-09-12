@@ -1,3 +1,3 @@
-frontier-loadout-cost = Total Loadout Cost: {$cost}
-frontier-loadout-balance = Available Balance: {$balance}
-frontier-loadout-search-placeholder = Search loadouts...
+frontier-loadout-cost = 裝備總成本：{ $cost }
+frontier-loadout-balance = 可用餘額：{ $balance }
+frontier-loadout-search-placeholder = 搜尋裝備組合...

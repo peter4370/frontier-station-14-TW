@@ -1,1 +1,1 @@
-energygun-examine-fire-mode = The firemode is set to {$mode}
+energygun-examine-fire-mode = 火模式設定為 { $mode }

@@ -1,5 +1,5 @@
-wires-panel-component-on-examine-open = The [color=lightgray]maintenance panel[/color] is [color=red]open[/color].
-wires-panel-component-on-examine-closed = The [color=lightgray]maintenance panel[/color] is [color=darkgreen]closed[/color].
+wires-panel-component-on-examine-open = [color=lightgray]維護面板[/color] 處於 [color=red]開啟[/color] 狀態。
+wires-panel-component-on-examine-closed = [color=lightgray]維護面板[/color] 已 [color=darkgreen]關閉[/color]。
 
 # wire colors
 
@@ -10,12 +10,11 @@ wire-name-color-orange = Orange
 wire-name-color-brown = Brown
 wire-name-color-gold = Gold
 wire-name-color-gray = Gray
-wire-name-color-cyan = Cyan
-wire-name-color-navy = Navy
+wire-name-color-cyan = 青色
+wire-name-color-navy = 海軍
 wire-name-color-purple = Purple
 wire-name-color-pink = Pink
-wire-name-color-fuchsia = Fuchsia
-
+wire-name-color-fuchsia = 紫紅
 # letter names
 wire-letter-name-alpha = Alpha
 wire-letter-name-beta = Beta
@@ -26,7 +25,7 @@ wire-letter-name-zeta = Zeta
 wire-letter-name-eta = Eta
 wire-letter-name-theta = Theta
 wire-letter-name-iota = Iota
-wire-letter-name-kappa = Kappa
+wire-letter-name-kappa = 卡帕
 wire-letter-name-lambda = Lambda
 wire-letter-name-mu = Mu
 wire-letter-name-nu = Nu

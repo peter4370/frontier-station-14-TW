@@ -1,7 +1,8 @@
-<Document>
-  # NFSD ships
 
-Maintained by the New Frontier Sheriff's Department, this shipyard provides access to law enforcement vessels authorized for the preservation of peace and public safety within Frontier space. Deputies and authorized personnel may requisition patrol craft, response ships, and support vessels necessary to uphold the law. The badge carries authority, but also responsibility.
+<Document>
+  # NFSD 船廠
+
+該船廠由新邊疆警長局負責維護，提供經授權用於維護邊疆太空區域和平與公共安全的執法船隻。 副警長及獲授權人員得調派巡邏艇、應變船及支援船隻，以維護法律秩序。 這枚徽章象徵著權威，但也伴隨著責任。
 
   <Box>
     <GuideEntityEmbed Entity="Handcuffs" Caption=""/>

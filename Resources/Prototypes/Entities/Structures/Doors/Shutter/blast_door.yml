@@ -1,8 +1,8 @@
 ﻿- type: entity
   id: BlastDoor
   parent: BaseShutter
-  name: blast door
-  description: This one says 'BLAST DONGER'.
+  name: 防爆門
+  description: 這個上面寫著「BLAST DONGER」。
   components:
   - type: AccessReader
     containerAccessProvider: board
@@ -70,7 +70,7 @@
 - type: entity
   id: BlastDoorFrame
   parent: BaseStructureDynamic
-  name: blast door frame
+  name: 防爆門框
   description: This one says 'BLAST DONGER'.
   components:
   - type: Sprite
@@ -113,8 +113,8 @@
 - type: entity
   parent: BlastDoor
   id: BlastDoorXeno
-  name: xeno blast door
-  description: Don't lose an arm!
+  name: 外星爆能門
+  description: 千萬別弄斷手臂啊！
   components:
   - type: Sprite
     sprite: Structures/Doors/Shutters/xeno_blastdoor.rsi
@@ -155,7 +155,7 @@
 - type: entity
   parent: BaseStructureDynamic
   id: BlastDoorXenoFrame
-  name: xeno blast door frame
+  name: Xeno 防爆門框
   description: This one says 'BLAST DONGER'.
   components:
   - type: Sprite

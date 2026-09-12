@@ -1,21 +1,22 @@
+
 <Document>
-  # PROSPECTOR-CLASS SALVAGE SHUTTLE
+  # 「探礦者」級打撈飛船
   <Box>
   <GuideEntityEmbed Entity="Pickaxe"/>
   <GuideEntityEmbed Entity="OreBag"/>
-  </Box>  
+  </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapProspector" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻尺寸：[/color] 小型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-2
+  [color=#a4885c]建議船員人數：[/color] 1-2 人
 
-  [color=#a4885c]Power Gen Type:[/color] Plasma
+  [color=#a4885c]動力類型：[/color] 等離子體
 
-  # Shuttle Brief
+  # 飛船簡介
 
-  "A small mining vessel designed to assist in salvage operations."
+  「一艘專為協助打撈作業而設計的小型採礦船。」
 
   # Ship Functions
 

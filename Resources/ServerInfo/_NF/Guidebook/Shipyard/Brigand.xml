@@ -1,26 +1,27 @@
+
 <Document>
-  # BRIGAND-CLASS EXPEDITION SHUTTLE
+  # 布里甘德級遠征穿梭機
   <Box>
   <GuideEntityEmbed Entity="NFPosterContrabandLvhiPlanetCore" Caption=""/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapBrigand" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-	[color=#a4885c]Recommended Crew:[/color] 3-6
+	[color=#a4885c]建議船員人數：[/color] 3-6 人
 
-	[color=#a4885c]Power Gen Type:[/color] AME
+	[color=#a4885c]動力生成類型：[/color] AME
 
-	[color=#a4885c]Expeditions:[/color] Yes
+	[color=#a4885c]遠征任務：[/color] 是
 
-	[color=#a4885c]IFF Console:[/color] None
+	[color=#a4885c]敵我識別（IFF）控制台：[/color] 無
 
-  "Civilian conversion of an old military light frigate from the early days of humanity's expansion to the stars. The original light frigate design was made in pre-FTL era of technology. Manufactured by Langstad-Voigt Heavy Industries."
+  「這是人類早期向星際擴張時期，一艘舊式軍用輕型護衛艦改裝而成的民用船隻。」 最初的輕型護衛艦設計，是在超光速技術問世之前的時代所完成的。 Manufactured by Langstad-Voigt Heavy Industries."
 
-  # Tips on running LVHI Brigand shuttles
-  - Optimal [bold]Target Power[/bold] (kW) for the generator unit is [color=#a4885c]35 [bold]kW[/bold][/color]. If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
-  - There are two buttons in the cockpit: the one with a yellow and black frame controls the window shutters. The button with the gray frame controls the mini anchor.
+  # 關於運行 LVHI Brigand 穿梭機的提示
+  - 發電機組的最佳 [bold]目標功率[/bold] (kW) 為 [color=#a4885c]35 [bold]kW[/bold][/color]。 If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
+  - There are two buttons in the cockpit: the one with a yellow and black frame controls the window shutters. 帶有灰色邊框的按鈕用於控制迷你錨點。
   <Box>
   <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="EVA Access"/>
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Toggle Shutters"/>

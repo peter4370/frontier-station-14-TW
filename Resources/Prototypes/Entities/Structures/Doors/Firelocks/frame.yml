@@ -2,7 +2,7 @@
   id: FirelockFrame
   parent: BaseStructureDynamic
   name: firelock frame
-  description: That is a firelock frame.
+  description: 那是一個火槍槍身。
   components:
   - type: Sprite
     sprite: Structures/Doors/Airlocks/Standard/firelock.rsi

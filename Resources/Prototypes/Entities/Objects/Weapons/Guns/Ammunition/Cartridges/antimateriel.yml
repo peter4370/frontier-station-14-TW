@@ -2,7 +2,7 @@
   categories: [ HideSpawnMenu ] # Frontier
   parent: [ BaseCartridge, BaseC2ContrabandUnredeemable ] # Frontier: BaseMajorContraband<BaseC2ContrabandUnredeemable
   id: CartridgeAntiMateriel
-  name: cartridge (.60 anti-materiel)
+  name: 子彈（.60 反器材）
   components:
   - type: Tag
     tags:

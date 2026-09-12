@@ -1,7 +1,7 @@
 - type: entity
   id: XenoborgWindow
   parent: PlastitaniumWindow
-  name: xenoborg window
+  name: 異種機器人視窗
   components:
   - type: Sprite
     drawdepth: WallTops

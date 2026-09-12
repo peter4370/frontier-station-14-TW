@@ -1,7 +1,7 @@
 - type: entity
   id: SolarPanelBasePhysSprite
   categories: [ HideSpawnMenu ]
-  name: solar panel
+  name: 太陽能板
   placement:
     mode: SnapgridCenter
   components:
@@ -58,8 +58,8 @@
 - type: entity
   id: SolarPanelPlasma
   parent: SolarPanelBasePhysSprite
-  name: plasma solar panel # Frontier: prefix with plasma
-  description: A few sheets of plasma glass that generate electricity when hit by photons.
+  name: 等離子太陽能板 # Frontier: prefix with plasma
+  description: 幾片等離子玻璃，當光子撞擊時便會產生電力。
   components:
   - type: PowerSupplier
     supplyRampTolerance: 500
@@ -101,8 +101,8 @@
 - type: entity
   id: SolarPanelUranium
   parent: SolarPanelBasePhysSprite
-  name: uranium solar panel # Frontier: prefix with uranium
-  description: A few sheets of uranium glass that generate electricity when hit by photons.
+  name: 鈾太陽能板 # Frontier: prefix with uranium
+  description: 幾片鈾玻璃，當被光子擊中時便會產生電力。
   components:
   - type: PowerSupplier
     supplyRampTolerance: 500
@@ -145,7 +145,7 @@
   id: SolarPanel
   parent: SolarPanelBasePhysSprite
   name: solar panel
-  description: A few sheets of glass that generate electricity when hit by photons.
+  description: 幾片玻璃，當被光子撞擊時便會產生電力。
   components:
   - type: PowerSupplier
     supplyRampTolerance: 500
@@ -185,7 +185,7 @@
   id: SolarPanelBroken
   parent: SolarPanelBasePhysSprite
   name: solar panel
-  description: A broken solar panel.
+  description: 一片損壞的太陽能板。
   suffix: Broken
   components:
   - type: Sprite
@@ -226,7 +226,7 @@
   id: SolarPanelPlasmaBroken
   parent: SolarPanelBasePhysSprite
   name: plasma solar panel
-  description: A broken plasma solar panel.
+  description: 一片損壞的等離子太陽能板。
   suffix: Broken
   components:
   - type: Sprite
@@ -267,7 +267,7 @@
   id: SolarPanelUraniumBroken
   parent: SolarPanelBasePhysSprite
   name: uranium solar panel
-  description: A broken uranium solar panel.
+  description: 一片損壞的鈾太陽能板。
   suffix: Broken
   components:
   - type: Sprite
@@ -306,8 +306,8 @@
 
 - type: entity
   id: SolarAssembly
-  name: solar assembly
-  description: A solar assembly. Anchor to a wire to start building a solar panel.
+  name: 太陽能組件
+  description: 一個太陽能組件。將其固定在電線上，即可開始組裝太陽能板。
   placement:
     mode: SnapgridCenter
   components:
@@ -362,8 +362,8 @@
 
 - type: entity
   id: SolarTracker
-  name: solar tracker
-  description: A solar tracker. Tracks the nearest star.
+  name: 太陽能追蹤器
+  description: 一個太陽追蹤器。用來追蹤最近的那顆恆星。
   placement:
     mode: SnapgridCenter
   components:

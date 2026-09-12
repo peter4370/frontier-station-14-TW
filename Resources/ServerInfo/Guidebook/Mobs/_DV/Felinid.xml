@@ -1,32 +1,33 @@
+
 <Document>
-  # Felinids
+  # 貓科動物
 
   <Box>
     <GuideEntityEmbed Entity="MobFelinidDummy" Caption=""/>
   </Box>
 
-  Small and mischievous cat-eared people. Being small in itself has lots of upsides and downsides. They can hide inside duffelbags.
+  身材嬌小又調皮搗蛋的貓耳人。 體型嬌小這件事本身就有許多優點和缺點。 牠們可以藏在旅行袋裡。
 
-  ## Diet
+  ## 飲食
 
-  - Can eat raw meat.
-  - Will get poisoned by Theobromine (Chocolate, Tea, Coffee) and Allicin (Onion, Garlic).
+  - 可以食用生肉。
+  - 會因可可堿（巧克力、茶、咖啡）和大蒜素（洋蔥、大蒜）而中毒。
 
-  ## Benefits
+  ## 優勢
 
-  - They are smaller than Humans, making them harder to hit.
-  - Can fit in duffelbags.
-  - Have the ability to throw up an hairball to get rid of some of the chemicals from their bloodstream.
-  - Able to eat mice and rats after picking them up. This has the benefit of regenerating the hairball ability and feeding them.
-  - Uses their claws to do Slashing damage and Piercing damage.
-  - Can walk completely silently, but only while barefooted.
-  - Immunity to the OwOnavirus disease.
+  - 牠們比人類體型更小，因此更難被擊中。
+  - 可放入旅行袋中。
+  - 具備嘔出毛球的能力，藉此將血液中的部分化學物質排出體外。
+  - 能夠撿起老鼠後將其吃掉。 這樣做的好處在於能恢復牠們排出毛球的能力，並讓牠們獲得營養。
+  - 運用爪子造成斬擊傷害與穿刺傷害。
+  - 能夠完全無聲地行走，但僅限赤腳時。
+  - 對 OwOnavirus 疾病的免疫力。
 
-  ## Drawbacks
+  ## 缺點
 
-  - Takes 15% more Blunt, Slash and Piercing damage.
-  - Are easily shoved, pushed and carried around by every other morphotypes due to their small size.
-  - They are weaker and struggle to carry and pull things due to their small size. They are unable to carry an Oni.
-  - They have slightly less stamina than Humans.
+  - 承受的鈍擊、斬擊與穿刺傷害增加 15%。
+  - 由於體型嬌小，很容易被其他各種體型所推擠、推壓和隨意搬來搬去。
+  - 由於體型嬌小，牠們力氣較小，搬運和拉動物品時會感到吃力。 他們無法背負一隻鬼。
+  - 他們的耐力比人類稍差一些。
 
 </Document>

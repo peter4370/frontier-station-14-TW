@@ -1,1 +1,1 @@
-research-server-examine-id = The server's ID is [color=lightblue]{$id}[/color].
+research-server-examine-id = 該伺服器的 ID 為 [color=lightblue]{ $id }[/color]。

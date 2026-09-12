@@ -1,7 +1,7 @@
 # Implanters
 
 - type: entity
-  name: implanter
+  name: 植入器
   id: BaseImplanter
   parent: BaseItem
   abstract: true
@@ -21,7 +21,7 @@
       - Unimplantable
     currentMode: Draw
     implanterSlot:
-      name: Implant
+      name: 植入物
       locked: True
       priority: 0
       whitelist:
@@ -89,7 +89,7 @@
 - type: entity
   id: Implanter
   parent: BaseImplanter
-  description: A disposable syringe exclusively designed for the injection and extraction of subdermal implants.
+  description: 一款專為皮下植入物的注射與取出而設計的一次性注射器。
   components:
   - type: Tag
     tags:
@@ -110,7 +110,7 @@
 - type: entity
   id: BaseImplantOnlyImplanter
   parent: Implanter
-  description: A disposable syringe exclusively designed for the injection of subdermal implants.
+  description: 一款專為皮下植入物注射而設計的一次性注射器。
   abstract: true
   components:
   - type: Sprite
@@ -130,8 +130,8 @@
 - type: entity
   id: BaseImplantOnlyImplanterSyndi
   parent: [BaseImplantOnlyImplanter, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
-  name: syndicate implanter
-  description: A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap or a rag to remove residual DNA after use!
+  name: 辛迪加植入者
+  description: 一款專為皮下植入物注射所設計的緊湊型拋棄式注射器。使用後請務必用肥皂或抹布徹底擦洗，以清除殘留的 DNA！
   abstract: true
   components:
   - type: Item
@@ -164,7 +164,7 @@
 
 - type: entity
   id: SadTromboneImplanter
-  name: sad trombone implanter
+  name: 悲傷的長號植入者
   parent: BaseImplantOnlyImplanter
   components:
   - type: Implanter
@@ -172,7 +172,7 @@
 
 - type: entity
   id: LightImplanter
-  name: light implanter
+  name: 光植入器
   parent: BaseImplantOnlyImplanter
   components:
   - type: Implanter
@@ -180,7 +180,7 @@
 
 - type: entity
   id: BikeHornImplanter
-  name: bike horn implanter
+  name: 自行車喇叭植入器
   parent: BaseImplantOnlyImplanter
   components:
   - type: Implanter
@@ -190,7 +190,7 @@
 
 - type: entity
   id: TrackingImplanter
-  name: tracking implanter
+  name: 植入器追蹤器
   parent: [ BaseC2ContrabandUnredeemable, BaseImplantOnlyImplanter ] # Frontier: add BaseC2ContrabandUnredeemable
   components:
   - type: Implanter
@@ -200,7 +200,7 @@
 
 - type: entity
   id: StorageImplanter
-  name: storage implanter
+  name: 儲存式植入器
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -208,7 +208,7 @@
 
 - type: entity
   id: FreedomImplanter
-  name: freedom implanter
+  name: 自由植入者
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -216,7 +216,7 @@
 
 - type: entity
   id: RadioImplanter
-  name: syndicate radio implanter
+  name: '「辛迪加」無線電植入器'
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -224,7 +224,7 @@
 
 - type: entity
   id: UplinkImplanter
-  name: uplink implanter
+  name: 上行鏈路植入器
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -232,7 +232,7 @@
 
 - type: entity
   id: EmpImplanter
-  name: EMP implanter
+  name: 電磁脈衝（EMP）植入器
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -240,7 +240,7 @@
 
 - type: entity
   id: ScramImplanter
-  name: scram implanter
+  name: scram 植入器
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -248,7 +248,7 @@
 
 - type: entity
   id: DnaScramblerImplanter
-  name: DNA scrambler implanter
+  name: DNA 亂碼植入器
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -256,7 +256,7 @@
 
 - type: entity
   id: ChameleonControllerImplanter
-  name: chameleon controller implanter
+  name: 變色龍控制器植入器
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -266,7 +266,7 @@
 
 - type: entity
   id: MicroBombImplanter
-  name: micro-bomb implanter
+  name: 微型炸彈植入器
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -274,7 +274,7 @@
 
 - type: entity
   id: MacroBombImplanter
-  name: macro-bomb implanter
+  name: 巨型炸彈植入器
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -282,7 +282,7 @@
 
 - type: entity
   id: DeathRattleImplanter
-  name: death rattle implanter
+  name: '「死亡呻吟」植入者'
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -290,7 +290,7 @@
 
 - type: entity
   id: DeathAcidifierImplanter
-  name: death acidifier implanter
+  name: 死亡酸化器植入器
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -298,7 +298,7 @@
 
 - type: entity
   id: FakeMindShieldImplanter
-  name: fake mindshield implanter
+  name: 偽造的心靈護盾植入器
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -308,7 +308,7 @@
 
 - type: entity
   id: MindShieldImplanter
-  name: mindshield implanter
+  name: 心智護盾植入器
   parent: [ BaseC2ContrabandUnredeemable, BaseImplantOnlyImplanter ] # Frontier: add BaseC2ContrabandUnredeemable
   suffix: mindshield
   components:
@@ -319,7 +319,7 @@
 
 - type: entity
   id: RadioImplanterCentcomm
-  name: centcomm radio implanter
+  name: centcomm 無線電植入器
   parent: BaseImplantOnlyImplanter
   components:
   - type: Implanter
@@ -327,7 +327,7 @@
 
 - type: entity
   id: DeathRattleImplanterCentcomm
-  name: centcomm death rattle implanter
+  name: centcomm 死亡呻吟植入器
   parent: BaseImplantOnlyImplanter
   components:
   - type: Implanter

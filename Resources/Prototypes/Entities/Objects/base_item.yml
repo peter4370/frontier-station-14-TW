@@ -46,7 +46,7 @@
   - type: DamageExaminable
 
 - type: entity
-  name: "storage item"
+  name: "儲存項目"
   id: BaseStorageItem
   parent: BaseItem
   abstract: true

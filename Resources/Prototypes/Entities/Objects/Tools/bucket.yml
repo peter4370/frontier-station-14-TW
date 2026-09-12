@@ -2,7 +2,7 @@
   parent: [ DrinkBaseMaterialStrongPlastic, DrinkBase, DrinkVisualsFill ]
   id: Bucket
   name: bucket
-  description: It's a boring old bucket.
+  description: 這只是個老掉牙、無聊的桶子。
   components:
   - type: Edible
     utensil: Spoon
@@ -41,8 +41,8 @@
 - type: entity
   parent: Bucket
   id: BorgBucket
-  name: internal tank
-  description: The internal reservoir of a custodial cyborg, capable of holding a entire mop bucket worth of water.
+  name: 內部水箱
+  description: 一名清潔型機械人的內部儲水槽，容量足以容納整桶拖把水。
   components:
   - type: SolutionContainerManager
     solutions:

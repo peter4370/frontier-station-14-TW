@@ -3,7 +3,7 @@
   id: BaseMobDragon
   suffix: ""
   name: space dragon
-  description: A flying leviathan, loosely related to space carps.
+  description: 一種會飛的利維坦，與太空鯉魚有鬆散的關聯。
   abstract: true
   components:
   - type: Bloodstream
@@ -188,8 +188,8 @@
 - type: entity
   categories: [ HideSpawnMenu ]
   id: DragonsBreathGun
-  name: dragon's lung
-  description: For dragon's breathing.
+  name: 龍肺
+  description: 為龍之吐息。
   components:
   - type: RechargeBasicEntityAmmo
     rechargeCooldown: 5
@@ -212,7 +212,7 @@
   suffix: Dungeon
   components:
   - type: GhostRole
-    description: ghost-role-information-space-dragon-dungeon-description
+    description: 幽靈角色資訊－空間龍－地城描述
     rules: ghost-role-information-space-dragon-dungeon-rules
     raffle:
       settings: default
@@ -237,8 +237,8 @@
 - type: entity
   parent: BaseAction
   id: ActionSpawnRift
-  name: Summon Carp Rift
-  description: Summons a carp rift that will periodically spawns carps.
+  name: 召喚鯉魚裂隙
+  description: 召喚一道鯉魚裂隙，該裂隙會定期生成鯉魚。
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: Action
@@ -253,8 +253,8 @@
 - type: entity
   parent: BaseAction
   id: ActionDevour
-  name: "[color=red]Devour[/color]"
-  description: Attempt to break a structure with your jaws or swallow a creature.
+  name: "[color=red]吞噬[/color]"
+  description: 試著用下顎摧毀一座建築物，或將某個生物吞下肚。
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: Action
@@ -276,8 +276,8 @@
 - type: entity
   parent: BaseAction
   id: ActionDragonsBreath
-  name: "[color=orange]Dragon's Breath[/color]"
-  description: Spew out flames at anyone foolish enough to attack you!
+  name: "[color=orange]龍之息[/color]"
+  description: 對任何愚蠢到敢攻擊你的人，就向他們噴出火焰吧！
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: Action

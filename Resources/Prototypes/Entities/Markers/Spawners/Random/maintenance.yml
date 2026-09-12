@@ -176,7 +176,7 @@
       - id: GoldenPersonalAI
 
 - type: entity
-  name: Maint Loot Spawner
+  name: Maint 戰利品生成器
   suffix: Fluff+Clothes
   id: MaintenanceFluffSpawner
   parent: MarkerBase

@@ -2,8 +2,8 @@
   parent: [BaseItem, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: AccessBreakerUnlimited
   suffix: Unlimited
-  name: authentication disruptor
-  description: A hacked access configurator, specialized to unlock and erase access from digital locks.
+  name: 身分驗證顛覆者
+  description: 一款遭駭客入侵的門禁配置工具，專門用於解鎖數位門鎖並清除門禁權限。
   components:
   - type: Emag
     emagType: Access

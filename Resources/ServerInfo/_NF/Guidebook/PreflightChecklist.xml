@@ -1,7 +1,8 @@
-<Document>
-# Preflight Checklist and Troubleshooting
 
-## 1. Power supply
+<Document>
+# 執行前檢查清單與疑難排解
+
+## 1. 電源供應器
 
 ## 1.1. Battery units
 <Box>
@@ -9,10 +10,10 @@
   <GuideEntityEmbed Entity="APCBasic"/>
 </Box>
 
-- Check if the APC unit's Main Breaker is toggled on.
+- 檢查 APC 裝置的主斷路器是否已切換至開啟狀態。
 - Check the APC unit's current Load* (W).
 
-For additional information consult [textlink="Powerstorage" link="PowerStorage"/].
+如需更多資訊，請參閱 [textlink="Powerstorage" link="PowerStorage"/]。
 
 ## 1.2. Generator
 <Box>
@@ -20,26 +21,26 @@ For additional information consult [textlink="Powerstorage" link="PowerStorage"/
 <GuideEntityEmbed Entity="PortableGeneratorJrPacman" Caption=""/>
 </Box>
 
-- Check if the generator is anchored to the floor.
-- Check if the generator has fuel. For extended flights make sure that you have enough fuel stockpiled to sustain prolonged power generation during flight.
-- Check if the generator is set to HV output.
-- Start the generator unit.
-- Set Target Power for the through power amount indicated by your substation.
-- Power draw may seem excessively high while power storage systems recharge.
+- 檢查發電機是否已固定於地板上。
+- 檢查發電機是否有燃料。 For extended flights make sure that you have enough fuel stockpiled to sustain prolonged power generation during flight.
+- 檢查發電機是否已設定為高壓輸出。
+- 啟動發電機組。
+- 根據您的變電所所顯示的直通電力量，設定目標功率。
+- 在電力儲存系統充電期間，耗電量可能會顯得過高。
 
-## 1.3. Solar panels
+## 1.3. 太陽能板
 <Box>
   <GuideEntityEmbed Entity="ComputerSolarControl"/>
   <GuideEntityEmbed Entity="SolarTracker"/>
   <GuideEntityEmbed Entity="SolarPanel"/>
 </Box>
 
-- Inspect solar control computer.
-- Adjust panel angular velocity.
-- Adjust panel angle.
-- There may be a slight lag period before power generation is reported.
+- 檢查太陽能控制電腦。
+- 調整面板的角速度。
+- 調整面板角度。
+- 在報告發電量之前，可能會有一段短暫的延遲。
 
-## 2. Atmospherics
+## 2. 《Atmospherics》
 
 ## 2.1. Distribution Loop
 <Box>
@@ -49,10 +50,10 @@ For additional information consult [textlink="Powerstorage" link="PowerStorage"/
   <GuideEntityEmbed Entity="GasMixer"/>
 </Box>
 
-- Check that the oxygen and nitrogen canisters are anchored to the connector port.
-- Check that the distribution mixer is set to 101kPa.
-- Enable the distribution mixer.
-- A standard gas mix is 79% nitrogen, 21% oxygen. Adjust for crew need.
+- 請確認氧氣罐和氮氣罐已牢固地固定在連接埠上。
+- 請確認分配混合器已設定為 101kPa。
+- 啟用分配混音器。
+- 標準氣體混合物的成分為 79% 氮氣、21% 氧氣。 請根據船員需求進行調整。
 
 ## 3. Other checks
 <Box>
@@ -61,7 +62,7 @@ For additional information consult [textlink="Powerstorage" link="PowerStorage"/
 </Box>
 
 - Check that the gyroscope is anchored, powered, and enabled.
-- Gyroscopes can be powered down. If your gyroscope appears non functional ensure it has not been deactivated.
+- 陀螺儀可以關機。 如果您的陀螺儀似乎無法運作，請確認它是否已被停用。
 - Check that the mini gravity generator is anchored, powered, and enabled.
 
 </Document>

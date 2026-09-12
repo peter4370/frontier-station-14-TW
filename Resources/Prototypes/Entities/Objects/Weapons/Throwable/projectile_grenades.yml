@@ -45,8 +45,8 @@
 - type: entity
   parent: [ProjectileGrenadeBase, BaseC2ContrabandUnredeemable] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: GrenadeStinger
-  name: stinger grenade
-  description: Nothing to see here, please disperse.
+  name: 刺針手榴彈
+  description: 這裡沒什麼可看的，請大家散開。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Grenades/stingergrenade.rsi
@@ -79,8 +79,8 @@
 - type: entity
   parent: [ProjectileGrenadeBase, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: GrenadeIncendiary
-  name: incendiary grenade
-  description: Guaranteed to light up the mood.
+  name: 燃燒手榴彈
+  description: 保證能讓氣氛熱絡起來。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Grenades/pyrogrenade.rsi
@@ -111,8 +111,8 @@
 - type: entity
   parent: [ProjectileGrenadeBase, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: GrenadeShrapnel
-  name: shrapnel grenade
-  description: Releases a deadly spray of shrapnel that causes severe bleeding.
+  name: 破片手榴彈
+  description: 會釋放出致命的彈片噴射，造成嚴重出血。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Grenades/shrapnelgrenade.rsi

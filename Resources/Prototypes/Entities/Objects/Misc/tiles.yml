@@ -1,7 +1,7 @@
 - type: entity
   parent: [ BaseItem, RecyclableItemSteelTiny ] # Frontier: added RecyclableItemSteelTiny
   id: FloorTileItemBase
-  description: These could work as a pretty decent throwing weapon.
+  description: 這些東西用來當投擲武器應該還挺不錯的。
   abstract: true
   components:
   - type: Sprite
@@ -786,7 +786,7 @@
     stackType: FloorTileHydro
 
 - type: entity
-  name: bar tile
+  name: 吧檯磁磚
   parent: FloorTileItemBase
   id: FloorTileItemBar
   components:
@@ -802,7 +802,7 @@
     stackType: FloorTileBar
 
 - type: entity
-  name: clown tile
+  name: 小丑磁磚
   parent: FloorTileItemBase
   id: FloorTileItemClown
   components:
@@ -818,7 +818,7 @@
     stackType: FloorTileClown
 
 - type: entity
-  name: mime tile
+  name: MIME 磁磚
   parent: FloorTileItemBase
   id: FloorTileItemMime
   components:
@@ -834,7 +834,7 @@
     stackType: FloorTileMime
 
 - type: entity
-  name: kitchen tile
+  name: 廚房磁磚
   parent: FloorTileItemBase
   id: FloorTileItemKitchen
   components:
@@ -850,7 +850,7 @@
     stackType: FloorTileKitchen
 
 - type: entity
-  name: laundry tile
+  name: 洗衣間磁磚
   parent: FloorTileItemBase
   id: FloorTileItemLaundry
   components:
@@ -1350,7 +1350,7 @@
 
 # Terrain
 - type: entity
-  name: grass tile
+  name: 草瓦
   parent: FloorTileItemBase
   id: FloorTileItemGrass
   components:
@@ -1366,7 +1366,7 @@
     stackType: FloorTileGrass
 
 - type: entity
-  name: jungle grass tile
+  name: 叢林草地地磚
   parent: FloorTileItemBase
   id: FloorTileItemGrassJungle
   components:
@@ -1382,7 +1382,7 @@
     stackType: FloorTileGrassJungle
 
 - type: entity
-  name: snow tile
+  name: 雪花磁磚
   parent: FloorTileItemBase
   id: FloorTileItemSnow
   components:
@@ -1487,7 +1487,7 @@
   id: FloorTileItemAstroGrass
   parent: FloorTileItemBase
   name: astro-grass
-  description: Fake grass that covers up wires and even comes with realistic NanoTrimmings!
+  description: 這款人造草不僅能遮蓋線材，甚至還附有逼真的 NanoTrimmings！
   components:
   - type: Sprite
     state: astrograss
@@ -1538,7 +1538,7 @@
   id: FloorTileItemAstroIce
   parent: FloorTileItemBase
   name: astro-ice
-  description: Fake ice that's as slippery as the real thing, while being easily removable!
+  description: 這種人造冰不僅滑度媲美真冰，而且還能輕鬆移除！
   components:
   - type: Sprite
     state: astroice
@@ -1555,7 +1555,7 @@
   id: FloorTileItemAstroSnow
   parent: FloorTileItemBase
   name: astro-snow
-  description: Fake snow that's as fluffy as the real thing, while being easily removable!
+  description: 這種人造雪不僅蓬鬆如真雪，而且非常容易清除！
   components:
   - type: Sprite
     state: snow
@@ -1572,7 +1572,7 @@
   id: FloorTileItemAstroAsteroidSand
   parent: FloorTileItemBase
   name: asteroid astro-sand
-  description: Fake sand. Luckily, it's not as coarse as the real thing.
+  description: 人造沙。幸好，它不像真沙那樣粗糙。
   components:
   - type: Sprite
     state: astro-asteroid
@@ -1625,7 +1625,7 @@
 
 - type: entity
   name: white marble tile
-  description: A chiseled, polished square of the finest Space Marble. Best not to lose it.
+  description: 一塊由最上等的「太空大理石」經精雕細琢、拋光處理而成的方形石塊。最好別弄丟了。
   parent: FloorTileItemBase
   id: FloorTileItemWhiteMarble
   components:
@@ -1659,7 +1659,7 @@
 
 - type: entity
   name: plasmarble tile
-  description: A chiseled, polished square of the finest Space Marble. Plasma-infused for extra... something.
+  description: 一塊由頂級太空大理石雕琢而成、表面經拋光處理的方形石塊。經等離子注入處理，賦予其額外的……某種特質。
   parent: FloorTileItemWhiteMarble
   id: FloorTileItemPlasmaMarble
   components:
@@ -1680,7 +1680,7 @@
 
 - type: entity
   name: uranium marble tile
-  description: A chiseled, polished square of the finest Space Marble. Uranium-infused to make it extra rad! Pun intended!
+  description: 一塊由頂級「太空大理石」經精雕細琢、拋光而成的方形石塊。摻入鈾元素，讓它格外「輻射」！這可是雙關語喔！
   parent: FloorTileItemWhiteMarble
   id: FloorTileItemUraniumMarble
   components:
@@ -1724,7 +1724,7 @@
 - type: entity
   id: FloorTileItemXenoSteel
   parent: FloorTileItemBase
-  name: xeno steel floor
+  name: xeno 鋼製地板
   components:
   - type: Sprite
     state: xeno-steel
@@ -1740,7 +1740,7 @@
 - type: entity
   id: FloorTileItemXenoSteelCorner
   parent: FloorTileItemBase
-  name: xeno steel corner floor
+  name: xeno 鋼製角落地板
   components:
   - type: Sprite
     state: xeno-steel-corner
@@ -1754,7 +1754,7 @@
     stackType: FloorTileXenoSteelCorner
 
 - type: entity
-  name: xeno techmaint floor
+  name: xeno techmaint 地板
   parent: FloorTileItemBase
   id: FloorTileItemXenoMaint
   components:
@@ -1772,7 +1772,7 @@
 - type: entity
   id: FloorTileItemXenoborg
   parent: FloorTileItemBase
-  name: xenoborg floor
+  name: 外星機器人地板
   components:
   - type: Sprite
     state: xenoborg-floor

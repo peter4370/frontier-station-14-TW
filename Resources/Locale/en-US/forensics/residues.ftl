@@ -1,9 +1,7 @@
-forensic-residue = {LOC($adjective)} residue
-forensic-residue-colored = {LOC($adjective)} {LOC($color)} residue
-
-residue-unknown = unknown
-residue-slippery = slippery
-
+forensic-residue = { LOC($adjective) } 殘差
+forensic-residue-colored = { LOC($adjective) } { LOC($color) } 殘差
+residue-unknown = 未知
+residue-slippery = 濕滑的
 residue-green = green
 residue-blue = blue
 residue-red = red

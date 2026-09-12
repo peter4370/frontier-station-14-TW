@@ -1,14 +1,11 @@
-marking-FelinidLeopard = Leopard tail
+marking-FelinidLeopard = 豹尾
 marking-FelinidLeopard-m_tail_leopard_primary = Primary
 marking-FelinidLeopard-m_tail_leopard_tertiary = Spots
-
-marking-FelinidCatBig = Big Cat tail
+marking-FelinidCatBig = 大貓的尾巴
 marking-FelinidCatBig-m_tail_catbig_primary = Primary
-
-marking-FelinidTigerDouble = Double Tiger Tail
+marking-FelinidTigerDouble = 雙虎尾
 marking-FelinidTigerDouble-m_tail_tiger2_ = Primary
-marking-FelinidTigerDouble-m_tail_tiger2_secondary = Tip
+marking-FelinidTigerDouble-m_tail_tiger2_secondary = 提示
 marking-FelinidTigerDouble-m_tail_tiger2_tertiary = Stripes
-
-marking-FelinidDouble = Double Cat Tail
+marking-FelinidDouble = 雙貓尾
 marking-FelinidDouble-m_tail_twocat = Primary

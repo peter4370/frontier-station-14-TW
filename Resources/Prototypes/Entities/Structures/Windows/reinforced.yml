@@ -1,6 +1,6 @@
 - type: entity
   id: ReinforcedWindow
-  name: reinforced window
+  name: 強化玻璃窗
   parent: Window
   components:
   - type: Sprite
@@ -59,7 +59,7 @@
 - type: entity
   id: WindowReinforcedDirectional
   parent: WindowDirectional
-  name: directional reinforced window
+  name: 定向強化窗
   description: Don't smudge up the glass down there.
   placement:
     mode: SnapgridCenter

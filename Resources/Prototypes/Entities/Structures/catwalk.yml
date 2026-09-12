@@ -1,8 +1,8 @@
 # TODO move this to tiles once tile smoothing is supported
 - type: entity
   id: Catwalk
-  name: catwalk
-  description: A catwalk for easier EVA maneuvering and cable placement.
+  name: 時裝秀
+  description: 一條供人員行走的走道，以便更輕鬆地進行 EVA 操作及佈設纜線。
   placement:
     mode: SnapgridCenter
   components:

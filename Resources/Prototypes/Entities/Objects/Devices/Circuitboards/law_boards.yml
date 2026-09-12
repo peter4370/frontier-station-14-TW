@@ -1,8 +1,8 @@
 - type: entity
   id: NTDefaultCircuitBoard
   parent: BaseElectronics
-  name: law board (NT Default)
-  description: An electronics board containing the NT Default lawset.
+  name: 法律論壇（NT 預設）
+  description: 一塊載有 NT Default 法規集的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -13,8 +13,8 @@
 - type: entity
   id: AsimovCircuitBoard
   parent: BaseElectronics
-  name: law board (Crewsimov)
-  description: An electronics board containing the Crewsimov lawset.
+  name: 法律委員會（克魯西莫夫）
+  description: 一塊內含克魯西莫夫法則集的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -25,8 +25,8 @@
 - type: entity
   id: CorporateCircuitBoard
   parent: BaseElectronics
-  name: law board (Corporate)
-  description: An electronics board containing the Corporate lawset.
+  name: 法律委員會（公司法）
+  description: 一塊載有《公司法》法規集的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -37,8 +37,8 @@
 - type: entity
   id: CommandmentCircuitBoard
   parent: BaseElectronics
-  name: law board (Ten Commandments)
-  description: An electronics board containing the Ten Commandments lawset.
+  name: 律法石板（十誡）
+  description: 一塊載有「十誡」法典的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -49,8 +49,8 @@
 - type: entity
   id: PaladinCircuitBoard
   parent: BaseElectronics
-  name: law board (Paladin)
-  description: An electronics board containing the Paladin lawset.
+  name: 法律論壇（聖騎士）
+  description: 一塊內含「Paladin」法典的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -61,8 +61,8 @@
 - type: entity
   id: LiveLetLiveCircuitBoard
   parent: BaseElectronics
-  name: law board (Live and Let Live)
-  description: An electronics board containing the Live and Let Live lawset.
+  name: 法律論壇（各行其是）
+  description: 一塊載有「共存共榮」法則集的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -73,8 +73,8 @@
 - type: entity
   id: StationEfficiencyCircuitBoard
   parent: BaseElectronics
-  name: law board (Station Efficiency)
-  description: An electronics board containing the Station Efficiency lawset.
+  name: 法律委員會（車站效率）
+  description: 一塊載有「站點效率」法則集的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -85,8 +85,8 @@
 - type: entity
   id: RobocopCircuitBoard
   parent: BaseElectronics
-  name: law board (Robocop)
-  description: An electronics board containing the Robocop lawset.
+  name: 法律委員會（機械戰警）
+  description: 一塊內含《機械戰警》法規集的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -97,8 +97,8 @@
 - type: entity
   id: OverlordCircuitBoard
   parent: BaseElectronics
-  name: law board (Overlord)
-  description: An electronics board containing the Overlord lawset.
+  name: 法律論壇（Overlord）
+  description: 一塊內含「Overlord」法規集的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -109,8 +109,8 @@
 - type: entity
   id: GameMasterCircuitBoard
   parent: BaseElectronics
-  name: law board (Game Master)
-  description: An electronics board containing the Game Master lawset.
+  name: 法律委員會（遊戲主持人）
+  description: 一塊載有「Game Master」法則集的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -121,8 +121,8 @@
 - type: entity
   id: ArtistCircuitBoard
   parent: BaseElectronics
-  name: law board (Artist)
-  description: An electronics board containing the Artist lawset.
+  name: law board（藝術家）
+  description: 一塊載有 Artist 指令集的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -133,8 +133,8 @@
 - type: entity
   id: AntimovCircuitBoard
   parent: [BaseC3SyndicateContraband, BaseElectronics] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
-  name: law board (Antimov)
-  description: An electronics board containing the Antimov lawset.
+  name: 法律委員會（安蒂莫夫）
+  description: 一塊內含安蒂莫夫法則集的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -148,8 +148,8 @@
 - type: entity
   id: NutimovCircuitBoard
   parent: BaseElectronics
-  name: law board (Nutimov)
-  description: An electronics board containing the Nutimov lawset.
+  name: 法律委員會（努蒂莫夫）
+  description: 一塊內含 Nutimov 法則集的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -160,9 +160,9 @@
 - type: entity
   id: XenoborgCircuitBoard
   parent: BaseElectronics
-  name: law board (Xenoborg)
+  name: 法律論壇（Xenoborg）
   suffix: Admeme
-  description: An electronics board containing the Xenoborg lawset.
+  description: 一塊內含 Xenoborg 法則集的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -173,9 +173,9 @@
 - type: entity
   id: MothershipCircuitBoard
   parent: BaseElectronics
-  name: law board (Mothership Core)
+  name: 法律委員會（母艦核心）
   suffix: Admeme
-  description: An electronics board containing the Mothership Core lawset.
+  description: 一塊內含「母艦核心」法則集的電子電路板。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi

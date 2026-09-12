@@ -1,5 +1,6 @@
+
 <Document>
-# STRONGHOLD-CLASS SCIENCE SHUTTLE
+# 「要塞級」科學飛船
 <Box>
   <GuideEntityEmbed Entity="SignAnomaly" Caption="Collect"/>
   <GuideEntityEmbed Entity="BlastDoor" Caption="Contain"/>
@@ -11,59 +12,59 @@
   <GuideEntityEmbed Entity="ShuttleMapStronghold" Caption=""/>
 </Box>
 
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-3
+  [color=#a4885c]建議船員人數：[/color] 1-3 人
 
-  [color=#a4885c]Power Gen Type:[/color] Solar/Uranium
+  [color=#a4885c]動力類型：[/color] 太陽能／鈾
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "The DBI Stronghold is intended for researching even the most dangerous of artifacts and anomolies, guarenteeing safety with minimal repairs needed per catastrophic explosion! 
-  with a large research lab and testing chamber the Dung Beetle Incorporated's Stronghold is sure to suffice!"
- 
+  「DBI 堡壘專為研究最危險的遺物與異常現象而設計，即使發生毀滅性爆炸，也能確保安全並將所需維修降至最低！」
+  「憑藉著大型研究實驗室和測試艙，『糞金龜股份有限公司』的大本營肯定綽綽有餘！」
+
   # Ship Functions
 
 <Box>
   <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Vent Research Chamber"/>
 </Box>
-"This button opens the 3 bottom blast doors, removing the air from the chamber"
+「按下此按鈕可開啟下方的 3 扇防爆門，將氣室內的空氣排出」
 <Box>
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Toggle Blast Doors"/>
 </Box>
-"This button closes the blast doors surrounding the artifact analyzer, providing much needed protection from artifact explosions"
+「此按鈕可關閉包圍文物分析儀的防爆門，提供抵禦文物爆炸時亟需的保護」
 <Box>
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Toggle Thursters"/>
 </Box>
-"This button toggles the thrusters, allowing you to live on the solar power"
-  
-# Science
+「此按鈕可切換推進器，讓您僅靠太陽能維持運作」
 
-[textlink="Science" link="Science"/]
+# 科學
 
-# Medical
+[textlink="科學" link="科學"/]
 
-[textlink="Medicine" link="Medical Doctor"/]
+# 醫學
 
-[textlink="Chemistry" link="Chemist"/]
+[textlink="醫學" link="醫師"/]
 
-[textlink="Chemicals" link="Chemicals"/]
+[textlink="化學" link="化學家"/]
 
-[textlink="Cryogenics" link="Cryogenics"/]
+[textlink="化學品" link="化學品"/]
 
-[textlink="Botany" link="Botany"/]
+[textlink="低溫技術" link="低溫技術"/]
 
-# Piloting
+[textlink="植物學" link="植物學"/]
 
-[textlink="Piloting" link="Piloting"/]
+# 駕駛
 
-[textlink="Sector Topology" link="SectorTopology"/]
+[textlink="駕駛" link="駕駛"/]
 
-# Hiring crew
+[textlink="星區拓撲" link="SectorTopology"/]
 
-[textlink="Hiring" link="Hiring"/]
+# 招募船員
 
-As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+[textlink="招募" link="招募"/]
+
+身為納諾特拉森（Nanotrasen）船隻的船長，你有權隨意僱用、解僱、降職或晉升船員。
 
 # PREFLIGHT CHECKLIST
 

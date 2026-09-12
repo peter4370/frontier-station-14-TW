@@ -27,9 +27,9 @@
 - type: entity
   parent: BaseFoodCondiment
   id: BaseFoodCondimentPacket
-  name: condiment packet
+  name: 調味料包
   abstract: true
-  description: A small plastic pack with condiments to put on your food.
+  description: 一個裝有佐餐調味料的小塑膠包。
   components:
   - type: Item
     size: Tiny
@@ -140,7 +140,7 @@
   parent: BaseFoodCondimentPacketDrink
   id: FoodCondimentPacketCornoil
   name: vegetable oil # Frontier: corn<vegetable
-  description: Vegetable oil. A delicious oil used in cooking. Made from vegetables. # Frontier: corn<vegetable
+  description: 植物油。一種用於烹飪的美味食用油。由蔬菜製成。 # Frontier: corn<vegetable
   components:
   - type: SolutionContainerManager
     solutions:
@@ -160,7 +160,7 @@
   parent: BaseFoodCondimentPacketDrink
   id: FoodCondimentPacketColdsauce
   name: coldsauce
-  description: Coldsauce. Leaves the tongue numb in its passage.
+  description: 冷醬。一經舌尖，便令人感到麻木。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -180,7 +180,7 @@
   parent: BaseFoodCondimentPacketDrink
   id: FoodCondimentPacketHorseradish
   name: horseradish sauce
-  description: A packet of smelly horseradish sauce.
+  description: 一包氣味濃烈的辣根醬。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -200,7 +200,7 @@
   parent: BaseFoodCondimentPacketDrink
   id: FoodCondimentPacketHotsauce
   name: hotsauce
-  description: You can almost TASTE the stomach ulcers now!
+  description: 現在你幾乎都能「嚐到」胃潰瘍的味道了！
   components:
   - type: SolutionContainerManager
     solutions:
@@ -220,7 +220,7 @@
   parent: BaseFoodCondimentPacketDrink
   id: FoodCondimentPacketKetchup
   name: ketchup
-  description: You feel more American already.
+  description: 你已經覺得自己更像個美國人了。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -240,7 +240,7 @@
   parent: BaseFoodCondimentPacketDrink
   id: FoodCondimentPacketMustard
   name: mustard
-  description: A condiment made from the ground-up seeds of the Mustard plant.
+  description: 一種由芥菜籽研磨而成製成的調味料。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -278,7 +278,7 @@
   parent: BaseFoodCondimentPacket
   id: FoodCondimentPacketSalt
   name: salt
-  description: Salt. From space oceans, presumably.
+  description: 鹽。推測源自太空中的海洋。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -346,8 +346,8 @@
   parent: BaseFoodCondiment
   id: BaseFoodCondimentBottle
   abstract: true
-  name: condiment bottle
-  description: A thin glass bottle used to store condiments.
+  name: 調味料瓶
+  description: 一種用來存放調味料的小玻璃瓶。
   components:
   - type: Edible
     edible: Drink
@@ -391,7 +391,7 @@
 - type: entity
   parent: BaseFoodCondimentBottle
   id: FoodCondimentBottleColdsauce
-  name: coldsauce bottle
+  name: 冷醬瓶
   description: Leaves the tongue numb in its passage.
   components:
   - type: SolutionContainerManager
@@ -443,8 +443,8 @@
 - type: entity
   parent: BaseFoodCondimentBottle
   id: FoodCondimentBottleVinegar
-  name: vinegar bottle
-  description: Used in cooking to enhance flavor.
+  name: 醋瓶
+  description: 用於烹飪以提升風味。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -466,7 +466,7 @@
 - type: entity
   parent: BaseFoodCondimentBottle
   id: FoodCondimentBottleHotsauce
-  name: hotsauce bottle
+  name: 辣醬瓶
   description: You can almost TASTE the stomach ulcers now!
   components:
   - type: SolutionContainerManager
@@ -492,7 +492,7 @@
 - type: entity
   parent: BaseFoodCondimentBottle
   id: FoodCondimentBottleKetchup
-  name: ketchup bottle
+  name: 番茄醬瓶
   description: You feel more American already.
   components:
   - type: SolutionContainerManager
@@ -518,7 +518,7 @@
 - type: entity
   parent: BaseFoodCondimentBottle
   id: FoodCondimentBottleBBQ
-  name: BBQ sauce bottle
+  name: 燒烤醬瓶
   description: Hand wipes not included.
   components:
   - type: SolutionContainerManager
@@ -548,8 +548,8 @@
   parent: BaseFoodCondiment # TODO: This should not inherit TrashOnSolutionEmpty, SpaceGarbage and the price of 0
   id: BaseFoodShaker
   abstract: true
-  name: empty shaker
-  description: A shaker used to store and dispense spices.
+  name: 空的搖盅
+  description: 一種用於儲存和分裝香料的調味料罐。
   components:
   - type: Item
     size: Tiny
@@ -594,7 +594,7 @@
 - type: entity
   parent: BaseFoodShaker
   id: FoodShakerSalt
-  name: salt shaker
+  name: 鹽罐
   description: Salt. From space oceans, presumably.
   components:
   - type: SolutionContainerManager
@@ -614,7 +614,7 @@
 - type: entity
   parent: BaseFoodShaker
   id: FoodShakerPepper
-  name: pepper shaker
+  name: 胡椒罐
   description: Often used to flavor food or make people sneeze.
   components:
   - type: SolutionContainerManager

@@ -1,26 +1,27 @@
+
 <Document>
-  # Goblins
+  # 哥布林
 
   <Box>
     <GuideEntityEmbed Entity="MobGoblin" Caption=""/>
   </Box>
 
-  Goblins are a race of humanoid beings. They tend to be small, very loud and fragile.
+  哥布林是一種類人生物。 它們通常體型小巧、聲音非常大，而且很脆弱。
 
-  ## Benefits
+  ## 優勢
 
-  - Due to their unusual dietary choices goblins take [color=lime]25% less Toxin damage[/color],
-  - When unarmed, their claws deal [color=red]Slash[/color] damage instead of Blunt.
-  - Smaller than humans.
+  - 由於其特殊的飲食習慣，哥布林受到的 [color=lime]毒素傷害減少 25%[/color]，
+  - 徒手攻擊時，其利爪造成的傷害為 [color=red]切割[/color] 傷害，而非鈍擊傷害。
+  - 體型比人類小。
   - Can fit in duffelbags.
 
-  ## Special
+  ## 特殊
 
-  - Can rummage in disposal chutes to dig up trash.
-  - Can dive into toilets and mailing units because of their small size.
-  - Unique chants.
-  - Inherently speak in Goblin Cant.
-  - Able to craft devices of varied complexity from trash.
+  - 能翻找垃圾槽，挖出垃圾。
+  - 由於體型嬌小，能鑽進馬桶和郵箱裡。
+  - 獨特的吶喊聲。
+  - 天生會說哥布林俚語。
+  - 能夠利用廢棄物製作出複雜程度各異的裝置。
 
   <Box>
     <GuideEntityEmbed Entity="NFGoblinMadeMultitool" Caption=""/>
@@ -29,10 +30,10 @@
     <GuideEntityEmbed Entity="NFGoblinMadeRemoteSignaller" Caption=""/>
   </Box>
 
-  ## Drawbacks
+  ## 缺點
 
-  - Because of their small size they take [color=#ffa500]20% more Brute (Blunt/Slash/Piercing) damage[/color].
-  - Always triggers mousetraps, even when wearing shoes.
-  - They don't like to be sprayed with water or space cleaner.
+  - 由於體型嬌小，它們承受的 [color=#ffa500]蠻力（鈍擊／劈砍／穿刺）傷害[/color] 會增加 [color=#ffa500]20%[/color]。
+  - 即使穿著鞋子，也總是會觸發捕鼠夾。
+  - 牠們不喜歡被水或空間清潔劑噴到。
 
 </Document>

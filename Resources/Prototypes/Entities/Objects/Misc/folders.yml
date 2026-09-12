@@ -1,7 +1,7 @@
 - type: entity
   parent: BaseItem
   id: BoxFolderNuclearCodes
-  name: nuclear code folder
+  name: 核代碼資料夾
   components:
   - type: Sprite
     sprite: Objects/Misc/folders.rsi
@@ -21,8 +21,8 @@
 - type: entity
   parent: BoxBase
   id: BoxFolderBaseEmpty
-  name: folder
-  description: A folder filled with top secret paperwork.
+  name: 資料夾
+  description: 一個裝滿絕密文件的文件夾。
   components:
   - type: Sprite
     sprite: Objects/Misc/folders.rsi
@@ -210,8 +210,8 @@
   parent: BoxFolderBaseEmpty
   id: BoxFolderCentComEmpty
   categories: [ DoNotMap ]
-  name: CentComm folder
-  description: CentComm's miserable little pile of secrets!
+  name: CentComm 資料夾
+  description: 中央司令部那堆可悲的小秘密！
   components:
   - type: Sprite
     layers:
@@ -226,8 +226,8 @@
 - type: entity
   parent: BoxFolderBaseEmpty
   id: BoxFolderClipboardEmpty
-  name: clipboard
-  description: The weapon of choice for those on the front lines of bureaucracy.
+  name: 剪貼板
+  description: 官僚體系前線人員的首選武器。
   components:
   - type: Sprite
     sprite: Objects/Misc/clipboard.rsi
@@ -293,8 +293,8 @@
 - type: entity
   parent: BoxFolderClipboardEmpty
   id: BoxFolderPlasticClipboardEmpty
-  name: plastic clipboard
-  description: A cheap clipboard made of blue plastic. For those who aren't yet ready to wield the bureaucratic might of a proper wooden clipboard.
+  name: 塑膠寫字板
+  description: 一個由藍色塑膠製成的廉價寫字板。適合那些還未準備好揮灑正式木製寫字板所蘊含的官僚威勢的人。
   components:
   - type: Sprite
     sprite: Objects/Misc/plastic_clipboard.rsi
@@ -319,8 +319,8 @@
 - type: entity
   parent: BoxFolderClipboardEmpty
   id: BoxFolderCentComClipboardEmpty
-  name: CentComm clipboard
-  description: A luxurious clipboard upholstered with green velvet. Often seen carried by CentComm officials, seldom seen actually used.
+  name: CentComm 剪貼簿
+  description: 一款覆有綠色天鵝絨的豪華剪貼板。常可見中央司令部（CentCom）官員攜帶，但鮮少見其實際使用。
   components:
   - type: Sprite
     sprite: Objects/Misc/cc-clipboard.rsi
@@ -350,7 +350,7 @@
   parent: [BoxFolderClipboardEmpty, BaseC2ContrabandUnredeemable] # Frontier: BaseGrandTheftContraband<BaseC2ContrabandUnredeemable
   id: BoxFolderQmClipboard
   name: requisition digi-board
-  description: A bulky electric clipboard, filled with shipping orders and financing details. With so many compromising documents, you ought to keep this safe.
+  description: 一個厚重的電子剪貼板，裡面塞滿了出貨訂單和融資細節。既然有這麼多可能洩露機密資訊的文件，你應該把它妥善保管。
   components:
   - type: Sprite
     sprite: Objects/Misc/qm_clipboard.rsi

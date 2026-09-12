@@ -1,37 +1,35 @@
 ## UI
+
 cryopod-examine-empty = Empty
-cryopod-examine-occupied = Occupied
+cryopod-examine-occupied = 被佔領的
 cryopod-verb-target-unknown = Unknown
-accept-cryo-window-title = Cryo Sleep Chamber
+accept-cryo-window-title = 冷凍睡眠艙
 accept-cryo-window-accept-button = Accept
 accept-cryo-window-deny-button = Cancel
-accept-cryo-window-prompt-text-part = Enter cryo sleep and finish your shift?
-accept-cryo-window-prompt-stored = Your body will be stored for {PLAYTIME($time)}.
-accept-cryo-window-prompt-not-stored = Your body will not be stored, but your job slot will be reopened if you haven't done it yourself.
+accept-cryo-window-prompt-text-part = 進入冷凍睡眠，然後結束這班勤務？
+accept-cryo-window-prompt-stored = 你的屍體將被保存 { PLAYTIME($time) }。
+accept-cryo-window-prompt-not-stored = 您的角色不會被存檔，但若您尚未自行處理，您的職位空缺將會重新開放。
 # Warnings
-accept-cryo-window-prompt-shuttle-bag-warning = You have an active ship deed on your {$deed} in your {$storage}!
-accept-cryo-window-prompt-shuttle-many-bag-warning = You have an active ship deed on your {$deed} in your {$storage}, and more deeds elsewhere!
-accept-cryo-window-prompt-shuttle-pda-warning = You currently own a unsold ship!
-accept-cryo-window-prompt-shuttle-pda-and-bag-warning = You currently own an unsold ship, and an active ship deed on your {$deed} in your {$storage}!
-accept-cryo-window-prompt-shuttle-pda-and-many-bag-warning = You currently own an unsold ship, an active ship deed on your {$deed} in your {$storage}, and more deeds elsewhere!
-accept-cryo-window-prompt-one-item-warning = You have {$item} in your {$storage}!
-accept-cryo-window-prompt-two-items-warning = You have {$item1} in your {$storage1}, and {$item2} in your {$storage2}!
-accept-cryo-window-prompt-many-items-warning = You have {$item1} in your {$storage1}, {$item2} in your {$storage2}, and {$num-extra-items} important items elsewhere!
-accept-cryo-window-prompt-uplink-warning = You have a {$uplink} in your {$storage} with {$amount} {$currency}!
-accept-cryo-window-prompt-unable-to-scan = Your inventory couldn't be scanned for important items due to an error.
+accept-cryo-window-prompt-shuttle-bag-warning = 您在 { $storage } 中的 { $deed } 擁有有效的船隻產權證明！
+accept-cryo-window-prompt-shuttle-many-bag-warning = 您在 { $deed } 中的 { $storage } 擁有有效的船隻產權，此外還有其他地方的產權！
+accept-cryo-window-prompt-shuttle-pda-warning = 您目前擁有一艘尚未售出的船隻！
+accept-cryo-window-prompt-shuttle-pda-and-bag-warning = 您目前擁有一艘尚未售出的船隻，以及一項位於 { $deed } 且狀態為「有效」的船隻產權證明，該船隻位於您的 { $storage } 中！
+accept-cryo-window-prompt-shuttle-pda-and-many-bag-warning = 您目前擁有一艘尚未售出的船隻、一項位於 { $deed } 且狀態為「有效」的船隻產權證明，該船隻位於您的 { $storage } 中，此外還有其他地方的產權證明！
+accept-cryo-window-prompt-one-item-warning = 你的 { $storage } 裡有 { $item }！
+accept-cryo-window-prompt-two-items-warning = 您的 { $storage1 } 中有 { $item1 }，而您的 { $storage2 } 中有 { $item2 }！
+accept-cryo-window-prompt-many-items-warning = 您的 { $storage1 } 中有 { $item1 }，{ $storage2 } 中有 { $item2 }，以及其他地方還有 { $num-extra-items } 項重要項目！
+accept-cryo-window-prompt-uplink-warning = 你的 { $storage } 裡有 { $uplink }，其中包含 { $amount } { $currency }！
+accept-cryo-window-prompt-unable-to-scan = 由於發生錯誤，無法掃描您的物品清單以查找重要物品。
 accept-cryo-window-prompt-hand-slot-name = hand
-
-cryo-wakeup-window-title = Waking Up
+cryo-wakeup-window-title = 醒來
 cryo-wakeup-window-accept-button = Accept
 cryo-wakeup-window-deny-button = Cancel
-cryo-wakeup-window-rules = You are going to try to return from your cryosleep! You do not know anything that happened since the moment you went to sleep. Accept this and continue?
-cryo-wakeup-result-occupied = The cryopod is occupied! Try waiting a bit.
-cryo-wakeup-result-no-cryopod = No cryopods were available to return your body to.
-cryo-wakeup-result-no-body = You do not have a cryosleeping body!
-cryo-wakeup-result-disabled = Returning from cryosleep is disabled on this server.
-
+cryo-wakeup-window-rules = 你即將嘗試從冷凍睡眠中甦醒！你對進入冷凍睡眠後發生的所有事情一無所知。接受這個事實並繼續嗎？
+cryo-wakeup-result-occupied = 冷冻艙已被佔用！請稍等片刻。
+cryo-wakeup-result-no-cryopod = 沒有任何冷凍艙可供將您的遺體送回。
+cryo-wakeup-result-no-body = 你沒有處於冷凍睡眠狀態的身體！
+cryo-wakeup-result-disabled = 此伺服器已停用「從冷凍睡眠中甦醒」功能。
 # Cryopod
-cryopod-refuse-dead = The {$cryopod} refuses to accept dead patients.
-cryopod-refuse-organic = The {$cryopod} detected multiple sentients! Remove {$name}.
-
-cryopod-wake-up = {$entity} returns from cryosleep!
+cryopod-refuse-dead = { $cryopod } 拒絕接收已死亡的病患。
+cryopod-refuse-organic = { $cryopod } 偵測到多名有知覺的生物！請移除 { $name }。
+cryopod-wake-up = { $entity } 已從冷凍睡眠中甦醒！

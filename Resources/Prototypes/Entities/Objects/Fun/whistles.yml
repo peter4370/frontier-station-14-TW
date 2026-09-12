@@ -3,7 +3,7 @@
   parent: BaseItem
   id: BaseWhistle
   name: whistle
-  description: Someone forgot to turn off kettle?
+  description: 有人忘了關電水壺嗎？
   components:
   - type: Item
     sprite: Objects/Fun/whistles.rsi
@@ -32,7 +32,7 @@
 - type: entity
   parent: BaseWhistle
   id: SecurityWhistle
-  description: Sound of it make you feel fear.
+  description: 光是聽起來就讓人感到害怕。
   components:
   - type: Sprite
     state: sec
@@ -44,8 +44,8 @@
 - type: entity
   parent: BaseWhistle # Frontier: removed BaseMinorContraband
   id: SyndicateWhistle
-  name: trench whistle
-  description: A whistle used by Syndicate commanders to draw attention. Avanti!
+  name: 戰壕哨
+  description: 辛迪加指揮官用來引起注意的哨子。前進！
   components:
   - type: Sprite
     state: trench

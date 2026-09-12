@@ -1,49 +1,33 @@
 ﻿roles-antag-generic-solo-antagonist-name = Solo Antagonist
 
 roles-antag-generic-free-agent-name = Free Agent
-
 roles-antag-generic-team-antagonist-name = Team Antagonist
-
-roles-antag-generic-silicon-antagonist-name = Silicon Antagonist
-
-roles-antag-syndicate-agent-name = Syndicate agent
-roles-antag-syndicate-agent-objective = Complete your objectives without being caught.
-
-roles-antag-syndicate-agent-sleeper-name = Syndicate sleeper agent
-roles-antag-syndicate-agent-sleeper-objective = A form of syndicate agent that can activate at any point in the middle of the shift.
-
-roles-antag-initial-infected-name = Initial Infected
-roles-antag-initial-infected-objective = Once you turn, infect as many other crew members as possible.
-
+roles-antag-generic-silicon-antagonist-name = 矽拮抗劑
+roles-antag-syndicate-agent-name = 辛迪加特工
+roles-antag-syndicate-agent-objective = 在不被發現的情況下完成你的任務。
+roles-antag-syndicate-agent-sleeper-name = 黑手黨臥底特工
+roles-antag-syndicate-agent-sleeper-objective = 一種可在輪班期間的任何時刻啟動的集團代理。
+roles-antag-initial-infected-name = 初期感染者
+roles-antag-initial-infected-objective = 一旦你變異，就要盡可能感染其他船員。
 roles-antag-zombie-name = Zombie
-roles-antag-zombie-objective = Turn as many humans as possible into zombies.
-
+roles-antag-zombie-objective = 將盡可能多的人類變成殭屍。
 roles-antag-suspicion-innocent-name = Innocent
-roles-antag-suspicion-innocent-objective = Discover and eliminate all traitors.
-
+roles-antag-suspicion-innocent-objective = 找出並清除所有叛徒。
 roles-antag-suspicion-suspect-name = Suspect
-roles-antag-suspicion-suspect-objective = Kill the innocents.
-
-roles-antag-nuclear-operative-commander-name = Nuclear operative commander
-roles-antag-nuclear-operative-commander-objective = Lead your team to the destruction of the station.
-
-roles-antag-nuclear-operative-agent-name = Nuclear operative corpsman
-roles-antag-nuclear-operative-agent-objective = Like default operative, the team's treatment will have priority.
-
-roles-antag-nuclear-operative-name = Nuclear operative
-roles-antag-nuclear-operative-objective = Find the nuke disk and blow up the station.
-
-roles-antag-subverted-silicon-name = Subverted silicon
-roles-antag-subverted-silicon-objective = Follow your new laws and do bad unto the station.
-
+roles-antag-suspicion-suspect-objective = 殺害無辜者。
+roles-antag-nuclear-operative-commander-name = 核武作戰指揮官
+roles-antag-nuclear-operative-commander-objective = 帶領你的團隊摧毀該站。
+roles-antag-nuclear-operative-agent-name = 核武特勤醫務兵
+roles-antag-nuclear-operative-agent-objective = 如同預設操作方式，該團隊的治療將被優先處理。
+roles-antag-nuclear-operative-name = 核武特工
+roles-antag-nuclear-operative-objective = 找出核彈光碟，並炸毀該站。
+roles-antag-subverted-silicon-name = 反向硅
+roles-antag-subverted-silicon-objective = 遵守你們的新法律，並對該站施加惡行。
 roles-antag-space-ninja-name = Space Ninja
-roles-antag-space-ninja-objective = Use your stealth to sabotage the station, nom on electrical wires.
-
+roles-antag-space-ninja-objective = 利用你的隱身能力破壞這座站點，大啖電線吧。
 roles-antag-paradox-clone-name = Paradox Clone
 roles-antag-paradox-clone-objective = A freak space-time anomaly has teleported you into another reality! Now you have to find your counterpart and kill and replace them.
-
 roles-antag-thief-name = Thief
-roles-antag-thief-objective = Add some NT property to your personal collection without using violence.
-
+roles-antag-thief-objective = 無需動用暴力，即可為您的個人收藏增添一些 NT 風格的物品。
 roles-antag-dragon-name = Space Dragon
-roles-antag-dragon-objective = Create a carp army to take over this quadrant.
+roles-antag-dragon-objective = 組建一支鯉魚大軍，以接管這個象限。

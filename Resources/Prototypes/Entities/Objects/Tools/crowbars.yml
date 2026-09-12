@@ -46,7 +46,7 @@
 - type: entity
   parent: BaseCrowbar
   id: Crowbar
-  description: A multipurpose tool to pry open doors and fight interdimensional invaders.
+  description: 一款多功能工具，既可用於撬開門，也能對抗跨維度入侵者。
   components:
   - type: Sprite
     state: icon
@@ -57,10 +57,10 @@
 
 # Emergency (red) Crowbar
 - type: entity
-  name: emergency crowbar
+  name: 緊急撬棍
   parent: BaseCrowbar
   id: CrowbarRed
-  description: An emergency crowbar designed to pry open doors and firelocks during power outages.
+  description: 一款專為在停電時撬開門和防火鎖而設計的緊急撬棍。
   components:
   - type: Tag
     tags:
@@ -95,7 +95,7 @@
 - type: entity
   parent: BaseCrowbar
   id: CrowbarGreen
-  description: A multipurpose tool to pry open doors and fight interdimensional invaders, printed from an autolathe.
+  description: 一款用於撬開門戶並對抗跨維度入侵者的多功能工具，由自動車床列印而成。
   components:
   - type: Sprite
     layers:
@@ -126,7 +126,7 @@
 - type: entity
   parent: BaseCrowbar
   id: CrowbarOrange
-  description: A multipurpose tool to pry open doors and fight interdimensional invaders, found in toolboxes.
+  description: 一種多功能工具，可用於撬開門戶並對抗跨維度入侵者，常見於工具箱中。
   components:
   - type: Sprite
     layers:
@@ -157,7 +157,7 @@
 - type: entity
   parent: BaseCrowbar
   id: CrowbarYellow
-  description: A multipurpose tool to pry open doors and fight interdimensional invaders, dispensed from Engineering.
+  description: 一款由工程部配發的多功能工具，可用於撬開門戶並對抗跨維度入侵者。
   components:
   - type: Sprite
     layers:

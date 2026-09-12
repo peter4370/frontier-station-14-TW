@@ -1,22 +1,23 @@
+
 <Document>
-  # Hiring Crew
+  # 招募工作人員
   <Box>
     <GuideEntityEmbed Entity="ComputerStationRecords"/>
-    <GuideEntityEmbed Entity="ClothingHeadsetGrey" Caption="headset"/>
+    <GuideEntityEmbed Entity="ClothingHeadsetGrey" Caption="耳機"/>
     <GuideEntityEmbed Entity="IntercomCommon"/>
   </Box>
-  As the Captain of a Nanotrasen vessel, you have the authority to hire and fire crew members, and to delegate work.
-There are two ways to hire crew:
-- Use the [color=#a4885c]records computer[/color] on your ship to open crew slots. Players that join later can [textlink="interview" link="Interviews"/] as holograms to join your ship.
-- Invite other players to join your crew through in-game communications.
+  身為一艘納諾特拉森（Nanotrasen）船隻的船長，你有權僱用及解僱船員，並可委派工作。
+僱用船員有兩種方式：
+- 使用船上的 [color=#a4885c]記錄電腦[/color] 來開啟船員名額。 稍後加入的玩家可以以全息影像的形式 [textlink="interview" link="訪談"/] 登上你的飛船。
+- 透過遊戲內的通訊功能，邀請其他玩家加入你的隊伍。
 
-Crew membership is informal - you don't need to sign any forms, but feel free to roleplay!
-It's a good idea to make sure your crew understand:
-- What you expect of them (What tasks should they do? Who do they report to or work with?)
-- What they can expect from you (An hourly wage? A split of rewards? The promise of adventure?).
+船員資格是非正式的——你不需要簽署任何表格，但歡迎盡情進行角色扮演！
+最好確保您的團隊成員清楚了解：
+- 您對他們的期望（他們應該執行哪些任務？ 他們向誰匯報工作，或與誰合作？）
+- 他們可以期待從您那裡得到什麼（時薪嗎？ 獎勵會分攤嗎？ （冒險的承諾？）
 
-As a Captain, remember:
-- You're responsible for the well-being of your crew.
-- A Captain's only as good as their word!
+身為船長，請謹記：
+——你必須對船員的安危負責。
+- 船長的價值，全在於是否言出必行！
 
 </Document>

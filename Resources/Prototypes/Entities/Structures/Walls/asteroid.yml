@@ -7,8 +7,8 @@
 - type: entity
   id: AsteroidRock
   parent: BaseWall
-  name: asteroid rock
-  description: A rocky asteroid.
+  name: 小行星岩
+  description: 一顆岩石小行星。
   components:
   - type: Transform
     noRot: true
@@ -125,7 +125,7 @@
 - type: entity
   id: AsteroidRockCoal
   parent: NFAsteroidRockOre # Frontier: AsteroidRock<NFAsteroidRockOre
-  description: An ore vein rich with coal.
+  description: 一條富含煤炭的礦脈。
   suffix: Coal
   components:
   - type: OreVein
@@ -156,7 +156,7 @@
 - type: entity
   id: AsteroidRockGold
   parent: NFAsteroidRockOre # Frontier: AsteroidRock<NFAsteroidRockOre
-  description: An ore vein rich with gold.
+  description: 一條富含黃金的礦脈。
   suffix: Gold
   components:
   - type: OreVein
@@ -187,7 +187,7 @@
 - type: entity
   id: AsteroidRockDiamond
   parent: NFAsteroidRockOre # Frontier: AsteroidRock<NFAsteroidRockOre
-  description: An ore vein rich with diamonds.
+  description: 一條富含鑽石的礦脈。
   suffix: Diamond
   components:
   - type: OreVein
@@ -210,7 +210,7 @@
 - type: entity
   id: AsteroidRockPlasma
   parent: NFAsteroidRockOre # Frontier: AsteroidRock<NFAsteroidRockOre
-  description: An ore vein rich with plasma.
+  description: 一條富含等離子的礦脈。
   suffix: Plasma
   components:
   - type: OreVein
@@ -232,7 +232,7 @@
 - type: entity
   id: AsteroidRockQuartz
   parent: NFAsteroidRockOre # Frontier: AsteroidRock<NFAsteroidRockOre
-  description: An ore vein rich with quartz.
+  description: 一條富含石英的礦脈。
   suffix: Quartz
   components:
   - type: OreVein
@@ -263,7 +263,7 @@
 - type: entity
   id: AsteroidRockSilver
   parent: NFAsteroidRockOre # Frontier: AsteroidRock<NFAsteroidRockOre
-  description: An ore vein rich with silver.
+  description: 一條富含銀礦的礦脈。
   suffix: Silver
   components:
   - type: OreVein
@@ -295,7 +295,7 @@
 - type: entity
   id: AsteroidRockTin
   parent: NFAsteroidRockOre # Frontier: AsteroidRock<NFAsteroidRockOre
-  description: An ore vein rich with iron.
+  description: 一條富含鐵礦的礦脈。
   suffix: Iron
   components:
   - type: OreVein
@@ -326,7 +326,7 @@
 - type: entity
   id: AsteroidRockUranium
   parent: NFAsteroidRockOre # Frontier: AsteroidRock<NFAsteroidRockOre
-  description: An ore vein rich with uranium.
+  description: 一條富含鈾的礦脈。
   suffix: Uranium
   components:
   - type: OreVein
@@ -357,7 +357,7 @@
 - type: entity
   id: AsteroidRockBananium
   parent: NFAsteroidRockOre # Frontier: AsteroidRock<NFAsteroidRockOre
-  description: An ore vein rich with bananium.
+  description: 一條富含巴納尼ウム的礦脈。
   suffix: Bananium
   components:
   - type: OreVein
@@ -388,7 +388,7 @@
 - type: entity
   id: AsteroidRockSalt
   parent: NFAsteroidRockOre # Frontier: AsteroidRock<NFAsteroidRockOre
-  description: An ore vein rich with salt.
+  description: 一條富含鹽分的礦脈。
   suffix: Salt
   components:
   - type: OreVein
@@ -411,7 +411,7 @@
 - type: entity
   id: AsteroidRockArtifactFragment
   parent: NFAsteroidRockOre # Frontier: AsteroidRock<NFAsteroidRockOre
-  description: A rock wall. What's that sticking out of it?
+  description: 一堵岩壁。那從岩壁裡凸出來的東西是什麼？
   suffix: Artifact Fragment
   components:
   - type: OreVein
@@ -455,7 +455,7 @@
   parent: NFAsteroidRockOre # Frontier: AsteroidRock<NFAsteroidRockOre
   name: asteroid rock
   suffix: higher ore yield .33
-  description: An asteroid.
+  description: 一顆小行星。
   components:
   - type: OreVein
     oreChance: 0.33
@@ -1150,7 +1150,7 @@
 # Basalt variants
 - type: entity
   id: WallRockBasalt
-  name: basalt
+  name: 玄武岩
   parent: WallRock
   components:
   - type: Icon
@@ -1426,7 +1426,7 @@
 # Snow variants
 - type: entity
   id: WallRockSnow
-  name: snowdrift
+  name: 雪堆
   parent: WallRock
   components:
   - type: Icon
@@ -1702,7 +1702,7 @@
 # Sand variants
 - type: entity
   id: WallRockSand
-  name: sandstone
+  name: 砂岩
   parent: WallRock
   components:
   - type: Icon
@@ -2253,7 +2253,7 @@
 # Andesite variants
 - type: entity
   id: WallRockAndesite
-  name: andesite
+  name: 安山岩
   parent: NFWallRockOre # Frontier: WallRock<NFWallRockOre
   components:
   - type: Icon

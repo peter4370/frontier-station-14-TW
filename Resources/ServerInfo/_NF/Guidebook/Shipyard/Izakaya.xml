@@ -1,53 +1,54 @@
+
 <Document>
-  # IZAKAYA-CLASS RESTAURANT SHUTTLE
+  # 居酒屋風格餐廳接駁車
   <Box>
   <GuideEntityEmbed Entity="NFPosterContrabandSsfLogo" Caption=""/>
-  <GuideEntityEmbed Entity="KitchenDeepFryer" Caption="Frying"/>
-  <GuideEntityEmbed Entity="KitchenElectricRange" Caption="Cooking"/>
-  <GuideEntityEmbed Entity="VendingMachineBooze" Caption="Bartendry"/>
+  <GuideEntityEmbed Entity="KitchenDeepFryer" Caption="油炸"/>
+  <GuideEntityEmbed Entity="KitchenElectricRange" Caption="烹飪"/>
+  <GuideEntityEmbed Entity="VendingMachineBooze" Caption="調酒師"/>
   <GuideEntityEmbed Entity="NFPosterContrabandSsfLogo" Caption=""/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapIzakaya" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻大小：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 4-8
+  [color=#a4885c]建議船員人數：[/color] 4-8 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  "A medium-size, japanese-inspired restaurant/pub ship with a large dining area, and equally large kitchen."
+  「一艘中型、受日本風格啟發的餐廳／酒吧船，設有寬敞的用餐區，以及同樣寬敞的廚房。」
 
-  "This restaurant shuttle seats up to 34 customers in the dining area, providing the shuttle the capability to seat people all over the sector at once."
+  「這輛餐廳接駁車的用餐區最多可容納 34 位顧客，使接駁車能夠一次接載該區域各地的乘客。」
 
-  "The kitchen has a main cooking area can be used by up to 2 chefs comfortably, a separate beverages area to be used by a bartender, a food storage to store ingredients,
-  and a freezer to butcher meats and store ingredients long-term."
+  「廚房設有主要烹飪區，最多可容納 2 位廚師舒適地工作；另有獨立的飲品區供調酒師使用；還設有食品儲藏室用以存放食材，
+  以及冷凍庫，用於處理肉類及長期儲存食材。」
 
-  "The in-house botany has 10 hydroponics tray and an animal pen, it is located near the kitchen for ease of logistics."
+  「館內的植物栽培區設有 10 個水耕栽培托盤及一個動物圍欄，該區域鄰近廚房，以便於後勤作業。」
 
-  [italic]Brought to you by Settler's Spacecraft Firm.[/italic]
+  [斜體]由「定居者太空船公司」為您呈獻。[/斜體]
 
-  # Ship Functions
+  # 飛船功能
 
-  # Entertainment
+  # 娛樂
 
-  [textlink="Food Recipes" link="FoodRecipes"/]
+  [textlink="食譜" link="FoodRecipes"/]
 
-  [textlink="Drinks" link="Drinks"/]
+  [textlink="飲品" link="Drinks"/]
 
-  [textlink="Botany" link="Botany"/]
+  [textlink="植物學" link="Botany"/]
 
-  # Piloting
+  # 駕駛
 
-  [textlink="Piloting" link="Piloting"/]
+  [textlink="駕駛" link="Piloting"/]
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="星區拓撲" link="SectorTopology"/]
 
-  # Hiring crew
+  # 招募船員
 
-  [textlink="Hiring" link="Hiring"/]
+  [textlink="招募" link="招募"/]
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  身為納諾特拉森（Nanotrasen）艦船的船長，您有權隨意僱用、解僱、降職或晉升船員。
 
   # PREFLIGHT CHECKLIST
 

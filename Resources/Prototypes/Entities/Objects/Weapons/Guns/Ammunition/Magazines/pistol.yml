@@ -1,6 +1,6 @@
 - type: entity
   id: BaseMagazinePistol
-  name: pistol magazine (.35 auto)
+  name: 手槍彈匣（.35自動）
   parent: [ BaseItem, BaseC1Contraband, RecyclableItemSteelTiny ] # Frontier: BaseSecurityContraband<BaseC1Contraband, added RecyclableItemSteelTiny
   abstract: true
   components:
@@ -34,7 +34,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: BaseMagazinePistolHighCapacity
-  name: machine pistol magazine (.35 auto)
+  name: 衝鋒槍彈匣（.35 Auto）
   parent: [BaseItem, BaseC1Contraband, RecyclableItemSteelTiny] # Frontier: added RecyclableItemSteelTiny, BaseC1Contraband
   abstract: true
   components:
@@ -102,9 +102,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazinePistolSubMachineGunTopMounted
-  name: WT550 magazine (.35 auto top-mounted)
+  name: WT550 彈匣（.35 自動式，頂部裝填）
   parent: [ BaseItem, BaseC1Contraband, RecyclableItemSteelTiny ] # Frontier: BaseSecurityContraband<BaseC1Contraband, added RecyclableItemSteelTiny
-  description: Unconventional 30-round top feeding magazine for the WT550 SMG. Intended to hold general-purpose kinetic ammunition.
+  description: 專為 WT550 衝鋒槍設計的非傳統式 30 發頂部供彈彈匣。適用於裝填通用動能彈藥。
   components:
   - type: Tag
     tags:
@@ -135,9 +135,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazinePistolSubMachineGunTopMountedEmpty
-  name: WT550 magazine (.35 auto top-mounted any)
+  name: WT550 彈匣（.35自動式，頂部裝填，任何型號）
   parent: MagazinePistolSubMachineGunTopMounted
-  description: Unconventional 30-round top feeding magazine for the WT550 SMG.
+  description: 專為 WT550 衝鋒槍設計的非傳統式 30 發頂部供彈彈匣。
   components:
   - type: BallisticAmmoProvider
     proto: null
@@ -147,7 +147,7 @@
   id: MagazinePistol
   name: pistol magazine (.35 auto)
   parent: BaseMagazinePistol
-  description: 10-round single-stack magazine for pistols. Intended to hold general-purpose kinetic ammunition.
+  description: 適用於手槍的 10 發單排彈匣。設計用於裝填通用動能彈藥。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgePistol # Frontier
@@ -167,10 +167,10 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazinePistolEmpty
-  name: pistol magazine (.35 auto any)
+  name: 手槍彈匣（任何 .35 自動型號）
   suffix: empty
   parent: MagazinePistol
-  description: 10-round single-stack magazine for pistols.
+  description: 適用於手槍的 10 發單排彈匣。
   components:
   - type: BallisticAmmoProvider
     proto: null
@@ -190,9 +190,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazinePistolIncendiary
-  name: pistol magazine (.35 auto incendiary)
+  name: 手槍彈匣（.35 自動式燃燒彈）
   parent: MagazinePistol
-  description: 10-round single-stack magazine for pistols. Intended to hold self-igniting incendiary ammunition.
+  description: 適用於手槍的 10 發單排彈匣。設計用於裝載自燃式燃燒彈藥。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgePistolIncendiary # Frontier
@@ -218,9 +218,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazinePistolPractice
-  name: pistol magazine (.35 auto practice)
+  name: 手槍彈匣（.35自動練習彈）
   parent: BaseMagazinePistol
-  description: 10-round single-stack magazine for pistols. Intended to hold non-harmful chalk ammunition.
+  description: 適用於手槍的 10 發單排彈匣。設計用於裝填無害的粉筆彈藥。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgePistolPractice # Frontier
@@ -246,9 +246,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazinePistolUranium
-  name: pistol magazine (.35 auto uranium)
+  name: 手槍彈匣（.35 Auto 鈾彈）
   parent: BaseMagazinePistol
-  description: 10-round single-stack magazine for pistols. Intended to hold exotic uranium-core ammunition.
+  description: 適用於手槍的 10 發單排彈匣。專為裝載特殊鈾芯彈藥而設計。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgePistolUranium # Frontier
@@ -274,7 +274,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazinePistolHighCapacityEmpty
-  name: machine pistol magazine (.35 auto any)
+  name: 衝鋒槍彈匣（任何型號的.35自動手槍彈匣）
   suffix: empty
   parent: BaseMagazinePistolHighCapacity
   components:
@@ -317,7 +317,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazinePistolHighCapacityPractice
-  name: machine pistol magazine (.35 auto practice)
+  name: 衝鋒槍彈匣（.35自動練習彈）
   parent: BaseMagazinePistolHighCapacity
   components:
   - type: BallisticAmmoProvider
@@ -346,7 +346,7 @@
   id: MagazinePistolSubMachineGun
   name: SMG magazine (.35 auto)
   parent: BaseMagazinePistolSubMachineGun
-  description: 30-round double-stack magazine for submachine guns. Intended to hold general-purpose kinetic ammunition.
+  description: 適用於衝鋒槍的 30 發雙排彈匣。設計用於裝填通用動能彈藥。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgePistol # Frontier
@@ -371,10 +371,10 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazinePistolSubMachineGunEmpty
-  name: SMG magazine (.35 auto any)
+  name: SMG 彈匣（任何型號的 .35 自動手槍用）
   suffix: empty
   parent: BaseMagazinePistolSubMachineGun
-  description: 30-round double-stack magazine for submachine guns.
+  description: 適用於衝鋒槍的 30 發雙排彈匣。
   components:
   - type: BallisticAmmoProvider
     proto: null
@@ -394,9 +394,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazinePistolSubMachineGunPractice
-  name: SMG magazine (.35 auto practice)
+  name: SMG 彈匣（.35 自動手槍練習用）
   parent: BaseMagazinePistolSubMachineGun
-  description: 30-round double-stack magazine for submachine guns. Intended to hold non-harmful chalk ammunition.
+  description: 適用於衝鋒槍的 30 發雙排彈匣。設計用於裝載無害的粉筆彈藥。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgePistolPractice # Frontier
@@ -422,9 +422,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazinePistolSubMachineGunUranium
-  name: SMG magazine (.35 auto uranium)
+  name: SMG 彈匣（.35 自動式鈾彈）
   parent: BaseMagazinePistolSubMachineGun
-  description: 30-round double-stack magazine for submachine guns. Intended to hold exotic uranium-core ammunition.
+  description: 適用於衝鋒槍的 30 發雙排彈匣。專為裝載特殊鈾芯彈藥而設計。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgePistolUranium # Frontier
@@ -451,8 +451,8 @@
   categories: [ HideSpawnMenu ] # Frontier
   parent: BaseMagazinePistolSubMachineGun
   id: MagazinePistolSubMachineGunIncendiary
-  name: SMG magazine (.35 auto incendiary)
-  description: 30-round double-stack magazine for submachine guns. Intended to hold self-igniting incendiary ammunition.
+  name: SMG 彈匣（.35 自動點火彈）
+  description: 適用於衝鋒槍的 30 發雙排彈匣。設計用於裝填自燃式燃燒彈。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgePistolIncendiary # Frontier

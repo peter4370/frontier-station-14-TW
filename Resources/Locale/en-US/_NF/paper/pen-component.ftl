@@ -1,12 +1,13 @@
 ## Modes
 
-pen-mode-write = Write
+pen-mode-write = 寫
 pen-mode-sign = Sign
 
 ## Popups
-pen-mode-state = The pen ready to {$mode}
+
+pen-mode-state = 這支筆已準備好 { $mode }
 
 ## Examine
 
-pen-examine-write = The pen ready to [color=darkgreen]write[/color].
-pen-examine-sign = The pen ready to [color=darkred]sign[/color].
+pen-examine-write = 這支筆已準備好 [color=darkgreen]書寫[/color]。
+pen-examine-sign = 這支筆已準備好要 [color=darkred]簽名[/color]。

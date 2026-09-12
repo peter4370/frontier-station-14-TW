@@ -1,5 +1,6 @@
+
 <Document>
-# SPIRIT-CLASS SEARCH AND RESCUE SHUTTLE
+# 「SPIRIT」級搜救接駁船
 <Box>
   <GuideEntityEmbed Entity="ComputerCrewMonitoring" Caption="Rescue"/>
   <GuideEntityEmbed Entity="NFPosterContrabandFsbLogo" Caption="Research"/>
@@ -9,21 +10,21 @@
   <GuideEntityEmbed Entity="ShuttleMapSpirit" Caption=""/>
 </Box>
 
-[color=#a4885c]Ship Size:[/color] Micro
+[color=#a4885c]船體尺寸：[/color] 微型
 
-[color=#a4885c]Recommended Crew:[/color] 1
+[color=#a4885c]建議乘員人數：[/color] 1 人
 
-[color=#a4885c]Power Gen Type:[/color] Plasma
+[color=#a4885c]發電類型：[/color] 等離子體
 
-# Shuttle Brief
+# 穿梭機簡介
 
-"An absolutely tiny shuttle designed for rapid response search and rescue operations on a budget.
+「一款專為預算有限的快速反應搜救行動所設計、體積極其嬌小的穿梭機。」
 
-Much of the production cost for the spirit was reduced by repurposing the hull from an obsolete model of bomber, stripping out armor, weapons, and ancilliary equipment to make room for a medbay.
+透過將一架已退役轟炸機的機身改作他用，拆除其裝甲、武器及輔助設備，以騰出空間設置醫療艙，大幅降低了這艘飛船的製造成本。
 
-The shuttle retains its original thrusters but the lower mass results in improved manuvarability.
+這架太空梭雖保留了原有的推進器，但由於質量較輕，因此機動性有所提升。
 
-Unfortunately the Mod 6 thruster is several decades out of date, their performance on par with modern civillian thrusters, but some captains still prefer them due to the abundance of surplus parts."
+「遺憾的是，Mod 6 推進器已過時數十年，其性能雖與現代民用推進器相當，但由於剩餘零件來源充足，仍有部分船長偏好使用它們。」
 
 # Ship Functions
 
@@ -33,21 +34,21 @@ Unfortunately the Mod 6 thruster is several decades out of date, their performan
   <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Actuate Shutters"/>
 </Box>
 
-# Medical
+# 醫學
 
-[textlink="Medicine" link="Medical Doctor"/]
+[textlink="醫學" link="醫師"/]
 
-# Piloting
+# 試飛
 
-[textlink="Piloting" link="Piloting"/]
+[textlink="試飛" link="試飛"/]
 
-[textlink="Sector Topology" link="SectorTopology"/]
+[textlink="星區拓撲" link="SectorTopology"/]
 
-# Hiring crew
+# 招募船員
 
-[textlink="Hiring" link="Hiring"/]
+[textlink="招募" link="Hiring"/]
 
-As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+身為納諾特拉森（Nanotrasen）船隻的船長，你有權隨意僱用、解僱、降職或晉升船員。
 
 # PREFLIGHT CHECKLIST
 

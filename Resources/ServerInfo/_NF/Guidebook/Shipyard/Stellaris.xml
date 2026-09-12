@@ -1,5 +1,6 @@
+
 <Document>
-# STELLARIS-CLASS THEATER SHUTTLE
+# 斯特拉里斯級劇院穿梭機
 <Box>
   <GuideEntityEmbed Entity="SurveillanceWirelessCameraAnchoredConstructed" Caption=""/>
   <GuideEntityEmbed Entity="KitchenElectricRange" Caption=""/>
@@ -8,15 +9,15 @@
 <Box>
   <GuideEntityEmbed Entity="ShuttleMapStellaris" Caption=""/>
 </Box>
-[color=#a4885c]Ship Size:[/color] Medium
+[color=#a4885c]船隻尺寸：[/color] 中型
 
-[color=#a4885c]Recommended Crew:[/color] 1-4
+[color=#a4885c]建議船員人數：[/color] 1-4
 
-[color=#a4885c]Power Gen Type:[/color] Uranium
+[color=#a4885c]動力類型：[/color] 鈾
 
-# Shuttle Brief
+# 穿梭機簡介
 
-"A mobile theatre perfect for putting on any show."
+「一個移動劇場，非常適合上演任何表演。」
 
 # Ship Functions
 

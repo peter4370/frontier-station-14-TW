@@ -1,8 +1,8 @@
 ﻿- type: entity
   parent: NFBasePDACartridge # Frontier: BaseItem<NFBasePDACartridge
   id: NotekeeperCartridge
-  name: notekeeper cartridge
-  description: A program for keeping notes.
+  name: Notekeeper 替換式墨水匣
+  description: 一款用於記錄筆記的程式。
   components:
   - type: Sprite
     sprite: Objects/Devices/cartridge.rsi
@@ -20,8 +20,8 @@
 - type: entity
   parent: BaseItem
   id: NanoTaskCartridge
-  name: NanoTask cartridge
-  description: A program that allows you to keep a list of tasks to do.
+  name: NanoTask 耗材盒
+  description: 一款可讓您建立待辦事項清單的程式。
   components:
   - type: Sprite
     sprite: Objects/Devices/cartridge.rsi
@@ -38,8 +38,8 @@
 - type: entity
   parent: NFBasePDACartridge # Frontier: BaseItem<NFBasePDACartridge
   id: NewsReaderCartridge
-  name: news cartridge
-  description: A program for reading news.
+  name: 新聞模組
+  description: 一款用來閱讀新聞的程式。
   components:
   - type: Sprite
     sprite: Objects/Devices/cartridge.rsi
@@ -56,8 +56,8 @@
 - type: entity
   parent: NFBasePDACartridge # Frontier: BaseItem<NFBasePDACartridge
   id: CrewManifestCartridge
-  name: crew manifest cartridge
-  description: A program for listing your fellow crewmembers.
+  name: 機組人員名單卡匣
+  description: 一個用來列出您同組組員的程式。
   components:
     - type: Sprite
       sprite: Objects/Devices/cartridge.rsi
@@ -74,8 +74,8 @@
 - type: entity
   parent: NFBasePDACartridge # Frontier: BaseItem<NFBasePDACartridge
   id: NetProbeCartridge
-  name: NetProbe cartridge
-  description: A program for getting the address and frequency of network devices.
+  name: NetProbe 卡匣
+  description: 一個用於取得網路裝置位址與頻率的程式。
   components:
     - type: Sprite
       sprite: Objects/Devices/cartridge.rsi
@@ -92,8 +92,8 @@
 - type: entity
   parent: NFBasePDACartridge # Frontier: BaseItem<NFBasePDACartridge
   id: LogProbeCartridge
-  name: LogProbe cartridge
-  description: A program for getting access logs from devices.
+  name: LogProbe 卡匣
+  description: 一個用於從裝置擷取存取日誌的程式。
   components:
     - type: Sprite
       sprite: Objects/Devices/cartridge.rsi
@@ -116,8 +116,8 @@
 - type: entity
   parent: NFBasePDACartridge # Frontier: BaseItem<NFBasePDACartridge
   id: WantedListCartridge
-  name: Wanted list cartridge
-  description: A program to get a list of wanted persons.
+  name: 通緝名單彈匣
+  description: 一個用來取得通緝人員名單的程式。
   components:
   - type: Sprite
     sprite: Objects/Devices/cartridge.rsi
@@ -140,8 +140,8 @@
 - type: entity
   parent: NFBasePDACartridge # Frontier: BaseItem<NFBasePDACartridge
   id: MedTekCartridge
-  name: MedTek cartridge
-  description: A program that provides medical diagnostic tools.
+  name: MedTek 藥筒
+  description: 一個提供醫療診斷工具的程式。
   components:
     - type: Sprite
       sprite: Objects/Devices/cartridge.rsi
@@ -163,8 +163,8 @@
 - type: entity
   parent: NFBasePDACartridge # Frontier: BaseItem<NFBasePDACartridge
   id: AstroNavCartridge
-  name: AstroNav cartridge
-  description: A program for navigation that provides GPS coordinates.
+  name: AstroNav 卡匣
+  description: 一款可提供 GPS 座標的導航程式。
   components:
     - type: Sprite
       sprite: Objects/Devices/cartridge.rsi

@@ -46,11 +46,11 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: Bulldog
+  name: 鬥牛犬
   # Don't parent to BaseWeaponShotgun because it differs significantly
   parent: [BaseItem, BaseGunWieldable, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: WeaponShotgunBulldog
-  description: An automatic magazine-fed shotgun for close-quarters combat. Kicks like a mule on steroids. Uses .50 shotgun shells.
+  description: 一款專為近距離作戰設計的自動彈匣供彈霰彈槍。後座力強得像一匹吃了類固醇的騾子。使用.50口徑霰彈槍彈。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Shotguns/bulldog.rsi
@@ -105,10 +105,10 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: double-barreled shotgun
+  name: 雙管獵槍
   parent: [BaseWeaponShotgun, BaseGunWieldable, BaseC1Contraband] # Frontier: BaseSecurityBartenderZookeeperContraband<BaseC1Contraband
   id: WeaponShotgunDoubleBarreled
-  description: An immortal classic. A civilian grade shotgun. Uses .50 shotgun shells.
+  description: 一部不朽的經典。一款民用級霰彈槍。使用 .50 霰彈槍彈。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Shotguns/db_shotgun.rsi
@@ -133,7 +133,7 @@
   name: double-barreled shotgun
   parent: WeaponShotgunDoubleBarreled
   id: WeaponShotgunDoubleBarreledRubber
-  description: An immortal classic. Uses .50 shotgun shells.
+  description: 一部不朽的經典之作。使用.50口徑霰彈槍彈。
   suffix: Non-Lethal
   components:
   - type: BallisticAmmoProvider
@@ -144,7 +144,7 @@
   name: Enforcer
   parent: [BaseWeaponShotgun, BaseGunWieldable, BaseC2ContrabandUnredeemable] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: WeaponShotgunEnforcer
-  description: A premium semi-automatic shotgun, featuring an upgraded clip capacity. Uses .50 shotgun shells. # Frontier: no sec reference
+  description: 一款頂級半自動霰彈槍，具備升級版彈匣容量。使用 .50 口徑霰彈。 # Frontier: no sec reference
   components: # intend for Enforcer to have wider choke for semi-auto function
   - type: Sprite
     sprite: Objects/Weapons/Guns/Shotguns/enforcer.rsi
@@ -168,10 +168,10 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: Kammerer
+  name: 卡默勒
   parent: [BaseWeaponShotgun, BaseGunWieldable, BaseC2ContrabandUnredeemable] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: WeaponShotgunKammerer
-  description: An old yet faithful design, and a favorite among irregular forces on many worlds. Uses .50 shotgun shells. # Frontier: of<on
+  description: 一款設計雖舊卻可靠，深受許多星球上非正規部隊喜愛。使用.50口徑霰彈槍彈。 # Frontier: of<on
   components: # intend for Kammerer to have tighter choke for slower fire rate and/or manual cycling
   - type: Item
     sprite: _NF/Objects/Weapons/Guns/Shotguns/pump_inhands_64x.rsi # Frontier: add _NF prefix
@@ -190,10 +190,10 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: sawn-off shotgun
+  name: 鋸短霰彈槍
   parent: [ BaseWeaponShotgun, BaseC1Contraband ] # Frontier: BaseSecurityBartenderContraband<BaseC1Contraband
   id: WeaponShotgunSawn
-  description: Groovy! Uses .50 shotgun shells.
+  description: 太酷了！使用.50口徑霰彈槍彈。
   components: # needs to be super inaccurate because you don't need to wield it
   - type: Sprite
     sprite: _DV/Objects/Weapons/Guns/Shotguns/sawn.rsi # Delta-V: add _DV prefix
@@ -231,10 +231,10 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: handmade pistol
+  name: 手工製手槍
   parent: [BaseWeaponShotgun, BaseC1Contraband] # Frontier: BaseMinorContraband<BaseC1Contraband
   id: WeaponShotgunHandmade
-  description: Looks unreliable, but legal. Uses .50 shotgun shells.
+  description: 看起來不太可靠，但合乎法律規定。使用.50口徑霰彈槍子彈。
   components:
   - type: Item
     size: Small
@@ -259,7 +259,7 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: blunderbuss
+  name: 短管火槍
   parent: [BaseWeaponShotgun, BaseGunWieldable, BaseC3PirateContraband] # Frontier: BaseMinorContraband<BaseC3PirateContraband
   id: WeaponShotgunBlunderbuss
   suffix: Pirate
@@ -277,10 +277,10 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: improvised shotgun
+  name: 自製霰彈槍
   parent: [BaseWeaponShotgun, BaseGunWieldable, BaseC1Contraband] # Frontier: BaseMinorContraband<BaseC1Contraband
   id: WeaponShotgunImprovised
-  description: A shitty, but legal, hand-made shotgun that uses .50 shotgun shells. It can only hold one round in the chamber.
+  description: 一把爛透了、但合法的手工霰彈槍，使用.50口徑霰彈槍彈。槍膛內僅能裝填一發子彈。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Shotguns/improvised_shotgun.rsi

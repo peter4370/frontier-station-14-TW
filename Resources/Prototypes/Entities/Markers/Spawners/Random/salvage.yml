@@ -2,7 +2,7 @@
 # These rulesets exist because Salvage mobs kept harassing the station and going out of control.
 
 - type: entity
-  name: Salvage Material Crate Spawner
+  name: 回收材料箱生成器
   id: SalvageMaterialCrateSpawner
   parent: MarkerBase
   categories: [ HideSpawnMenu ] # Frontier: NFSalvageMaterialCrateSpawner
@@ -41,7 +41,7 @@
       offset: 0.0
 
 - type: entity
-  name: salvage loot spawner
+  name: 打撈戰利品生成器
   id: SalvageLootSpawner
   parent: MarkerBase
   components:
@@ -59,7 +59,7 @@
       offset: 0.0
 
 - type: entity
-  name: Salvage Mob Spawner
+  name: '「打撈團」生成器'
   id: SalvageMobSpawner
   parent: MarkerBase
   suffix: 25
@@ -89,7 +89,7 @@
       offset: 0.2
 
 - type: entity #I made this in case someone decided to make a terrifying space tick swarm for salvage. that someone may be me -EG404
-  name: Salvage Space Tick Spawner
+  name: 回收空間蜱蟲生成器
   id: SpaceTickSpawner
   parent: MarkerBase
   suffix: 100
@@ -105,7 +105,7 @@
         - MobTickSalvage
 
 - type: entity
-  name: Salvage Space Bear Spawner
+  name: 回收「太空熊」生成器
   id: SpawnMobBearSalvage
   parent: MarkerBase
   components:
@@ -143,7 +143,7 @@
     offset: 0.2
 
 - type: entity
-  name: Salvage Space Kangaroo Spawner
+  name: 回收空間袋鼠生成器
   id: SpawnMobKangarooSalvage
   parent: MarkerBase
   components:
@@ -157,7 +157,7 @@
     - NFMobKangarooSpace # Frontier MobKangarooSpaceSalvage<NFMobKangarooSpace
 
 - type: entity
-  name: Salvage Space Spider Spawner
+  name: 回收「太空蜘蛛」生成器
   id: SpawnMobSpiderSalvage
   parent: MarkerBase
   components:
@@ -171,7 +171,7 @@
     - NFMobSpiderSpace # Frontier MobSpiderSpaceSalvage<NFMobSpiderSpace
 
 - type: entity
-  name: Salvage Space Cobra Spawner
+  name: 回收太空眼镜蛇生成器
   id: SpawnMobCobraSalvage
   parent: MarkerBase
   components:
@@ -185,7 +185,7 @@
     - NFMobCobraSpace # Frontier MobCobraSpaceSalvage<NFMobCobraSpace
 
 - type: entity
-  name: Salvage Flesh Spawner
+  name: 回收肉體生成器
   id: SalvageFleshSpawner
   parent: SalvageMobSpawner
   suffix: 100

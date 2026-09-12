@@ -1,51 +1,52 @@
-﻿<Document>
-  # Thermomachines
-  Thermomachines are devices that manipulate the temperature of gasses within a [textlink="pipe network" link="PipeNetworks"] or exposed atmosphere.
+﻿
+<Document>
+  # 熱機
+  熱機是能夠操控[textlink="管路網絡" link="PipeNetworks"]內或暴露於大氣中的氣體溫度的裝置。
   <Box>
     <GuideEntityEmbed Entity="SpaceHeater" Caption=""/>
     <GuideEntityEmbed Entity="GasThermoMachineHeater" Caption=""/>
     <GuideEntityEmbed Entity="GasThermoMachineFreezer" Caption=""/>
   </Box>
-  They are essential for maintaining the temperature of gasses for various applications.
+  它們對於維持各種應用中氣體的溫度至關重要。
 
-  All thermomachines work by using [textlink="electrical power" link="Power"] to heat or cool the atmosphere.
-  How much they heat/cool the atmosphere is directly related to the amount of power they consume.
+  所有熱力機皆是透過使用 [textlink="電能" link="Power"] 來加熱或冷卻大氣而運作。
+  它們使大氣加熱／冷卻的程度，與其消耗的電力多少直接相關。
 
-  Thermomachines also have an efficiency coefficient, which determines how much they can heat or cool the atmosphere per unit of power consumed.
+  熱機也具有一個效率係數，該係數決定了它們每消耗單位功率，能使大氣加熱或冷卻多少。
 
-  To prevent overshooting their target value, thermomachines will scale back their heating/cooling power as they approach the target temperature.
-  However, they will still consume the same amount of electrical power, even when idle.
+  為了避免超過目標值，熱機在接近目標溫度時，會相應地降低其加熱／冷卻功率。
+  然而，即使處於閒置狀態，它們的耗電量仍將維持不變。
 
-  All thermomachines have a target temperature tolerance of [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="TemperatureTolerance"/] K[/color], meaning they will stop heating or cooling when the temperature is within [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="TemperatureTolerance"/] K[/color] of the target temperature.
+  所有熱機的目標溫度容差為 [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="TemperatureTolerance"/] K[/color]，這表示當溫度與目標溫度相差 [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="TemperatureTolerance"/] K[/color] 之內時，它們便會停止加熱或冷卻。
 
-  ## Space Heater
-  The space heater is a portable temperature control unit that heats or cools gas in the atmosphere it's exposed to.
-  It's a simple and effective way to maintain the temperature of a room, without having to build a pipenet or other system.
+  ## 空間加熱器
+  空間加熱器是一種便攜式溫度控制裝置，可對其所處環境中的氣體進行加熱或冷卻。
+  這是一種簡單且有效的方法，能維持室內的溫度，無需鋪設管路或其他系統。
 
   <Box>
     <GuideEntityEmbed Entity="SpaceHeater"/>
   </Box>
 
-  They can be commonly found in Atmospherics, although the relevant machine board can be printed at a circuit imprinter, commonly found in Science.
+  這些元件通常可在「Atmospherics」部門找到，不過相關的機板可透過電路印刷機進行印刷，而此類設備通常設於「Science」部門。
 
-  The space heater can cool to as low as [color=orange][protodata="SpaceHeater" comp="SpaceHeater" member="MinTemperature"/] K[/color] and heat to as high as [color=orange][protodata="SpaceHeater" comp="SpaceHeater" member="MaxTemperature"/] K[/color].
+  該空間加熱器可降溫至低至 [color=orange][protodata="SpaceHeater" comp="SpaceHeater" member="MinTemperature"/] K[/color]，並可升溫至 [color=orange][protodata="SpaceHeater" comp="SpaceHeater" member="MaxTemperature"/] K[/color]。
 
-  It also has three power settings which determine how fast it heats or cools the atmosphere.
+  它還設有三種功率設定，用以決定其加熱或冷卻環境的速度。
 
-  Botany or science will often request these to maintain the temperature of their plants or department.
+  植物學系或科學系通常會要求提供這些設備，以維持植物或系所內的溫度。
 
-  ## Pipenet Thermomachines (Freezer and Heater)
-  Pipenet thermomachines are more powerful stationary temperature control units that can be used to heat or cool gas in a [textlink="pipenet." link="PipeNetworks"]
+  ## Pipenet 熱機（冷凍機與加熱器）
+  Pipenet 熱機是效能更強大的固定式溫度控制裝置，可用於對氣體進行加熱或冷卻，其運作原理如 [textlink="pipenet." link="PipeNetworks"]
 
   <Box>
     <GuideEntityEmbed Entity="GasThermoMachineHeater"/>
     <GuideEntityEmbed Entity="GasThermoMachineFreezer"/>
   </Box>
 
-  They draw [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] W[/color] of power and can heat or cool gas in a pipenet to as high as [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color] or as low as [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color].
+  它們消耗 [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] W[/color] 的功率，並能將管網中的氣體加熱或冷卻至最高 [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color]，或低至 [color=orange][protodata="GasThermoMachineFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color]。
 
-  You can swap the mode of the thermomachine by deconstructing it and using a screwdriver on its circuit board.
-  The board can be printed at a circuit imprinter, commonly found in Science.
+  您可以透過拆解熱機，並使用螺絲起子操作其電路板，來切換熱機的運作模式。
+  這塊電路板可送至電路板印刷廠進行印刷，這類工廠在《Science》雜誌中屢見不鮮。
 
   <Box>
     <GuideEntityEmbed Entity="GasThermoMachineFreezer" Caption=""/>
@@ -58,18 +59,18 @@
 
   </Box>
 
-  ## Thermomachines from Hell
-  Science can research more powerful thermomachines, aptly called hellfire heaters and freezers.
-  These machines are much more powerful than their standard counterparts, but they also consume more power.
+  ## 來自地獄的熱力機
+  科學界可以研究更強大的熱力機，這些裝置被恰如其分地稱為「地獄之火加熱器」和「地獄之火冷凍機」。
+  這些機器比標準型號的性能強大得多，但耗電量也更高。
 
   <Box>
     <GuideEntityEmbed Entity="GasThermoMachineHellfireHeater"/>
     <GuideEntityEmbed Entity="GasThermoMachineHellfireFreezer"/>
   </Box>
 
-  These machines draw [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] W[/color] of power and can heat or cool gas in a pipenet to as high as [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color] or as low as [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color].
+  這些機器會消耗 [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="HeatCapacity" format="N0"/] W[/color] 的功率，並能將管網中的氣體加熱或冷卻至最高 [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MaxTemperature"/] K[/color]，或低至 [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="MinTemperature"/] K[/color]。
 
-  However, they also leak [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="EnergyLeakPercentage" format="P0"/][/color] of their energy to the surrounding environment, heating or cooling the exposed atmosphere respectively.
-  This can be dangerous if not properly managed.
+  然而，它們也會向周圍環境洩漏 [color=orange][protodata="GasThermoMachineHellfireFreezer" comp="GasThermoMachine" member="EnergyLeakPercentage" format="P0"/][/color] 的能量，分別使暴露的大氣層升溫或降溫。
+  若未妥善處理，這可能會很危險。
 
 </Document>

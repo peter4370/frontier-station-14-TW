@@ -1,3 +1,4 @@
+
 <Document>
   # Vulpkanin
 
@@ -5,24 +6,24 @@
     <GuideEntityEmbed Entity="MobVulpkaninDummy" Caption=""/>
   </Box>
 
-  The Vulpkanin (vulp-ka-nin) are a race of humanoid canine-like beings.
+  沃爾普卡寧（vulp-ka-nin）是一群類人且形似犬類的生物。
 
   ## Diet
 
   - Can eat raw meat.
   - Will get poisoned by Theobromine (Chocolate, Tea, Coffee) and Allicin (Onion, Garlic).
 
-  ## Benefits
+  ## 優勢
 
-  - Uses their claws to do some Slashing and Blunt damage.
-  - Their fur makes them able to withstand cold environments without the need of a coat.
+  - 運用爪子造成斬擊傷害與鈍擊傷害。
+  - 牠們的毛皮讓牠們無需穿外套，也能在寒冷的環境中生存。
 
-  ## Special
+  ## 特殊
 
-  - Comes with the Deuteranopia trait by default. This can be disabled via accessibility options.
+  - 預設具備「色盲（第二色盲）」特質。 This can be disabled via accessibility options.
 
-  ## Drawbacks
+  ## 缺點
 
-  - They take 15% more Heat damage.
+  - 承受的火焰傷害增加 15%。
 
 </Document>

@@ -1,8 +1,8 @@
 - type: entity
   parent: [RecyclableItemSteelSmall, AirSensorBase, GasBinaryBase] # Frontier: add RecyclableItemSteelSmall
   id: GasPipeSensor
-  name: gas pipe sensor
-  description: Reports on the status of the gas in the attached pipe network.
+  name: 瓦斯管線感測器
+  description: 關於附件所列管網中天然氣狀況的報告。
   placement:
     mode: AlignAtmosPipeLayers
   components:

@@ -1,8 +1,8 @@
 - type: entity
   id: MachineAnomalyVessel
   parent: [ BaseMachinePowered, ConstructibleMachine ]
-  name: anomaly vessel
-  description: A container able to harness a scan of an anomaly and turn it into research data.
+  name: 異常船隻
+  description: 一個能夠利用異常現象的掃描結果，並將其轉化為研究資料的容器。
   components:
   - type: Sprite
     noRot: true
@@ -91,8 +91,8 @@
 - type: entity
   id: MachineAnomalyVesselExperimental
   parent: MachineAnomalyVessel
-  name: experimental anomaly vessel
-  description: An advanced anomaly vessel capable of greater research potential at the cost of increased volatility and low-level radioactive decay into the environment.
+  name: 實驗性異常船隻
+  description: 一種先進的異常載體，雖能發揮更大的研究潛力，但代價是波動性增加，且會向環境中釋放低劑量的放射性衰變物質。
   components:
   - type: Sprite
     sprite: Structures/Machines/Anomaly/adv_anomaly_vessel.rsi
@@ -118,7 +118,7 @@
   id: MachineAPE
   parent: [ BaseMachinePowered, ConstructibleMachine ]
   name: A.P.E.
-  description: An Anomalous Particle Emitter, capable of shooting out unstable particles which can interface with anomalies.
+  description: 一種「異常粒子發射器」，能夠射出不穩定的粒子，這些粒子可與異常現象產生交互作用。
   components:
   - type: Sprite
     noRot: true
@@ -225,8 +225,8 @@
 - type: entity
   id: MachineAnomalyGenerator
   parent: [BaseMachinePowered]
-  name: anomaly generator
-  description: The peak of pseudoscientific technology.
+  name: 異常產生器
+  description: 偽科學技術的巔峰。
   placement:
     mode: AlignTileAny
   components:

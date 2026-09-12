@@ -1,22 +1,23 @@
+
 <Document>
-# NIGHTLIGHT-CLASS SERVICE SHUTTLE
+# NIGHTLIGHT 級接駁車服務
 <Box>
-  <GuideEntityEmbed Entity="Biogenerator" Caption="Recycle"/>
+  <GuideEntityEmbed Entity="Biogenerator" Caption="回收"/>
   <GuideEntityEmbed Entity="NFPosterContrabandFscLogo" Caption="Profit"/>
-  <GuideEntityEmbed Entity="NFPosterContrabandFsbNightlight" Caption="Entertain"/>
+  <GuideEntityEmbed Entity="NFPosterContrabandFsbNightlight" Caption="娛樂"/>
 </Box>
 <Box>
   <GuideEntityEmbed Entity="ShuttleMapNightlight" Caption=""/>
 </Box>
-[color=#a4885c]Ship Size:[/color] Medium
+[color=#a4885c]船隻大小：[/color] 中型
 
-[color=#a4885c]Recommended Crew:[/color] 1-4
+[color=#a4885c]建議乘員人數：[/color] 1-4 人
 
-[color=#a4885c]Power Gen Type:[/color] Uranium
+[color=#a4885c]動力類型：[/color] 鈾
 
-# Shuttle Brief
+# 穿梭機簡介
 
-"An entertainment and food service shuttle, the Nightlight is also the Far Star Corporation's flagship biomass biorecombination research vessel. Providing top of the line hospitality and nutritional preperation accomidations for Nanotrasen standard xenotypes; the Nightlight should provide any research teams investigating new strains of recombinant nutrition with a distraction free crop of eager bioforms."
+「『夜光號』是一艘娛樂與餐飲服務穿梭機，同時也是『遠星公司』的旗艦級生物質生物重組研究船。 「『夜光號』為納諾特森標準異型體提供頂級的款待與營養補給服務；對於任何研究新型重組營養菌株的研究團隊而言，它應能提供一批專注且充滿熱忱的生物體，讓研究過程不受干擾。」
 
 # Ship Functions
 
@@ -24,28 +25,28 @@
   <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Bolt Exterior Airlocks"/>
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Power Down Thrusters"/>
   <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Toggle Shutters"/>
-  <GuideEntityEmbed Entity="ButtonFrameJanitor" Caption="Operate Bar Lighting"/>
+  <GuideEntityEmbed Entity="ButtonFrameJanitor" Caption="酒吧照明操作"/>
 </Box>
 
-# Entertainment
+# 娛樂
 
-[textlink="Food Recipes" link="FoodRecipes"/]
+[textlink="食譜" link="FoodRecipes"/]
 
-[textlink="Drinks" link="Drinks"/]
+[textlink="飲品" link="Drinks"/]
 
-[textlink="Botany" link="Botany"/]
+[textlink="植物學" link="Botany"/]
 
-# Piloting
+# 試飛
 
-[textlink="Piloting" link="Piloting"/]
+[textlink="試飛" link="Piloting"/]
 
-[textlink="Sector Topology" link="SectorTopology"/]
+[textlink="星區拓撲" link="SectorTopology"/]
 
-# Hiring crew
+# 招募船員
 
-[textlink="Hiring" link="Hiring"/]
+[textlink="招募" link="Hiring"/]
 
-As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+身為納諾特拉森（Nanotrasen）船隻的船長，你有權隨意僱用、解僱、降職或晉升船員。
 
 # PREFLIGHT CHECKLIST
 

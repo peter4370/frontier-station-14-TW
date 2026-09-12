@@ -1,7 +1,7 @@
 - type: entity
   id: IceCrust
-  name: ice crust
-  description: It's cold and slippery.
+  name: 冰殼
+  description: 天氣很冷，地面也很滑。
   placement:
     mode: SnapgridCenter
     snap:

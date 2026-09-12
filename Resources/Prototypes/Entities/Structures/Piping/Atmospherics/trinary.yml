@@ -30,8 +30,8 @@
 - type: entity
   parent: GasTrinaryBase
   id: GasFilter
-  name: gas filter
-  description: Very useful for filtering gases.
+  name: 氣體過濾器
+  description: 對於過濾氣體非常有用。
   placement:
     mode: SnapgridCenter
   components:
@@ -129,8 +129,8 @@
 - type: entity
   parent: GasTrinaryBase
   id: GasMixer
-  name: gas mixer
-  description: Very useful for mixing gases.
+  name: 氣體混合器
+  description: 對於氣體混合非常有用。
   placement:
     mode: SnapgridCenter
   components:
@@ -224,8 +224,8 @@
 - type: entity
   parent: GasPipeBase
   id: PressureControlledValve
-  name: pneumatic valve
-  description: A bidirectional valve controlled by pressure. Opens if the output pipe is lower than the pressure of the control pipe by 101.325 kPa.
+  name: 氣動閥
+  description: 一種由壓力控制的雙向閥。若輸出管內的壓力比控制管內的壓力低 101.325 kPa，則閥門開啟。
   placement:
     mode: SnapgridCenter
   components:

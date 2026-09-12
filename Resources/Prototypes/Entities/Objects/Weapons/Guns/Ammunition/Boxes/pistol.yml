@@ -2,7 +2,7 @@
   abstract: true
   parent: [BaseItem, RecyclableItemCardboard] # Frontier: added RecyclableItemCardboard
   id: BaseMagazineBoxPistol
-  name: ammunition box (.35 auto)
+  name: 彈藥箱（.35自動手槍）
   components:
   - type: BallisticAmmoProvider
     mayTransfer: true
@@ -30,7 +30,7 @@
   parent: BaseMagazineBoxPistol
   id: MagazineBoxPistol
   name: ammunition box (.35 auto)
-  description: A cardboard box of .35 auto rounds. Intended to hold general-purpose kinetic ammunition.
+  description: 一個裝有 .35 自動手槍子彈的紙箱。原定用於盛裝通用動能彈藥。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgePistol # Frontier
@@ -45,8 +45,8 @@
   categories: [ HideSpawnMenu ] # Frontier
   parent: BaseMagazineBoxPistol
   id: MagazineBoxPistolPractice
-  name: ammunition box (.35 auto practice)
-  description: A cardboard box of .35 auto rounds. Intended to hold non-harmful chalk ammunition.
+  name: 彈藥箱（.35自動手槍練習用）
+  description: 一盒 .35 自動手槍子彈的紙盒。原本是用來裝無害的粉筆彈的。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgePistolPractice # Frontier
@@ -62,8 +62,8 @@
   categories: [ HideSpawnMenu ] # Frontier
   parent: BaseMagazineBoxPistol
   id: MagazineBoxPistolIncendiary
-  name: ammunition box (.35 auto incendiary)
-  description: A cardboard box of .35 auto rounds. Intended to hold self-igniting incendiary ammunition.
+  name: 彈藥箱（.35 自動式燃燒彈）
+  description: 一盒 .35 自動手槍子彈的紙盒。原定用於裝載自燃式燃燒彈。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgePistolIncendiary # Frontier
@@ -79,8 +79,8 @@
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazineBoxPistolUranium
   parent: BaseMagazineBoxPistol
-  name: ammunition box (.35 auto uranium)
-  description: A cardboard box of .35 auto rounds. Intended to hold exotic uranium-core ammunition.
+  name: 彈藥箱（.35自動手槍鈾彈）
+  description: 一個裝有.35自動手槍子彈的紙箱。原本是用來裝載特殊鈾芯彈藥的。
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgePistolUranium # Frontier

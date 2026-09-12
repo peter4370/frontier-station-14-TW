@@ -1,33 +1,34 @@
+
 <Document>
-  # WASP-CLASS PRISON SHUTTLE
+  # WASP-CLASS 監獄接駁車
   <Box Margin="-130">
   <GuideEntityEmbed Entity="ShuttleBannerNFSD" Caption=""/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapWasp" Caption="" Margin="-20"/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Large
+  [color=#a4885c]船隻尺寸：[/color] 大型
 
-  [color=#a4885c]Fleet Shuttle:[/color] No
+  [color=#a4885c]艦隊穿梭機：[/color] 否
 
-  [color=#a4885c]Recommended Crew:[/color] 4-6
+  [color=#a4885c]建議船員人數：[/color] 4-6 人
 
-  [color=#a4885c]Power Gen Type:[/color] AME
+  [color=#a4885c]動力生成類型：[/color] AME
 
-  [color=#a4885c]Expeditions:[/color] Yes
+  [color=#a4885c]遠征任務：[/color] 是
 
-  [color=#a4885c]IFF Console:[/color] Yes
+  [color=#a4885c]敵我識別（IFF）控制台：[/color] 是
 
-  [color=#a4885c]Minimum Access Level:[/color] Bailiff
+  [color=#a4885c]最低存取等級：[/color] 執達吏
 
-  "A large expedition oriented ship for holding prisoners and making them work planetside."
+  「一艘大型遠征專用船，用於關押囚犯並使其在行星表面進行勞動。」
 
   # Ship Functions
   <GuideEntityEmbed Entity="SignalButton" Caption="Toggle Shutters"/>
 
-  # Tips on running NSF Wasp shuttles
-  - Optimal [bold]Target Power[/bold] (kW) for the generator unit is [color=#a4885c]75.8 [bold]kW[/bold][/color]. If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
-  - There are three buttons near the stern of the ship. The left and right control the EVA blast doors, while the middle controls the prison lockdown.
+  # 操作 NSF Wasp 穿梭機的要訣
+  - 發電機組的最佳 [bold]目標功率[/bold] (kW) 為 [color=#a4885c]75.8 [bold]kW[/bold][/color]。 If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
+  - 船尾附近有三個按鈕。 左右兩側的按鈕用來控制 EVA 防爆門，而中間的按鈕則用來控制監獄封鎖系統。
   - For the basics of [bold]shuttle piloting[/bold], refer to [textlink="Piloting" link="Piloting"] and [textlink="Sector Topology" link="SectorTopology"/].
   - For the basics of [bold]cargo hauling[/bold], refer to [textlink="Cargo Hauling" link="CargoHauling"].
   - For the basics of [bold]expedition diving[/bold], refer to [textlink="Expeditions" link="Expeditions"].

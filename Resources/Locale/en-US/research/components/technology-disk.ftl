@@ -1,10 +1,9 @@
-tech-disk-inserted = You insert the disk, adding a new recipe to the server.
-tech-disk-examine-none = The label is blank.
-tech-disk-examine = The label has a small dot matrix printed image depicting a {$result}.
-tech-disk-examine-more = There are more images printed, but they're too small to discern.
-tech-disk-name-format = {$baseName} ({$technology})
-
-tech-disk-ui-name = technology disk terminal
-tech-disk-ui-total-label = There are {$amount} points on the selected server
-tech-disk-ui-cost-label = Each disk costs {$amount} points to print
-tech-disk-ui-print-button = Print Disk
+tech-disk-inserted = 您插入光碟，並在伺服器上新增一道食譜。
+tech-disk-examine-none = 標籤是空白的。
+tech-disk-examine = 標籤上印有一幅以小點陣方式呈現的圖像，描繪了 { $result }。
+tech-disk-examine-more = 雖然還有其他印出的圖像，但它們太小了，無法看清。
+tech-disk-name-format = { $baseName } ({ $technology })
+tech-disk-ui-name = 科技磁碟終端機
+tech-disk-ui-total-label = 所選伺服器上有 { $amount } 個點
+tech-disk-ui-cost-label = 每張光碟的列印費用為 { $amount } 點
+tech-disk-ui-print-button = 列印磁碟

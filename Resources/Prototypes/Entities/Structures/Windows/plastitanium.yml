@@ -2,7 +2,7 @@
   id: PlastitaniumWindowBase
   parent: BaseStructure
   abstract: true
-  name: plastitanium window
+  name: 塑鈦窗
   description: Don't smudge up the glass down there.
   placement:
     mode: SnapgridCenter
@@ -78,7 +78,7 @@
   parent: PlastitaniumWindowSquareBase
   suffix: indestructible
   # Frontier: colored indestructible windows
-  description: Skub knows this window is too hard to destroy.
+  description: 斯庫布知道這扇窗戶實在太難砸碎了。
   components:
   - type: Sprite
     color: "#cdf3cd"

@@ -1,36 +1,36 @@
+
 <Document>
-  # Starting Equipment
+  # 起始裝備
   <Box>
     <GuideEntityEmbed Entity="NFClothingBackpack"/>
   </Box>
-  In the bag on your person you will find the following equipment:
+  在您隨身攜帶的包中，您會發現以下裝備：
 
-  -A [color=#028ed9]survival box[/color], containing equipment to help you survive emergency scenarios
-  -A [color=#CC6633]traffic control key[/color], which can be slotted into your radio headset to utilize the traffic control radio channel
-  -A [color=#33bbff]medical implant[/color]. If you inject it, when you get incapacitated, it'll tell your location to medics. Click the implanter to equip it in your hand, and click it again to inject it into your body.
+  -一個 [color=#028ed9]求生箱[/color]，內含協助您在緊急情況下生存的裝備
+  -一個 [color=#CC6633]交通管制鑰匙[/color]，可插入你的無線電耳機中，以使用交通管制無線電頻道
+  -一個 [color=#33bbff]醫療植入裝置[/color]。 如果你注射了它，當你失去行動能力時，它會將你的位置通報給醫護人員。 點擊植入器將其裝備在手中，再點擊一次即可將其植入體內。
 
-  Find your headset by opening your inventory (backpack icon, bottom left corner).
+  請開啟你的物品欄（左下角的背包圖示），找出你的耳機。
 
-# Suit Sensors
+# 西裝感測器
   <Box>
     <GuideEntityEmbed Entity="ClothingUniformJumpsuitColorGrey"/>
   </Box>
-  Suit sensors give your vital status and position to anyone with a [color=#55bbff]crew monitoring console[/color], typically used by medical personnel.
+  服裝感測器會將您的生命徵象與位置資訊傳送給任何擁有 [color=#55bbff]船員監控主控台[/color] 的人員，此設備通常由醫護人員使用。
 
-  The sensor options are the following:
+  感測器選項如下：
 
-  -Off: Disables tracking - you will not be listed
-  -Binary: Shows you as Alive or Dead with no position
-  -Vitals: Shows your vital status (Good, Okay, Poor, Bad, Critical) with no position
-  -Coordinates: Shows your vital status and current position on a crew monitor
+  -關閉：停用追蹤功能——您將不會被列入清單
+  -二進位：僅顯示您是「存活」或「死亡」，不顯示位置
+  -生命徵象：顯示您的生命徵象狀態（良好、尚可、欠佳、不良、危急），不顯示位置
+  -座標： 在船員監控器上顯示您的生命徵象狀態與當前位置
 
-  To change your suit sensors:
+  若要變更太空服感測器設定：
 
-  -Right-click your jumpsuit
-  -Hover over "Sensor >"
-  -Left-click your new setting
+  -右鍵點擊您的太空服
+  -將游標懸停於「感測器 >」上
+  -左鍵點擊您的新設定
 
-  In general, set your sensors to Coordinates if you'd like medics to come get you in a crisis.
+  一般來說，若您希望在緊急情況下讓醫護人員前來救援，請將感測器設定為「座標」。
 
 </Document>
-

@@ -1,6 +1,6 @@
 - type: entity
   id: BaseMagazineShotgun
-  name: ammo drum (.50 shells)
+  name: 彈藥鼓（.50口徑子彈）
   parent: [ BaseItem, BaseC1Contraband, RecyclableItemSteelTiny ] # Frontier: BaseSecurityContraband<BaseC1Contraband, added RecyclableItemSteelTiny
   abstract: true
   components:
@@ -45,7 +45,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazineShotgunEmpty
-  name: ammo drum (.50 shells any)
+  name: 彈藥鼓（任何型號的.50口徑子彈）
   suffix: empty
   parent: BaseMagazineShotgun
   components:
@@ -55,7 +55,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazineShotgun
-  name: ammo drum (.50 pellet)
+  name: 彈鼓（.50 錘頭彈）
   parent: BaseMagazineShotgun
   components:
   - type: BallisticAmmoProvider
@@ -80,7 +80,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazineShotgunBeanbag
-  name: ammo drum (.50 beanbags)
+  name: 彈藥鼓（.50 豆袋彈）
   parent: BaseMagazineShotgun
   components:
   - type: BallisticAmmoProvider
@@ -105,7 +105,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazineShotgunSlug
-  name: ammo drum (.50 slug)
+  name: 彈藥鼓（.50 子彈）
   parent: BaseMagazineShotgun
   components:
   - type: BallisticAmmoProvider
@@ -130,7 +130,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazineShotgunIncendiary
-  name: ammo drum (.50 incendiary)
+  name: 彈鼓（.50 燃燒彈）
   parent: BaseMagazineShotgun
   components:
   - type: BallisticAmmoProvider

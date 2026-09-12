@@ -1,14 +1,13 @@
-admin-player-actions-reason = Reason
-admin-player-actions-bans = Ban List
-admin-player-actions-notes = Notes
-admin-player-actions-kick = Kick
-admin-player-actions-ban = Ban
+admin-player-actions-reason = 理由
+admin-player-actions-bans = 封禁名單
+admin-player-actions-notes = 註釋
+admin-player-actions-kick = 踢
+admin-player-actions-ban = 班
 admin-player-actions-ahelp = AHelp
 admin-player-actions-respawn = Respawn
-admin-player-actions-spawn = Spawn here
-admin-player-spawn-failed = Failed to find valid coordinates
-admin-player-actions-player-panel = Open Player Panel
-
-admin-player-actions-clone = Clone
-admin-player-actions-follow = Follow
+admin-player-actions-spawn = 在此生成
+admin-player-spawn-failed = 無法找到有效的座標
+admin-player-actions-player-panel = 開啟播放器面板
+admin-player-actions-clone = 複製
+admin-player-actions-follow = 追蹤
 admin-player-actions-confirm = Are you sure?

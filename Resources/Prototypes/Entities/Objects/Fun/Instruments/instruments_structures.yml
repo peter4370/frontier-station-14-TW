@@ -1,8 +1,8 @@
 ﻿- type: entity
-  name: piano
+  name: 鋼琴
   parent: BasePlaceableInstrumentRotatable
   id: PianoInstrument
-  description: Play Needles Piano Now.
+  description: 現在就來彈奏《Needles》鋼琴曲吧。
   components:
   - type: Instrument
     program: 1
@@ -11,10 +11,10 @@
   - type: Climbable
 
 - type: entity
-  name: upright piano
+  name: 直立式鋼琴
   parent: BasePlaceableInstrumentRotatable
   id: UprightPianoInstrument
-  description: I said Piannie!
+  description: 我說的是皮安妮！
   components:
   - type: Instrument
     program: 3
@@ -23,10 +23,10 @@
   - type: Climbable
 
 - type: entity
-  name: vibraphone
+  name: 震音琴
   id: VibraphoneInstrument
   parent: BasePlaceableInstrumentRotatable
-  description: Good vibes all around.
+  description: 處處洋溢著愉悅的氛圍。
   components:
   - type: Instrument
     program: 11
@@ -34,7 +34,7 @@
     state: vibraphone
 
 - type: entity
-  name: marimba
+  name: 馬林巴琴
   id: MarimbaInstrument
   parent: BasePlaceableInstrumentRotatable
   components:
@@ -44,10 +44,10 @@
     state: marimba
 
 - type: entity
-  name: church organ
+  name: 教堂管風琴
   parent: BasePlaceableInstrumentRotatable
   id: ChurchOrganInstrument
-  description: This thing really blows!
+  description: 這東西真的糟透了！
   components:
   - type: Instrument
     program: 19
@@ -55,10 +55,10 @@
     state: church-organ
 
 - type: entity
-  name: tuba
+  name: 大號
   parent: BasePlaceableInstrument
   id: TubaInstrument
-  description: The big daddy of the brass family. Standing next to its majesty makes you feel insecure.
+  description: 銅管樂器的老大哥。站在這尊威嚴的樂器身旁，會讓人感到自慚形穢。
   components:
   - type: Instrument
     program: 58
@@ -68,8 +68,8 @@
 - type: entity
   id: HarpInstrument
   parent: BasePlaceableInstrument
-  name: harp
-  description: Plucking at the strings cuts your fingers, but at least the music is pretty.
+  name: 豎琴
+  description: 撥動琴弦會割傷手指，但至少音樂很動聽。
   components:
   - type: Instrument
     program: 46
@@ -79,8 +79,8 @@
 - type: entity
   id: TimpaniInstrument
   parent: BasePlaceableInstrumentRotatable
-  name: timpani
-  description: It goes BOOM BOOM BOOM BOOM!
+  name: 定音鼓
+  description: 它發出「砰砰砰砰」的聲響！
   components:
   - type: Instrument
     program: 47
@@ -90,8 +90,8 @@
 - type: entity
   id: TaikoInstrument
   parent: BasePlaceableInstrumentRotatable
-  name: taiko
-  description: A large drum. Looking at it fills you with the urge to slap it.
+  name: 太鼓
+  description: 一個大鼓。光是看著它，就讓人忍不住想拍打它。
   components:
   - type: Instrument
     program: 116
@@ -101,8 +101,8 @@
 - type: entity
   id: ContrabassInstrument
   parent: BasePlaceableInstrument
-  name: contrabass
-  description: Perfect for laying down a nice jazzy beat.
+  name: 低音提琴
+  description: 非常適合打出一段優美的爵士節奏。
   components:
   - type: Instrument
     program: 43
@@ -129,7 +129,7 @@
   name: minimoog
   parent: BasePlaceableInstrumentRotatable
   id: MinimoogInstrument
-  description: This is a minimoog, like a space piano, but more spacey!
+  description: 這是一台 Minimoog，就像一架太空鋼琴，但更具太空感！
   components:
   - type: Instrument
     program: 81
@@ -139,8 +139,8 @@
 - type: entity
   id: TomDrumsInstrument
   parent: BasePlaceableInstrumentRotatable
-  name: tom drums
-  description: Where'd the rest of the kit go?
+  name: 湯姆鼓
+  description: 剩下的套件都去哪了？
   components:
   - type: Instrument
     program: 117
@@ -150,8 +150,8 @@
 - type: entity
   parent: [ BasePlaceableInstrumentRotatable, ConstructibleMachine]
   id: DawInstrument
-  name: digital audio workstation
-  description: Cutting edge music technology, straight from the 90s.
+  name: 數位音訊工作站
+  description: 來自 90 年代的尖端音樂科技。
   components:
   - type: Sprite
     layers:

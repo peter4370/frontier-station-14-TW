@@ -1,10 +1,10 @@
 ### Category names
 
-rcd-component-pirate-walls-and-flooring = Walls and flooring
-rcd-component-pirate-windows-and-grilles = Windows and grilles
-rcd-component-pirate-airlocks = Airlocks
+rcd-component-pirate-walls-and-flooring = 牆壁與地板
+rcd-component-pirate-windows-and-grilles = 窗戶與護欄
+rcd-component-pirate-airlocks = 氣閘
 
 ### Prototype names
 
-rcd-component-floor-dark-steel = dark steel tile
-rcd-component-floor-wood = wood floor
+rcd-component-floor-dark-steel = 深色鋼質磁磚
+rcd-component-floor-wood = 木地板

@@ -1,8 +1,8 @@
 - type: entity
   parent: PosterBase
   id: MemorialDisplay
-  name: Memorial Display
-  description: "A running list of those who have held back nothing and given everything in the expansion of the Frontier."
+  name: 紀念展區
+  description: "一份持續更新的名單，列舉了那些在開拓邊疆的過程中毫無保留、傾盡一切的人士。"
   components:
   - type: Sprite
     sprite: _NF/Structures/Wallmounts/memorial_sign.rsi

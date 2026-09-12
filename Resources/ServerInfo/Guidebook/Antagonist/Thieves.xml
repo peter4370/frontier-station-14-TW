@@ -1,5 +1,6 @@
+
 <Document>
-  # Thieves
+  # 小偷
 
   <Box>
     [color=#999999][italic]"Yoink! I'll be taking that! And that! Ooh, don't mind if I do!"[/italic][/color]
@@ -8,33 +9,33 @@
     <GuideEntityEmbed Entity="ClothingNeckCloakVoid" Caption=""/>
   </Box>
 
-  Thieves are petty yet crafty [color=green]criminals[/color] who can't keep their hands to themselves. You were forcefully given a [bold]pacifism implant[/bold] after your last arrest, but you won't let that stop you from trying to add to your collection.
+  小偷是那些既卑微又狡猾的 [color=green]罪犯[/color]，總是管不住自己的手。 你在上次被捕後，被迫植入了 [bold]和平主義植入物[/bold]，但這並不會阻止你繼續擴充你的收藏。
 
-  ## Art of the Steal
-  Unlike other antagonists, [bold]staying out of trouble is almost a requirement for you[/bold] because of your implant.
-  You can only run if [color=#cb0000]Security[/color] picks a fight with you, and because you work alone you don't have any friends to pull you out of danger.
+  ## 《竊盜的藝術》
+  與其他反派不同，[粗體]由於你體內的植入物，遠離麻煩對你來說幾乎是一項必要條件[/粗體]。
+  只有當 [color=#cb0000]安全部門[/color] 向你挑釁時，你才只能逃跑；而且因為你是單槍匹馬行動，所以沒有任何朋友能把你從危險中救出來。
 
-  But against all odds, you'll sucessfully swipe what you want using determination, sleight of hand, a few tools and your [color=cyan]pickpocketing skills.[/color]
+  但儘管困難重重，你仍能憑藉堅定的決心、靈巧的手法、幾樣工具以及你的[color=cyan]扒竊技巧，成功偷走你想要的東西。[/color]
 
-  The pickpocketing skills you have give you a major advantage: [bold]the ability to take things from people without them even noticing.[/bold] With a little practice you can steal their wallet and keep up a conversation at the same time.
+  你擁有的扒竊技巧賦予你一項重大優勢：[bold]能在對方毫無察覺的情況下從他們身上拿走東西。[[/bold] 只要稍加練習，你就能一邊與對方交談，一邊順手偷走他們的錢包。
 
-  It is advised to get a pair of gloves as your fingerprints could still be traced back to the stolen goods if they're found.
+  建議您準備一雙手套，因為一旦贓物被尋獲，您的指紋仍可能被追溯到這些物品上。
 
 
 
-  ## Tools of the Trade
-  You've got two more aces up your stolen sleeves: your [color=cyan]beacon[/color] and your [color=cyan]satchel.[/color]
+  ## 行當工具
+  你的偷來的袖子裡還藏著兩張王牌：你的 [color=cyan]信標[/color] 和你的 [color=cyan]小包[/color]。[/color]
 
-  Your [color=cyan]beacon[/color] provides safe passage home for trinkets that may not be easy to carry with you on the evac shuttle. Simply find a secluded part of the station to unfold the beacon, then set its coordinates to your hideout.
-  Any shinies near it will be [bold]teleported to your vault when the shift ends,[/bold] fulfilling your objectives.
+  你的 [color=cyan]信標[/color] 能為那些難以帶上撤離穿梭機的小飾品，提供一條安全返家的通道。 只需在車站內找一處僻靜的地方展開信標，然後將其座標設定為你的藏身處即可。
+  當輪班結束時，附近的所有閃光寶可夢將會被 [bold]傳送至你的寶庫中，[/bold] 從而完成你的任務目標。
 
-  However, this will instantly out you if found and make it extremely easy for people to reclaim their "missing" possessions. [bold]Make sure to hide it well![/bold]
+  然而，一旦被發現，這將立即暴露你的身分，並讓他人極易取回他們「遺失」的財物。 [粗體]務必把它藏好！[/粗體]
 
   <Box>
     <GuideEntityEmbed Entity="ThiefBeacon"/>
   </Box>
 
-  Your [color=cyan]satchel[/color] contains... well, whatever you remembered to pack. [bold]You can select two pre-made kits[/bold] to help you complete grander heists.
+  你的 [color=cyan]背包[/color] 裡裝著……嗯，就是你記得帶的那些東西。 [粗體]你可以選擇兩組現成的套件[/粗體]，以協助你完成更壯觀的搶劫行動。
 
   <Box>
     <GuideEntityEmbed Entity="SatchelThief"/>
@@ -51,16 +52,16 @@
     <GuideEntityEmbed Entity="Telecrystal" Caption="Syndie"/>
   </Box>
 
-  ## Centerpiece of the Collection
-  Your kleptomania will take you places. One day, you'll feel like stealing a few figurines. Another day, you'll feel like stealing an industrial machine.
+  ## 系列的重頭戲
+  你的偷竊癖將帶你走遍四方。 總有一天，你會想偷幾尊小雕像。 總有一天，你會想偷一台工業用機器。
 
-  No matter. They'll all be a part of your collection within a matter of time.
+  沒關係。 過不了多久，這些都會成為你收藏的一部分。
 
-  You can steal items by [bold]having them on your person[/bold] when you get to CentComm. Failing this, you can steal larger items by [bold]leaving them by your beacon.[/bold]
+  當你抵達 CentComm 時，只要將物品[bold]隨身攜帶[/bold]，就能偷走它們。 若此法行不通，你可以透過 [bold]將較大的物品留在你的信標旁[/bold] 來偷走它們。
 
-  Some of the more [italic]animate[/italic] objectives may not cooperate with you. Make sure they're alive and with you or your beacon when the shift ends.
+  某些較為 [italic]有生命[/italic] 的目標可能不會配合你。 請確保在輪班結束時，他們還活著，並且與你或你的信標在一起。
 
-  Things that you may desire include but are not limited to:
+  您可能想要的事物包括但不限於：
 
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineGreytider" Caption="Figurines"/>

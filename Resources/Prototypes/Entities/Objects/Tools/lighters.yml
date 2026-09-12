@@ -1,8 +1,8 @@
 - type: entity
-  name: basic lighter
+  name: 基本款打火機
   parent: [BaseItem, RecyclableItemDeviceTiny] # Frontier: added ligters
   id: Lighter
-  description: "A simple plastic cigarette lighter."
+  description: "一個簡單的塑膠打火機。"
   components:
   - type: IgnitionSource
     ignited: false
@@ -94,10 +94,10 @@
   - type: NFLighter # Frontier
 
 - type: entity
-  name: cheap lighter
+  name: 便宜的打火機
   parent: Lighter
   id: CheapLighter
-  description: "A dangerously inexpensive plastic lighter, don't burn your thumb!"
+  description: "一款危險地便宜的塑膠打火機，千萬別燙傷拇指！"
   components:
   - type: Sprite
     sprite: Objects/Tools/Lighters/lighters.rsi
@@ -123,10 +123,10 @@
         maxVol: 4 #uses less fuel than a welder, so this isnt as bad as it looks
 
 - type: entity
-  name: flippo lighter
+  name: flippo 打火機
   parent: BaseItem
   id: FlippoLighter
-  description: "A rugged metal lighter, lasts quite a while."
+  description: "一款堅固耐用的金屬打火機，使用壽命相當長。"
   components:
   - type: Sprite
     sprite: Objects/Tools/Lighters/lighters.rsi
@@ -217,10 +217,10 @@
   - type: Engraveable # Frontier
 
 - type: entity
-  name: flippo engraved lighter
+  name: flippo 鐫刻打火機
   parent: FlippoLighter
   id: FlippoEngravedLighter
-  description: "A rugged golden lighter, lasts quite a while. Engravings serve no tactical advantage whatsoever."
+  description: "一款堅固耐用的金色打火機，使用壽命相當長。上面的雕刻對戰術上毫無助益。"
   components:
   - type: Sprite
     sprite: Objects/Tools/Lighters/lighters.rsi
@@ -318,8 +318,8 @@
 - type: entity
   parent: [BaseBrandedLighter, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: SyndicateFlippo
-  name: Blood-red flippo
-  description: "A 'Valid' choice in lighters. Contains no copper."
+  name: 血紅翻翻鳥
+  description: "打火機中的「優質」之選。不含銅。"
   components:
   - type: Sprite
     sprite: Objects/Tools/Lighters/syndielighter.rsi
@@ -338,8 +338,8 @@
 - type: entity
   parent: Lighter
   id: DiscountDanLighter
-  name: Discount Dan's lighter
-  description: "The worst lighter ever produced, lighterburn is inevitable, do not refuel while lit."
+  name: '「折扣丹」的打火機'
+  description: "這是有史以來最爛的打火機，灼傷在所難免，請勿在點火狀態下補充燃料。"
   components:
   - type: Sprite
     sprite: Objects/Tools/Lighters/lighters.rsi
@@ -394,7 +394,7 @@
   parent: [BaseBrandedLighter, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: CybersunFlippo
   name: CyberSun Flippo
-  description: "A Sleek black and magenta flippo lighter, bearing the logo and iconography of CyberSun Industries."
+  description: "一款流線型的黑色與洋紅色翻蓋式打火機，印有 CyberSun Industries 的標誌與圖示。"
   components:
   - type: Sprite
     sprite: Objects/Tools/Lighters/cybersun.rsi
@@ -414,7 +414,7 @@
   parent: [BaseBrandedLighter, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: InterdyneFlippo
   name: Interdyne Flippo
-  description: "A deep blue flippo lighter, decorated with the logo of Interdyne Pharmaceuticals' 'Gene Clean' clinics. Become the master of your own cigarette."
+  description: "一款深藍色的翻蓋打火機，飾有 Interdyne 製藥公司「Gene Clean」診所的標誌。成為自己香菸的主人。"
   components:
   - type: Sprite
     sprite: Objects/Tools/Lighters/interdyne.rsi
@@ -438,7 +438,7 @@
   parent: [BaseBrandedLighter]
   id: NanotrasenFlippo
   name: Nanotrasen Flippo
-  description: "A navy blue luxury flippo, generally handed out to loyal heads of staff instead of a payraise. Fueled with liquid plasma"
+  description: "一款海軍藍色的豪華「Flippo」，通常會發給忠誠的部門主管，以取代加薪。以液態等離子體為動力"
   components:
   - type: Sprite
     sprite: Objects/Tools/Lighters/nanotrasen.rsi
@@ -467,8 +467,8 @@
 - type: entity
   parent: [BaseBrandedLighter, BaseCentcommContraband]
   id: CentCommFlippo
-  name: Gilded CentComm Flippo
-  description: "An Ornate, jade embossed and gilded flippo frame containing a bluespace powered jet. The latch is secured by a miniature access reader that only responds to CentComm officials. The nicest lighter known to man."
+  name: 鍍金 CentComm Flippo
+  description: "一個華麗的、飾有玉石浮雕並鍍金的翻蓋式框架，內藏一架由藍色空間驅動的噴射機。其閂扣由微型門禁讀卡器鎖定，僅對中央指揮部（CentComm）官員作出反應。這是人類已知最精美的打火機。"
   suffix: DO NOT MAP
   components:
   - type: Sprite
@@ -513,8 +513,8 @@
 - type: entity
   parent: [BaseBrandedLighter, BaseC3Contraband] # Frontier BaseMajorContraband<BaseC3Contraband
   id: SpiderclanFlippo
-  name: Spider-Clan lighter
-  description: "A high tech jet lighter, engineered to function even in deep space. Runs on a tiny microfusion cell."
+  name: 蜘蛛族打火機
+  description: "一款高科技噴射式打火機，專為即使在深空環境中也能正常運作而設計。由微型核聚變電池供電。"
   components:
   - type: Sprite
     sprite: Objects/Tools/Lighters/spiderclan.rsi
@@ -534,7 +534,7 @@
   parent: [BaseBrandedLighter, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: WaffleCoFlippo
   name: Waffle Co. flippo
-  description: "A robust mass produced lighter. The Waffle Co. logo turns the spark wheel when pushed up, minimising risk of lighter burns for even the most inept user."
+  description: "一款堅固耐用的量產打火機。當向上按壓時，Waffle Co. 的標誌會轉動打火輪，即使是最笨手笨腳的使用者，也能將被打火機燙傷的風險降至最低。"
   components:
   - type: Sprite
     sprite: Objects/Tools/Lighters/waffleco.rsi
@@ -554,7 +554,7 @@
   parent: [BaseBrandedLighter]
   id: HonkCoFlippo
   name: Honk Co. flippo
-  description: "A slippery gag lighter produced by Honk Co. hidden inside of a real banana peel."
+  description: "由 Honk Co. 生產的一款滑溜溜的搞笑打火機，隱藏在一片真正的香蕉皮內。"
   components:
   - type: Sprite
     sprite: Objects/Tools/Lighters/honkco.rsi
@@ -599,7 +599,7 @@
   parent: [BaseBrandedLighter]
   id: DonkcoLighter
   name: Donk Co. flippo
-  description: "The flippo of choice for the seasoned traitor. A Breaded novelty lighter made by Donk Co. Somehow edible while lit."
+  description: "資深叛徒的首選「Flippo」。由 Donk Co. 製造的「麵包屑」造型新奇打火機。點燃時竟能以某種方式食用。"
   components:
   - type: Sprite
     sprite: Objects/Tools/Lighters/donkco.rsi

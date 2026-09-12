@@ -6,8 +6,8 @@
 - type: entity
   parent: [DrinkBaseMaterialGlass, DrinkBaseCup, DrinkVisualsFillOverlay]
   id: DrinkGlass
-  name: metamorphic glass
-  description: A metamorphic glass that automagically turns into a glass appropriate for the drink within. There's a sanded off patent number on the bottom.
+  name: 變質玻璃
+  description: 一款能自動變形，根據杯中飲品自動調整成最適合形狀的變形玻璃杯。杯底有被磨掉的專利號碼。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/glass_clear.rsi
@@ -33,7 +33,7 @@
   parent: DrinkGlass
   id: DrinkJar
   name: jar
-  description: The hipster's cup.
+  description: 潮人的杯子。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/jar.rsi
@@ -993,7 +993,7 @@
   parent: DrinkGlass
   id: DrinkHoochGlass
   suffix: hooch
-  description: You've really hit rock bottom now... your liver packed its bags and left last night.
+  description: 你現在真的跌到谷底了……你的肝臟昨晚已經收拾行囊離開了。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -2245,8 +2245,8 @@
 - type: entity
   parent: DrinkGlass
   id: DrinkWaterJug
-  name: water jug
-  description: Stay hydrated.
+  name: 水壺
+  description: 請保持水分。
   components:
   - type: SolutionContainerManager
     solutions:

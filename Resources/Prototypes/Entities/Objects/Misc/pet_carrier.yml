@@ -1,7 +1,7 @@
 - type: entity
   id: PetCarrier
-  name: big pet carrier # Frontier: keep the "big"
-  description: Allows large animals to be carried comfortably. # Frontier: remove It smells vaguely of toilet water and explosives.
+  name: 大型寵物運輸箱 #Frontier: keep the "big"
+  description: 可讓大型動物舒適地被攜帶。 # Frontier: remove It smells vaguely of toilet water and explosives.
   parent: BaseStructureDynamic
   components:
   - type: Sprite

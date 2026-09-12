@@ -1,5 +1,5 @@
 - type: entity
-  description: "If you want to get cancer, might as well do it in style."
+  description: "既然要得癌症，倒不如得得有格調一點。"
   id: BaseSmokable
   parent: BaseItem
   abstract: true

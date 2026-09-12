@@ -1,5 +1,6 @@
+
 <Document>
-  # VOLTAGE-CLASS SMUGGLING SHUTTLE
+  # 電壓級走私接駁船
   <Box>
   <GuideEntityEmbed Entity="CrateTradeContrabandSecure5" Caption="Transport"/>
   <GuideEntityEmbed Entity="CrateTradeContrabandSecure4" Caption="Secure"/>
@@ -9,15 +10,15 @@
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapVoltage" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 2-3
+  [color=#a4885c]建議船員人數：[/color] 2-3 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 飛船簡介
 
-  "A small armored Syndicate smuggling shuttle, perfect for fueling Nanotrasen's inevitable demise!"
+  「一艘小型裝甲『辛迪加』走私飛船，正是助長納諾特雷森（Nanotrasen）走向必然滅亡的完美利器！」
 
   # Ship Functions
 
@@ -29,17 +30,17 @@
 
   </Box>
 
-# Piloting
+# 駕駛
 
-[textlink="Piloting" link="Piloting"/]
+[textlink="駕駛" link="駕駛"/]
 
-[textlink="Sector Topology" link="SectorTopology"/]
+[textlink="星區拓撲" link="星區拓撲"/]
 
-# Hiring crew
+# 僱用船員
 
-[textlink="Hiring" link="Hiring"/]
+[textlink="僱用" link="僱用"/]
 
-As an Operative Commander of a Syndicate vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+身為辛迪加艦船的行動指揮官，您有權隨意僱用、解僱、降職或晉升船員。
 
 # PREFLIGHT CHECKLIST
 

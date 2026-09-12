@@ -1,31 +1,32 @@
+
 <Document>
-  # BROOM-CLASS SERVICE SHUTTLE
+  # 掃帚級接駁服務
   <Box>
   <GuideEntityEmbed Entity="NFPosterContrabandLvhiStation" Caption=""/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapBroom" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Micro
+  [color=#a4885c]船隻尺寸：[/color] 微型
 
-	[color=#a4885c]Recommended Crew:[/color] 1+
+	[color=#a4885c]建議船員人數：[/color] 1+
 
-	[color=#a4885c]Power Gen Type:[/color] Plasma
+	[color=#a4885c]動力類型：[/color] 等離子
 
-	[color=#a4885c]Expeditions:[/color] No
+	[color=#a4885c]遠征任務：[/color] 無
 
-	[color=#a4885c]IFF Console:[/color] None
+	[color=#a4885c]敵我識別控制台：[/color] 無
 
-  "A cramped yet reliable shuttle for providing official janitorial services. Manufactured by Langstad-Voigt Heavy Industries."
+  「一艘空間狹窄但可靠的穿梭機，專門用於提供官方清潔服務。」 Manufactured by Langstad-Voigt Heavy Industries."
 
-  # Tips on running LVHI Brigand shuttles
-  - Optimal [bold]Target Power[/bold] (kW) for the generator unit is [color=#a4885c]8 [bold]kW[/bold][/color]. If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
-  - There are two buttons in the cockpit: the one with a yellow and black frame controls the window shutters. The button with the gray frame toggles the thrusters and gyroscope.
+  # 關於運行 LVHI Brigand 穿梭機的提示
+  - 發電機組的最佳 [bold]目標功率[/bold] (kW) 為 [color=#a4885c]8 [bold]kW[/bold][/color]。 If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
+  - 駕駛艙內有兩個按鈕：那個帶有黃黑邊框的按鈕用來控制窗戶百葉窗。 那個帶有灰色邊框的按鈕用來切換推進器與陀螺儀。
   <Box>
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Toggle Shutters"/>
   <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Toggle Thrusters and Gyroscope"/>
   </Box>
-  - For the basics of [bold]janitorial work[/bold], refer to [textlink="Janitorial" link="Janitorial"].
+  - 關於 [bold]清潔工作[/bold] 的基本知識，請參閱 [textlink="清潔工作" link="清潔工作"]。
   - For the basics of [bold]shuttle piloting[/bold], refer to [textlink="Piloting" link="Piloting"] and [textlink="Sector Topology" link="SectorTopology"/].
   - As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will, refer to [textlink="Hiring" link="Hiring"] for more information.
 

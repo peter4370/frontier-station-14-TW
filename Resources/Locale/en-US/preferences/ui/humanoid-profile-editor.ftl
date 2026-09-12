@@ -1,66 +1,60 @@
-humanoid-profile-editor-randomize-everything-button = Randomize everything
+humanoid-profile-editor-randomize-everything-button = 將所有內容隨機化
 humanoid-profile-editor-name-label = Name:
-humanoid-profile-editor-name-random-button = Randomize
-humanoid-profile-editor-appearance-tab = Appearance
-humanoid-profile-editor-clothing = Show clothing
+humanoid-profile-editor-name-random-button = 隨機化
+humanoid-profile-editor-appearance-tab = 外觀
+humanoid-profile-editor-clothing = 顯示服裝
 humanoid-profile-editor-clothing-show = Show
-humanoid-profile-editor-sex-label = Sex:
-humanoid-profile-editor-sex-male-text = Male
-humanoid-profile-editor-sex-female-text = Female
+humanoid-profile-editor-sex-label = 性別：
+humanoid-profile-editor-sex-male-text = 男性
+humanoid-profile-editor-sex-female-text = 女性
 humanoid-profile-editor-sex-unsexed-text = None
-humanoid-profile-editor-age-label = Age:
-humanoid-profile-editor-skin-color-label = Skin color:
-humanoid-profile-editor-species-label = Species:
-humanoid-profile-editor-pronouns-label = Pronouns:
-humanoid-profile-editor-pronouns-male-text = He / Him
-humanoid-profile-editor-pronouns-female-text = She / Her
-humanoid-profile-editor-pronouns-epicene-text = They / Them
+humanoid-profile-editor-age-label = 年齡：
+humanoid-profile-editor-skin-color-label = 膚色：
+humanoid-profile-editor-species-label = 物種：
+humanoid-profile-editor-pronouns-label = 代詞：
+humanoid-profile-editor-pronouns-male-text = 他 / 他的
+humanoid-profile-editor-pronouns-female-text = 她 / 她
+humanoid-profile-editor-pronouns-epicene-text = 他們 / 他們
 humanoid-profile-editor-pronouns-neuter-text = It / Its
-humanoid-profile-editor-import-button = Import
+humanoid-profile-editor-import-button = 匯入
 humanoid-profile-editor-export-button = Export
-humanoid-profile-editor-export-image-button = Export image
-humanoid-profile-editor-open-image-button = Open images
+humanoid-profile-editor-export-image-button = 匯出圖片
+humanoid-profile-editor-open-image-button = 開啟圖片
 humanoid-profile-editor-save-button = Save
 humanoid-profile-editor-reset-button = Reset
-humanoid-profile-editor-spawn-priority-label = Spawn priority:
-humanoid-profile-editor-eyes-label = Eye color:
+humanoid-profile-editor-spawn-priority-label = 生成優先級：
+humanoid-profile-editor-eyes-label = 眼色：
 humanoid-profile-editor-jobs-tab = Jobs
-humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Stay in lobby if preference unavailable.
+humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = 若無偏好的房型，請入住大廳。
 # Frontier: we have multiple overflow job types, so we change this message.
 # humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button = Be {INDEFINITE($overflowJob)} {$overflowJob} if preference unavailable.
-humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button = Start in an available job if preference unavailable.
-humanoid-profile-editor-preference-jumpsuit = Jumpsuit
-humanoid-profile-editor-preference-jumpskirt = Jumpskirt
+humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button = 若無偏好職位，則從現有職位開始。
+humanoid-profile-editor-preference-jumpsuit = 連身衣
+humanoid-profile-editor-preference-jumpskirt = 跳躍裙
 humanoid-profile-editor-preference-backpack = Backpack
-humanoid-profile-editor-preference-satchel = Satchel
-humanoid-profile-editor-preference-duffelbag = Duffelbag
-humanoid-profile-editor-guidebook-button-tooltip = Click for more info
-
+humanoid-profile-editor-preference-satchel = 手提包
+humanoid-profile-editor-preference-duffelbag = 旅行袋
+humanoid-profile-editor-guidebook-button-tooltip = 點擊查看更多資訊
 # Spawn priority
 humanoid-profile-editor-preference-spawn-priority-none = None
 humanoid-profile-editor-preference-spawn-priority-arrivals = Arrivals
 humanoid-profile-editor-preference-spawn-priority-cryosleep = Cryosleep
-
-humanoid-profile-editor-jobs-amount-in-department-tooltip = Jobs in the {$departmentName} department
-humanoid-profile-editor-department-jobs-label = {$departmentName}
+humanoid-profile-editor-jobs-amount-in-department-tooltip = Jobs in the { $departmentName } department
+humanoid-profile-editor-department-jobs-label = { $departmentName }
 humanoid-profile-editor-antags-tab = Antags
 humanoid-profile-editor-antag-preference-yes-button = Yes
 humanoid-profile-editor-antag-preference-no-button = No
-
 humanoid-profile-editor-job-priority-high-button = High
 humanoid-profile-editor-job-priority-medium-button = Medium
 humanoid-profile-editor-job-priority-low-button = Low
 humanoid-profile-editor-job-priority-never-button = Never
-humanoid-profile-editor-naming-rules-warning = Warning: Offensive or LRP IC names and descriptions will lead to admin intervention on this server. Read our \[Rules\] for more.
-humanoid-profile-editor-markings-tab = Markings
+humanoid-profile-editor-naming-rules-warning = 警告：若使用具冒犯性或 LRP 的 IC 名稱及描述，本伺服器管理員將予以介入處理。請閱讀我們的 \[規則\] 以了解更多詳情。
+humanoid-profile-editor-markings-tab = 標記
 humanoid-profile-editor-flavortext-tab = Description
-
 # Traits
-humanoid-profile-editor-traits-tab = Traits
-humanoid-profile-editor-no-traits = No traits available
-
-humanoid-profile-editor-trait-count-hint = Points available: [{$current}/{$max}]
-
-trait-category-disabilities = Disabilities
-trait-category-speech = Speech traits
-trait-category-quirks = Quirks
+humanoid-profile-editor-traits-tab = 特徵
+humanoid-profile-editor-no-traits = 沒有可用的特徵
+humanoid-profile-editor-trait-count-hint = 可選項目：[{ $current }/{ $max }]
+trait-category-disabilities = 身心障礙
+trait-category-speech = 語音特徵
+trait-category-quirks = 怪癖

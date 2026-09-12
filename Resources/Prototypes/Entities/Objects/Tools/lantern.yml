@@ -2,7 +2,7 @@
   name: lantern
   parent: [BaseItem, RecyclableItemDeviceSmall] # Frontier: added RecyclableItemDeviceSmall
   id: Lantern
-  description: The holy light guides the way.
+  description: 神聖之光指引前路。
   components:
     - type: ConstructionMaterials # Frontier
     - type: HandheldLight

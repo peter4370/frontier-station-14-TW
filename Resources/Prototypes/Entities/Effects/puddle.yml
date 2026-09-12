@@ -151,9 +151,9 @@
       color: "#FFFFFF80"
 
 - type: entity
-  name: puddle
+  name: 水窪
   id: Puddle
-  description: A puddle of liquid.
+  description: 一灘液體。
   placement:
     mode: SnapgridCenter
   components:

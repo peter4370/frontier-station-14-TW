@@ -1,9 +1,9 @@
 # region FRONTIER - IGNORED
 - type: entity
-  name: BaseWeaponHeavyMachineGun
+  name: 基礎武器：重機槍
   parent: BaseItem
   id: BaseWeaponHeavyMachineGun
-  description: Spray and pray.
+  description: 隨機射擊，祈求好運。
   abstract: true
   components:
   - type: Sprite
@@ -28,10 +28,10 @@
   # No chamber because HMG may want its own
 
 - type: entity
-  name: minigun
+  name: 迷你機槍
   id: WeaponMinigun
   parent: [ BaseWeaponHeavyMachineGun, BaseC3Contraband ] # Frontier: BaseMajorContraband<BaseC3Contraband
-  description: Vzzzzzt! Rahrahrahrah! Vrrrrr! Uses .10 rifle ammo. Illegal for use in the Frontier sector. # Frontier: edit description
+  description: 嗡——！啦啦啦啦！嗡——！使用 .10 口徑步槍子彈。在邊境區使用屬違法行為。 # Frontier: edit description
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/HMGs/minigun.rsi

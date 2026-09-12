@@ -1,8 +1,8 @@
 - type: entity
   parent: [BaseStorageItem, RecyclableItemClothSmall] # Frontier: added RecyclableItemClothSmall
   id: DiceBag
-  name: bag of dice
-  description: Contains all the luck you'll ever need.
+  name: 一袋骰子
+  description: 蘊含了你此生所需的一切好運。
   components:
   - type: StorageFill
     contents:

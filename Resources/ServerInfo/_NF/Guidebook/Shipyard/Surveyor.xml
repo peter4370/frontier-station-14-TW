@@ -1,5 +1,6 @@
+
 <Document>
-  # SURVEYOR-CLASS SERVICE SHUTTLE
+  # 勘測級服務穿梭船
 <Box>
   <GuideEntityEmbed Entity="MiningDrill" Caption="Procure"/>
   <GuideEntityEmbed Entity="NFPosterContrabandFscLogo" Caption="Profit"/>
@@ -8,15 +9,15 @@
 <Box>
   <GuideEntityEmbed Entity="ShuttleMapSurveyor" Caption=""/>
 </Box>
-[color=#a4885c]Ship Size:[/color] Small
+[color=#a4885c]船隻尺寸：[/color] 小型
 
-[color=#a4885c]Recommended Crew:[/color] 1-2
+[color=#a4885c]建議船員人數：[/color] 1-2 人
 
-[color=#a4885c]Power Gen Type:[/color] Plasma
+[color=#a4885c]動力類型：[/color] 等離子
 
-# Shuttle Brief
+# 穿梭機簡介
 
-"A low cost mining and salvage shuttle. The Surveyor is a multi purpose shuttle designed by the Far Star Corporation as a disaster site surveyor in addition to material procurement, insurance assessment and transport needs."
+「一款低成本的採礦與打撈穿梭機。 「『測量者號』是由遠星公司設計的一款多功能穿梭機，除了用於災害現場勘查外，還可滿足物料採購、保險理賠評估及運輸等需求。」
 
 # Ship Functions
 

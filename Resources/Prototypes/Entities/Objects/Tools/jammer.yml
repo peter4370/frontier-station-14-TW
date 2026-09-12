@@ -1,5 +1,5 @@
 - type: entity
-  name: radio jammer
+  name: 無線電干擾器
   parent: [BaseItem, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: RadioJammer
   description: This device will disrupt any nearby outgoing radio communication as well as suit sensors when activated.
@@ -17,15 +17,15 @@
     - wattage: 1
       range: 2.5
       message: radio-jammer-component-set-message-low
-      name: radio-jammer-component-setting-low
+      name: 無線電干擾器元件設定為低
     - wattage: 2
       range: 6
       message: radio-jammer-component-set-message-medium
-      name: radio-jammer-component-setting-medium
+      name: 無線電干擾器元件設定介質
     - wattage: 12
       range: 12
       message: radio-jammer-component-set-message-high
-      name: radio-jammer-component-setting-high
+      name: 無線電干擾器元件設定值設為高
   - type: PowerCellSlot
     cellSlotId: cell_slot
   - type: ContainerContainer
@@ -54,7 +54,7 @@
 - type: entity
   parent: [RadioJammer, BaseXenoborgContraband]
   id: XenoborgRadioJammer
-  name: xenoborg radio jammer
+  name: 外星機器人無線電干擾器
   components:
   - type: ItemSlots
     slots:

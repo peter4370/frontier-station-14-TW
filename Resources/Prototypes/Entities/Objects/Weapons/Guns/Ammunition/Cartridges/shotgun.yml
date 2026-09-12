@@ -1,7 +1,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: BaseShellShotgun
-  name: shell (.50)
+  name: 彈殼（.50）
   parent: [ BaseCartridge, BaseC1Contraband ] # Frontier: added BaseC1Contraband
   abstract: true
   components:
@@ -25,7 +25,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: ShellShotgunBeanbag
-  name: shell (.50 beanbag)
+  name: 彈殼（.50 豆袋彈）
   parent: BaseShellShotgun # Frontier: remove BaseSecurityBartenderContraband
   components:
   - type: Tag
@@ -45,7 +45,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: ShellShotgunSlug
-  name: shell (.50 slug)
+  name: 彈殼（.50 口徑子彈）
   parent: BaseShellShotgun # Frontier: remove BaseSecurityContraband
   components:
   - type: Sprite
@@ -60,7 +60,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: ShellShotgunFlare
-  name: shell (.50 flare)
+  name: 彈殼（.50 擴口）
   parent: BaseShellShotgun
   components:
   - type: Tag
@@ -80,7 +80,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: ShellShotgun
-  name: shell (.50 pellet)
+  name: 彈殼（.50 號彈丸）
   parent: BaseShellShotgun # Frontier: remove BaseSecurityContraband
   components:
   - type: Sprite
@@ -93,7 +93,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: ShellShotgunIncendiary
-  name: shell (.50 incendiary)
+  name: 炮彈（.50 燃燒彈）
   parent: BaseShellShotgun # Frontier: remove BaseSecurityContraband
   components:
   - type: Sprite
@@ -108,7 +108,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: ShellShotgunPractice
-  name: shell (.50 practice)
+  name: 子彈（.50 練習用）
   parent: BaseShellShotgun # Frontier: remove BaseSecurityContraband
   components:
   - type: Sprite
@@ -123,7 +123,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: ShellTranquilizer
-  name: shell (.50 tranquilizer)
+  name: 彈殼（.50 鎮靜劑）
   parent: BaseShellShotgun # Frontier: remove BaseSecurityContraband
   components:
   - type: Tag
@@ -152,8 +152,8 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: ShellShotgunImprovised
-  name: improvised shotgun shell
-  description: A homemade shotgun shell that shoots painful glass shrapnel. The spread is so wide that it couldn't hit the broad side of a barn.
+  name: 自製霰彈槍彈殼
+  description: 一種自製的霰彈槍彈殼，能射出令人疼痛的玻璃碎片。其散射範圍極廣，連穀倉那樣寬闊的側面都打不中。
   parent: BaseShellShotgun # Frontier: remove BaseSecurityContraband
   components:
   - type: Tag
@@ -176,7 +176,7 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: ShellShotgunUranium
-  name: uranium shotgun shell
+  name: 鈾製霰彈槍彈殼
   parent: BaseShellShotgun # Frontier: remove BaseSecurityContraband
   components:
     - type: Sprite

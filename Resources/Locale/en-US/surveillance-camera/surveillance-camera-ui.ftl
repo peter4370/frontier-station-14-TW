@@ -1,13 +1,11 @@
-surveillance-camera-monitor-ui-window = Camera monitor
-surveillance-camera-monitor-ui-refresh-cameras = Refresh cameras
-surveillance-camera-monitor-ui-refresh-subnets = Refresh subnets
+surveillance-camera-monitor-ui-window = 攝影機螢幕
+surveillance-camera-monitor-ui-refresh-cameras = 重新載入攝影機畫面
+surveillance-camera-monitor-ui-refresh-subnets = 重新整理子網區
 surveillance-camera-monitor-ui-disconnect = Disconnect
-surveillance-camera-monitor-ui-status = {$status} {$address}
-surveillance-camera-monitor-ui-status-connecting = Connecting:
-surveillance-camera-monitor-ui-status-connected = Connected:
+surveillance-camera-monitor-ui-status = { $status } { $address }
+surveillance-camera-monitor-ui-status-connecting = 連接：
+surveillance-camera-monitor-ui-status-connected = 相關連結：
 surveillance-camera-monitor-ui-status-disconnected = Disconnected
-surveillance-camera-monitor-ui-no-subnets = No Subnets
-
-surveillance-camera-setup = Setup
+surveillance-camera-monitor-ui-no-subnets = 無子網
+surveillance-camera-setup = 設定
 surveillance-camera-setup-ui-set = Set
-

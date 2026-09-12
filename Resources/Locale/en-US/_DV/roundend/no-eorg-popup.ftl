@@ -1,9 +1,9 @@
 # Frontier: edits to title and messages
-no-eorg-popup-title = Frontier Station
-no-eorg-popup-label = Welcome to the End of Round!
-no-eorg-popup-message = [bold]End-of-round griefing (EORG)[/bold] is [color=#DD0000]not allowed[/color]. Please stay in character until the lobby screen appears to maintain an immersive environment for everyone. Thank you for respecting the community rules!
-no-eorg-popup-rule = [bold][color=#a4885c]Significant end-of-round griefing (EORG) is not allowed.[/color][/bold]
-no-eorg-popup-rule-text = This includes attacking, destroying, polluting, and severely injuring players or property without reason. Remember that you are playing a character throughout the round.
-no-eorg-popup-close-button = Sounds good!
-no-eorg-popup-close-button-wait = The close button will be enabled after {$time} seconds.
-no-eorg-popup-skip-checkbox = Don't show this again.
+no-eorg-popup-title = 邊境站
+no-eorg-popup-label = 歡迎來到本輪的尾聲！
+no-eorg-popup-message = [粗體]回合結束時的惡意騷擾（EORG）[/粗體] [color=#DD0000]嚴禁[/color]。請維持角色設定，直到遊樂廳畫面出現為止，以確保所有玩家都能沉浸於遊戲環境中。感謝您遵守社群規則！
+no-eorg-popup-rule = [bold][color=#a4885c]嚴禁在回合結束時進行重大騷擾行為（EORG）。[/color][/bold]
+no-eorg-popup-rule-text = 這包括無故攻擊、破壞、污染，以及對玩家或財產造成嚴重傷害。請記住，在整輪遊戲中，你都扮演著一個角色。
+no-eorg-popup-close-button = 聽起來不錯！
+no-eorg-popup-close-button-wait = 「關閉」按鈕將在 { $time } 秒後啟用。
+no-eorg-popup-skip-checkbox = 不要再顯示這個了。

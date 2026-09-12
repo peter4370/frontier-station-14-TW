@@ -8,8 +8,8 @@
 - type: entity
   parent: [ BoxCardboard, BaseBagOpenClose ]
   id: FoodBoxDonut
-  name: donut box
-  description: Mmm, Donuts.
+  name: 甜甜圈盒
+  description: 嗯，甜甜圈。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Food/Baked/donut.rsi
@@ -75,8 +75,8 @@
 - type: entity
   parent: [ BoxCardboard, BaseBagOpenClose ]
   id: FoodContainerEgg
-  name: egg carton
-  description: Don't drop 'em!
+  name: 雞蛋盒
+  description: 別把牠們掉下去！
   components:
   - type: Sprite
     sprite: Objects/Consumable/Food/egg.rsi
@@ -303,8 +303,8 @@
 - type: entity
   parent: [ BoxCardboard, BaseBagOpenClose ]
   id: FoodBoxNugget
-  name: chicken nuggets
-  description: You suddenly have an urge to trade on the intergalactic stock market.
+  name: 雞塊
+  description: 你突然有種衝動，想在星際股市上進行交易。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Food/Baked/nuggets.rsi
@@ -363,8 +363,8 @@
 - type: entity
   parent: BoxCardboard
   id: FoodBoxDonkpocket
-  name: box of donk-pockets
-  description: 'Instructions: Heat in microwave. Product will cool if not eaten within seven minutes.'
+  name: 一盒唐克口袋餅
+  description: '使用說明：請放入微波爐加熱。若未於七分鐘內食用完畢，產品將會冷卻。'
   components:
   - type: Sprite
     sprite: Objects/Consumable/Food/Baked/donkpocket.rsi
@@ -393,7 +393,7 @@
 - type: entity
   parent: FoodBoxDonkpocket
   id: FoodBoxDonkpocketSpicy
-  name: box of spicy-flavoured donk-pockets
+  name: 一盒辣味唐克口袋餅
   components:
   - type: Sprite
     state: spicy-box
@@ -407,7 +407,7 @@
 - type: entity
   parent: FoodBoxDonkpocket
   id: FoodBoxDonkpocketTeriyaki
-  name: box of teriyaki-flavoured donk-pockets
+  name: 一盒照燒風味的「Donk-Pockets」
   components:
   - type: Sprite
     state: teriyaki-box
@@ -421,7 +421,7 @@
 - type: entity
   parent: FoodBoxDonkpocket
   id: FoodBoxDonkpocketPizza
-  name: box of pizza-flavoured donk-pockets
+  name: 一盒披薩口味的唐克口袋餅
   components:
   - type: Sprite
     state: pizza-box
@@ -435,7 +435,7 @@
 - type: entity
   parent: FoodBoxDonkpocket
   id: FoodBoxDonkpocketStonk
-  name: box of limited edition stonk-pockets
+  name: 一盒限量版 Stonk-Pockets
   components:
   - type: Sprite
     state: stonk-box
@@ -449,7 +449,7 @@
 - type: entity
   parent: FoodBoxDonkpocket
   id: FoodBoxDonkpocketCarp
-  name: box of carp-pockets
+  name: 一盒鯉魚口袋
   components:
   - type: Sprite
     state: carp-box
@@ -461,7 +461,7 @@
 - type: entity
   parent: FoodBoxDonkpocket
   id: FoodBoxDonkpocketBerry
-  name: box of berry-flavoured donk-pockets
+  name: 一盒莓果口味的「唐克口袋」
   components:
   - type: Sprite
     state: berry-box
@@ -475,7 +475,7 @@
 - type: entity
   parent: FoodBoxDonkpocket
   id: FoodBoxDonkpocketHonk
-  name: box of banana-flavoured donk-pockets
+  name: 一盒香蕉口味的唐克口袋餅
   components:
   - type: Sprite
     state: banana-box
@@ -489,8 +489,8 @@
 - type: entity
   parent: FoodBoxDonkpocket
   id: FoodBoxDonkpocketDink
-  name: box of dink-pockets
-  description: Net Zero carbohydrates! No need for heating!
+  name: 一盒丁克口袋餅乾
+  description: 碳水化合物為零！無需加熱！
   components:
   - type: Sprite
     state: dink-box
@@ -504,7 +504,7 @@
 - type: entity
   parent: FoodBoxDonkpocket
   id: FoodBoxDonkpocketMoth
-  name: box of moth-pockets
+  name: 一盒防蛀袋
   components:
   - type: Sprite
     state: moth-box
@@ -520,7 +520,7 @@
   parent: [ BoxCardboard, BaseBagOpenClose ]
   name: happy honk meal
   suffix: Toy Safe
-  description: The toy is more edible than the food.
+  description: 這玩具比食物還像能吃。
   components:
   - type: Sprite
     sprite: _NF/Objects/Storage/Happyhonk/clown.rsi # Frontier: _NF prefix
@@ -608,7 +608,7 @@
 - type: entity
   id: HappyHonkMime
   parent: HappyHonk
-  description: A limited mime edition of the happy honk meal.
+  description: '「快樂喇叭餐」的限量默劇版。'
   suffix: Toy Safe
   components:
   - type: Tag
@@ -625,8 +625,8 @@
 - type: entity
   id: HappyHonkNukie
   parent: [HappyHonk, BaseC3SyndicateContrabandUnredeemable] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContrabandUnredeemable
-  name: robust nukie meal
-  description: A sus meal with a potentially explosive surprise.
+  name: 營養豐富的核武大餐
+  description: 這頓飯中藏著一個可能引發爆炸的驚喜。
   suffix: Toy Unsafe
   components:
   - type: Sprite
@@ -658,7 +658,7 @@
   parent: HappyHonkNukie
   id: HappyHonkNukieSnacks
   suffix: Toy Unsafe, Snacks
-  name: syndicate snack box
+  name: syndicate 零食盒
   components:
   - type: Storage
     grid:
@@ -708,7 +708,7 @@
   id: HappyHonkCluwne
   parent: HappyHonk
   name: woeful cluwne meal
-  description: Nothing good can come of this.
+  description: 這件事絕不會有什麼好結果。
   components:
   - type: Tag
     tags:
@@ -806,8 +806,8 @@
 - type: entity
   id: FoodMealHappyHonkBigBite
   parent: HappyHonk
-  name: Happy Honk Big Bite Meal
-  description: Someone paid good money to get this fast food meal shipped out this way. It smells fresh, somehow.
+  name: Happy Honk 大份餐
+  description: 有人花了不少錢，才讓這份速食餐以這種方式送達。不知為何，它聞起來還挺新鮮的。
   components:
   - type: StorageFill
     contents:
@@ -881,8 +881,8 @@
 - type: entity
   parent: BoxCardboard
   id: FoodBoxCloth
-  name: box of FlutterSoft-brand cloth
-  description: Fiber is the most important moth meal of the day! Don't skip it or use bottom-of-the-locker junk, buy high-quality FlutterSoft-brand cloth instead.
+  name: 一盒 FlutterSoft 品牌的布
+  description: 纖維是蛾子一天中最重要的一餐！千萬不要跳過這餐，也不要拿櫃子底層的垃圾來充數，而是該購買高品質的「FlutterSoft」品牌布料。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Food/ingredients.rsi

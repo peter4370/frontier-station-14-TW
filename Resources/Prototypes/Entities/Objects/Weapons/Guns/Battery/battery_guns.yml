@@ -103,10 +103,10 @@
     - Belt
 
 - type: entity
-  name: svalinn laser pistol
+  name: 斯瓦林恩雷射手槍
   parent: [ BaseWeaponPowerCellSmall, BaseC1Contraband ] # Frontier: BaseSecurityContraband<BaseC1Contraband
   id: WeaponLaserSvalinn
-  description: A cheap and widely used laser pistol.
+  description: 一款價格低廉且廣泛使用的雷射手槍。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Battery/svalinn.rsi
@@ -128,10 +128,10 @@
     zeroVisible: true
 
 - type: entity
-  name: retro laser blaster
+  name: 復古雷射槍
   parent: [ BaseWeaponBatterySmall, BaseC1Contraband ] # Frontier: BaseMajorContraband<BaseC1Contraband
   id: WeaponLaserGun
-  description: A civilian grade weapon using light amplified by the stimulated emission of radiation.
+  description: 一種採用受激輻射放大技術的民用級武器。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Battery/laser_retro.rsi
@@ -155,10 +155,10 @@
     price: 190
 
 - type: entity
-  name: makeshift laser pistol
+  name: 臨時拼湊的雷射手槍
   parent: [BaseWeaponBatterySmall, BaseC1Contraband] # Frontier: BaseMinorContraband>BaseC1Contraband
   id: WeaponMakeshiftLaser
-  description: Better pray it won't burn your hands off. At least it's legal.
+  description: 最好祈禱它別把你的手燒掉。至少這是合法的。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Battery/makeshift.rsi
@@ -185,10 +185,10 @@
     startingCharge: 500
 
 - type: entity
-  name: tesla gun
+  name: 特斯拉槍
   parent: [BaseWeaponBattery, BaseC3Contraband] # Frontier: BaseMajorContraband>BaseC3Contraband
   id: WeaponTeslaGun
-  description: The power of the primordial element of lightning in your hands. An experimental and illegal weapon.
+  description: 你手中蘊藏著雷電這股原始元素的力量。這是一件實驗性且非法的武器。
   components:
   - type: Item
     size: Large
@@ -218,10 +218,10 @@
   - type: Appearance
 
 - type: entity
-  name: laser carbine
+  name: 雷射卡賓槍
   parent: [BaseWeaponBattery, BaseGunWieldable]
   id: WeaponLaserCarbine
-  description: Favoured by Nanotrasen Security for being cheap and easy to use.
+  description: 因價格低廉且易於使用，而受到 Nanotrasen Security 的青睞。
   components:
   - type: Item
     size: Large
@@ -251,10 +251,10 @@
     price: 420
 
 - type: entity
-  name: practice laser carbine
+  name: 練習用雷射卡賓槍
   parent: [WeaponLaserCarbine, BaseGunWieldable]
   id: WeaponLaserCarbinePractice
-  description: This modified laser carbine fires nearly harmless beams in the 40-watt range, for target practice.
+  description: 這把經過改裝的雷射卡賓槍會發射功率約為 40 瓦、幾乎無害的光束，用於靶場射擊練習。
   components:
   - type: StaticPrice
     price: 300
@@ -265,10 +265,10 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: pulse pistol
+  name: 脈衝手槍
   parent: [BaseWeaponBatterySmall, BaseC2ContrabandUnredeemable] # Frontier: BaseCentcommContraband>BaseC2ContrabandUnredeemable
   id: WeaponPulsePistol
-  description: A state of the art energy pistol favoured as a sidearm by the NT operatives. On the handle is a label that says 'for authorized use only.'
+  description: 一款最先進的能量手槍，是 NT 行動人員偏好的配槍。槍柄上貼有標籤，寫著「僅限授權人員使用」。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Battery/pulse_pistol.rsi
@@ -302,10 +302,10 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: pulse carbine
+  name: 脈衝卡賓槍
   parent: [BaseWeaponBattery, BaseGunWieldable, BaseC2ContrabandUnredeemable] # Frontier: added BaseC2ContrabandUnredeemable
   id: WeaponPulseCarbine
-  description: A high tech energy carbine favoured by the NT-ERT operatives. On the handle is a label that says 'for authorized use only.'
+  description: 一款深受 NT-ERT 行動隊員青睞的高科技能量卡賓槍。握把上貼有標籤，寫著「僅限授權人員使用」。
   components:
   - type: Item
     size: Large
@@ -341,10 +341,10 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: pulse rifle
+  name: 脈衝步槍
   parent: [BaseWeaponBattery, BaseGunWieldable, BaseC2ContrabandUnredeemable] # Frontier: BaseCentcommContraband>BaseC2ContrabandUnredeemable
   id: WeaponPulseRifle
-  description: A weapon that is almost as infamous as its users. On the handle is a label that says 'for authorized use only.'
+  description: 這是一件名聲幾乎與其使用者同樣惡名昭彰的武器。握把上貼著一張標籤，寫著「僅限授權人員使用」。
   components:
   - type: Item
     size: Huge
@@ -378,10 +378,10 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: laser cannon
+  name: 雷射砲
   parent: [BaseWeaponBattery, BaseGunWieldable, BaseC2ContrabandUnredeemable] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: WeaponLaserCannon
-  description: A heavy duty, high powered laser weapon. On the handle is a label that says 'for authorized use only.' # Frontier: added label sentence
+  description: 一款重型、高功率的雷射武器。握把上貼有標籤，寫著「僅限授權人員使用」。 # Frontier: added label sentence
   components:
   - type: Item
     size: Huge
@@ -414,10 +414,10 @@
     - TurretCompatibleWeapon
 
 - type: entity
-  name: portable particle decelerator
+  name: 便攜式粒子減速器
   parent: BaseWeaponBattery # Frontier: removed BaseEngineeringContraband
   id: WeaponParticleDecelerator
-  description: A portable particle decelerator capable of decomposing a tesla or singularity. On the handle is a label that says 'for authorized use only.' # Frontier: added label sentence
+  description: 一款便攜式粒子減速器，能夠分解泰斯拉或奇點。手柄上貼有標籤，寫著「僅限授權人員使用」。 # Frontier: added label sentence
   components:
     - type: Item
       size: Ginormous
@@ -446,10 +446,10 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: x-ray cannon
+  name: X光砲
   parent: [BaseWeaponBattery, BaseGunWieldable, BaseC3Contraband] # Frontier: BaseSecurityContraband<BaseC3Contraband
   id: WeaponXrayCannon
-  description: An illegal and experimental weapon that uses concentrated x-ray energy against its target.
+  description: 一種非法且處於實驗階段的武器，其運作原理是利用高強度X射線能量攻擊目標。
   components:
   - type: Item
     size: Huge
@@ -481,10 +481,10 @@
     startingCharge: 4000
 
 - type: entity
-  name: practice disabler
+  name: 練習禁用器
   parent: BaseWeaponBatterySmall
   id: WeaponDisablerPractice
-  description: A self-defense weapon that exhausts organic targets, weakening them until they collapse. This one has been undertuned for cadets making it mostly harmless.
+  description: 一種能耗盡有機目標體能的自衛武器，使其逐漸虛弱直至倒下。這把武器已針對學員進行了調低威力，因此基本上無害。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Battery/practice_disabler.rsi
@@ -523,10 +523,10 @@
   - type: PacifismAllowedGun
 
 - type: entity
-  name: disabler
+  name: 停用器
   parent: [ WeaponDisablerPractice, BaseC1Contraband ] # Frontier: BaseSecurityCommandContraband<BaseC1Contraband
   id: WeaponDisabler
-  description: A civilian grade self-defense weapon that exhausts organic targets, weakening them until they collapse.
+  description: 一款民用級自衛武器，能耗盡有機目標的能量，使其逐漸虛弱直至倒下。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Battery/disabler.rsi
@@ -552,10 +552,10 @@
   - type: PacifismAllowedGun
 
 - type: entity
-  name: disabler SMG
+  name: '「禁用者」衝鋒槍'
   parent: [ BaseWeaponBattery, BaseC2ContrabandUnredeemable ] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: WeaponDisablerSMG
-  description: Advanced weapon that exhausts organic targets, weakening them until they collapse. On the handle is a label that says 'for authorized use only.'
+  description: 一種能耗盡有機目標體力的先進武器，使其逐漸虛弱直至崩潰。握把上貼有標籤，寫著「僅限授權人員使用」。
   components:
   - type: Item
     size: Large
@@ -596,7 +596,7 @@
   name: taser
   parent: [ BaseWeaponBatterySmall, BaseC2ContrabandUnredeemable ] # Frontier: BaseSecurityContraband<BaseC2ContrabandUnredeemable
   id: WeaponTaser
-  description: A low-capacity, energy-based stun gun used by security teams to subdue targets at close range. On the handle is a label that says 'for authorized use only.'
+  description: 一款低電量、以能量為基礎的電擊槍，供安保團隊在近距離制服目標時使用。手柄上貼有標籤，寫著「僅限授權人員使用」。
   components:
   - type: Tag
     tags:
@@ -629,11 +629,11 @@
   - type: Appearance
 
 - type: entity
-  name: elite taser
+  name: 精英電擊槍
   parent: WeaponTaser # Frontier: Remove BaseCentcommContraband (already C2Unredeemable from parent)
   id: WeaponTaserSuper
   suffix: ADMEME
-  description: A low-capacity, energy-based stun gun used by elite security teams to disable even the toughest of targets.
+  description: 一款低容量、以能量為動力的電擊槍，由精銳安保團隊使用，甚至能讓最頑強的目標失去行動能力。
   components:
   - type: Gun
     fireRate: 0.5
@@ -650,7 +650,7 @@
   name: antique laser pistol
   parent: [BaseWeaponBatterySmall, BaseC1Contraband] # Frontier: BaseGrandTheftContraband<BaseC1Contraband
   id: WeaponAntiqueLaser
-  description: This is an antique laser pistol. All craftsmanship is of the highest quality. It is decorated with a mahogany grip and chrome filigree. The object menaces with spikes of energy. On the item is an image of a captain and a clown. The clown is dead. The captain is striking a heroic pose.
+  description: 這是一把古董雷射手槍。所有工藝皆屬頂級品質。槍柄採用桃花心木製成，並飾有鍍鉻花絲紋飾。這件物品會射出能量尖刺，散發出威脅感。物品上刻有一名船長與一名小丑的圖案。小丑已死，船長則擺出英姿颯爽的姿勢。
   components:
   - type: Item
     size: Normal
@@ -696,10 +696,10 @@
 
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
-  name: advanced laser pistol
+  name: 先進雷射手槍
   parent: [ BaseWeaponBatterySmall, BaseC1Contraband ] # Frontier: BaseSecurityContraband<BaseC1Contraband
   id: WeaponAdvancedLaser
-  description: An experimental civilian grade high-energy laser pistol with a self-charging nuclear battery.
+  description: 一款配備自充電核能電池的實驗性民用級高能雷射手槍。
   components:
   - type: Item
     size: Normal
@@ -733,10 +733,10 @@
     price: 63
 
 - type: entity
-  name: C.H.I.M.P. handcannon
+  name: C.H.I.M.P. 手銃
   parent: [BaseWeaponBatterySmall, BaseC1Contraband] # Frontier: BaseScienceContraband<BaseC1Contraband
   id: WeaponPistolCHIMP
-  description: Just because it's a little C.H.I.M.P. doesn't mean it can't punch like an A.P.E.
+  description: 只因為它是隻小「C.H.I.M.P.」，不代表它就無法像「A.P.E.」那樣出拳。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Revolvers/chimp.rsi
@@ -783,10 +783,10 @@
     price: 100
 
 - type: entity
-  name: experimental C.H.I.M.P. handcannon
+  name: 實驗性 C.H.I.M.P. 手炮
   parent: [BaseC3SyndicateContraband, WeaponPistolCHIMP] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
   id: WeaponPistolCHIMPUpgraded
-  description: This C.H.I.M.P. seems to have a greater punch than usual...
+  description: 這款 C.H.I.M.P. 的威力似乎比平常更強……
   components:
   - type: BatteryWeaponFireModes
     # Frontier: moved to NF variants
@@ -804,10 +804,10 @@
     # Frontier: moved to NF variants
 
 - type: entity
-  name: eye of a behonker
+  name: 巨獸之眼
   parent: [BaseWeaponBatterySmall, BaseC3Contraband] # Frontier: added BaseC3Contraband
   id: WeaponBehonkerLaser
-  description: The eye of a behonker, it fires a laser when squeezed. An illegal weapon often used by the cult of the Honkmother.
+  description: 這是「貝洪克」的眼睛，一被捏緊就會射出雷射。這是一種常被「洪克之母」教派使用的非法武器。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Battery/behonker_eye.rsi
@@ -885,10 +885,10 @@
     autoRechargePauseTime: 30
 
 - type: entity
-  name: temperature gun
+  name: 測溫槍
   parent: [BaseWeaponBattery, BaseGunWieldable, BaseC2Contraband] # Frontier: BaseSecurityContraband<BaseC2Contraband
   id: WeaponTemperatureGun
-  description: An advanced gun that shoots body-temperature-changing beams. This probably constitutes as some kind of war crime.
+  description: 一種能射出可改變體溫光束的先進武器。這恐怕已構成某種戰爭罪行。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Battery/temp_gun.rsi
@@ -929,12 +929,12 @@
     price: 100
 
 - type: entity
-  name: xenoborg laser gun
+  name: 外星博格雷射槍
   parent: [WeaponAdvancedLaser, BaseXenoborgContraband]
   id: XenoborgLaserGun
 
 - type: entity
-  name: xenoborg heavy laser gun
+  name: 外星博格重型雷射槍
   parent: [WeaponAdvancedLaser, BaseXenoborgContraband]
   id: XenoborgHeavyLaserGun
   components:

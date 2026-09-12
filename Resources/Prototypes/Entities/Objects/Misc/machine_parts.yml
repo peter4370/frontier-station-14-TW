@@ -1,6 +1,6 @@
 ﻿- type: entity
   id: BaseStockPart
-  name: stock part
+  name: 現貨零件
   parent: [BaseItem, RecyclableItemDeviceTiny] # Frontier: added RecyclableItemDeviceTiny
   description: What?
   abstract: true
@@ -21,9 +21,9 @@
 
 - type: entity
   id: MicroManipulatorStockPart
-  name: basic manipulator # Frontier: modular machine part<basic manipulator
+  name: 基本操作器 # Frontier: modular machine part<basic manipulator
   parent: BaseStockPart
-  description: A basic manipulator used in the construction of a variety of devices. # Frontier:
+  description: 一種用於製造各類裝置的基本操作裝置。 # Frontier:
   suffix: Rating 1, Single # Frontier: Single
   components:
     - type: Sprite

@@ -1,5 +1,6 @@
+
 <Document>
-  # HONKER-CLASS CLOWN SHUTTLE
+  # 霍克級小丑穿梭機
   <Box>
   <GuideEntityEmbed Entity="VendingMachineTheater"/>
   <GuideEntityEmbed Entity="StatueBananiumClown"/>
@@ -8,29 +9,29 @@
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapHonker" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻尺寸：[/color] 小型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-2
+  [color=#a4885c]建議乘員人數：[/color] 1-2 人
 
-  [color=#a4885c]Power Gen Type:[/color] Plasma
+  [color=#a4885c]發電類型：[/color] 等離子體
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "HONK HONK HONK HONK HONK HONK"
+  「噗噗噗噗噗噗」
 
-  # Ship Functions
+  # 飛船功能
 
-  # Piloting
+  # 駕駛
 
-  [textlink="Piloting" link="Piloting"/]
+  [textlink="駕駛" link="駕駛"/]
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="星區拓撲" link="SectorTopology"/]
 
-  # Hiring crew
+  # 招募船員
 
-  [textlink="Hiring" link="Hiring"/]
+  [textlink="招募" link="招募"/]
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  身為納諾特拉森（Nanotrasen）船隻的船長，你有權隨意僱用、解僱、降職或晉升船員。
 
   # PREFLIGHT CHECKLIST
 

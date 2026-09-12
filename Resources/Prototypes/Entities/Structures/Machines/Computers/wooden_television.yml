@@ -1,8 +1,8 @@
 - type: entity
   parent: ComputerSurveillanceWirelessCameraMonitor
   id: ComputerTelevision
-  name: wooden television
-  description: Finally, some decent reception around here...
+  name: 木製電視機
+  description: 總算在這附近有像樣的訊號了……
   components:
   - type: Sprite
     noRot: true

@@ -1,5 +1,6 @@
+
 <Document>
-# CALADRIUS-CLASS HOSPITAL SHUTTLE
+# 卡拉德里斯級醫院接駁船
 <Box>
   <GuideEntityEmbed Entity="BannerMedical" Caption="Restore"/>
   <GuideEntityEmbed Entity="NFPosterContrabandFsbLogo" Caption="Research"/>
@@ -8,15 +9,15 @@
 <Box>
 <GuideEntityEmbed Entity="ShuttleMapCaladrius" Caption=""/>
 </Box>
-[color=#a4885c]Ship Size:[/color] Large - Carrier
+[color=#a4885c]船隻尺寸：[/color] 大型 - 航母
 
-[color=#a4885c]Recommended Crew:[/color] 4-10
+[color=#a4885c]建議船員人數：[/color] 4-10 人
 
-[color=#a4885c]Power Gen Type:[/color] Bananium
+[color=#a4885c]動力產生類型：[/color] 巴納尼ウム
 
-# Shuttle Brief
+# 穿梭機簡介
 
-"The Caladrius is the Far Star Corporations's premier expeditionary medical carrier. Designed for large scale colonization support, humanitarian relief, post-disaster investigation and recovery operations."
+「卡拉德里烏斯號是遠星集團首屈一指的遠征醫療運輸艦。 「專為支援大規模殖民、人道救援、災後調查及復原行動而設計。」
 
 # Ship Functions
 
@@ -26,17 +27,17 @@
   <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Actuate Shutters"/>
 </Box>
 
-# Medical
+# 醫學
 
-[textlink="Medicine" link="Medical Doctor"/]
+[textlink="醫學" link="醫師"/]
 
-[textlink="Chemistry" link="Chemist"/]
+[textlink="化學" link="化學家"/]
 
-[textlink="Chemicals" link="Chemicals"/]
+[textlink="化學品" link="化學品"/]
 
-[textlink="Cryogenics" link="Cryogenics"/]
+[textlink="極低溫技術" link="極低溫技術"/]
 
-# CALADRIUS STAFFING
+# CALADRIUS 人力資源
 
 <Box>
 <GuideEntityEmbed Entity="RandomHumanoidVisitorCMO" Caption=""/>
@@ -60,15 +61,15 @@
   <GuideEntityEmbed Entity="RandomHumanoidVisitorChaplain" Caption=""/>
 </Box>
 
-# PREFLIGHT CHECKLIST
+# 起飛前檢查清單
 
-Thruster Power Systems
+推進器動力系統
 <Box>
  <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Toggle Thruster Power"/>
 </Box>
 
-- Adjacent to the power monitoring station in the primary power nacelle are the controls to toggle thruster power.
-- Engineers are advised to power down thrusters for maintenance or by commander directive.
+- 在主動力艙內的動力監測站旁邊，設有用於切換推進器動力的控制裝置。
+- 建議工程師在進行維護時，或根據指揮官的指示，關閉推進器。
 
 # Piloting
 
@@ -82,11 +83,11 @@ Thruster Power Systems
 
 As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
 
-# PREFLIGHT CHECKLIST
+# 起飛前檢查清單
 
-[textlink="Preflight Checklist" link="PreflightChecklist"/]
+[textlink="起飛前檢查清單" link="PreflightChecklist"/]
 
-- To utilize the Caladrius waste gas capture system the outboard pump must be deactivated and gasses routed into appropriate capture systems.
-- This system is best maintained by a trained atmospherics technician.
+- 若要使用 Caladrius 廢氣回收系統，必須停用外置泵，並將氣體導向適當的回收系統。
+- 此系統最好由受過專業訓練的大氣環境技術人員進行維護。
 
 </Document>

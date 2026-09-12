@@ -1,5 +1,5 @@
 - type: entity
-  name: BaseWeaponLauncher
+  name: 基礎武器發射器
   parent: BaseItem
   id: BaseWeaponLauncher
   description: A rooty tooty point and shooty.
@@ -22,10 +22,10 @@
 
 - type: entity
   abstract: true # Frontier: use NF variant
-  name: china lake
+  name: 中國湖
   parent: [BaseWeaponLauncher, BaseGunWieldable, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3Contraband
   id: WeaponLauncherChinaLake
-  description: PLOOP.
+  description: 噗噗。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Launchers/china_lake.rsi
@@ -65,8 +65,8 @@
   abstract: true # Frontier: create NF variant if we want this
   parent: [ BaseWeaponLauncher, BaseGunWieldable, BaseC3Contraband ] # Frontier: BaseMajorContraband<BaseC3SyndicateContraband
   id: WeaponLauncherHydra
-  name: hydra
-  description: PLOOP... FSSSSSS
+  name: 九頭蛇
+  description: 噗噗……嘶——
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Launchers/hydra_launcher.rsi
@@ -110,7 +110,7 @@
   name: RPG-7
   parent: [ BaseWeaponLauncher, BaseC3Contraband ] # Frontier: BaseMajorContraband<BaseC3Contraband
   id: WeaponLauncherRocket
-  description: A modified ancient rocket-propelled grenade launcher.
+  description: 一款經過改裝的古早型火箭推進榴彈發射器。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Launchers/rocket.rsi
@@ -141,7 +141,7 @@
 
 - type: entity
   abstract: true # Frontier: use NF variant
-  name: multiple rocket launcher
+  name: 多管火箭發射器
   parent: BaseWeaponLauncher
   id: WeaponLauncherMultipleRocket
   description: A modified ancient rocket-propelled grenade launcher.
@@ -177,7 +177,7 @@
 
 - type: entity
   abstract: true # Frontier: use NF variant
-  name: pirate cannon
+  name: 海盜大砲
   parent: [BaseWeaponLauncher]
   id: WeaponLauncherPirateCannon
   description: Kaboom!
@@ -209,12 +209,12 @@
         path: /Audio/Weapons/Guns/Gunshots/grenade_launcher.ogg
 
 - type: entity
-  name: tether gun
+  name: 繫繩槍
   parent:
   - BaseItem
   - PowerCellSlotMediumItem
   id: WeaponTetherGun
-  description: Manipulates gravity around objects to fling them at high velocities.
+  description: 操控物體周圍的重力，使其以極高速度被彈射出去。
   components:
     - type: Item
       size: Normal
@@ -251,7 +251,7 @@
             False: { visible: false }
 
 - type: entity
-  name: force gun
+  name: 強力槍
   parent:
     - BaseItem
     - PowerCellSlotMediumItem
@@ -299,7 +299,7 @@
                 False: { visible: false }
 
 - type: entity
-  name: grappling gun
+  name: 抓鉤槍
   parent: BaseItem
   id: WeaponGrapplingGun
   components:
@@ -426,11 +426,11 @@
             False: { visible: false }
 
 - type: entity
-  name: meteor launcher
+  name: 流星發射器
   parent: WeaponLauncherMultipleRocket
   id: WeaponLauncherAdmemeMeteorLarge
   suffix: Admeme
-  description: It fires large meteors.
+  description: 它會發射大型隕石。
   components:
   - type: BallisticAmmoProvider
     whitelist:
@@ -439,11 +439,11 @@
     proto: MeteorMedium
 
 - type: entity
-  name: immovable rod launcher
+  name: 固定式彈桿發射器
   parent: WeaponLauncherAdmemeMeteorLarge
   id: WeaponLauncherAdmemeImmovableRodSlow
   suffix: Admeme
-  description: It fires slow immovable rods.
+  description: 它會發射緩慢且無法移動的長棒。
   components:
   - type: BallisticAmmoProvider
     whitelist:

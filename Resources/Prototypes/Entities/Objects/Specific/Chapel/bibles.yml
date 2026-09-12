@@ -1,6 +1,6 @@
 - type: entity
   name: bible
-  description: New Interstellar Version 2340.
+  description: 全新《星際穿越》第 2340 版。
   parent: BaseStorageItem
   id: Bible
   components:
@@ -57,8 +57,8 @@
 
 - type: entity
   parent: [Bible, BaseC3SyndicateContraband] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
-  name: necronomicon
-  description: "There's a note: Klatuu, Verata, Nikto -- Don't forget it again!"
+  name: '《死靈之書》'
+  description: "有一則備註：克拉圖、維拉塔、尼克托——別再忘記了！"
   id: BibleNecronomicon
   components:
   - type: Bible
@@ -97,8 +97,8 @@
 
 - type: entity
   parent: Bible
-  name: tanakh
-  description: "For God's chosen crewmembers"
+  name: 塔納赫
+  description: "獻給上帝揀選的船員們"
   id: BibleTanakh
   components:
   - type: Sprite
@@ -108,8 +108,8 @@
 
 - type: entity
   parent: Bible
-  name: druidic tablet
-  description: "It's the mystery of the druids!"
+  name: 德魯伊石板
+  description: "這就是德魯伊的謎團！"
   id: BibleDruid
   components:
   - type: Sprite
@@ -119,8 +119,8 @@
 
 - type: entity
   parent: Bible
-  name: communist manifesto
-  description: "Remove the mask of humanity from Capital."
+  name: '《共產黨宣言》'
+  description: "撕下資本主義那張「人性」的面具。"
   id: BibleCommunistManifesto
   components:
   - type: Sprite
@@ -130,8 +130,8 @@
 
 - type: entity
   parent: Bible
-  name: satanic bible
-  description: "What could possibly go wrong?"
+  name: '《撒旦聖經》'
+  description: "到底會出什麼問題呢？"
   id: BibleSatanic
   components:
   - type: Sprite
@@ -141,8 +141,8 @@
 
 - type: entity
   parent: Bible
-  name: codex nanotrasimus
-  description: "A familiar book containing the Sacred Operating Procedures."
+  name: '《納諾特拉西穆斯法典》'
+  description: "一本載有《神聖操作程序》的熟悉書籍。"
   id: BibleNanoTrasen
   components:
   - type: Sprite

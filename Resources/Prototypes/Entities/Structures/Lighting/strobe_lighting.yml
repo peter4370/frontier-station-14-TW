@@ -1,7 +1,7 @@
 - type: entity
   id: AlwaysPoweredStrobeLight
-  name: strobe
-  description: "UH?! Sorry, all I can hear is WEE-OOO-WEE-OOO!"
+  name: 閃光燈
+  description: "咦？！抱歉，我只聽到「嗚——嗚——嗚——嗚——」！"
   suffix: Always powered
   components:
   - type: AmbientSound

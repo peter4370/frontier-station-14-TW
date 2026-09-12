@@ -5,8 +5,8 @@
 - type: entity
   parent: DrinkBaseCup
   id: DrinkVisualizerTestCut
-  name: solution container vis cut-out
-  description: A stainless steel insulated pitcher. Everyone's best friend in the morning.
+  name: 溶液容器（帶鏤空設計）
+  description: 一款不鏽鋼保溫壺。每個人早晨的最佳夥伴。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -33,7 +33,7 @@
 - type: entity
   parent: DrinkBaseCup
   id: DrinkVisualizerTestNot
-  name: solution container vis cut-not
+  name: 溶液容器 透明切割樣本
   description: A stainless steel insulated pitcher. Everyone's best friend in the morning.
   components:
   - type: SolutionContainerManager

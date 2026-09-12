@@ -1,140 +1,141 @@
-<Document>
-  # Mercenaries
-  
-  A mercenary, merc, soldier of fortune, hired gun, dog of war. An [italic]arguably[/italic] professional soldier whose loyalty can be bought: they will carry out any task as long as the pay is good. Mercenaries are often favored by many corporations as deniable assets for covert operations.
 
-  The mercenaries you'll encounter were paid by unknown outside corporations, and are targeted for termination.
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Known Variants
-  # "Mercenary soldiers"
-  
-  Low-ranking soldiers armed with a variety of surplus weapons.
-  
+<Document>
+  # 傭兵
+
+  傭兵、傭兵、冒險家、受僱殺手、戰場走狗。 一位[斜體]可謂[/斜體]的職業軍人，其忠誠是可以被收買的：只要報酬豐厚，他們便會執行任何任務。 傭兵往往受到許多企業青睞，作為執行秘密行動時可否認的資源。
+
+  你將遭遇的傭兵是由身份不明的外部企業所僱用，且已被列為清除目標。
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 已知變體
+  # 「傭兵」
+
+  配備各種剩餘武器的低階士兵。
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySoldierKnife" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Slash[/color], 2 [color=yellow]Piercing[/color] (hatchet)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（致命），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 8 [color=red]劈砍[/color]、2 [color=yellow]穿刺[/color]（斧頭）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 及 [color=yellow]穿刺[/color] 25%；[color=orange]灼熱[/color] 20%； [color=orange]腐蝕[/color] 10%
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
+  [bold][color=#a4885c]*[/color][/粗體] - [斜體]一般人類的奔跑速度為 4.5 公尺/秒，步行速度為 2.5 公尺/秒。[/斜體]
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySoldierPistol" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=yellow]Piercing[/color] (.35 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (mk58)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（致命），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 16 [color=yellow]穿刺[/color]（0.35 發）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 及 [color=yellow]穿刺[/color] 25%；[color=orange]熱能[/color] 20%； [color=orange]腐蝕[/color] 10%
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手 (mk58)
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySoldierNovalite" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 17 [color=yellow]Piercing[/color] (.20 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (Novalite C1)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（致命傷）、130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 17 [color=yellow]穿透[/color]（.20 子彈）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 以及 [color=yellow]穿刺[/color] 25%； [color=orange]熱能[/color] 20%； [color=orange]蝕性[/color] 10%
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（Novalite C1）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Mercenary breachers"
-  
-  Shock troopers that specialize in using the element of surprise and swift, aggressive action to achieve their objectives.
-  
+
+  # 「傭兵突擊隊」
+
+  這是一支衝鋒隊，專精於利用出其不意的優勢，以及迅捷、兇猛的行動來達成目標。
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenaryBreacherMachete" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)[bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 15 [color=red]Slash[/color] (machete)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（致命），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒 (2.5 公尺/秒)[bold]
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 15 [color=red]劈砍[/color]（砍刀）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 及 [color=yellow]穿刺[/color] 25%；[color=orange]灼熱[/color] 20%； [color=orange]腐蝕[/color] 10%
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySoldierRevolver" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 17 [color=yellow]Piercing[/color] (.20 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (double Argenti revolvers)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 17 [color=yellow]穿透[/color]（.20 子彈）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 以及 [color=yellow]穿透[/color] 25%； [color=orange]熱能[/color] 20%； [color=orange]腐蝕[/color] 10%
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（雙管阿根蒂左輪手槍）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenaryBreacherShotgun" Caption=""/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10 [color=yellow]Piercing[/color] (shotgun cartridge)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (shotgun)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（致命傷），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 m/s (2.5 m/s)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 10 [color=yellow]穿透[/color]（霰彈槍彈藥）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]切割[/color] 以及 [color=yellow]穿透[/color] 25%； [color=orange]高溫[/color] 20%； [color=orange]腐蝕[/color] 10%
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（霰彈槍）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Mercenary specialists"
-  
-  Experienced mercenaries, specialists are practised and proficient in combat or support roles, possibly both.
-  
+
+  # 「傭兵專家」
+
+  身為經驗豐富的傭兵，專家們在戰鬥或支援角色方面皆嫻熟且精通，甚至可能兩者兼備。
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySpecialistMedic"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 14 [color=orange]Heat[/color] (retro laser pistol); 5 [color=red]Blunt[/color], 5 [color=red]Slash[/color], 5 [color=yellow]Piercing[/color] (circular saw)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (retro laser pistol)
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 100（危急），130（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/粗體] 4.5 公尺/秒 (2.5 公尺/秒)
+  - [粗體][顏色=#a4885c]傷害（類型）：[/顏色][/粗體] 14 [顏色=橘色]熱能[/顏色]（復古雷射手槍）； 5 [color=red]鈍擊[/color]、5 [color=red]斬擊[/color]、5 [color=yellow]穿刺[/color]（圓鋸）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]切割[/color] 及 [color=yellow]穿刺[/color] 25%； [color=orange]熱能[/color] 20%； [color=orange]腐蝕[/color] 10%
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（復古雷射手槍）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenarySpecialistAssault"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 15 [color=yellow]Piercing[/color] (.30 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (Gestio)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 15 [color=yellow]穿透性[/color]（.30 口徑子彈）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 以及 [color=yellow]穿刺[/color] 25%； [color=orange]熱能[/color] 20%； [color=orange]腐蝕[/color] 10%
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（Gestio）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Mercenary captain"
-  
-  The leaders of these bands of brigands, a mercenary captain is both cruel and lethally effective. Exercise caution.
-  
+
+  # 「傭兵隊長」
+
+  作為這些匪幫的首領，傭兵隊長既殘忍又致命。 請謹慎行事。
+
   <Box>
   <GuideEntityEmbed Entity="MobMercenaryCaptain"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 35 [color=yellow]Piercing[/color] (.45 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 25%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (N2524 pattern repeater)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 m/s（2.5 m/s）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 35 [color=yellow]穿透[/color]（.45 子彈）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]切割[/color] 以及 [color=yellow]穿透[/color] 25%； [color=orange]熱[/color] 20%； [color=orange]腐蝕[/color] 10%
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（N2524型連發槍）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Mission Objectives
-  ## Elimination
+
+  # 任務目標
+  ## 消滅
   <Box>
   <GuideEntityEmbed Entity="MobMercenaryCaptain"/>
   </Box>
-  Eliminate a large and dangerous creature - a [color=#a4885c]mercenary captain[/color] within given time constraints.
-  
+  在指定的時間限制內，消滅一隻體型龐大且危險的生物——一名 [color=#a4885c]傭兵隊長[/color]。
+
   ## Destruction
   <Box>
   <GuideEntityEmbed Entity="MercenaryCounterfeitCache"/>
   </Box>
-  Destroy a certain number of [color=#a4885c]counterfeit caches[/color] within given time constraints.
+  在指定的時間限制內，摧毀一定數量的 [color=#a4885c]偽造藏點[/color]。
 </Document>

@@ -1,86 +1,58 @@
-ent-ComputerAlert = atmospheric alerts computer
+ent-ComputerAlert = 大氣警報電腦
+    .desc = 用於存取當地的大氣自動警報系統。
+ent-ComputerTabletopAlert = 大氣警報電腦
     .desc = Used to access the local atmospheric automated alert system.
-
-ent-ComputerTabletopAlert = atmospheric alerts computer
-    .desc = Used to access the local atmospheric automated alert system.
-
-ent-ComputerAtmosMonitoring = atmospheric network monitor
-    .desc = Used to monitor the local atmospheric networks.
-
-ent-ComputerPowerMonitoring = power monitoring computer
+ent-ComputerAtmosMonitoring = 大氣監測網絡
+    .desc = 用於監測當地的大氣觀測網路。
+ent-ComputerPowerMonitoring = 電力監控電腦
+    .desc = 它會監測整個電力網路中的電功率水準。
+ent-ComputerTabletopPowerMonitoring = 電力監控電腦
     .desc = It monitors power levels across the power network.
-
-ent-ComputerTabletopPowerMonitoring = power monitoring computer
-    .desc = It monitors power levels across the power network.
-
-ent-ComputerCriminalRecords = criminal records computer
+ent-ComputerCriminalRecords = 犯罪紀錄資料庫
+    .desc = 此功能可用於查核犯罪紀錄。僅有經授權的人員方可修改相關資料。
+ent-ComputerTabletopCriminalRecords = 犯罪紀錄資料庫
     .desc = This can be used to check criminal records. Only authorized personnel can modify them.
-
-ent-ComputerTabletopCriminalRecords = criminal records computer
-    .desc = This can be used to check criminal records. Only authorized personnel can modify them.
-
-ent-ComputerStationRecords = records computer
-    .desc = This can be used to check station or ship records.
-
+ent-ComputerStationRecords = 記錄電腦
+    .desc = 這可用於查閱車站或船隻的紀錄。
 ent-ComputerTabletopStationRecords = records computer
     .desc = This can be used to check station or ship records.
-
 ent-ComputerWallmountStationRecords = records computer
     .desc = This can be used to check station or ship records.
-
-ent-ComputerCrewMonitoring = crew monitoring console
+ent-ComputerCrewMonitoring = 機組人員監控主控台
+    .desc = 用於監控該領域多數制服中內建的主動式健康感測器。
+ent-ComputerTabletopCrewMonitoring = 機組人員監控主控台
     .desc = Used to monitor active health sensors built into most of the uniforms in the sector.
-
-ent-ComputerTabletopCrewMonitoring = crew monitoring console
+ent-ComputerWallmountCrewMonitoring = 機組人員監控主控台
     .desc = Used to monitor active health sensors built into most of the uniforms in the sector.
-
-ent-ComputerWallmountCrewMonitoring = crew monitoring console
-    .desc = Used to monitor active health sensors built into most of the uniforms in the sector.
-
-ent-ComputerId = ID card computer
+ent-ComputerId = 身分證電腦
+    .desc = 用於編程 Nanotrasen 身分證，以便進入船舶或車站特定區域的終端機。
+ent-ComputerTabletopId = 身分證電腦
     .desc = Terminal for programming Nanotrasen ID cards to access parts of ships or the stations.
-
-ent-ComputerTabletopId = ID card computer
-    .desc = Terminal for programming Nanotrasen ID cards to access parts of ships or the stations.
-
-ent-ComputerComms = communications computer
+ent-ComputerComms = 通訊電腦
+    .desc = 一臺用於透過鍵盤發布全區公告或變更警報等級的電腦。
+ent-ComputerTabletopComms = 通訊電腦
     .desc = A computer used to make sectorwide announcements via keyboard or change the alert level.
-
-ent-ComputerTabletopComms = communications computer
+ent-MobileComputerTabletopComms = 通訊電腦
     .desc = A computer used to make sectorwide announcements via keyboard or change the alert level.
-
-ent-MobileComputerTabletopComms = communications computer
-    .desc = A computer used to make sectorwide announcements via keyboard or change the alert level.
-
-ent-SyndicateComputerComms = syndicate communications computer
+ent-SyndicateComputerComms = 集團通訊電腦
+    .desc = 一台能夠遠端入侵該區域通訊系統的電腦。若利用此功能發布公告，將會讓該區域察覺到你的存在。
+ent-SyndicateComputerTabletopComms = 集團通訊電腦
     .desc = A computer capable of remotely hacking into the communications systems of the sector. Using this to make an announcement will alert the sector to your presence.
-
-ent-SyndicateComputerTabletopComms = syndicate communications computer
-    .desc = A computer capable of remotely hacking into the communications systems of the sector. Using this to make an announcement will alert the sector to your presence.
-
-ent-WizardComputerComms = wizard communications computer
-    .desc = A computer capable of magically projecting your speech to the sector. Using this to make an announcement will alert the sector to your presence.
-
-ent-CentcommComputerComms = central command communications computer
-    .desc = A computer used to make sectorwide announcements via keyboard. The superior cousin of the regular communications computer.
-
-ent-ComputerCargoOrders = cargo request computer
+ent-WizardComputerComms = 巫師通訊電腦
+    .desc = 一台能夠神奇地將你的話語投射至該區域的電腦。若利用此功能發布公告，將會讓該區域的人們察覺到你的存在。
+ent-CentcommComputerComms = 中央指揮通訊電腦
+    .desc = 一種透過鍵盤發布全區公告的電腦。它是普通通訊電腦的進階版本。
+ent-ComputerCargoOrders = 貨物請求電腦
+    .desc = 用於向該部門以外的供應商採購物資。
+ent-ComputerTabletopCargoOrders = 貨運請求電腦
     .desc = Used to purchase supplies from outside the sector.
-
-ent-ComputerTabletopCargoOrders = cargo request computer
-    .desc = Used to purchase supplies from outside the sector.
-
-ent-ComputerSalvageExpedition = expedition console
-    .desc = Used to go on expeditions, if you're tough enough.
-
+ent-ComputerSalvageExpedition = 探險主控台
+    .desc = 以前常去探險，只要你夠硬朗的話。
 ent-ComputerTabletopSalvageExpedition = expedition console
     .desc = Used to go on expeditions, if you're tough enough.
-
 ent-ComputerSalvageExpeditionDebug = expedition console
     .desc = Used to go on expeditions, if you're tough enough.
-
-ent-ComputerRoboticsControl = robotics control console
-    .desc = Used to remotely monitor, disable, and destroy cyborgs.
-
-ent-StationAiUploadComputer = AI upload console
-    .desc = Used to update the laws of an AI.
+ent-ComputerRoboticsControl = 機器人控制台
+    .desc = 用於遠端監控、停用及摧毀半機械人。
+ent-StationAiUploadComputer = AI 上傳控制台
+    .desc = 用於更新人工智慧的法則。

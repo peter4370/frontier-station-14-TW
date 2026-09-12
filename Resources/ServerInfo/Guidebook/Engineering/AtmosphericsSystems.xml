@@ -1,9 +1,10 @@
-﻿<Document>
+﻿
+<Document>
   # Atmospherics Systems
-  Atmos has a wide variety of devices catered to moving, managing, and otherwise manipulating gas.
-  These devices often work together to maintain a safe, breathable atmosphere for the crew, or to achieve a common task.
+  Atmos 提供種類繁多的設備，專門用於輸送、管理及以其他方式處理氣體。
+  這些裝置通常會協同運作，以維持讓船員能夠安全呼吸的環境，或共同完成某項任務。
 
-  This section delves into the various systems that Atmos has at their disposal, how they interconnect, and how they are ideally used.
+  本節將深入探討 Atmos 所擁有的各項系統、它們之間的相互連結方式，以及如何最佳化運用這些系統。
 
 
   <Box>

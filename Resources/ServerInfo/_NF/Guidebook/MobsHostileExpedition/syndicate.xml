@@ -1,196 +1,197 @@
+
 <Document>
-  # Syndicate Naval Forces
-  
-  In the far-off Spinward Periphery, a coalition of corporate entities allied against NanoTrasen
-  In the expansive Spinward Periphery, a covert force known as the Spinward Syndicate came into existence a few decades ago, guided by Cybersun Industries. It is a diverse coalition of groups united in their determination to challenge the dominance of Nanotrasen. The Syndicate's United Naval (SUN) branch primarily consists of Gorlex Marauders and is responsible for undermining NanoTrasen's efforts in the Frontier Sector.
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Known Variants
-  # "Syndicate deckhand"
-  
-  Lowest ranking member of the Syndicate Naval Forces. Your regular "Johnny-on-the-spot" when it comes to menial tasks.
-  
+  # 辛迪加海軍
+
+  在遙遠的「向星方向邊疆」，一群企業實體結成聯盟，共同對抗納諾特拉森
+  在廣袤的「向星方向邊疆」，一支名為「向星方向辛迪加」的秘密勢力於數十年前在賽博森工業的引領下應運而生。 這是一個由各類團體組成的多元聯盟，他們團結一致，決心挑戰納諾特拉森的霸權。 「辛迪加」旗下的「聯合海軍」（SUN）分支主要由戈爾萊克斯掠奪者組成，負責破壞納諾特拉森在邊疆區的行動。
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 已知變體
+  # 「辛迪加水手」
+
+  辛迪加海軍中階級最低的成員。 一遇到瑣碎的雜務，他總是那個「總能及時出現」的得力助手。
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalDeckhandA"/>
   <GuideEntityEmbed Entity="MobSyndicateNavalDeckhandVoid"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=yellow]Piercing[/color] (.35 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 30%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%; [color=yellow]Explosion[/color] 10% (armor vest)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (Viper)
-  
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Syndicate engineer"
-  
-  On a shuttle, the engineer has the annoying job of making sure absolutely everything is running correctly. Syndicate shuttles are no different.
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（致命），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 16 [color=yellow]穿刺[/color]（0.35 發）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]切割[/color] 及 [color=yellow]穿刺[/color] 30%； [color=orange]熱[/color] 20%； [color=orange]腐蝕[/color] 10%； [color=yellow]爆炸[/color] 10%（防彈背心）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（蝮蛇）
+
+  [bold][color=#a4885c]*[/color][/bold] - [italic]一般人類的奔跑速度為 4.5 公尺/秒，步行速度為 2.5 公尺/秒。[/斜體]
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 「辛迪加工程師」
+
+  在穿梭機上，工程師有項令人頭疼的任務，就是必須確保所有設備都運作正常。 「辛迪加」的穿梭機也一樣。
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalEngineerA"/>
   <GuideEntityEmbed Entity="MobSyndicateNavalEngineerVoid"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10 [color=yellow]Piercing[/color] (shotgun cartridge)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 30%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%; [color=yellow]Explosion[/color] 10% (armor vest)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (Shotgun)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 10 [color=yellow]穿刺[/color]（霰彈槍彈藥）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 及 [color=yellow]穿刺[/color] 30%； [color=orange]熱[/color] 20%； [color=orange]腐蝕[/color] 10%； [color=yellow]爆炸[/color] 10%（防彈背心）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（霰彈槍）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Syndicate saboteur"
-  
-  Specialist trained in the art of sabotaging NT shuttles and facilities. Equipped with EMP rounds, take caution.
-  
+
+  # 「辛迪加破壞者」
+
+  專精於破壞 NT 穿梭機與設施的專家。 此武器配備電磁脈衝（EMP）彈藥，請務必謹慎。
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalSaboteurA"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 0; EMP rounds (discharges batteries)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 30%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%; [color=yellow]Explosion[/color] 10% (armor vest)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (Viper)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 0； 電磁脈衝彈（放電耗盡電池）
+  - [粗體][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 及 [color=yellow]穿刺[/color] 30%； [color=orange]熱[/color] 20%； [color=orange]腐蝕[/color] 10%； [color=yellow]爆炸[/color] 10%（防彈背心）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（Viper）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Syndicate medic"
-  
-  Medical specialist. Knows how to treat patients humanely and how to treat prisoners inhumanely. Uses darts laced with harmful chemicals - impedrezene or chloral hydrate.
-  
+
+  # 「辛迪加醫護兵」
+
+  醫療專家。 懂得如何人道地對待病人，也懂得如何不人道地對待囚犯。 使用摻有有害化學物質——因普雷嗪或氯醛水合物——的飛鏢。
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalMedicA"/>
   <GuideEntityEmbed Entity="MobSyndicateNavalMedicVoid"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 6 [color=yellow]Piercing[/color], 6 [color=lime]Poison[/color] (syndicate dart)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color] 20%; [color=red]Slash[/color] 15%; [color=yellow]Piercing[/color] 35%; [color=orange]Heat[/color] 15%; [color=orange]Caustic[/color] 25% (armored medical gown)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (syndicate dart)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 6 [color=yellow]穿刺[/color]、6 [color=lime]毒[/color]（黑手黨飛鏢）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color] 20%； [color=red]斬擊[/color] 15%； [color=yellow]穿刺[/color] 35%； [color=orange]熱[/color] 15%； [color=orange]腐蝕[/color] 25%（防彈醫用防護服）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（黑手黨飛鏢）
+
   <GuideReagentEmbed Reagent="Impedrezene"/>
   <GuideReagentEmbed Reagent="ChloralHydrate"/>
-  
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Syndicate operative"
-  
-  "Everything is a nail if you have a hammer." In this case, everything is a target because he has an SMG and an itchy trigger finger.
-  
+
+  # 「黑手黨特工」
+
+  「手裡有錘子，看什麼都像釘子。」 在這種情況下，一切都成了目標，因為他手持一支衝鋒槍，而且手指總是不由自主地想扣扳機。
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalOperatorA"/>
   <GuideEntityEmbed Entity="MobSyndicateNavalOperatorVoid"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=yellow]Piercing[/color] (.35 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color] and [color=red]Slash[/color] 10%; [color=yellow]Piercing[/color] 60%; [color=orange]Heat[/color] 10%; [color=yellow]Explosion[/color] 20% (bulletproof vest)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (SMG)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 16 [color=yellow]穿透[/color]（.35 口徑子彈）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color] 及 [color=red]斬擊[/color] 10%； [color=yellow]穿透[/color] 60%； [color=orange]熱能[/color] 10%； [color=yellow]爆炸[/color] 20%（防彈背心）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（衝鋒槍）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Syndicate grenadier"
-  
-  "Huh? Say it louder! I can't hear you!" Equipped with the infamous China Lake, grenadiers have immense destructive capability, and should be priority targets.
-  
+
+  # 「黑手黨榴彈兵」
+
+  「咦？」 說大聲一點！ 「我聽不到你說什麼！」 配備了臭名昭著的「中國湖」的榴彈兵擁有極其強大的破壞力，應列為優先打擊目標。
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalGrenadierA"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] Varied [color=yellow]Explosion[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 10%; [color=orange]Heat[/color] 25%; [color=yellow]Explosion[/color] 85% (syndicate bomb suit)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (China Lake)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/粗體] 多種 [color=yellow]爆炸[/color]
+  - [粗體][color=#a4885c]傷害抗性：[/color][/粗體] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 以及 [color=yellow]穿刺[/color] 10%； [color=orange]熱能[/color] 25%； [color=yellow]爆炸[/color] 85%（黑手黨防爆服）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（中國湖）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Syndicate chemwarrior"
-  
-  Carrying tanks filled with dangerous chemicals, chemwarriors attack their enemies with a noxious spray.
-  
+
+  # 「黑手黨化學戰士」
+
+  化學戰士攜帶裝滿危險化學品的儲罐，以有毒噴霧攻擊敵人。
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalChemwarriorA"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] varied
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (spray nozzle)
-  
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 100（危急），130（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/粗體] 4.5 公尺/秒（2.5 公尺/秒）
+  - [粗體][color=#a4885c]傷害（類型）：[/color][/粗體] 不定
+  - [粗體][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射擊者（噴嘴）
+
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalChemwarriorB"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] varied
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=yellow]Piercing[/color] 60%; [color=orange]Heat[/color] 40%; [color=yellow]Caustic[/color] 60% (syndicate bio suit)
-  - [bold][color=#a4885c]Damage weaknesses:[/color][/bold] [color=red]Slash[/color] 20%; [color=yellow]Explosion[/color] 40%
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (spray nozzle)
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Syndicate second officer"
-  
-  The captain's right hand is entrusted with relaying the captain's orders to the crew and ensuring they are carried out promptly. Carries a laser pistol for self-defense.
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 不定
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=yellow]穿透[/color] 60%； [color=orange]熱能[/color] 40%； [color=yellow]腐蝕[/color] 60%（辛迪加防護服）
+  - [bold][color=#a4885c]傷害弱點：[/color][/bold] [color=red]切割[/color] 20%； [color=yellow]爆炸[/color] 40%
+  - [bold][color=#a4885c]特殊能力：[/color][/粗體] 射擊手（噴嘴）
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 「辛迪加二副」
+
+  船長得力助手，負責將船長命令傳達給船員，並確保命令迅速執行。 隨身攜帶一把雷射手槍以供自衛。
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalSecondOfficerA"/>
   <GuideEntityEmbed Entity="MobSyndicateNavalSecondOfficerVoid"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 17 [color=orange]Heat[/color] (advanced laser pistol)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color] and [color=yellow]Piercing[/color] 30%; [color=orange]Heat[/color] 20%; [color=orange]Caustic[/color] 10%; [color=yellow]Explosion[/color] 10% (armor vest)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (advanced laser pistol)
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Syndicate captain"
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 17 [color=orange]熱能[/color]（進階雷射手槍）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color] 及 [color=yellow]穿刺[/color] 30%； [color=orange]熱能[/color] 20%； [color=orange]腐蝕[/color] 10%； [color=yellow]爆炸[/color] 10%（防彈背心）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（進階雷射手槍）
 
-  The executive officer in lieu of the commander, syndicate captains ensure operations onboard go smoothly. Equipped with a magnum revolver.
-  
+  [bold][color=#a4885c]________________________________________________________________________[/color]
+
+  # 「辛迪加隊長」
+
+  辛迪加隊長身為指揮官的代理，負責確保艦上運作順暢。 配備一把馬格南左輪手槍。
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalCaptainA"/>
   <GuideEntityEmbed Entity="MobSyndicateNavalCaptainVoid"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 35 [color=yellow]Piercing[/color] (.45 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color], [color=yellow]Piercing[/color] and [color=orange]Heat[/color] 30%;  [color=orange]Caustic[/color] 25%; [color=yellow]Explosion[/color] 10% (syndicate's armored coat)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (python revolver)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 35 [color=yellow]穿刺[/color]（.45 子彈）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color]、[color=yellow]穿刺[/color] 及 [color=orange]高溫[/color] 30%；  [color=orange]腐蝕[/color] 25%； [color=yellow]爆炸[/color] 10%（黑手黨防彈外套）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（蟒蛇左輪手槍）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Syndicate commander"
-  
-  A regional commander of Syndicate operations, this officer holds ultimate local command and responsibility. Armed with an assault rifle and heavily armored.
-  
+
+  # 「辛迪加指揮官」
+
+  身為辛迪加行動的區域指揮官，此名官員擁有當地最高指揮權及責任。 手持突擊步槍，並身穿重型防彈裝甲。
+
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalCommanderA"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (crit), 130 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 35 [color=yellow]Piercing[/color] (.30 round)
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] [color=red]Blunt[/color], [color=red]Slash[/color], [color=yellow]Piercing[/color] 40%; [color=orange]Heat[/color] 80%; [color=orange]Caustic[/color] 50%; [color=lime]Radiation[/color] 99%; [color=yellow]Explosion[/color] 80% (syndicate's elite hardsuit)
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] Shooter (akms)
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（危急），130（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（2.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 35 [color=yellow]穿透[/color]（.30 子彈）
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] [color=red]鈍擊[/color]、[color=red]斬擊[/color]、 [color=yellow]穿透[/color] 40%； [color=orange]高溫[/color] 80%； [color=orange]腐蝕[/color] 50%； [color=lime]輻射[/color] 99%； [color=yellow]爆炸[/color] 80%（黑手黨精銳重型戰甲）
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 射手（AKMS）
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Mission Objectives
-  ## Elimination
+
+  # 任務目標
+  ## 殲滅
   <Box>
   <GuideEntityEmbed Entity="MobSyndicateNavalCommanderA"/>
   </Box>
-  Eliminate a large and dangerous creature - a [color=#a4885c]syndicate commander[/color] within given time constraints.
-  
+  在指定的時間限制內，消滅一隻龐大且危險的生物——一名 [color=#a4885c]犯罪集團指揮官[/color]。
+
   ## Destruction
   <Box>
   <GuideEntityEmbed Entity="CybersunDataMiner"/>
   </Box>
-  Destroy a certain number of [color=#a4885c]cybersun data miners[/color] within given time constraints.
+  在指定的時間限制內，摧毀一定數量的 [color=#a4885c]網路太陽資料採集者[/color]。
 </Document>

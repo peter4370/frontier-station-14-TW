@@ -1,47 +1,37 @@
 # General
-ai-wire-snipped = One of your systems' wires has been cut at {$source}.
+ai-wire-snipped = 您的其中一個系統的電線在 { $source } 處遭人剪斷。
 wire-name-ai-vision-light = AIV
 wire-name-ai-act-light = AIA
-station-ai-takeover = AI takeover
-station-ai-eye-name = AI eye - {$name}
-
+station-ai-takeover = 人工智慧接管
+station-ai-eye-name = AI eye - { $name }
 # Radial actions
-ai-open = Open actions
-ai-close = Close actions
-
-bolt-close = Close bolt
-bolt-open = Open bolt
-
-emergency-access-on = Enable emergency access
-emergency-access-off = Disable emergency access
-
-electrify-door-on = Enable overcharge
-electrify-door-off = Disable overcharge
-
-toggle-light = Toggle light
-
-ai-device-not-responding = Device is not responding
-
-ai-consciousness-download-warning = Your consciousness is being downloaded.
-
+ai-open = 待處理事項
+ai-close = 關閉操作
+bolt-close = 關閉螺栓
+bolt-open = 開膛
+emergency-access-on = 啟用緊急存取
+emergency-access-off = 停用緊急存取
+electrify-door-on = 啟用過充功能
+electrify-door-off = 停用過充功能
+toggle-light = 開關燈
+ai-device-not-responding = 裝置沒有回應
+ai-consciousness-download-warning = 你的意識正在被下載。
 # UI
-station-ai-customization-menu = AI customization
-station-ai-customization-categories = Categories
-station-ai-customization-options = Options (choice of one)
-station-ai-customization-core = AI core displays
-station-ai-customization-hologram = Holographic avatars
-
+station-ai-customization-menu = AI 客製化
+station-ai-customization-categories = 分類
+station-ai-customization-options = 選項（請擇一）
+station-ai-customization-core = AI 核心顯示器
+station-ai-customization-hologram = 全息化身
 # Customizations
-station-ai-icon-ai = Ghost in the machine
-station-ai-icon-angel = Guardian angel
-station-ai-icon-bliss = Simpler times
-station-ai-icon-clown = Clownin' around
-station-ai-icon-dorf = Adventure awaits
-station-ai-icon-heartline = Lifeline
-station-ai-icon-smiley = All smiles
-
-station-ai-hologram-female = Female appearance
-station-ai-hologram-male = Male appearance
-station-ai-hologram-face = Disembodied head
-station-ai-hologram-cat = Cat form
-station-ai-hologram-dog = Corgi form
+station-ai-icon-ai = 機器中的幽靈
+station-ai-icon-angel = 守護天使
+station-ai-icon-bliss = 更單純的時代
+station-ai-icon-clown = 耍寶
+station-ai-icon-dorf = 冒險正等待著你
+station-ai-icon-heartline = 生命線
+station-ai-icon-smiley = 笑逐顏開
+station-ai-hologram-female = 女性外貌
+station-ai-hologram-male = 男性外貌
+station-ai-hologram-face = 無軀體的頭顱
+station-ai-hologram-cat = 貓形態
+station-ai-hologram-dog = 柯基犬的體型

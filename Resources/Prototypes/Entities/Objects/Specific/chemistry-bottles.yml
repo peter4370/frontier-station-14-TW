@@ -3,7 +3,7 @@
   parent: BaseItem
   id: BaseChemistryEmptyBottle
   abstract: true
-  description: A small bottle.
+  description: 一瓶小瓶。
   components:
   - type: Tag
     tags:

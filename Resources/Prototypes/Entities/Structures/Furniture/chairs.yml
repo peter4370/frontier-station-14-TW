@@ -2,7 +2,7 @@
   name: chair
   id: SeatBase
   abstract: true
-  description: You sit in this. Either by will or force.
+  description: 你坐在這裡。無論是自願還是被迫。
   placement:
     mode: PlaceFree
   components:
@@ -126,7 +126,7 @@
   name: stool
   id: Stool
   parent: UnanchoredChairBase
-  description: Apply butt.
+  description: 進行對接焊接。
   components:
   - type: Sprite
     state: stool
@@ -135,7 +135,7 @@
     node: stool
 
 - type: entity
-  name: bar stool
+  name: 吧檯凳
   id: StoolBar
   parent: StoolBase
   components:
@@ -146,7 +146,7 @@
     node: stoolBar
 
 - type: entity
-  name: brass chair
+  name: 黃銅椅子
   id: ChairBrass
   parent: StoolBase
   components:
@@ -157,7 +157,7 @@
     node: chairBrass
 
 - type: entity
-  name: white office chair
+  name: 白色辦公椅
   id: ChairOfficeLight
   parent: RollingOfficeChairBase # Goobstation - rolling chair, definition under _Goobstation
   components:
@@ -168,7 +168,7 @@
     node: chairOffice
 
 - type: entity
-  name: dark office chair
+  name: 深色辦公椅
   id: ChairOfficeDark
   parent: ChairOfficeLight
   components:
@@ -179,10 +179,10 @@
     node: chairOfficeDark
 
 - type: entity
-  name: comfy chair
+  name: 舒適的椅子
   id: ComfyChair
   parent: ChairBase
-  description: It looks comfy.
+  description: 看起來很舒適。
   components:
   - type: Sprite
     state: comfy
@@ -191,10 +191,10 @@
     node: chairComfy
 
 - type: entity
-  name: pilot seat
+  name: 駕駛座
   id: ChairPilotSeat
   parent: ChairBase
-  description: The pilot seat of a prestigious ship.
+  description: 一艘聲名顯赫的船隻的駕駛座。
   components:
   - type: Sprite
     state: shuttle
@@ -205,7 +205,7 @@
     node: chairPilotSeat
 
 - type: entity
-  name: wooden chair
+  name: 木製椅子
   id: ChairWood
   parent: UnanchoredChairBase
   components:
@@ -248,10 +248,10 @@
     price: 75
 
 - type: entity
-  name: ritual chair
+  name: 儀式用椅
   id: ChairRitual
   parent: ChairWood
-  description: Looks uncomfortable.
+  description: 看起來不太舒服。
   components:
   - type: Sprite
     state: ritual
@@ -262,8 +262,8 @@
 - type: entity
   id: ChairMeat
   parent: UnanchoredChairBase
-  name: meat chair
-  description: Uncomfortably sweaty.
+  name: 肉椅
+  description: 汗流浹背，令人不適。
   components:
   - type: Sprite
     state: meat
@@ -272,10 +272,10 @@
     node: chairMeat
 
 - type: entity
-  name: cursed chair
+  name: 被詛咒的椅子
   id: ChairCursed
   parent: ChairWood
-  description: It's staring back.
+  description: 它正盯著我看。
   components:
   - type: Sprite
     state: cursed
@@ -312,9 +312,9 @@
     node: chairCursed
 
 - type: entity
-  name: web chair
+  name: 網路主席
   id: ChairWeb
-  description: For true web developers.
+  description: 獻給真正的網頁開發者。
   parent: UnanchoredChairBase
   components:
   - type: Sprite
@@ -359,8 +359,8 @@
 - type: entity
   parent: [SeatBase, BaseDeployFoldable]
   id: ChairFolding
-  name: folding chair
-  description: If you carry six of these you become the coolest kid at church.
+  name: 摺疊椅
+  description: 如果你隨身攜帶六個這種東西，你就會成為教會裡最酷的人。
   components:
   - type: Rotatable
   - type: Sprite
@@ -397,10 +397,10 @@
     enabled: False
 
 - type: entity
-  name: steel bench
+  name: 鋼製長椅
   id: SteelBench
   parent: ChairBase
-  description: A long chair made for a metro. Really standard design.
+  description: 一款專為地鐵設計的長椅。設計非常標準。
   components:
   - type: Sprite
     state: steel-bench
@@ -411,10 +411,10 @@
     hintText: dead-drop-hint-bench # Frontier
 
 - type: entity
-  name: cardboard stool
+  name: 紙板凳
   id: CardStool
   parent: UnanchoredChairBase
-  description: Make sure you sit *really* gently.
+  description: 請務必*非常*輕柔地坐下。
   components:
   - type: Sprite
     state: card-stool
@@ -445,10 +445,10 @@
         acts: ["Destruction"]
 
 - type: entity
-  name: wooden bench
+  name: 木製長凳
   id: WoodenBench
   parent: ChairBase
-  description: Did you get a splinter? Well, at least it’s eco friendly.
+  description: 你被木刺扎到了嗎？嗯，至少這還算環保。
   components:
   - type: Sprite
     state: wooden-bench
@@ -488,7 +488,7 @@
 - type: entity
   parent: StoolBase
   id: ChairXeno
-  name: xeno chair
+  name: xeno 椅
   components:
   - type: Sprite
     state: xeno-chair

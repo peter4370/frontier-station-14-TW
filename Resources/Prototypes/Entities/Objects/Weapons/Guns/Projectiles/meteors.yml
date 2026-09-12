@@ -1,7 +1,7 @@
 - type: entity
   id: BaseMeteor
-  name: meteor
-  description: You prefer them when they're burning up in the atmosphere.
+  name: 流星
+  description: 你更喜歡看它們在大氣層中燃燒殆盡的樣子。
   abstract: true
   components:
   - type: Sprite
@@ -50,8 +50,8 @@
 - type: entity
   parent: BaseMeteor
   id: MeteorSpaceDust
-  name: space dust
-  description: Makes a station sneeze.
+  name: 太空塵埃
+  description: 讓一個車站打個噴嚏。
   components:
   - type: Sprite
     state: space_dust
@@ -195,8 +195,8 @@
 - type: entity
   parent: BaseMeteor
   id: MeteorUrist
-  name: Urist McMeteor
-  description: As a successful member of society with a stable unflinching psyche and limitless drive, natural affinity for finance and domination, you have been selected, no, you have been effortlessly guided by divine (biological) trauma towards this moment. The gates of destiny fling open, and once again you're left standing on pulsating nothingness. A strobing headache of the soul.
+  name: 尤里斯·麥克梅特爾
+  description: 身為社會中的一員，你擁有穩定且堅定不移的心理素質、無窮無盡的動力，以及與生俱來的金融天賦與掌控慾；你已被選中——不，你其實是被神聖（生物性）的創傷毫不費力地引導至此刻。 命運之門轟然敞開，而你再次佇立於那脈動的虛無之中。靈魂正承受著如閃光燈般閃爍的劇烈頭痛。
   suffix: Meteor
   components:
   - type: Sprite
@@ -236,8 +236,8 @@
 - type: entity
   parent: BaseMeteor
   id: MeteorCow
-  name: Cosmic cow
-  description: Moo-ving at relativistic speeds!
+  name: 宇宙牛
+  description: 以相對論速度「哞」動！
   suffix: Meteor
   components:
   - type: Sprite
@@ -279,7 +279,7 @@
   parent: BaseMeteor
   id: MeteorClown
   name: Honksteroid
-  description: The final honkening!
+  description: 最後一聲「霍肯」！
   suffix: Meteor
   components:
   - type: Sprite
@@ -323,8 +323,8 @@
 - type: entity
   parent: BaseMeteor
   id: MeteorPotato
-  name: Space potato
-  description: A starchy threat from the depths of the space. Contains 200% of your daily sodium intake!
+  name: 太空馬鈴薯
+  description: 來自宇宙深處的澱粉威脅。鈉含量高達您每日建議攝取量的 200%！
   components:
   - type: Sprite
     state: potato

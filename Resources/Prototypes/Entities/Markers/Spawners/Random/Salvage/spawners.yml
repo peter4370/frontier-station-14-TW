@@ -35,7 +35,7 @@
 - type: entity
   parent: MarkerBase
   id: SalvageSpawnerScrapCommon
-  name: Salvage Scrap Spawner
+  name: 回收廢料生成器
   suffix: Common, 50%
   components:
   - type: Sprite
@@ -172,7 +172,7 @@
 - type: entity
   parent: MarkerBase
   id: SalvageSpawnerTreasure
-  name: Salvage Treasure Spawner
+  name: 打撈寶藏生成器
   suffix: Common, 75%
   components:
   - type: Sprite
@@ -303,7 +303,7 @@
 - type: entity
   parent: MarkerBase
   id: SalvageSpawnerEquipment
-  name: Salvage Equipment Spawner
+  name: 打撈設備生成器
   suffix: Common, 75%
   components:
   - type: Sprite
@@ -383,7 +383,7 @@
       prob: 0.75
 
 - type: entity
-  name: Salvage Canister Spawner
+  name: 打撈罐生成器
   id: SalvageCanisterSpawner
   parent: MarkerBase
   components:
@@ -456,7 +456,7 @@
 - type: entity
   parent: MarkerBase
   id: SalvageSpawnerMobMagnet
-  name: Salvage Magnet Mob Spawner
+  name: 打撈磁鐵群體生成器
   suffix: 50%
   components:
   - type: Sprite
@@ -492,7 +492,7 @@
 - type: entity
   parent: MarkerBase
   id: SalvageSpawnerStructuresVarious
-  name: Space Debris Structure Spawner
+  name: 太空碎片結構生成器
   components:
   - type: Sprite
     layers:
@@ -528,7 +528,7 @@
 - type: entity
   parent: MarkerBase
   id: SalvageSpawnerMobShark
-  name: Salvage Sharkminnow Spawner
+  name: Salvage Sharkminnow 產卵器
   components:
   - type: Sprite
     layers:
@@ -545,7 +545,7 @@
 - type: entity
   parent: MarkerBase
   id: SalvageSpawnerMobMiningAsteroid
-  name: Mining Asteroid Mob Spawner
+  name: 小行星採礦怪獸生成器
   components:
   - type: Sprite
     layers:

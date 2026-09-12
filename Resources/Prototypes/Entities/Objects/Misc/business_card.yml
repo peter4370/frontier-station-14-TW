@@ -1,8 +1,8 @@
 - type: entity
   id: SyndicateBusinessCard
-  name: syndicate business card
+  name: 財團名片
   parent: [ Paper, BaseC3SyndicateContrabandNoValue ] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContrabandNoValue
-  description: A black card with the syndicate's logo. There's something written on the back.
+  description: 一張印有該組織標誌的黑色卡片。背面寫著些什麼。
   components:
     - type: Sprite
       sprite: Objects/Misc/bureaucracy.rsi

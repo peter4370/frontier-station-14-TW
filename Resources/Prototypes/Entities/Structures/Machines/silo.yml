@@ -1,8 +1,8 @@
 - type: entity
   id: MachineMaterialSilo
   parent: [ BaseMachinePowered, ConstructibleMachine ]
-  name: material silo
-  description: An advanced machine, capable of using bluespace technology to transmit materials to nearby machines.
+  name: 物料筒倉
+  description: 一台先進的機器，能夠運用藍空技術將物料傳輸至附近的機器。
   components:
   - type: Sprite
     sprite: Structures/Machines/silo.rsi

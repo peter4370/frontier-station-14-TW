@@ -3,7 +3,7 @@
   parent: [ SimpleSpaceMobBase, FlyingMobBase, MobCombat ]
   id: BaseMobBehonker
   abstract: true
-  description: A floating demon aspect of the honkmother.
+  description: '「嗚嗚之母」的浮遊惡魔化身。'
   components:
     - type: GhostRole
       allowMovement: true

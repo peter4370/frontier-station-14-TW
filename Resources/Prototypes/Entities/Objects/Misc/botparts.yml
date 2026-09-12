@@ -2,7 +2,7 @@
   parent: BaseItem
   id: ProximitySensor
   name: proximity sensor
-  description: Senses things in close proximity.
+  description: 能感知附近的事物。
   components:
   - type: Sprite
     sprite: Objects/Misc/proximity_sensor.rsi

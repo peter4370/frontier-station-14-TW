@@ -2,7 +2,7 @@
   id: BaseLathe
   parent: [ BaseMachinePowered, ConstructibleMachine ]
   abstract: true
-  name: lathe
+  name: 車床
   components:
   - type: Appearance
   - type: WiresVisuals
@@ -95,8 +95,8 @@
 - type: entity
   id: Autolathe
   parent: BaseLatheLube
-  name: autolathe
-  description: It produces basic items using metal and glass. Has the ability to process blueprints to print new recipes.
+  name: 自動車床
+  description: 它使用金屬和玻璃來製作基礎物品。具備處理藍圖以印製新配方之能力。
   components:
   - type: Sprite
     sprite: Structures/Machines/autolathe.rsi
@@ -178,8 +178,8 @@
 - type: entity
   id: AutolatheHyperConvection
   parent: [Autolathe, BaseHyperlathe]
-  name: hyper convection autolathe
-  description: A highly-experimental autolathe that harnesses the power of extreme heat to slowly create objects more cost-effectively.
+  name: 超對流自動車床
+  description: 一款高度實驗性的自動車床，利用極高溫的能量，以更具成本效益的方式緩慢製造物件。
   components:
   - type: Sprite
     sprite: Structures/Machines/autolathe_hypercon.rsi
@@ -189,8 +189,8 @@
 - type: entity
   id: Protolathe
   parent: [BaseLatheLube, NFBlueprintReceiverBase] # Frontier: Add BlueprintRecieverBase as parent
-  name: protolathe
-  description: Converts raw materials into advanced items.
+  name: 原車床
+  description: 將原材料轉化為高級物品。
   components:
   - type: Sprite
     sprite: Structures/Machines/protolathe.rsi
@@ -267,8 +267,8 @@
 - type: entity
   id: ProtolatheHyperConvection
   parent: [Protolathe, BaseHyperlathe]
-  name: hyper convection protolathe
-  description: A highly-experimental protolathe that harnesses the power of extreme heat to slowly create objects more cost-effectively.
+  name: 超對流原盤
+  description: 一款高度實驗性的原型車床，利用極端高溫的能量，以更具成本效益的方式緩慢製造物件。
   components:
   - type: Sprite
     sprite: Structures/Machines/protolathe_hypercon.rsi
@@ -278,8 +278,8 @@
 - type: entity
   id: CircuitImprinter
   parent: BaseLatheLube
-  name: circuit imprinter
-  description: Prints circuit boards for machines.
+  name: 電路印製機
+  description: 為機器印刷電路板。
   components:
   - type: Sprite
     sprite: Structures/Machines/circuit_imprinter.rsi
@@ -336,8 +336,8 @@
 - type: entity
   id: CircuitImprinterHyperConvection
   parent: [CircuitImprinter, BaseHyperlathe]
-  name: hyper convection circuit imprinter
-  description: A highly-experimental circuit imprinter that harnesses the power of extreme heat to slowly create objects more cost-effectively.
+  name: 超對流電路壓印機
+  description: 一款高度實驗性的電路壓印機，利用極高溫的能量，以更具成本效益的方式緩慢製造物件。
   components:
   - type: Sprite
     sprite: Structures/Machines/circuit_imprinter_hypercon.rsi
@@ -347,8 +347,8 @@
 - type: entity
   id: ExosuitFabricator
   parent: BaseLatheLube
-  name: exosuit fabricator
-  description: Creates parts for robotics and other mechanical needs.
+  name: 外骨骼服製造機
+  description: 生產用於機器人及其他機械需求的零件。
   components:
   - type: Sprite
     snapCardinals: true # Frontier
@@ -392,8 +392,8 @@
 - type: entity
   id: Biofabricator
   parent: BaseLathe
-  name: biocube fabricator
-  description: Produces animal cubes using biomass.
+  name: Biocube 製造機
+  description: 利用生物質生產動物飼料塊。
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: Sprite
@@ -432,8 +432,8 @@
 - type: entity
   id: SecurityTechFab
   parent: BaseLatheLube
-  name: security techfab
-  description: Prints equipment for use by security crew.
+  name: 安全科技工廠
+  description: 為安保人員印製所需設備。
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: Sprite
@@ -483,7 +483,7 @@
   id: AmmoTechFab
   parent: [NFBlueprintReceiverBase, BaseLatheLube] # Frontier: added NFBlueprintReceiverBase
   name: ammo techfab
-  description: Prints the bare minimum of bullets that any budget military or armory could need. Nothing fancy.
+  description: 生產任何預算有限的軍隊或軍械庫可能需要的最基本子彈數量。沒有什麼花俏的東西。
   components:
     - type: Sprite
       sprite: Structures/Machines/techfab.rsi
@@ -523,8 +523,8 @@
 - type: entity
   id: MedicalTechFab
   parent: [ NFBlueprintReceiverBase, BaseLatheLube ] # Frontier: added NFBlueprintReceiverBase
-  name: medical techfab
-  description: Prints equipment for use by the medbay.
+  name: 醫療科技製造
+  description: 列印供醫療室使用的設備。
   components:
   - type: Sprite
     sprite: Structures/Machines/techfab.rsi
@@ -588,8 +588,8 @@
 - type: entity
   parent: BaseLathe
   id: UniformPrinter
-  name: uniform printer
-  description: Prints new or replacement uniforms.
+  name: 統一印表機
+  description: 印製新制服或替換制服。
   components:
   - type: Transform
     noRot: false
@@ -643,8 +643,8 @@
 - type: entity
   id: Biogenerator
   parent: BaseLathe
-  name: biogenerator
-  description: Converts plants into biomass, which can be used to construct useful items.
+  name: 生物發電裝置
+  description: 將植物轉化為生物質，可用於製作實用物品。
   components:
   - type: Sprite
     sprite: _NF/Structures/Machines/biofabricator.rsi # Frontier: use NF version
@@ -711,8 +711,8 @@
 - type: entity
   parent: BaseLathe
   id: OreProcessor
-  name: ore processor
-  description: It produces sheets and ingots using ores.
+  name: 礦石處理器
+  description: 該廠利用礦石生產薄板和錠。
   components:
     - type: Sprite
       sprite: Structures/Machines/ore_processor.rsi
@@ -749,8 +749,8 @@
 - type: entity
   parent: OreProcessor
   id: OreProcessorIndustrial
-  name: industrial ore processor
-  description: An ore processor specifically designed for mass-producing metals in industrial applications.
+  name: 工業級礦石加工設備
+  description: 一款專為工業應用中大量生產金屬而設計的礦石加工設備。
   components:
   - type: Sprite
     sprite: Structures/Machines/ore_processor_industrial.rsi
@@ -768,7 +768,7 @@
   parent: BaseLathe
   id: Sheetifier
   name: sheet-meister 2000
-  description: A very sheety machine.
+  description: 一台非常薄的機器。
   components:
   - type: Sprite
     sprite: Structures/Machines/sheetifier.rsi
@@ -801,8 +801,8 @@
 - type: entity
   parent: BaseLathe
   id: CutterMachine
-  name: cutter machine
-  description: This is a cutter. It cuts. Add variety to your station floor with eye-pleasing patterns! Don't stick your fingers in.
+  name: 切割機
+  description: 這是一把切割器。它可以用來切割。用賞心悅目的圖案為您的工作檯增添多樣性吧！請勿將手指伸進去。
   components:
   - type: Transform
     noRot: false

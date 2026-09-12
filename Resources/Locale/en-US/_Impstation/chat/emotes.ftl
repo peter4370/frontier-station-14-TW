@@ -1,11 +1,10 @@
 # Names
-chat-emote-name-bubble = Bubble
-chat-emote-name-pop = Pop
-chat-emote-name-crack = Crack Knuckles
-chat-emote-name-reptilian-hiss = Hiss
-
+chat-emote-name-bubble = 氣泡
+chat-emote-name-pop = 流行音樂
+chat-emote-name-crack = 掰手指關節
+chat-emote-name-reptilian-hiss = 嘶聲
 # Message
-chat-emote-msg-bubble = bubbles.
-chat-emote-msg-pop = pops!
-chat-emote-msg-crack = cracks {POSS-ADJ($entity)} knuckles.
-chat-emote-msg-reptilian-hiss = hisses.
+chat-emote-msg-bubble = 氣泡。
+chat-emote-msg-pop = 啪！
+chat-emote-msg-crack = 關節 { POSS-ADJ($entity) } 發出喀嚓聲。
+chat-emote-msg-reptilian-hiss = 嘶嘶聲。

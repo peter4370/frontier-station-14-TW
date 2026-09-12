@@ -2,7 +2,7 @@
   parent: BaseWallmountMetallic
   id: StationMapBroken
   name: station map
-  description: A virtual map of the surrounding station.
+  description: 車站周邊的虛擬地圖。
   suffix: Wall broken
   components:
     - type: Sprite
@@ -99,8 +99,8 @@
 - type: entity
   parent: BaseWallmountMetallic
   id: StationMapAssembly
-  name: station map assembly
-  description: A station map assembly.
+  name: 車站地圖組裝
+  description: 車站地圖組件。
   components:
   - type: WallMount
     arc: 360

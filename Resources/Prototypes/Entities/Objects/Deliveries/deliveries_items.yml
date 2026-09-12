@@ -2,8 +2,8 @@
 
 - type: entity
   id: MailSpamLetter
-  name: spam letter
-  description: Even space isn't safe from junk mail.
+  name: 垃圾信
+  description: 就連太空也無法倖免於垃圾郵件的侵擾。
   parent: Paper
   components:
   - type: Paper

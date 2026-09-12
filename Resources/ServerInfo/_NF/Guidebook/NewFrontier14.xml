@@ -1,34 +1,35 @@
+
 <Document>
-  # NT New Frontiers Program
+  # NT「新前沿」計畫
 
-Thank you for signing up for the New Frontiers Program! As a Nanotrasen employee, you're helping to develop the furthest reaches of space!
+感謝您報名參加「新前沿」計畫！ 身為 Nanotrasen 的員工，您正在協助開拓宇宙的最遙遠邊界！
 
-[color=#33bbff]If you'd like a hand, ask on the radio, or talk to somebody.[/color]
-The [color=#dd0000]Valet[/color] or [color=#009933]Station Representative[/color] should be able to help, they're to the right of medbay.
+[color=#33bbff]若需要協助，請透過無線電求助，或向他人尋求協助。[/color]
+[color=#dd0000]代客泊車員[/color] 或 [color=#009933]站務代表[/color] 應該能提供協助，他們就在醫療艙的右側。
 
-## Economy
+## 經濟
   <Box>
     <GuideEntityEmbed Entity="ComputerBankATM"/>
     <GuideEntityEmbed Entity="SpaceCash1000"/>
     <GuideEntityEmbed Entity="ComputerShipyard"/>
   </Box>
-  Any money that you make is [bold]yours[/bold], and will be available in future shifts if deposited at a [color=#44cc00]Galactic Bank ATM[/color] on Frontier Outpost or Tinnia's Rest.
+  您賺取的任何金錢都是 [bold]屬於您的[/bold]，若將其存入「邊境前哨站」或「蒂尼亞休憩站」的 [color=#44cc00]銀河銀行自動櫃員機[/color]，便可在未來的班次中使用。
 
-To make money, why not:
-- Join a ship's crew? Ask on the radio if anyone needs extra crew, and work to help your captain.
-- Get a job on station? Ask the [color=#009933]Station Representative[/color] (follow the SR signs) if anything needs doing.
-- Use a [color=#cccc00]shipyard console[/color] to purchase your own ship?
+想賺錢的話，何不試試：
+—— 加入船員行列？ 透過無線電詢問是否有人需要額外船員，並協助船長工作。
+- 在站上找份工作嗎？ 如有任何需要處理的事項，請向 [color=#009933]站務代表[/color] 詢問（請循 SR 標誌前往）。
+- 使用 [color=#cccc00]造船廠控制台[/color] 來購買自己的船隻？
 
-## Amenities
+## 設施
   <Box>
     <GuideEntityEmbed Entity="VendingMachineAstroVend"/>
     <GuideEntityEmbed Entity="VendingMachineAmmo"/>
     <GuideEntityEmbed Entity="MachineCryoSleepPod"/>
   </Box>
-  Some provisions (e.g. air tanks, salvage equipment) are available from vendors on Frontier Outpost, but most amenities (medical services, food) should be offered by players on shuttles or at the Trade Depot.
+  部分物資（例如：空氣儲氣罐、打撈設備）可從「邊境前哨站」的供應商處取得，但多數服務（醫療服務、食物）應由搭乘穿梭機的玩家或「貿易倉庫」的玩家提供。
 
-Be sure to stock up at the Trade Depot if going out on an extended voyage, and take advantage of the [color=#33bbff]medical insurance tracker[/color] in your loadout, or from the NanoMed vendor in medbay.
+若要展開長期航行，請務必在貿易倉庫儲備充足物資，並善用裝備清單中的 [color=#33bbff]醫療保險追蹤器[/color]，或向醫療艙內的 NanoMed 供應商購買相關服務。
 
-Shifts on the Frontier typically last for [color=#33bbff]six hours[/color].
-If you need to end your shift early or take a break, use the [color=#33bbff]cryo sleep chambers[/color] in the medbay on Frontier Outpost.
+邊境的輪班通常為期 [color=#33bbff]六小時[/color]。
+若您需要提早結束輪班或休息一下，請使用「前哨站」醫療艙內的 [color=#33bbff]冷凍睡眠艙[/color]。
 </Document>

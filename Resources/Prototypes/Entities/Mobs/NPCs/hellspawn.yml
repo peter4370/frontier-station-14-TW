@@ -5,13 +5,13 @@
   - MobCombat
   - MobBloodstream
   id: MobHellspawn
-  description: An unstoppable force of carnage.
+  description: 一股勢不可擋的屠殺之勢。
   components:
   - type: GhostRole
     allowMovement: true
     makeSentient: true
-    name: ghost-role-information-hellspawn-name
-    description: ghost-role-information-hellspawn-description
+    name: 幽靈角色資訊－地獄之子－名稱
+    description: 幽靈角色資訊－地獄之子－描述
     rules: ghost-role-information-antagonist-rules
     mindRoles:
     - MindRoleGhostRoleSoloAntagonist

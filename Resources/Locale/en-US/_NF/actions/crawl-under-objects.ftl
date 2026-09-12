@@ -1,2 +1,2 @@
-crawl-under-objects-toggle-on = Now sneaking
-crawl-under-objects-toggle-off = Now standing
+crawl-under-objects-toggle-on = 現在正在潛行
+crawl-under-objects-toggle-off = 目前站立著

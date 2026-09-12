@@ -1,6 +1,6 @@
 - type: entity
   id: BaseSpeedLoaderMagnum
-  name: "speed loader (.45 magnum)"
+  name: "快速裝彈器（.45馬格南）"
   parent: [ BaseItem, BaseC1Contraband ] # Frontier: BaseSecurityContraband<BaseC1Contraband
   abstract: true
   components:
@@ -24,7 +24,7 @@
   id: SpeedLoaderMagnum
   name: "speed loader (.45 magnum)"
   parent: BaseSpeedLoaderMagnum
-  description: Designed to quickly refill an empty revolver, it fits up to six rounds. Intended to hold general-purpose kinetic ammunition.
+  description: 此設計旨在快速為空膛的轉輪手槍重新裝填子彈，最多可裝載六發子彈。專為裝載通用動能彈藥而設計。
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeMagnum
@@ -52,9 +52,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: SpeedLoaderMagnumEmpty
-  name: "speed loader (.45 magnum any)"
+  name: "快速裝彈器（任何型號的 .45 馬格南）"
   parent: SpeedLoaderMagnum
-  description: Designed to quickly refill an empty revolver, it fits up to six rounds for the big iron on your hip. #Big Iron reference (duh)
+  description: 專為快速為空膛的左輪手槍裝彈而設計，可容納多達六發子彈，供你腰間那把「大鐵槍」使用。 #Big Iron reference (duh)
   components:
   - type: BallisticAmmoProvider
     proto: null
@@ -78,9 +78,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: SpeedLoaderMagnumIncendiary
-  name: "speed loader (.45 magnum incendiary)"
+  name: "快速裝彈器（.45馬格南燃燒彈）"
   parent: SpeedLoaderMagnum
-  description: Designed to quickly refill an empty revolver, it fits up to six rounds. Intended to hold self-igniting incendiary ammunition.
+  description: 此裝置專為快速為空的轉輪手槍裝填子彈而設計，最多可裝載六發子彈。其設計用途是裝載自燃式燃燒彈。
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeMagnumIncendiary
@@ -88,9 +88,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: SpeedLoaderMagnumPractice
-  name: "speed loader (.45 magnum practice)"
+  name: "快速裝彈器（.45馬格南練習用）"
   parent: BaseSpeedLoaderMagnum
-  description: Designed to quickly refill an empty revolver, it fits up to six rounds. Intended to hold non-harmful chalk ammunition, perfect for practicing your quick draw.
+  description: 此產品專為快速為空的轉輪手槍重新裝填而設計，最多可裝載六發子彈。旨在裝載無害的粉筆彈藥，非常適合用來練習快速拔槍。
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeMagnumPractice
@@ -122,9 +122,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: SpeedLoaderMagnumAP
-  name: "speed loader (.45 magnum armor-piercing)"
+  name: "快速裝彈器（.45馬格南穿甲彈）"
   parent: BaseSpeedLoaderMagnum
-  description: Designed to quickly refill an empty revolver, it fits up to six rounds. Intended to hold rare armor-piercing ammunition.
+  description: 此設計旨在快速為空膛的左輪手槍上膛，最多可裝填六發子彈。專為存放罕見的穿甲彈而設計。
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeMagnumAP
@@ -156,9 +156,9 @@
 - type: entity
   categories: [ HideSpawnMenu ] # Frontier
   id: SpeedLoaderMagnumUranium
-  name: "speed loader (.45 magnum uranium)"
+  name: "快速裝彈器（.45馬格南鈾彈）"
   parent: BaseSpeedLoaderMagnum
-  description: Designed to quickly refill an empty revolver, it fits up to six rounds. Intended to hold exotic uranium-core ammunition.
+  description: 此設計旨在快速為空膛的轉輪手槍重新裝填子彈，最多可容納六發子彈。專為裝載特殊鈾芯彈藥而設計。
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeMagnumUranium

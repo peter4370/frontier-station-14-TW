@@ -1,15 +1,14 @@
-id-card-console-window-privileged-id = Privileged ID:
-id-card-console-window-target-id = Target ID:
-id-card-console-window-full-name-label = Full name:
-id-card-console-window-save-button = Save
-id-card-console-window-job-title-label = Job title:
-id-card-console-window-ship-name-label = Shuttle name:
+id-card-console-window-privileged-id = 具特權的識別碼：
+id-card-console-window-target-id = 目標編號：
+id-card-console-window-full-name-label = 全名：
+id-card-console-window-save-button = 儲存
+id-card-console-window-job-title-label = 職稱：
+id-card-console-window-ship-name-label = 太空梭名稱：
 id-card-console-window-eject-button = Eject
-id-card-console-window-insert-button = Insert
-id-card-console-window-job-selection-label = Job presets (sets department and job icon):
-id-card-console-window-shuttle-placeholder = No owned shuttle
-
+id-card-console-window-insert-button = 插入
+id-card-console-window-job-selection-label = 工作預設值（設定部門和工作圖示）：
+id-card-console-window-shuttle-placeholder = 沒有自有接駁車
 access-id-card-console-component-no-hands-error = You have no hands.
-id-card-console-privileged-id = Privileged ID
-id-card-console-target-id = Target ID
-id-card-console-damaged = Structural integrity compromised, ejecting contents.
+id-card-console-privileged-id = 具特權的識別碼
+id-card-console-target-id = 目標識別碼
+id-card-console-damaged = 結構完整性受損，內容物正在噴出。

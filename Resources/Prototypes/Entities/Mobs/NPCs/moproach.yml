@@ -2,7 +2,7 @@
   name: moproach
   parent: MobMothroach
   id: MobMoproach
-  description: This little mothroach has mopshoes on its feet! How adorable!
+  description: 這隻小蟑螂的腳上竟然有拖鞋！好可愛啊！
   components:
   - type: GhostRole
     name: ghost-role-information-moproach-name

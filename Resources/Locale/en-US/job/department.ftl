@@ -6,7 +6,6 @@ department-Engineering = Engineering
 department-Medical = Medical
 # department-Security = Security # Frontier: redefined in _NF
 department-Science = Science
-department-Silicon = Silicon
-department-Specific = Station specific
-
+department-Silicon = 矽
+department-Specific = 特定車站
 department-Unknown = Unknown

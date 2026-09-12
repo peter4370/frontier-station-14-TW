@@ -3,7 +3,7 @@
   id: WardrobeBase
   parent: ClosetSteelBase
   abstract: true
-  description: It's a storage unit for standard-issue Nanotrasen attire.
+  description: 這是用來存放標準配備的納諾特拉森制服的儲物櫃。
 
 # Colored
 
@@ -11,7 +11,7 @@
 - type: entity
   id: WardrobeBlue
   parent: WardrobeBase
-  name: blue wardrobe
+  name: 藍色衣櫥
   description: "A wardrobe packed with stylish blue clothing."
   components:
   - type: Appearance
@@ -24,7 +24,7 @@
 - type: entity
   id: WardrobePink
   parent: WardrobeBase
-  name: pink wardrobe
+  name: 粉紅色衣櫥
   description: "A wardrobe packed with fabulous pink clothing."
   components:
   - type: Appearance
@@ -37,7 +37,7 @@
 - type: entity
   id: WardrobeBlack
   parent: WardrobeBase
-  name: black wardrobe
+  name: 黑色衣櫥
   description: "A wardrobe packed with stylish black clothing."
   components:
   - type: Appearance
@@ -50,7 +50,7 @@
 - type: entity
   id: WardrobeGreen
   parent: WardrobeBase
-  name: green wardrobe
+  name: 綠色衣櫥
   description: "A wardrobe packed with stylish green clothing."
   components:
   - type: Appearance
@@ -63,7 +63,7 @@
 - type: entity
   id: WardrobePrison
   parent: WardrobeBase
-  name: prison wardrobe
+  name: 監獄服裝
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: Appearance
@@ -76,7 +76,7 @@
 - type: entity
   id: WardrobeYellow
   parent: WardrobeBase
-  name: yellow wardrobe
+  name: 黃色衣櫥
   description: "A wardrobe packed with stylish yellow clothing."
   components:
   - type: Appearance
@@ -89,7 +89,7 @@
 - type: entity
   id: WardrobeWhite
   parent: WardrobeBase
-  name: white wardrobe
+  name: 白色衣櫥
   description: "A wardrobe packed with stylish white clothing."
   components:
   - type: Appearance
@@ -102,7 +102,7 @@
 - type: entity
   id: WardrobeGrey
   parent: WardrobeBase
-  name: grey wardrobe
+  name: 灰色衣櫥
   description: "A wardrobe packed with a tide of grey clothing."
   components:
   - type: Appearance
@@ -115,7 +115,7 @@
 - type: entity
   id: WardrobeMixed
   parent: WardrobeBase
-  name: mixed wardrobe
+  name: 混搭衣櫥
   description: "A wardrobe packed with a mix of colorful clothing."
   components:
   - type: Appearance
@@ -129,7 +129,7 @@
 - type: entity
   id: WardrobeSecurity
   parent: WardrobeBase
-  name: security wardrobe
+  name: 防盜衣櫥
   components:
   - type: Appearance
   - type: EntityStorageVisuals
@@ -140,7 +140,7 @@
 - type: entity
   id: WardrobeAtmospherics
   parent: WardrobeBase
-  name: atmospherics wardrobe
+  name: atmospherics 服裝系列
   components:
   - type: Appearance
   - type: EntityStorageVisuals
@@ -151,80 +151,80 @@
 - type: entity
   id: ClosetJanitor
   parent: WardrobeMixed
-  name: custodial closet
-  description: It's a storage unit for janitorial clothes and gear.
+  name: 儲物櫃
+  description: 這是用來存放清潔人員制服和裝備的儲物間。
 
 - type: entity
   id: WardrobeFormal
   parent: WardrobeBlack
-  name: formal closet
-  description: It's a storage unit for formal clothing.
+  name: 正式衣櫥
+  description: 這是一個用來存放正式服裝的儲物櫃。
 
 - type: entity
   id: ClosetChef
   parent: WardrobeBlack
-  name: chef's closet
-  description: It's a storage unit for foodservice garments and mouse traps.
+  name: 主廚的儲藏室
+  description: 這是一個用來存放餐飲業工作服和捕鼠器的儲物櫃。
 
 - type: entity
   id: WardrobeChapel
   parent: WardrobeBlack
-  name: chaplain's wardrobe
-  description: It's a storage unit for Nanotrasen-approved religious attire.
+  name: 軍牧的衣櫥
+  description: 這是用來存放經納諾特拉森（Nanotrasen）核准之宗教服飾的儲物間。
 
 - type: entity
   id: ClosetLegal
   parent: WardrobeBlue
-  name: legal closet
-  description: It's a storage unit for courtroom apparel and items.
+  name: 法律壁櫥
+  description: 這是用來存放法庭服裝及相關物品的儲物櫃。
 
 - type: entity
   id: WardrobeCargo
   parent: WardrobePrison
-  name: cargo wardrobe
+  name: 貨櫃衣櫥
 
 - type: entity
   id: WardrobeSalvage
   parent: WardrobeMixed
-  name: salvage wardrobe
-  description: Notably not salvaged.
+  name: 舊衣改造衣櫥
+  description: 值得注意的是，它並未被打撈上來。
 
 - type: entity
   id: WardrobeEngineering
   parent: WardrobeYellow
-  name: engineering wardrobe
+  name: 工程服裝
 
 - type: entity
   id: WardrobeMedicalDoctor
   parent: WardrobeWhite
-  name: medical doctor's wardrobe
+  name: 醫師的衣櫥
 
 - type: entity
   id: WardrobeRobotics
   parent: WardrobeBlack
-  name: robotics wardrobe
+  name: 機器人衣櫥
 
 - type: entity
   id: WardrobeChemistry
   parent: WardrobeWhite
-  name: chemistry wardrobe
+  name: 化學衣櫥
 
 - type: entity
   id: WardrobeGenetics
   parent: WardrobeWhite
-  name: genetics wardrobe
+  name: 基因衣櫥
 
 - type: entity
   id: WardrobeVirology
   parent: WardrobeWhite
-  name: virology wardrobe
+  name: 病毒學衣物櫃
 
 - type: entity
   id: WardrobeScience
   parent: WardrobeWhite
-  name: science wardrobe
+  name: 科學衣櫥
 
 - type: entity
   id: WardrobeBotanist
   parent: WardrobeGreen
-  name: botanist wardrobe
+  name: 植物學家的衣櫥

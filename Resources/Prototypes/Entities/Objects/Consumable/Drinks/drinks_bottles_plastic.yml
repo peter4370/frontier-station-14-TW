@@ -45,8 +45,8 @@
 - type: entity
   parent: [DrinkVisualsOpenable, DrinkBottlePlasticBaseFull]
   id: CustomDrinkJug
-  name: beverage jug
-  description: A jug for storing custom made drinks.
+  name: 飲料壺
+  description: 一個用於存放特製飲品的壺。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -58,8 +58,8 @@
 - type: entity
   parent: [DrinkVisualsAllFilled, DrinkBottlePlasticSmallBaseFull]
   id: DrinkWaterBottleFull
-  name: water bottle
-  description: Simple clean water of unknown origin. You think that maybe you dont want to know it.
+  name: 水瓶
+  description: 來源不明的簡單純淨水。你或許覺得，自己根本不想知道它的來源。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -77,8 +77,8 @@
 - type: entity
   parent: [DrinkVisualsAllFilled, DrinkBottlePlasticBaseFull]
   id: DrinkColaBottleFull
-  name: Space Cola bottle
-  description: Cola. In spaaace!
+  name: 太空可樂瓶
+  description: 可樂。在太空中！
   components:
   - type: SolutionContainerManager
     solutions:
@@ -94,7 +94,7 @@
 - type: entity
   parent: [DrinkVisualsAllFilled, DrinkBottlePlasticBaseFull]
   id: DrinkSpaceMountainWindBottleFull
-  name: Space Solar Wind bottle
+  name: 太空太陽風瓶
   description: Blows right through you like a solar wind.
   components:
   - type: SolutionContainerManager
@@ -111,7 +111,7 @@
 - type: entity
   parent: [DrinkVisualsAllFilled, DrinkBottlePlasticBaseFull]
   id: DrinkSpaceUpBottleFull
-  name: Space-Up bottle
+  name: Space-Up 水瓶
   description: Tastes like a hull breach in your mouth.
   components:
   - type: SolutionContainerManager
@@ -128,8 +128,8 @@
 - type: entity
   parent: [DrinkVisualsAllFilled, DrinkBottlePlasticBaseFull]
   id: DrinkSodaWaterBottleFull
-  name: soda water bottle
-  description: Like water, but angry!
+  name: 蘇打水瓶
+  description: 就像水一樣，但充滿怒氣！
   components:
   - type: SolutionContainerManager
     solutions:
@@ -146,8 +146,8 @@
 - type: entity
   parent: [DrinkVisualsAllFilled, DrinkBottlePlasticBaseFull]
   id: DrinkTonicWaterBottleFull
-  name: tonic water bottle
-  description: Like soda water, but angrier maybe? Often sweeter.
+  name: 通寧水瓶
+  description: 就像蘇打水，但或許更兇猛一點？通常更甜。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -164,8 +164,8 @@
 - type: entity
   parent: [DrinkVisualsOpenable, DrinkBottlePlasticBaseFull]
   id: DrinkEnergyDrinkJug
-  name: Red Bool jug
-  description: A jug of Red Bool, with enough caffeine to kill a whole station.
+  name: 紅色布爾水壺
+  description: 一壺「Red Bool」，其中的咖啡因含量足以讓整個車站的人都暈倒。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -184,9 +184,9 @@
 - type: entity
   parent: [DrinkVisualsOpenable, DrinkBottlePlasticBaseFull]
   id: DrinkSugarJug
-  name: sugar jug
+  name: 糖壺
   suffix: For Drinks, Full
-  description: Some people put this in their coffee...
+  description: 有些人會把這個加進咖啡裡……
   components:
   - type: SolutionContainerManager
     solutions:
@@ -202,8 +202,8 @@
 - type: entity
   parent: [DrinkVisualsOpenable, DrinkBottlePlasticBaseFull]
   id: DrinkLemonLimeJug
-  name: Smite jug
-  description: A dual citrus sensation.
+  name: Smite 巨壺
+  description: 雙重柑橘風味。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -219,8 +219,8 @@
 - type: entity
   parent: [DrinkVisualsOpenable, DrinkBottlePlasticBaseFull]
   id: DrinkMeadJug
-  name: mead jug
-  description: Storing mead in a plastic jug should be a crime.
+  name: 蜂蜜酒壺
+  description: 把蜂蜜酒存放在塑膠壺裡，簡直是犯罪。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -236,8 +236,8 @@
 - type: entity
   parent: [DrinkVisualsOpenable, DrinkBottlePlasticBaseFull]
   id: DrinkIceJug
-  name: ice jug
-  description: Stubborn water. Pretty cool.
+  name: 冰壺
+  description: 頑固的水。挺酷的。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -253,8 +253,8 @@
 - type: entity
   parent: [DrinkVisualsOpenable, DrinkBottlePlasticBaseFull]
   id: DrinkCoconutWaterJug
-  name: coconut water jug
-  description: It's on the inside of the coconut that counts.
+  name: 椰子水壺
+  description: 椰子的精華就在內裡。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -270,8 +270,8 @@
 - type: entity
   parent: [DrinkVisualsOpenable, DrinkBottlePlasticBaseFull]
   id: DrinkCoffeeJug
-  name: coffee jug
-  description: Wake up juice, of the heated kind.
+  name: 咖啡壺
+  description: 醒神果汁，熱飲款。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -287,8 +287,8 @@
 - type: entity
   parent: [DrinkVisualsOpenable, DrinkBottlePlasticBaseFull]
   id: DrinkTeaJug
-  name: tea jug
-  description: The drink of choice for the Bri'ish and hipsters.
+  name: 茶壺
+  description: 英國人和潮人的首選飲品。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -304,8 +304,8 @@
 - type: entity
   parent: [DrinkVisualsOpenable, DrinkBottlePlasticBaseFull]
   id: DrinkGreenTeaJug
-  name: green tea jug
-  description: It's like tea... but green! great for settling the stomach.
+  name: 綠茶壺
+  description: 這就像茶一樣……但它是綠色的！非常適合舒緩胃部不適。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -321,8 +321,8 @@
 - type: entity
   parent: [DrinkVisualsOpenable, DrinkBottlePlasticBaseFull]
   id: DrinkIcedTeaJug
-  name: iced tea jug
-  description: For when the regular tea is too hot for you. Boohoo.
+  name: 冰茶壺
+  description: 當普通的茶對你來說太燙的時候。嗚嗚。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -338,8 +338,8 @@
 - type: entity
   parent: [DrinkVisualsOpenable, DrinkBottlePlasticBaseFull]
   id: DrinkDrGibbJug
-  name: Dr. Gibb jug
-  description: 42 different flavours... in a jug!
+  name: 吉布博士的壺
+  description: 42 種不同口味……全都在一個壺裡！
   components:
   - type: SolutionContainerManager
     solutions:
@@ -355,8 +355,8 @@
 - type: entity
   parent: [DrinkVisualsOpenable, DrinkBottlePlasticBaseFull]
   id: DrinkRootBeerJug
-  name: root beer jug
-  description: This drink makes Australians giggle.
+  name: 根啤酒壺
+  description: 這杯飲料總讓澳洲人忍俊不禁。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -372,8 +372,8 @@
 - type: entity
   parent: [DrinkVisualsOpenable, DrinkBottlePlasticBaseFull]
   id: DrinkWaterMelonJuiceJug
-  name: watermelon juice jug
-  description: May include leftover seeds.
+  name: 西瓜汁壺
+  description: 可能含有剩餘的種子。
   components:
   - type: SolutionContainerManager
     solutions:

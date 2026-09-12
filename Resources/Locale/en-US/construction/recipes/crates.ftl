@@ -1,3 +1,3 @@
-construction-recipe-crate-freezer = crate freezer
-construction-recipe-big-box = large cardboard box
-construction-recipe-box-cardboard = small cardboard box
+construction-recipe-crate-freezer = 冷藏箱
+construction-recipe-big-box = 大型紙箱
+construction-recipe-box-cardboard = 小紙箱

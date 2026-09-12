@@ -1,9 +1,9 @@
 - type: entity
-  name: basic slime
+  name: 基礎史萊姆
   id: BaseMobAdultSlimes
   parent: [ SimpleMobBase, MobCombat ]
   abstract: true
-  description: It looks so much like jelly. I wonder what it tastes like?
+  description: 這看起來簡直就像果凍一樣。不知道味道如何呢？
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -150,7 +150,7 @@
       task: SimpleHostileCompound
 
 - type: entity
-  name: blue slime
+  name: 藍色黏液
   id: MobAdultSlimesBlue
   parent: MobAdultSlimes
   components:
@@ -179,7 +179,7 @@
         settings: short
 
 - type: entity
-  name: green slime
+  name: 綠色黏液
   parent: MobAdultSlimes
   id: MobAdultSlimesGreen
   components:
@@ -219,7 +219,7 @@
         settings: short
 
 - type: entity
-  name: yellow slime
+  name: 黃色黏液
   parent: MobAdultSlimes
   id: MobAdultSlimesYellow
   components:

@@ -1,22 +1,23 @@
+
 <Document>
-  # MCDELIVERY FRANCHISE SHUTTLE
+  # MCDELIVERY 加盟接駁車
   <Box>
     <GuideEntityEmbed Entity="ClothingHeadHatMcCrown"/>
     <GuideEntityEmbed Entity="HappyHonkMcCargo"/>
-    <GuideEntityEmbed Entity="CrateFoodMcCargo"/>    
+    <GuideEntityEmbed Entity="CrateFoodMcCargo"/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapMcDelivery" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Micro
+  [color=#a4885c]船隻尺寸：[/color] 微型
 
-  [color=#a4885c]Recommended Crew:[/color] 1
+  [color=#a4885c]建議船員人數：[/color] 1
 
-  [color=#a4885c]Power Gen Type:[/color] WeldFuel
+  [color=#a4885c]發電類型：[/color] 焊接燃料
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "A delivery ship build for McCargo. Your meal is approaching. Rapidly."
+  「一艘為 McCargo 打造的貨運船。 您的餐點即將上桌。 「迅速地。」
 
   # Ship Functions
 

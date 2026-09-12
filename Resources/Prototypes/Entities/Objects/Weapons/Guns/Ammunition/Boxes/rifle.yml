@@ -28,7 +28,7 @@
   categories: [ HideSpawnMenu ] # Frontier
   parent: BaseMagazineBoxRifle
   id: MagazineBoxRifleBig
-  name: ammunition box (.20 rifle)
+  name: 彈藥箱（.20 步槍）
   suffix: Big
   components:
   - type: BallisticAmmoProvider
@@ -65,7 +65,7 @@
   categories: [ HideSpawnMenu ] # Frontier
   parent: BaseMagazineBoxRifle
   id: MagazineBoxRiflePractice
-  name: ammunition box (.20 rifle practice)
+  name: 彈藥箱（.20口徑步槍練習用）
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgeRiflePractice # Frontier
@@ -81,7 +81,7 @@
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazineBoxRifleIncendiary
   parent: BaseMagazineBoxRifle
-  name: ammunition box (.20 rifle incendiary)
+  name: 彈藥箱（.20口徑步槍燃燒彈）
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgeRifleIncendiary # Frontier
@@ -97,7 +97,7 @@
   categories: [ HideSpawnMenu ] # Frontier
   id: MagazineBoxRifleUranium
   parent: BaseMagazineBoxRifle
-  name: ammunition box (.20 rifle uranium)
+  name: 彈藥箱（.20口徑步槍鈾彈）
   components:
   - type: BallisticAmmoProvider
     # proto: CartridgeRifleUranium # Frontier

@@ -1,5 +1,6 @@
+
 <Document>
-# GASLIGHT-CLASS EXTRACTION SHUTTLE
+# GASLIGHT 級採礦穿梭艙
 <Box>
   <GuideEntityEmbed Entity="SignEngineering" Caption="Produce"/>
   <GuideEntityEmbed Entity="NFPosterContrabandFscLogo" Caption="Profit"/>
@@ -8,15 +9,15 @@
 <Box>
   <GuideEntityEmbed Entity="ShuttleMapGaslight" Caption=""/>
 </Box>
-[color=#a4885c]Ship Size:[/color] Medium
+[color=#a4885c]船隻尺寸：[/color] 中型
 
-[color=#a4885c]Recommended Crew:[/color] 1-2
+[color=#a4885c]建議船員人數：[/color] 1-2 人
 
-[color=#a4885c]Power Gen Type:[/color] Uranium
+[color=#a4885c]動力類型：[/color] 鈾
 
-# Shuttle Brief
+# 飛船簡介
 
-"A gas mining and mineral extraction platform. The Gaslight was produced by the Far Star Corporation to serve as a support vessel for sectors with greater abundancy than can be managed by the Surveyor."
+「一座氣體開採與礦物提取平台。 「『煤氣燈號』是由遠星公司所製造，用以擔任支援艦，服務於那些資源豐沛程度超出『勘探者號』管理能力的星區。」
 
 # Ship Functions
 
@@ -24,7 +25,7 @@
   <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Bolt Exterior Airlocks"/>
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Power Down Thrusters"/>
   <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Toggle Shutters"/>
-  <GuideEntityEmbed Entity="ButtonFrameJanitor" Caption="Activate Radiator Cooling System"/>
+  <GuideEntityEmbed Entity="ButtonFrameJanitor" Caption="啟動散熱器冷卻系統"/>
 </Box>
 
 # Gas Extraction

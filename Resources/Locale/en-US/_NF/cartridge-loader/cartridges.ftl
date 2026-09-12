@@ -1,43 +1,40 @@
 # Appraisal cartridge
 appraisal-program-name = AppraiseAll Plus
-appraisal-label-name = Item
-appraisal-label-price = Appraised Price
-
+appraisal-label-name = 物品
+appraisal-label-price = 估價
 # Ledger cartridge
 ledger-program-name = SpesoFlow Lite
-ledger-header = Sector Ledger
-ledger-total-income = Total Income
+ledger-header = 產業分類帳
+ledger-total-income = 總收入
 ledger-no-income = None
-ledger-total-expenses = Total Expenses
+ledger-total-expenses = 總支出
 ledger-no-expenses = None
-ledger-balance = Balance:
+ledger-balance = 餘額：
 ledger-no-balance = N/A
-
-ledger-tab-Frontier = Frontier Outpost
+ledger-tab-Frontier = 邊境前哨站
 ledger-tab-Nfsd = NFSD
-ledger-tab-Medical = Medical Dispatch
-ledger-tab-Edison = Edison
+ledger-tab-Medical = 醫療調度
+ledger-tab-Edison = 愛迪生
 # Fallback, if this displays, something's wrong.
 ledger-tab-Unknown = Unknown
-
-ledger-entry-type-TickingIncome = NT Subsidies
-ledger-entry-type-VendorTax = Vendor Taxes
-ledger-entry-type-CargoTax = Cargo Taxes
-ledger-entry-type-MailDelivered = Mail Payments
-ledger-entry-type-BlackMarketAtmTax = Anon. Benefactors
-ledger-entry-type-BlackMarketShipyardTax = Anon. Scrap Resale
-ledger-entry-type-BluespaceReward = Guard Duty Rewards
-ledger-entry-type-MedicalBountyTax = Medical Bounties
-ledger-entry-type-AntiSmugglingBonus = Anti-Smuggling
-ledger-entry-type-PowerTransmission = Energy Exports
-ledger-entry-type-StationDepositFines = Fines Deposited
-ledger-entry-type-StationDepositDonation = Donations
-ledger-entry-type-StationDepositAssetsSold = Sold Assets
-ledger-entry-type-StationDepositOther = Misc. Deposits
-ledger-entry-type-MailPenalty = Mail Penalties
-ledger-entry-type-ShuttleRecordFees = Shuttle Record Fees
+ledger-entry-type-TickingIncome = 北領地補貼
+ledger-entry-type-VendorTax = 供應商稅款
+ledger-entry-type-CargoTax = 貨物稅
+ledger-entry-type-MailDelivered = 郵寄付款
+ledger-entry-type-BlackMarketAtmTax = 匿名捐助者
+ledger-entry-type-BlackMarketShipyardTax = 匿名。廢料轉售
+ledger-entry-type-BluespaceReward = 站崗獎勵
+ledger-entry-type-MedicalBountyTax = 醫療獎金
+ledger-entry-type-AntiSmugglingBonus = 反走私
+ledger-entry-type-PowerTransmission = 能源出口
+ledger-entry-type-StationDepositFines = 已繳納的罰款
+ledger-entry-type-StationDepositDonation = 捐款
+ledger-entry-type-StationDepositAssetsSold = 已出售資產
+ledger-entry-type-StationDepositOther = 其他存款
+ledger-entry-type-MailPenalty = 郵件罰則
+ledger-entry-type-ShuttleRecordFees = 穿梭車紀錄費用
 ledger-entry-type-StationWithdrawalPayroll = Payroll
-ledger-entry-type-StationWithdrawalWorkOrder = Work Orders
-ledger-entry-type-StationWithdrawalSupplies = Supply Expenses
-ledger-entry-type-StationWithdrawalBounty = Bounties
-ledger-entry-type-StationWithdrawalOther = Misc. Expenses
+ledger-entry-type-StationWithdrawalWorkOrder = 工作單
+ledger-entry-type-StationWithdrawalSupplies = 供應費用
+ledger-entry-type-StationWithdrawalBounty = 懸賞
+ledger-entry-type-StationWithdrawalOther = 雜項開支

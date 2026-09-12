@@ -1,8 +1,8 @@
 ﻿- type: entity
   id: MachineParticleAcceleratorEndCapCircuitboard
   parent: BaseMachineCircuitboard
-  name: PA end cap board
-  description: A machine board for a particle accelerator end cap.
+  name: PA 端蓋板
+  description: 用於粒子加速器端蓋的機板。
   components:
     - type: Sprite
       state: engineering
@@ -15,8 +15,8 @@
 - type: entity
   id: MachineParticleAcceleratorFuelChamberCircuitboard
   parent: BaseMachineCircuitboard
-  name: PA fuel chamber board
-  description: A machine board for a particle accelerator fuel chamber.
+  name: PA 燃料室電路板
+  description: 用於粒子加速器燃料室的機板。
   components:
     - type: Sprite
       state: engineering
@@ -33,8 +33,8 @@
 - type: entity
   id: MachineParticleAcceleratorPowerBoxCircuitboard
   parent: BaseMachineCircuitboard
-  name: PA power box board
-  description: A machine board for a particle accelerator power box.
+  name: PA 電源盒電路板
+  description: 用於粒子加速器電源箱的機板。
   components:
     - type: Sprite
       state: engineering
@@ -49,8 +49,8 @@
 - type: entity
   id: MachineParticleAcceleratorEmitterStarboardCircuitboard
   parent: BaseMachineCircuitboard
-  name: PA starboard emitter board
-  description: A machine board for a particle accelerator left emitter.
+  name: PA 右舷發射器電路板
+  description: 一塊用於粒子加速器左側發射器的機板。
   components:
     - type: Sprite
       state: engineering
@@ -63,8 +63,8 @@
 - type: entity
   id: MachineParticleAcceleratorEmitterForeCircuitboard
   parent: BaseMachineCircuitboard
-  name: PA fore emitter board
-  description: A machine board for a particle accelerator center emitter.
+  name: PA 前端發射器電路板
+  description: 用於粒子加速器中心發射器的機板。
   components:
     - type: Sprite
       state: engineering
@@ -77,8 +77,8 @@
 - type: entity
   id: MachineParticleAcceleratorEmitterPortCircuitboard
   parent: BaseMachineCircuitboard
-  name: PA port emitter board
-  description: A machine board for a particle accelerator right emitter.
+  name: PA 端口發射極電路板
+  description: 一塊用於粒子加速器右側發射器的機板。
   components:
     - type: Sprite
       state: engineering

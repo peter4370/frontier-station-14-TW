@@ -1,12 +1,9 @@
-marking-LizardSnoutpiercings-piercings1 = Piercings
+marking-LizardSnoutpiercings-piercings1 = 穿孔
 marking-LizardSnoutpiercings = Piercings
-
-marking-LizardHornsNubby-horns_nubby = Lizard Horns (Nubby)
+marking-LizardHornsNubby-horns_nubby = 蜥蜴角（結節型）
 marking-LizardHornsNubby = Lizard Horns (Nubby)
-
-marking-LizardHornsKoboldEarspiercings = Lizard Ears (Kobold, Pierced)
-marking-LizardHornsKoboldEarspiercings-horns_kobold_ears = Ears
+marking-LizardHornsKoboldEarspiercings = 蜥蜴耳環（科博爾德，穿孔款）
+marking-LizardHornsKoboldEarspiercings-horns_kobold_ears = 耳朵
 marking-LizardHornsKoboldEarspiercings-horns_kobold_ears_piercings = Piercings
-
-marking-Fangs = Lizard Fangs
-marking-Fangs-Fangs = Fangs
+marking-Fangs = 蜥蜴獠牙
+marking-Fangs-Fangs = 獠牙

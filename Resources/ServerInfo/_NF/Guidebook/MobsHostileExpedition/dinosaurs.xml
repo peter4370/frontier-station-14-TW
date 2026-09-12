@@ -1,175 +1,176 @@
+
 <Document>
-  # Dinosaurs
-  
-  Enigmatic behemoths from a bygone era known for their imposing stature and formidable presence. It would seem that nature took the same path on some distant planets as it did on Earth.
-  
-  Can be butchered for meat and bones.
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Known Variants
-  # "Compsognathus"
-  
-  Compsognathus is a genus of small, bipedal, carnivorous theropods. They have long hind legs and longer tails, which they used for balance during locomotion. Their forelimbs are small but beware of their claws.
-  
+  # 恐龍
+
+  來自遠古時代的神秘巨獸，以其魁梧的身軀與令人望而生畏的氣勢而聞名。 看來，在某些遙遠的行星上，大自然似乎走上了與地球相同的演化道路。
+
+  可以宰殺以取得肉和骨頭。
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 已知變種
+  # 「侏兀龍」
+
+  侏兀龍（Compsognathus）是一屬小型、兩足行走、肉食性的獸腳類恐龍。 牠們擁有修長的後肢和更長的尾巴，行進時會利用這些部位來維持平衡。 牠們的前肢雖小，但要小心牠們的爪子。
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurCompyExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.1 m/s (4.1 m/s)[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Dilophosaurus"
-  
-  With a name meaning "two-crested lizard", these measure in at about 7 m in length and 400 kg in weight. Slender and lightly built, these are very agile.
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 50（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.1 公尺/秒 (4.1 公尺/秒)[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 8 [color=red]斬擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
+  [bold][color=#a4885c]*[/color][/bold] - [italic]一般人類的奔跑速度為 4.5 公尺／秒，步行速度為 2.5 公尺／秒。[/斜體]
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 「雙冠龍」
+
+  其名意為「雙冠蜥蜴」，體長約 7 公尺，體重約 400 公斤。 牠們身材纖細、體格輕盈，動作非常靈活。
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurDiloExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.3 m/s (4.3 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Slash[/color], 2 [color=orange]Caustic[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 50（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/粗體] 4.3 公尺/秒 (4.3 公尺/秒)
+  - [粗體][顏色=#a4885c]傷害 (類型)：[/顏色][/粗體] 8 [顏色=紅色]斬擊[/顏色]，2 [color=orange]腐蝕[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Velociraptor"
-  
-  A bipedal, featherless carnivore with a long tail. Each of its hindfeet has an enlarged sickle-shaped claw, which is used to tackle and restrain prey. Very fast, exercise caution.
-  
+
+  # 「迅猛龍」
+
+  一種雙足行走、無羽毛且擁有長尾巴的肉食性生物。 它的每隻後腳都長有一枚增大的鐮刀狀爪子，用以擒捕並制服獵物。 速度非常快，請務必謹慎。
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurRaptorExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 80 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (4.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 18 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 80（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒 (4.5 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 18 [color=red]斬擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Parasaurolophus"
-  
-  A large carnivore that can reach over 9 metres (30 ft) long and weigh over 5 metric tons (5.5 short tons), these can move on two legs or four. Reasonably fast for its size, but comparatively fragile and weak.
-  
+
+  # 「伶盜龍」
+
+  這種大型肉食性恐龍體長可達 9公尺（30英尺）以上，體重超過5公噸（5.5短噸），既能雙足行走，也能四足行走。 以它的體型而言，速度還算快，但相對來說較為脆弱且力氣不足。
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurParaExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4 m/s (4 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 6 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 100（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4 公尺/秒 (4 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/粗體] 6 [顏色=紅色]鈍擊[/顏色]
+  - [粗體][顏色=#a4885c]傷害抗性：[/顏色][/粗體] 無
+  - [粗體][顏色=#a4885c]特殊能力：[/顏色][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Kentrosaurus"
-  
-  On the smaller side of dinosaurs, Kentrosaurus generally measure around 4–4.5 m, and weigh about 700–1,600 kg. Its elongated head and beak are used to bite off plant material or tear off limbs.
-  
+
+  # 「肯特龍」
+
+  肯特龍屬於體型較小的恐龍，體長通常約為 4–4.5 公尺，體重約為 700–1,600 公斤。 它那細長的頭部和喙，是用來咬斷植物或撕扯樹枝的。
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurKentroExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 150 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 2.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 150（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/bold] 2.5 公尺/秒 (2.5 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 10 [color=red]鈍擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Triceratops"
-  
-  Bearing a large bony frill with three horns on its skull, this massive quadruped is one of the most recognizable of all dinosaurs and the best-known ceratopsian. Typically tries to gore whatever it attacks.
-  
+
+  # 「三角龍」
+
+  這種龐大的四足動物頭部長有巨大的骨質頸冠，頭骨上還長著三隻角，是所有恐龍中最易辨識的物種之一，也是最廣為人知的角龍類。 通常會試圖用犄角刺穿它攻擊的任何目標。
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurTrikeExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 200 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3 m/s (3 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 15 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 200（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/bold] 3 公尺/秒 (3 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/粗體] 15 [顏色=黃色]穿刺[/顏色]
+  - [粗體][顏色=#a4885c]傷害抗性：[/顏色][/粗體] 無
+  - [粗體][顏色=#a4885c]特殊能力：[/顏色][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Ankylosaurus"
-  
-  Typically between between 6 and 8 meters long and between 4.8 and 8 tons in weight, this lumbering beast shouldn't be underestimated. Its wide, low skull and robust body can take a beating and still survive, and the large club on the end of its tail can be used as a weapon.
-  
+
+  # 「甲龍」
+
+  這種行動遲緩的巨獸，體長通常介於 6 至 8 公尺之間，體重介於 4.8 至 8 公噸之間，絕不可輕敵。 它那寬大而低平的頭骨與強壯的體格，即使遭受重擊也能倖存下來；而尾巴末端那巨大的棍狀結構，則可作為武器使用。
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurAnkiExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 250 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 2 m/s (2 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 250（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/bold] 2 公尺/秒 (2 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 8 [color=red]鈍擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Spinosaurus"
-  
-  With a typical length of 14 m and a mass of 7.4 tons, Spinosaurus has large, robust forelimbs. Each of its hands has three-fingers, with an enlarged claw on the first digit. Surprisingly quick for its size, this giant can take a lot of punishment.
-  
+
+  # 「棘龍」
+
+  棘龍的體長通常為 14 公尺，體重達 7.4 公噸，擁有巨大且強健的前肢。 它的每隻手都有三根手指，第一根手指上長著一個增大的爪子。 以它的體型而言，這頭巨獸的動作出乎意料地敏捷，而且能承受極大的打擊。
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurSpinoExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 350 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (4.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 12 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 350（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒 (4.5 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 12 [color=red]鈍擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Stegosaurus"
-  
-  Large and heavily built, these herbivorous quadrupeds have rounded backs, short fore limbs, long hind limbs, and tails held high in the air. Lumbering, but lethal up close.
-  
+
+  # 「甲龍」
+
+  這些體型龐大且身軀魁梧的植食性四足動物，背部呈圓弧狀，前肢短小，後肢修長，尾巴高高舉起。 動作遲緩，但在近距離卻極具殺傷力。
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurStegoExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 350 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 2.5 m/s (2.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 12 [color=red]Blunt[/color], 8 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 350（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/粗體] 2.5 公尺/秒 (2.5 公尺/秒)
+  - [粗體][color=#a4885c]傷害 (類型)：[/color][/粗體] 12 [color=red]鈍擊[/color]，8 [color=yellow]穿刺[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Tyrannosaurus"
-  
-  A massive therapod, its giant thorax is balanced by a long, heavy tail. Relative to its large and powerful hind limbs, the forelimbs of Tyrannosaurus are short but incredible powerful for their size, and they have two clawed digits.
-  
+
+  # 「暴龍」
+
+  一隻龐大的獸腳類恐龍，其巨大的胸腔由一條長而沉重的尾巴來維持平衡。 相較於其巨大而強壯的後肢，暴龍的前肢雖然較短，但以牠們的體型而言卻擁有驚人的力量，且每隻前肢各有兩根帶有爪子的趾。
+
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurTrexExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 450 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (4.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 15 [color=red]Blunt[/color], 10 [color=yellow]Piercing[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 450（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒（4.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 15 [color=red]鈍擊[/color]、10 [color=yellow]穿刺[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Mission Objectives
-  ## Elimination
+
+  # 任務目標
+  ## 消滅
   <Box>
   <GuideEntityEmbed Entity="MobDinosaurTrexExpeditions"/>
   </Box>
-  Eliminate a large and dangerous creature - a [color=#a4885c]tyrannosaurus[/color] within given time constraints.
-  
+  在指定的時間限制內，消滅一隻龐大且危險的生物——一隻 [color=#a4885c]暴龍[/color]。
+
   ## Destruction
   <Box>
   <GuideEntityEmbed Entity="DinosaurEgg"/>
   </Box>
-  Destroy a certain amount of [color=#a4885c]dinosaur eggs[/color] within given time constraints.
+  在指定的時間限制內摧毀一定數量的 [color=#a4885c]恐龍蛋[/color]。
 </Document>

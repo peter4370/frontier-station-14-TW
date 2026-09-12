@@ -15,11 +15,10 @@ tiles-wood-light-mosaic-floor = light mosaic wood floor
 tiles-wood-fancy-floor = fancy wood floor
 tiles-wood-versailles-floor = versailles wood floor
 tiles-cheese-floor = cheese floor
-tiles-plasma-glass-floor = plasma glass floor
-tiles-reinforced-plasma-glass-floor = reinforced plasma glass floor
-tiles-uranium-glass-floor = uranium floor
-tiles-reinforced-uranium-glass-floor = reinforced uranium floor
+tiles-plasma-glass-floor = 等離子玻璃地板
+tiles-reinforced-plasma-glass-floor = 強化等離子玻璃地板
+tiles-uranium-glass-floor = 鈾層
+tiles-reinforced-uranium-glass-floor = 強化鈾地板
 tiles-inflatable-plating = inflatable floor
-
 # Upstream renames
-tiles-dirt-floor-undiggable = dirt floor (undiggable)
+tiles-dirt-floor-undiggable = 泥土地面（無法挖掘）

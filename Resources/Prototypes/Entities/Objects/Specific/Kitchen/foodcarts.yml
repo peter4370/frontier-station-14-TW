@@ -1,9 +1,9 @@
 - type: entity
-  name: food cart
+  name: 餐車
   id: FoodCartBase
   abstract: true
   parent: BaseStructureDynamic
-  description: A cart for food.
+  description: 一輛裝食物的推車。
   components:
     - type: Sprite
     - type: Rotatable
@@ -66,10 +66,10 @@
     #      startingItem: PowerCellMedium
 
 - type: entity
-  name: hot food cart
+  name: 熱食推車
   id: FoodCartHot
   parent: FoodCartBase
-  description: Get out there and slang some dogs.
+  description: 快出去賣些熱狗吧。
   components:
     - type: Sprite
       noRot: true
@@ -146,10 +146,10 @@
         ketchup_slot: !type:ContainerSlot {}
 
 - type: entity
-  name: cold food cart
+  name: 冷食推車
   id: FoodCartCold
   parent: FoodCartBase
-  description: It's the Ice Cream Man! It's the Ice Cream Man!
+  description: 是冰淇淋小販！是冰淇淋小販！
   components:
     - type: Sprite
       noRot: true

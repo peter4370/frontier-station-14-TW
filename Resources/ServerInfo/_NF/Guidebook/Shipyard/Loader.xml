@@ -1,27 +1,28 @@
+
 <Document>
-  # LOADER-CLASS CARGO SHUTTLE
+  # 裝載級貨運穿梭機
   <Box>
   <GuideEntityEmbed Entity="CrateTradeSecureNormal" Caption="trading crate"/>
-  <GuideEntityEmbed Entity="CrateTradeSecureHigh" Caption="express trading crate"/>
-  </Box>  
+  <GuideEntityEmbed Entity="CrateTradeSecureHigh" Caption="快速交易箱"/>
+  </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapLoader" Caption=""/>
   </Box>
-    [color=#a4885c]Ship Size:[/color] Small
-	
-	[color=#a4885c]Recommended Crew:[/color] 1-2
-	
-	[color=#a4885c]Power Gen Type:[/color] Plasma
+    [color=#a4885c]船體尺寸：[/color] 小型
 
-  # Shuttle Brief
-	
-  "A budget-friendly cargo shuttle with just enough room for the bare essentials. Perfect for moving cargo: no hassle, no fuss, and no paper trail."
+	[color=#a4885c]建議乘員人數：[/color] 1-2 人
+
+	[color=#a4885c]動力類型：[/color] 等離子
+
+  # 穿梭機簡介
+
+  「一款經濟實惠的貨運穿梭機，空間僅夠容納最基本的必需品。 「非常適合運輸貨物：既省事、又省心，而且沒有任何書面記錄。」
 
   # Ship Functions
 
   <Box>
     <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Bolt Exterior Airlocks"/>
-    <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Toggle Shutters/Blast Doors"/>
+    <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="切換百葉窗／防爆門"/>
   </Box>
 
   # Cargo

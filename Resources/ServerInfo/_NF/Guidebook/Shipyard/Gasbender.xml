@@ -1,27 +1,28 @@
+
 <Document>
-  # GASBENDER-CLASS ENGINEERING SHUTTLE
+  # GASBENDER 級工程接駁船
   <Box>
   <GuideEntityEmbed Entity="NFPosterContrabandLvhiPlanetCore" Caption=""/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapGasbender" Caption=""/>
   </Box>
-    [color=#a4885c]Ship Size:[/color] Medium
+    [color=#a4885c]船隻尺寸：[/color] 中型
 
-	[color=#a4885c]Recommended Crew:[/color] 3-6
+	[color=#a4885c]建議船員人數：[/color] 3-6 人
 
-	[color=#a4885c]Power Gen Type:[/color] Bananium
+	[color=#a4885c]發電類型：[/color] 巴納尼姆
 
-	[color=#a4885c]Expeditions:[/color] None
+	[color=#a4885c]探險任務：[/color] 無
 
-	[color=#a4885c]IFF Console:[/color] None
+	[color=#a4885c]IFF 控制台：[/color] 無
 
-  "The Gasbender is a medium-sized engineering vessel outfitted for deep space construction projects and gas mining. Features atmospherics setup with mixing/ignition chamber. Designed to work in pair with smaller salvage ship. Manufactured by Langstad-Voigt Heavy Industries."
+  「Gasbender 是一艘中型工程船，專為深空建設專案及氣體開採而配備。」 具備帶有混合／點火室的大氣式配置。 設計上需與較小的打撈船配對使用。 Manufactured by Langstad-Voigt Heavy Industries."
 
-  # Tips on running LVHI Gasbender shuttles
-  - The total power load for the shuttle in standard complectation is 49 [bold]kW[/bold]. For more general info on the power grid, see the guidebook article [textlink="Power" link="Power"], and for more info about the Antimatter Engine, see the guidebook article [textlink="AME" link="AME"].
-  - The shuttle comes with necessary equipment for Offshore Gas Mining. To learn the basics, see the guidebook article [textlink="Offshore Gas Mining" link="OffshoreGasMining"].
-  - For more general info on atmospherics see the guidebook article about [textlink="Atmospherics" link="Atmospherics"].
+  # 操作 LVHI Gasbender 梭式機的要訣
+  - 標準配置下，該梭式機的總功率負載為 49 [bold]kW[/bold]。 有關電力網的更多一般資訊，請參閱指南中的文章 [textlink="電力" link="電力"]；關於反物質引擎的更多資訊，請參閱指南中的文章 [textlink="AME" link="AME"]。
+  - 這艘穿梭艙配備了進行離岸天然氣開採所需的設備。 如欲了解基礎知識，請參閱指南文章 [textlink="離岸天然氣開採" link="OffshoreGasMining"]。
+  - 有關大氣現象的更多一般資訊，請參閱指南中關於 [textlink="大氣現象" link="大氣現象"] 的文章。
   - For basics of shuttle piloting see [textlink="Piloting" link="Piloting"].
 
 </Document>

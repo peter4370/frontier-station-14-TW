@@ -1,5 +1,6 @@
+
 <Document>
-  # PATHFINDER-CLASS EXPEDITION SHUTTLE
+  # 「探路者」級探險穿梭機
   <Box>
   <GuideEntityEmbed Entity="ClothingMaskGasExplorer"/>
   <GuideEntityEmbed Entity="MechEmuCargo"/>
@@ -9,21 +10,21 @@
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapPathfinder" Caption=""/>
   </Box>
-    [color=#a4885c]Ship Size:[/color] Medium
+    [color=#a4885c]船隻尺寸：[/color] 中型
 
-	[color=#a4885c]Recommended Crew:[/color] 2-4
+	[color=#a4885c]建議船員人數：[/color] 2-4 人
 
-	[color=#a4885c]Power Gen Type:[/color] AME
+	[color=#a4885c]發電類型：[/color] AME
 
-	[color=#a4885c]Expeditions:[/color] Yes
+	[color=#a4885c]探險任務：[/color] 是
 
-	[color=#a4885c]IFF Console:[/color] None
+	[color=#a4885c]敵我識別（IFF）控制台：[/color] 無
 
-  "Once a scout ship serving with the Nanotrasen Marine Expeditionary Forces, this now decommissioned and refurbished expedition-capable ship can be yours!"
+  「這艘曾服役於納諾特拉森海軍遠征部隊的偵察艦，如今已退役並經翻新，具備探險能力，現在可以成為你的了！」
 
-  # Tips on running KC Pathfinder shuttles
-  - Optimal [bold]Target Power[/bold] (kW) for the generator unit is [color=#a4885c]27 [bold]kW[/bold][/color]. If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
-  - There are two buttons in the cockpit: the one with a yellow and black frame controls the window shutters, toggling all shutters throughout the shuttle except for those in the dorms and over the exterior airlocks by the docks. The button with the gray frame controls the thrusters.
+  # 關於運行 KC Pathfinder 接駁車的提示
+  - 發電機組的最佳 [bold]目標功率[/bold]（kW）為 [color=#a4885c]27 [bold]kW[/bold][/color]。 If you've added additional machines, check shuttle [bold]APC units[/bold] to monitor the shuttle's power draw and adjust the generator's [bold]Target Power[/bold] accordingly. For more general information on the power grid and other life support systems, refer to the [textlink="Power" link="Power"] guidebook article and the [textlink="Preflight Checklist" link="PreflightChecklist"/].
+  - 駕駛艙內有兩個按鈕：其中一個帶有黃黑相間邊框的按鈕用來控制窗戶百葉窗，可切換太空梭內所有百葉窗的開闔狀態，唯獨宿舍內的百葉窗以及停靠站旁外部氣閘上方的百葉窗除外。 那個帶有灰色邊框的按鈕用來控制推進器。
   <Box>
   <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="EVA Access"/>
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Toggle Shutters"/>

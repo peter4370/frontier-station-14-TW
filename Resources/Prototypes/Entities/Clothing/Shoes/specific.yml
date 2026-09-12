@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingShoesBaseButcherable
   id: ClothingShoesChef
-  name: chef shoes
-  description: Sturdy shoes that minimize injury from falling objects or knives.
+  name: 廚師鞋
+  description: 堅固的鞋子，能將墜落物或刀具造成的傷害降至最低。
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Specific/chef.rsi
@@ -47,7 +47,7 @@
   parent: ClothingShoesClownBase
   id: ClothingShoesClown
   name: clown shoes
-  description: "The prankster's standard-issue clowning shoes. Damn they're huge!"
+  description: "惡作劇者標配的小丑鞋。天啊，這鞋也太大了吧！"
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Specific/clown.rsi
@@ -67,8 +67,8 @@
 - type: entity
   parent: ClothingShoesClown
   id: ClothingShoesClownBanana
-  name: banana clown shoes
-  description: "When humor and footwear combine into new levels of absurdity."
+  name: 香蕉小丑鞋
+  description: "當幽默與鞋履結合，便能將荒謬感提升至全新境界。"
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Specific/clown_banana.rsi
@@ -90,8 +90,8 @@
 - type: entity
   parent: ClothingShoesClownBase
   id: ClothingShoesBling
-  name: bling clown shoes
-  description: Made of refined bananium and shined with the pulp of a fresh banana peel. These make a flashy statement.
+  name: 閃亮小丑鞋
+  description: 採用精煉的香蕉金屬製成，並以新鮮香蕉皮的果肉拋光。這些飾品展現出耀眼奪目的風采。
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Specific/bling.rsi
@@ -112,8 +112,8 @@
 - type: entity
   parent: [ClothingShoesBaseButcherable, BaseC3CultContraband, ContrabandClothing ] # Frontier: added BaseC3CultContraband, ContrabandClothing
   id: ClothingShoesCult
-  name: cult shoes
-  description: A pair of boots worn by the followers of Nar'Sie.
+  name: 經典鞋款
+  description: 一雙由納爾西（Nar'Sie）追隨者所穿的靴子。
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Specific/cult.rsi
@@ -123,8 +123,8 @@
 - type: entity
   parent: ClothingShoesBase # Frontier: remove BaseJanitorContraband
   id: ClothingShoesGaloshes
-  name: galoshes
-  description: Rubber boots.
+  name: 雨鞋
+  description: 橡膠靴。
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Specific/galoshes.rsi
@@ -140,8 +140,8 @@
 - type: entity
   parent: [ClothingShoesBaseButcherable, BaseC3Contraband, ContrabandClothing ] # Frontier: BaseMajorContraband<BaseC3Contraband, added ContrabandClothing
   id: ClothingShoesSpaceNinja
-  name: space ninja shoes
-  description: A pair of nano-enhanced boots with built-in magnetic suction cups.
+  name: 太空忍者鞋
+  description: 一雙配備內建磁性吸盤的奈米強化靴。
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Specific/spaceninja.rsi
@@ -159,8 +159,8 @@
 - type: entity
   parent: [ClothingShoesBaseButcherable, BaseC2ContrabandUnredeemable] # Frontier: BaseMajorContraband<BaseC2ContrabandUnredeemable
   id: ClothingShoesSwat
-  name: swat shoes
-  description: When you want to turn up the heat.
+  name: 特警鞋
+  description: 當你想讓氣氛更熱絡時。
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Specific/swat.rsi
@@ -170,8 +170,8 @@
 - type: entity
   parent: [ClothingShoesBaseButcherable, BaseC3WizardContraband] # Frontier: added BaseC3WizardContraband
   id: ClothingShoesWizard
-  name: wizard shoes
-  description: A pair of magic shoes.
+  name: 巫師鞋
+  description: 一雙魔法鞋。
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Specific/wizard.rsi
@@ -228,8 +228,8 @@
 - type: entity
   parent: ClothingShoesClown
   id: ClothingShoesJester
-  name: jester shoes
-  description: A court jester's shoes, updated with modern squeaking technology.
+  name: 小丑鞋
+  description: 一名宮廷小丑的鞋子，融入了現代的吱吱作響技術。
   components:
     - type: Sprite
       sprite: Clothing/Shoes/Specific/jester.rsi
@@ -251,9 +251,9 @@
 - type: entity
   parent: ClothingShoesClown
   id: ClothingShoesCluwne
-  name: cluwne shoes
+  name: cluwne 鞋款
   suffix: Unremoveable
-  description: "Cursed pair of cluwne shoes."
+  description: "這雙該死的克盧恩鞋。"
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Specific/cluwne.rsi
@@ -264,8 +264,8 @@
 - type: entity
   parent: ClothingShoesClown
   id: ClothingShoesClownLarge
-  name: large clown shoes
-  description: "When you need to stand out in a room full of clowns!"
+  name: 大號小丑鞋
+  description: "當你需要在一群小丑之中脫穎而出時！"
   components:
   - type: Sprite
     state: "icon"
@@ -286,8 +286,8 @@
 - type: entity
   parent: ClothingShoesBaseButcherable
   id: ClothingShoesSkates
-  name: roller skates
-  description: "Get your skates on!"
+  name: 直排輪
+  description: "快點動起來吧！"
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Specific/skates.rsi

@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseWallmountMetallic
   id: SignalSwitch
-  name: signal switch
-  description: It's a switch for toggling power to things.
+  name: 訊號開關
+  description: 這是一個用來切換設備電源的開關。
   components:
   - type: WallMount
     arc: 360
@@ -54,8 +54,8 @@
 - type: entity
   parent: BaseWallmountMetallic
   id: SignalButton
-  name: signal button
-  description: It's a button for activating something.
+  name: 訊號按鈕
+  description: 這是一個用來啟動某個功能的按鈕。
   components:
   - type: WallMount
     arc: 360
@@ -106,8 +106,8 @@
 - type: entity
   parent: BaseWallmountMetallic
   id: ApcNetSwitch
-  name: apc net switch
-  description: It's a switch for toggling lights that are connected to the same apc.
+  name: APC 網路交換器
+  description: 這是一個用於切換連接至同一台 APC 的燈具的開關。
   components:
   - type: WallMount
     arc: 360
@@ -171,7 +171,7 @@
 - type: entity
   parent: SignalButtonDirectional
   id: LockableButton
-  name: lockable button
+  name: 可鎖定按鈕
   # categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: Appearance
@@ -439,9 +439,9 @@
 
 - type: entity
   id: ButtonFrame
-  name: button frame
+  name: 鈕扣框
   categories: [ HideSpawnMenu ]
-  description: It's a frame to help distinguish switches visually.
+  description: 這是一個有助於在視覺上區分開關的框架。
   placement:
     mode: SnapgridCenter
     snap:

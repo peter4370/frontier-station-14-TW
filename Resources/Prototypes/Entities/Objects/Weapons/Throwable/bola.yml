@@ -2,7 +2,7 @@
   name: bola
   parent: [BaseItem, BaseC1Contraband] # Frontier: BaseSecurityContraband<BaseC1Contraband
   id: Bola
-  description: Linked together with some spare cuffs and metal.
+  description: 用一些多餘的袖口和金屬零件串連在一起。
   components:
   - type: WeaponCaseInsertable # Frontier
   - type: Item

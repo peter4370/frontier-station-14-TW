@@ -3,7 +3,7 @@
 - type: entity
   parent: [FoodInjectableBase, ItemHeftyBase]
   id: FoodEggBase
-  description: An egg!
+  description: 一顆蛋！
   abstract: true
   components:
   - type: Tag
@@ -64,10 +64,10 @@
 
 # Splat
 - type: entity
-  name: eggshells
+  name: 蛋殼
   parent: BaseItem
   id: Eggshells
-  description: You're walkin' on 'em bud.
+  description: 老兄，你正踩在他們身上呢。
   components:
   - type: Food
   - type: Sprite
@@ -111,8 +111,8 @@
 - type: entity
   parent: FoodEggBase
   id: FoodEggBoiled
-  name: boiled egg
-  description: A delicious hardboiled egg.
+  name: 水煮蛋
+  description: 一顆美味的水煮蛋。
   components:
   - type: Sprite
     layers:

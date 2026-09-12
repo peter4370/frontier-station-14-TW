@@ -1,7 +1,8 @@
-<Document>
-  # Ranged Weapon Archetypes
 
-  Generally, weapons available on Frontier are split into 10 distinct categories: Pistols, Machine Pistols, SMG, Revolvers, Shotguns, Rifles, Assault Rifles, Sniper Rifles, Launchers (mirrored for energy weapons) with defined effective ranges, fire modes and rates of fire.
+<Document>
+  # 遠程武器原型
+
+  一般而言，《Frontier》中的武器可分為 10 個不同類別：手槍、機槍手槍、衝鋒槍、 左輪手槍、霰彈槍、步槍、突擊步槍、狙擊步槍、發射器（能量武器為對應類型），各武器皆具備明確的有效射程、射擊模式及射速。
 
   <Table Columns="6">
     <ColorBox Color="#a88b5e">
@@ -375,7 +376,6 @@
     </ColorBox>
   </Table>
 
-  * - Effective range here is defined as follows: maximum distance at which the weapon is guaranteed to hit a tile-wide target with the weapons first shot; subsequent shots made in short succession are not guaranteed to hit the same target but have a decently high chance of hitting.
+  * - 此處的「有效射程」定義如下：指武器首發子彈必定能擊中一個格子寬度的目標的最大距離；隨後在短時間內連續發射的子彈雖無法保證能擊中同一目標，但命中機率仍相當高。
 
 </Document>
-

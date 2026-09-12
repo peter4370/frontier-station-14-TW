@@ -1,421 +1,282 @@
 # region Security
-uplink-security-hardsuit-name = Bronze Patrol Suit
-uplink-security-hardsuit-desc = The standard-issue NFSD space proof suit for patrol duty. This bronze variant has cadet rank markings.
-
-uplink-security-hardsuit-patrol-name = Silver Patrol Suit
-uplink-security-hardsuit-patrol-desc = The standard-issue NFSD space proof suit for patrol duty. This silver variant has officer rank markings.
-
-uplink-security-hardsuit-brigmedic-name = Brigmedic Patrol Suit
-uplink-security-hardsuit-brigmedic-desc = The standard-issue NFSD space proof suit for patrol duty. This brighter variant has brigmedic rank markings.
-
-uplink-security-hardsuit-warden-name = Gold Patrol Suit
-uplink-security-hardsuit-warden-desc = The standard-issue NFSD space proof suit for patrol duty. This gold variant has supervisor rank markings.
-
-uplink-security-hardsuit-experimental-name = Experimental Combat Suit
-uplink-security-hardsuit-experimental-desc = A very heavily armored NFSD suit. This space proof marvel of engineering uses state of the art alloys to provide immense protection while sacrificing little mobility.
-
-uplink-security-hardsuit-sheriff-name = Sheriff's Patrol Suit
-uplink-security-hardsuit-sheriff-desc = The standard-issue NFSD space proof suit for patrol duty. This gold variant has sheriff rank markings.
-
-uplink-security-hardsuit-combat-name = Combat Suit
-uplink-security-hardsuit-combat-desc = A heavily armored NFSD suit. Space proof, with thick armor plating at the expense of mobility.
-
-uplink-security-hardsuit-commmand-name = Command Combat Suit
-uplink-security-hardsuit-commmand-desc = A heavily armored NFSD suit. Space proof, with thick armor plating at the expense of mobility. This variant has supervisor rank markings.
-
-uplink-security-lethalarmory-name = Lethal Armory Stock Crate
-uplink-security-lethalarmory-desc = A crate containing weapons necessary to fill an armory.
-
-uplink-security-nonlethalarmory-name = Non-lethal Armory Stock Crate
-uplink-security-nonlethalarmory-desc = A crate containing non-lethal weapons necessary to fill an armory.
-
+uplink-security-hardsuit-name = 青銅巡邏服
+uplink-security-hardsuit-desc = 這套標準配發的 NFSD 巡邏用太空防護服。這款青銅色款式上印有學員軍銜標誌。
+uplink-security-hardsuit-patrol-name = 銀色巡邏服
+uplink-security-hardsuit-patrol-desc = 這套標準配發的 NFSD 太空防彈服，專供巡邏任務使用。此款銀色版本配有軍官階級標誌。
+uplink-security-hardsuit-brigmedic-name = Brigmedic 巡邏服
+uplink-security-hardsuit-brigmedic-desc = 這套標準配發的 NFSD 巡邏任務用太空防護服。這款色澤較亮的變體版本印有「軍醫」的階級標誌。
+uplink-security-hardsuit-warden-name = 金色巡邏服
+uplink-security-hardsuit-warden-desc = 這套標準配發的 NFSD 巡邏用太空防潑水服。這款金色版本配有督導級別的階級標誌。
+uplink-security-hardsuit-experimental-name = 實驗型作戰服
+uplink-security-hardsuit-experimental-desc = 一套裝甲極為厚重的 NFSD 戰甲。這件能抵禦太空環境的工程奇蹟，採用最先進的合金材質，在提供極強防護力的同時，幾乎未犧牲任何機動性。
+uplink-security-hardsuit-sheriff-name = 警長巡邏制服
+uplink-security-hardsuit-sheriff-desc = 這套標準配備的 NFSD 巡邏用太空防護服。這款金色版本配有警長階級標誌。
+uplink-security-hardsuit-combat-name = 戰鬥服
+uplink-security-hardsuit-combat-desc = 一套重裝甲的 NFSD 戰甲。具備太空防禦能力，但為換取厚實的裝甲板，犧牲了機動性。
+uplink-security-hardsuit-commmand-name = 指揮作戰服
+uplink-security-hardsuit-commmand-desc = 一套重裝甲的 NFSD 防護服。具備太空環境適應能力，採用厚實的裝甲板，但因此犧牲了機動性。此款型號標有督導級別的階級標誌。
+uplink-security-lethalarmory-name = 致命軍火庫 彈藥箱
+uplink-security-lethalarmory-desc = 一個裝有足以填滿整座軍械庫所需武器的貨箱。
+uplink-security-nonlethalarmory-name = 非致命性軍械庫儲物箱
+uplink-security-nonlethalarmory-desc = 一個裝有非致命性武器的貨箱，這些武器是武庫中不可或缺的裝備。
 uplink-security-mk32-name = MK32
-uplink-security-mk32-desc = The Mark 32 Offensive Service Pistol.
-
+uplink-security-mk32-desc = Mark 32 攻擊型制式手槍。
 uplink-security-mk58-name = MK58
-uplink-security-mk58-desc = Cheap, standard issue sidearm. Uses .35 Auto.
-
-uplink-security-disabler-name = Disabler
-uplink-security-disabler-desc = Standard issue non-lethal stun gun. Has an internal battery, but requires using a security charging dock.
-
-uplink-security-stunbaton-name = Stun Baton
-uplink-security-stunbaton-desc = Standard issue non-lethal stun baton. Has an internal battery, but requires using a security charging dock.
-
-uplink-security-emitter-name = EMP Emitter
-uplink-security-emitter-desc = A high-energy pulse emitter tuned to disrupt electronics and power systems. Harmless to living things. Projectiles pass through glass. Has an internal battery, but requires using a security charging dock.
-
-uplink-security-enforcer-name = Enforcer
-uplink-security-enforcer-desc = An updated model of the Kammerer, boasts a 7 shell magazine. Uses .50 shotgun shells.
-
-uplink-security-lecter-name = Lecter
-uplink-security-lecter-desc = Standard issue fully automatic rifle. Uses .20 rifle.
-
-uplink-security-vulcan-name = Vulcan
-uplink-security-vulcan-desc = Heavy duty, select fire battle rifle. Uses .30 rifle.
-
+uplink-security-mk58-desc = 一款廉價的制式手槍，使用 .35 Auto 子彈。
+uplink-security-disabler-name = 禁用器
+uplink-security-disabler-desc = 標準配備的非致命電擊槍。內建電池，但需使用專用充電座進行充電。
+uplink-security-stunbaton-name = 電擊警棍
+uplink-security-stunbaton-desc = 標準配備的非致命電擊警棍。內建電池，但需使用專用充電座進行充電。
+uplink-security-emitter-name = 電磁脈衝（EMP）發射器
+uplink-security-emitter-desc = 一種專為干擾電子設備與電力系統而調校的高能脈衝發射器。對生物無害。發射的彈體可穿透玻璃。內建電池，但需使用專用安全充電座進行充電。
+uplink-security-enforcer-name = 執法者
+uplink-security-enforcer-desc = 這款卡默勒（Kammerer）的升級型號，配備了7發彈匣，使用.50口徑霰彈。
+uplink-security-lecter-name = 萊克特
+uplink-security-lecter-desc = 制式全自動步槍。使用 .20 口徑步槍彈。
+uplink-security-vulcan-name = 瓦肯
+uplink-security-vulcan-desc = 一款重型、具備選擇性射擊功能的戰鬥步槍。採用.30口徑步槍彈。
 uplink-security-drozd-name = Drozd
-uplink-security-drozd-desc = A fully automatic SMG. Uses .35 auto.
-
-uplink-security-lasercarbine-name = Laser Rifle
-uplink-security-lasercarbine-desc = Standard issue laser carbine. Has an internal battery, but requires using a security charging dock. Fires through glass.
-
-uplink-security-disablersmg-name = Disabler SMG
-uplink-security-disablersmg-desc = Fully automatic, rapid fire disabler. Tuned to the same frequency as standard disablers, the ultimate less-lethal instrument. Has an internal battery, but requires using a security charging dock.
-
-uplink-security-energysword-name = Energy Sword
-uplink-security-energysword-desc = Reverse-engineered, NT manufactured energy sword. Chance to reflect projectiles.
-
+uplink-security-drozd-desc = 一款全自動衝鋒槍。使用 .35 自動彈。
+uplink-security-lasercarbine-name = 雷射步槍
+uplink-security-lasercarbine-desc = 制式雷射卡賓槍。內建電池，但必須使用安全充電座進行充電。可穿透玻璃射擊。
+uplink-security-disablersmg-name = 「Disabler」衝鋒槍
+uplink-security-disablersmg-desc = 全自動、連發式失能器。調諧至與標準失能器相同的頻率，是終極的非致命性武器。內建電池，但需使用安全充電座進行充電。
+uplink-security-energysword-name = 能量劍
+uplink-security-energysword-desc = 經逆向工程分析、由 NT 製造的能量劍。有機會將射出的彈道物體反彈回去。
 uplink-security-wt550-name = WT550
-uplink-security-wt550-desc = A fully automatic submachine gun. This design uses special top-mounted magazines, allowing for simpler and faster operation in the field. Uses .35 auto.
-
-uplink-security-energygun-name = Energy Gun
-uplink-security-energygun-desc = A semi-automatic energy gun capable of firing both non-lethal stun bolts, as well as overcharged lethal energy bolts. Has an internal battery, but requires using a security charging dock.
-
-uplink-security-emprpg-name = EMP Rocket Launcher
-uplink-security-emprpg-desc = A rocket propelled grenade launcher. Comes with 1 EMP round.
-
-uplink-security-sniper-name = Sniper Bundle
-uplink-security-sniper-desc = "Aspect" sniper rifle provided with non lethal .60 rounds for long range support on the field, for lethal ammunition ask your higher ups.
-
-uplink-security-empgrenade-name = EMP Grenade
-uplink-security-empgrenade-desc = A handheld grenade that emits a high energy pulse that disrupts electronics and power systems in a moderately large radius.
-
-uplink-security-holo-name = Holobarrier
-uplink-security-holo-desc = A battery powered holoprojecter that places temporary barriers to bar movement.
-
+uplink-security-wt550-desc = 一款全自動衝鋒槍。此設計採用特殊的頂置式彈匣，使戰場上的操作更為簡便迅速。使用.35自動手槍彈。
+uplink-security-energygun-name = 能量槍
+uplink-security-energygun-desc = 一款半自動能量槍，既能發射非致命的電擊彈，也能發射過載的致命能量彈。雖內建電池，但需使用安全充電座進行充電。
+uplink-security-emprpg-name = EMP 火箭發射器
+uplink-security-emprpg-desc = 一枚火箭推進式榴彈發射器。隨附 1 發電磁脈衝彈。
+uplink-security-sniper-name = 狙擊手套組
+uplink-security-sniper-desc = 「Aspect」狙擊步槍配備非致命性 .60 口徑子彈，用於戰場上的遠程支援；如需致命性彈藥，請向上級申請。
+uplink-security-empgrenade-name = 電磁脈衝手榴彈
+uplink-security-empgrenade-desc = 一種手持式手榴彈，能釋放高能量脈衝，在相當大的半徑範圍內干擾電子設備及電力系統。
+uplink-security-holo-name = 全息屏障
+uplink-security-holo-desc = 一款由電池供電的全息投影儀，可設置臨時屏障以阻擋移動。
 uplink-security-jetpack-name = Jetpack
-uplink-security-jetpack-desc = A pre-filled jetpack for EVA. Comes in a fashionable green.
-
+uplink-security-jetpack-desc = 一款預充氣的太空背包，專為太空行走（EVA）設計。採用時尚的綠色。
 uplink-security-magboots-name = NFSD Magboots
-uplink-security-magboots-desc = Light weight magboots designed to keep the wearer grounded in low and no gravity environments.
-
+uplink-security-magboots-desc = 這款輕量級磁力靴專為在低重力與無重力環境中，確保穿著者能穩穩站立而設計。
 uplink-security-techfab-name = NFSD Techfab
-uplink-security-techfab-desc = A circuit board for a NFSD Techfab. Allows the production of ammunition, magazines, weapons, and numerous other utilities. Uses raw resources. Can be upgraded.
-
-uplink-security-key-name = NFSD Encryption Keys
-uplink-security-key-desc = A box of 4 encryption keys that give access to the NFSD radio channel.
-
-uplink-security-emprocket-name = EMP Rocket
-uplink-security-emprocket-desc = An EMP rocket for the GSW rocket launcher.
-
-uplink-security-thrusterkit-name = Thruster Upgrade Kit
-uplink-security-thrusterkit-desc = Contains 12 super capaciters. Perfect for upgrading three thrusters.
-
-uplink-security-magazinepistol-name = .35 Pistol +P Magazines
-uplink-security-magazinepistol-desc = A box containing 4 filled .35 pistol (overpressure) pistol magazines.
-
-uplink-security-magazinepistol-rubber-name = .35 Pistol Rubber Magazines
-uplink-security-magazinepistol-rubber-desc = A box containing 4 filled .35 pistol (rubber) pistol magazines.
-
-uplink-security-20riflemagazine-name = .20 Rifle +P Magazines
-uplink-security-20riflemagazine-desc = A box containing 4 filled .20 rifle (overpressure) magazines.
-
-uplink-security-20riflemagazine-rubber-name = .20 Rifle Rubber Magazines
-uplink-security-20riflemagazine-rubber-desc = A box containing 4 filled .20 rifle (rubber) magazines.
-
-uplink-security-30riflemagazine-name = .30 Rifle +P Magazines
-uplink-security-30riflemagazine-desc = A box containing 4 filled .30 rifle (overpressure) magazines.
-
-uplink-security-30riflemagazine-rubber-name = .30 Rifle Rubber Magazines
-uplink-security-30riflemagazine-rubber-desc = a Box containing 4 filled .30 rifle (rubber) magazines.
-
-uplink-security-60sniperbox-name = .60 Rifle Box
-uplink-security-60sniperbox-desc = a Box containing 30 rounds of .60 rifle bullets.
-
-uplink-security-60sniperbox-rubber-name = .60 Rifle Rubber Box
-uplink-security-60sniperbox-rubber-desc = a Box containing 30 rounds of .60 rifle (rubber) bullets.
-
-uplink-security-wt550magazine-name = .35 +P Top-mounted Magazines
-uplink-security-wt550magazine-desc = A box containing 3 filled .35 pistol (overpressure) top-mounted magazines.
-
-uplink-security-smgmagazine-name = .35 +P SMG Magazines
-uplink-security-smgmagazine-desc = A box containing 3 filled .35 pistol (overpressure) SMG magazines.
-
-uplink-security-smgmagazine-rubber-name = .35 Rubber SMG Magazines
-uplink-security-smgmagazine-rubber-desc = A box containing 3 filled .35 pistol (rubber) SMG magazines.
-
-uplink-security-brigmed-glasses-name = Brigmedic Glasses
-uplink-security-brigmed-glasses-desc = Upgraded sunglasses that provide flash immunity and an integrated medical hud.
-
+uplink-security-techfab-desc = 一款適用於 NFSD Techfab 的電路板。可生產彈藥、彈匣、武器及眾多其他實用物品。使用原材料。可進行升級。
+uplink-security-key-name = NFSD 加密金鑰
+uplink-security-key-desc = 一盒包含 4 組加密金鑰，可用於存取 NFSD 無線電頻道。
+uplink-security-emprocket-name = EMP 火箭
+uplink-security-emprocket-desc = 一款適用於 GSW 火箭發射器的 EMP 火箭。
+uplink-security-thrusterkit-name = 推進器升級套件
+uplink-security-thrusterkit-desc = 內含 12 顆超級電容器。非常適合用於升級三台推進器。
+uplink-security-magazinepistol-name = .35 手槍 +P 彈匣
+uplink-security-magazinepistol-desc = 一個裝有 4 個已裝滿子彈的 .35 口徑手槍（超壓）彈匣的盒子。
+uplink-security-magazinepistol-rubber-name = .35 口徑手槍用橡膠彈匣
+uplink-security-magazinepistol-rubber-desc = 一個盒子，內含 4 個裝滿 .35 口徑手槍（橡膠）子彈的彈匣。
+uplink-security-20riflemagazine-name = .20 步槍 +P 彈匣
+uplink-security-20riflemagazine-desc = 一個裝有 4 個已裝滿子彈的 .20 口徑步槍（超壓）彈匣的盒子。
+uplink-security-20riflemagazine-rubber-name = .20 口徑步槍橡膠彈匣
+uplink-security-20riflemagazine-rubber-desc = 一個裝有 4 個裝滿子彈的 .20 口徑步槍（橡膠）彈匣的盒子。
+uplink-security-30riflemagazine-name = .30 步槍 +P 彈匣
+uplink-security-30riflemagazine-desc = 一個裝有 4 個裝滿子彈的 .30 口徑步槍（超壓）彈匣的盒子。
+uplink-security-30riflemagazine-rubber-name = .30 步槍橡膠彈匣
+uplink-security-30riflemagazine-rubber-desc = 一個裝有 4 個裝滿子彈的 .30 口徑步槍（橡膠）彈匣的盒子。
+uplink-security-60sniperbox-name = .60 步槍箱
+uplink-security-60sniperbox-desc = 一盒裝有 30 發 .60 口徑步槍子彈的彈匣。
+uplink-security-60sniperbox-rubber-name = .60 步槍橡膠盒
+uplink-security-60sniperbox-rubber-desc = 一盒裝有 30 發 .60 口徑步槍（橡膠）子彈的盒子。
+uplink-security-wt550magazine-name = .35 +P 頂置式彈匣
+uplink-security-wt550magazine-desc = 一個盒子，內裝 3 個裝滿子彈的 .35 口徑手槍（超壓式）頂裝彈匣。
+uplink-security-smgmagazine-name = .35 +P 衝鋒槍彈匣
+uplink-security-smgmagazine-desc = 一個盒子，內裝 3 個裝滿子彈的 .35 手槍（超壓）衝鋒槍彈匣。
+uplink-security-smgmagazine-rubber-name = .35 口徑橡膠製衝鋒槍彈匣
+uplink-security-smgmagazine-rubber-desc = 一個盒子，內含 3 個裝滿子彈的 .35 口徑手槍（橡膠製）衝鋒槍彈匣。
+uplink-security-brigmed-glasses-name = Brigmedic 眼鏡
+uplink-security-brigmed-glasses-desc = 升級版太陽眼鏡，具備防閃光功能，並內建醫療型抬頭顯示器。
 uplink-security-hypo-name = Hypospray
-uplink-security-hypo-desc = A sterile medical injector for instant delivery of medications.
-
-uplink-security-ambuzol-name = Ambuzol Syringe
-uplink-security-ambuzol-desc = 15u of anti-viral medication to halt the progress of the highly contagious zombie virus.
-
-uplink-security-medkit-name = Combat Medkit
-uplink-security-medkit-desc = A kit containing advanced medical supplies suitable for use in the field.
-
-uplink-security-inspector-name = Inspector
-uplink-security-inspector-desc = Standard issue revolver. Cheaply mass produced and found in all corners of the known universe. Uses .45 pistol.
-
-uplink-security-mateba-name = Mateba
-uplink-security-mateba-desc = The Mateba Autorevolver's unique barrel alignment and recoil driven cylinder and hammer allow for unparalleled fire rate and accuracy.
-
-uplink-security-truncheon-name = Truncheon
-uplink-security-truncheon-desc = Standard issue blunt object. Excellent for cracking windows and skulls alike.
-
-uplink-security-armingsword-name = Plasteel Arming Sword
-uplink-security-armingsword-desc = Ancient design meets modern materials.
-
-uplink-security-captainsword-name = Captain's Sabre
-uplink-security-captainsword-desc = A sword normally reserved for captains, admiralty, and other high command. Has a small chance to reflect incoming projectiles.
-
-uplink-security-navyofficersabre-name = Navy Officer's Sabre
-uplink-security-navyofficersabre-desc = A ceremonial weapon belonging to a high ranking naval officer. Has a small chance to reflect incoming projectiles.
-
-uplink-security-pulsepistol-name = Pulse Pistol
-uplink-security-pulsepistol-desc = A high powered laser pistol normally reserved for elite ERT units. Has an internal battery, but requires using a security charging dock.
-
-uplink-security-pulsecarbine-name = Pulse Carbine
-uplink-security-pulsecarbine-desc = A high powered laser carbine normally reserved for elite ERT and combat units. Has an internal battery, but requires using a security charging dock.
-
-uplink-security-hammer-name = Breaching Hammer
-uplink-security-hammer-desc = A large, two-handed hammer that is perfect for breaking down doors, or breaching through hull plating.
-
-uplink-security-teleshield-name = Telescopic Shield
-uplink-security-teleshield-desc = An expandable handheld shield offering excellent protection.
-
-uplink-security-energyshield-name = Energy Shield
-uplink-security-energyshield-desc = An exotic energy shield that blocks most incoming damage.
-
-uplink-security-swat-name = Swat Gas Mask
-uplink-security-swat-desc = A full-face covering version of the standard issue NFSD Gas Mask.
-
-uplink-security-speedloader-name = .45 Pistol Speed Loader
-uplink-security-speedloader-desc = A revolver speed loader that comes pre-loaded with .45 pistol cartridges.
-
-uplink-security-speedloaderrubber-name = .45 Pistol Rubber Speed Loader
-uplink-security-speedloaderrubber-desc = A revolver speed loader that comes pre-loaded with .45 rubber cartridges.
-
-uplink-security-shotlethal-name = Lethal Shotgun Shells
-uplink-security-shotlethal-desc = A box of lethal .50 calibre buckshot shotgun shells.
-
-uplink-security-shotbeanbag-name = Beanbag Shotgun Shells
-uplink-security-shotbeanbag-desc = A box of non-lethal .50 calibre beanbag shotgun shells.
-
-uplink-security-shotincend-name = Incendiary Shotgun Shells
-uplink-security-shotincend-desc = A box of lethal .50 calibre incendiary shotgun shells.
-
-uplink-security-shotslug-name = Lethal Shotgun Slug Shells
-uplink-security-shotslug-desc = A box of lethal .50 calibre slug shotgun shells.
-
-uplink-security-cash1000-name = 1,000 Spesos
-uplink-security-cash1000-desc = Cold, hard cash.
-
-uplink-security-empgrenade-box-name = EMP Grenade Box
-uplink-security-empgrenade-box-desc = A box containing 4 EMP grenades.
-
-uplink-security-explosivegrenade-box-name = Explosive Grenade Box
-uplink-security-explosivegrenade-box-desc = A box containing 4 explosive grenades.
-
-uplink-security-incendiarygrenade-box-name = Incendiary Grenade Box
-uplink-security-incendiarygrenade-box-desc = A box containing 4 incendiary grenades.
-
-uplink-security-shrapnelgrenade-box-name = Shrapnel Grenade Box
-uplink-security-shrapnelgrenade-box-desc = A box containing 4 shrapnel grenades.
-
-uplink-security-smokegrenade-box-name = Smoke Grenade Box
-uplink-security-smokegrenade-box-desc = A box containing 4 smoke grenades.
-
-uplink-security-teargasgrenade-box-name = Tear Gas Grenade Box
-uplink-security-teargasgrenade-box-desc = A box containing 4 tear gas grenades.
-
-uplink-security-flashbanggrenade-box-name = Flashbang Grenade Box
-uplink-security-flashbanggrenade-box-desc = A box containing 4 flasbang grenades.
-
-uplink-security-stingergrenade-box-name = Stinger Grenade Box
-uplink-security-stingergrenade-box-desc = A box containing 4 stinger grenades.
-
-uplink-security-breachingcharge-box-name = Breaching Charge Box
-uplink-security-breachingcharge-box-desc = A box containing 4 breaching charges.
-
-uplink-security-hoverbike-name = NFSD Hoverbike Flatpack
-uplink-security-hoverbike-desc = Flatpack containing NFSD issued turbine with bike handles. Keys already slotted in the ignition. Very safe.
-
-uplink-security-trackingdart-bundle-name = Tracking Dart Bundle
-uplink-security-trackingdart-bundle-desc = A bundle containing a Lake type launcher, 3 tracking darts and 3 pinpointers.
-
-uplink-security-emp-grenade-ammo-name = EMP Grenade Ammo
-uplink-security-emp-grenade-ammo-desc = 4 EMP grenades for the NGP-40 projector.
-
-uplink-security-flash-grenade-ammo-name = Flash Grenade Ammo
-uplink-security-flash-grenade-ammo-desc = 4 flash grenades for the NGP-40 projector.
-
-uplink-security-gas-grenade-ammo-name = Tear Gas Grenade Ammo
-uplink-security-gas-grenade-ammo-desc = 4 tear gas grenades for the NGP-40 projector.
-
-uplink-security-net-grenade-ammo-name = Shock Net Grenade Ammo
-uplink-security-net-grenade-ammo-desc = 4 shock net grenades for the NGP-40 projector.
-
-uplink-security-grenade-ammo-name = Varied Grenade Ammo
-uplink-security-grenade-ammo-desc = Shock net grenades, tear gas greandes, flash grenades, and EMP grenades all for the NGP-40 projector.
-
-uplink-security-emp-ammo-name = EMP Projectile Ammo
-uplink-security-emp-ammo-desc = A box containing 4 EMP projectile grenades.
-
-uplink-security-trackingdart-ammo-name = Tracking Darts Ammo
-uplink-security-trackingdart-ammo-desc = A box containing 3 tracking darts and 3 pinpointers.
-
+uplink-security-hypo-desc = 一種用於即時輸送藥物的無菌醫療注射器。
+uplink-security-ambuzol-name = 安布佐爾注射器
+uplink-security-ambuzol-desc = 15微克的抗病毒藥物，用以遏止傳染性極強的殭屍病毒的蔓延。
+uplink-security-medkit-name = 戰鬥急救包
+uplink-security-medkit-desc = 一套包含適用於野外環境的先進醫療用品的套件。
+uplink-security-inspector-name = 督察
+uplink-security-inspector-desc = 標準配發的左輪手槍。以低成本大量生產，在已知宇宙的每個角落都能見到。使用.45口徑手槍子彈。
+uplink-security-mateba-name = 馬特巴
+uplink-security-mateba-desc = Mateba 自動左輪手槍憑藉其獨特的槍管對準設計，以及由後座力驅動的轉輪與擊錘，得以實現無與倫比的射速與精準度。
+uplink-security-truncheon-name = 警棍
+uplink-security-truncheon-desc = 標準配備的鈍器。無論是砸碎窗戶還是砸開頭骨，都十分有效。
+uplink-security-armingsword-name = Plasteel 裝甲劍
+uplink-security-armingsword-desc = 古雅設計與現代材質的完美結合。
+uplink-security-captainsword-name = 船長軍刀
+uplink-security-captainsword-desc = 這是一把通常僅供艦長、海軍上將及其他高級指揮官使用的劍。有極低機率能將襲來的投射物彈回。
+uplink-security-navyofficersabre-name = 海軍軍官的軍刀
+uplink-security-navyofficersabre-desc = 屬於高階海軍軍官的儀仗武器。有極低機率能將射來的彈丸彈回。
+uplink-security-pulsepistol-name = 脈衝手槍
+uplink-security-pulsepistol-desc = 一款通常僅供精英緊急應變小組（ERT）使用的超高功率雷射手槍。雖內建電池，但需使用安全充電座進行充電。
+uplink-security-pulsecarbine-name = 脈衝卡賓槍
+uplink-security-pulsecarbine-desc = 一款高功率雷射卡賓槍，通常僅供精英緊急應變小組（ERT）及作戰單位使用。雖內建電池，但需使用安全充電座進行充電。
+uplink-security-hammer-name = 破擊錘
+uplink-security-hammer-desc = 一把大型的雙手鎚，非常適合用來砸開門，或是擊穿船體裝甲板。
+uplink-security-teleshield-name = 伸縮式護盾
+uplink-security-teleshield-desc = 一款可伸縮的手持護盾，能提供卓越的防護。
+uplink-security-energyshield-name = 能量護盾
+uplink-security-energyshield-desc = 一種能阻擋大部分 incoming damage 的異域能量護盾。
+uplink-security-swat-name = Swat 防毒面具
+uplink-security-swat-desc = 標準配發的 NFSD 防毒面具之全臉覆蓋款式。
+uplink-security-speedloader-name = .45 手槍快速裝彈器
+uplink-security-speedloader-desc = 一款預先裝填了.45口徑手槍子彈的左輪手槍快速裝彈器。
+uplink-security-speedloaderrubber-name = .45 手槍用橡膠快速裝彈器
+uplink-security-speedloaderrubber-desc = 一款預先裝填了 .45 口徑橡膠子彈的左輪手槍快速裝彈器。
+uplink-security-shotlethal-name = 致命霰彈
+uplink-security-shotlethal-desc = 一盒致命的.50口徑霰彈霰彈槍彈。
+uplink-security-shotbeanbag-name = 豆袋霰彈槍彈殼
+uplink-security-shotbeanbag-desc = 一盒非致命性 .50 口徑豆袋霰彈槍彈。
+uplink-security-shotincend-name = 燃燒霰彈
+uplink-security-shotincend-desc = 一盒致命的.50口徑燃燒霰彈。
+uplink-security-shotslug-name = 致命霰彈槍實心彈彈殼
+uplink-security-shotslug-desc = 一盒致命的 .50 口徑鉛彈霰彈槍彈。
+uplink-security-cash1000-name = 1,000 斯佩索
+uplink-security-cash1000-desc = 冷冰冰的現金。
+uplink-security-empgrenade-box-name = EMP 手榴彈箱
+uplink-security-empgrenade-box-desc = 一個裝有 4 顆電磁脈衝手榴彈的盒子。
+uplink-security-explosivegrenade-box-name = 爆炸性手榴彈箱
+uplink-security-explosivegrenade-box-desc = 一個裝有 4 顆爆炸性手榴彈的盒子。
+uplink-security-incendiarygrenade-box-name = 燃燒手榴彈盒
+uplink-security-incendiarygrenade-box-desc = 一個裝有 4 枚燃燒手榴彈的盒子。
+uplink-security-shrapnelgrenade-box-name = 破片手榴彈盒
+uplink-security-shrapnelgrenade-box-desc = 一個裝有 4 枚破片手榴彈的盒子。
+uplink-security-smokegrenade-box-name = 煙霧彈盒
+uplink-security-smokegrenade-box-desc = 一盒，內含 4 顆煙霧彈。
+uplink-security-teargasgrenade-box-name = 催淚瓦斯手榴彈盒
+uplink-security-teargasgrenade-box-desc = 一個裝有 4 顆催淚瓦斯手榴彈的盒子。
+uplink-security-flashbanggrenade-box-name = 閃光震撼彈箱
+uplink-security-flashbanggrenade-box-desc = 一盒，內含 4 枚眩目閃光手榴彈。
+uplink-security-stingergrenade-box-name = 「斯廷格」手榴彈箱
+uplink-security-stingergrenade-box-desc = 一個裝有 4 枚螫針手榴彈的盒子。
+uplink-security-breachingcharge-box-name = 爆破藥箱
+uplink-security-breachingcharge-box-desc = 一個裝有 4 枚破門炸藥的盒子。
+uplink-security-hoverbike-name = NFSD 懸浮機車 平裝包
+uplink-security-hoverbike-desc = 平裝盒內含配備自行車把手的 NFSD 認證渦輪機。鑰匙已插入點火開關中。非常安全。
+uplink-security-trackingdart-bundle-name = 追蹤 Dart 套件
+uplink-security-trackingdart-bundle-desc = 一套包含一個「湖」型發射器、3 枚追蹤飛鏢及 3 個精準定位器的組合包。
+uplink-security-emp-grenade-ammo-name = 電磁脈衝手榴彈彈藥
+uplink-security-emp-grenade-ammo-desc = 4 枚適用於 NGP-40 發射器的電磁脈衝手榴彈。
+uplink-security-flash-grenade-ammo-name = 閃光手榴彈彈藥
+uplink-security-flash-grenade-ammo-desc = 4 枚適用於 NGP-40 投影機的閃光手榴彈。
+uplink-security-gas-grenade-ammo-name = 催淚瓦斯手榴彈彈藥
+uplink-security-gas-grenade-ammo-desc = 4 枚適用於 NGP-40 發射器的催淚瓦斯手榴彈。
+uplink-security-net-grenade-ammo-name = 衝擊網手榴彈彈藥
+uplink-security-net-grenade-ammo-desc = 4 枚適用於 NGP-40 發射器的衝擊網手榴彈。
+uplink-security-grenade-ammo-name = 各式手榴彈彈藥
+uplink-security-grenade-ammo-desc = 電擊網手榴彈、催淚瓦斯手榴彈、閃光手榴彈及電磁脈衝手榴彈，皆適用於 NGP-40 發射器。
+uplink-security-emp-ammo-name = 電磁脈衝（EMP）彈頭彈藥
+uplink-security-emp-ammo-desc = 一盒內含 4 枚 EMP 彈頭手榴彈。
+uplink-security-trackingdart-ammo-name = 追蹤飛鏢彈藥
+uplink-security-trackingdart-ammo-desc = 一個盒子，內含 3 支追蹤飛鏢和 3 個定位器。
 uplink-security-spaceblade-sec-name = Security SpaceBlade
-uplink-security-spaceblade-sec-desc = The latest in stun tech.
-
-uplink-security-contraband-forensics-module-name = Contraband Forenics Module
-uplink-security-contraband-forensics-module-desc = A program for scanning and reporting contraband dead drops and pods for bounties. Slots into a forensic scanner.
-
-uplink-security-lasercanon-name = Laser Cannon
-uplink-security-lasercanon-desc = A heavy duty, high powered laser sniper rifle.
-
-uplink-security-lake-name = NGP-40 projector
-uplink-security-lake-desc = Single shot grenade launcher able to lob both grenades and darts!
-
+uplink-security-spaceblade-sec-desc = 最先進的電擊技術。
+uplink-security-contraband-forensics-module-name = 走私品鑑識模組
+uplink-security-contraband-forensics-module-desc = 一款用於掃描並通報違禁品暗箱與儲存艙以換取賞金的程式。可安裝於鑑識掃描器上。
+uplink-security-lasercanon-name = 雷射砲
+uplink-security-lasercanon-desc = 一款重型、高功率的雷射狙擊步槍。
+uplink-security-lake-name = NGP-40 投影機
+uplink-security-lake-desc = 單發式榴彈發射器，既能發射榴彈，也能發射飛鏢！
 # region Pirate
-uplink-pirate-EVA-name = Pirate EVA Suit
-uplink-pirate-EVA-desc = A heavy space suit that provides some basic protection from the cold harsh realities of deep space.
-
-uplink-pirate-hardsuit-captain-name = Pirate Captain's Hardsuit
-uplink-pirate-hardsuit-captain-desc = An ancient armored hardsuit, perfect for defending against space scurvy and toolbox-wielding scallywags.
-
-uplink-pirate-hardsuit-rogue-name = Rogue Hardsuit
-uplink-pirate-hardsuit-rogue-desc = Lightly armoured hardsuit designed to give you the speed you need to plunder in, and get out.
-
-uplink-pirate-hardsuit-elite-name = Elite Pirate's Hardsuit
-uplink-pirate-hardsuit-elite-desc = An ancient elite armored hardsuit, designed by an unknown bearded man and built like a brick house.
-
-uplink-pirate-crate-captain-name = Pirate Captain's Chest
-uplink-pirate-crate-captain-desc = A chest filled with the necessary goodies for a pirate captain.
-
-uplink-pirate-crate-name = Pirate Chest
-uplink-pirate-crate-desc = A chest filled with the necessary goodies for a pirate.
-
-uplink-pirate-wooden-keg-rum-name = A Keg of Rum
-uplink-pirate-wooden-keg-rum-desc = A Keg filled with all the rum a Pirate needs, be sure to drink yourself dead to celebrate!
-
-uplink-pirate-magboots-name = Pirate Magboots
-uplink-pirate-magboots-desc = Pirate magnetic boots, often used during extravehicular activity to ensure the user remains safely attached to the vehicle.
-
-uplink-pirate-hoverbike-name = Pirate Hoverbike
-uplink-pirate-hoverbike-desc = Yarr! Dis be me sovereign space shuttle. Now, whaur me rum?
-
-uplink-pirate-blunderbuss-name = Blunderbuss
-uplink-pirate-blunderbuss-desc = Deadly at close range, an illegal shotgun often found at the side of a pirate.
-
-uplink-pirate-revolver-name = Pirate Revolver
-uplink-pirate-revolver-desc = An odd, illegal, old-looking revolver, favoured by pirate crews. Uses .45 pistol ammo.
-
-uplink-pirate-romulan-name = Romulan
-uplink-pirate-romulan-desc = Yarrr, a retrofitted Vulcan befitting of a pirate! Uses .20 rifle ammo.
-
-uplink-pirate-cannon-name = Pirate Cannon
-uplink-pirate-cannon-desc = Kaboom!
-
-uplink-pirate-cannonball-name = Cannonball Chest
-uplink-pirate-cannonball-desc = A chest full of balls made to be shot from a cannon.
-
-uplink-pirate-cannonball-emp-name = Shockshot Chest
-uplink-pirate-cannonball-emp-desc = A chest full of charged balls that cause an EMP on impact.
-
-uplink-pirate-grapeshot-name = Grapeshot Chest
-uplink-pirate-grapeshot-desc = A chest full of cluster balls made to shoot a wide spread of small projectiles.
-
-uplink-pirate-glassshot-name = Glassshot Chest
-uplink-pirate-glassshot-desc = A chest full of brittle glass balls that will fire multiple projectiles in a tight spread.
-
-uplink-pirate-satchel-name = Pirate Satchel
-uplink-pirate-satchel-desc = An inconspicuous satchel filled with pirate goodies.
-
-uplink-pirate-flintlock-name = Flintlock Pistol
-uplink-pirate-flintlock-desc = A pirate captain's companion. Yarrr! Uses .60 anti-materiel ammo.
-
-uplink-pirate-shotgunammo-name = Blunderbuss Shell Box
-uplink-pirate-shotgunammo-desc = A box of .50 shotgun shells, used in the blunderbuss.
-
-uplink-pirate-revolverammo-name = Pirate Revolver Ammo Box
-uplink-pirate-revolverammo-desc = A box of .45 pistol rounds, used in the pirate revolver.
-
-uplink-pirate-flintlockammo-name = Flintlock Pistol Ammo Box
-uplink-pirate-flintlockammo-desc = A box of .60 anti-materiel rounds, used in the flintlock pistol.
-
-uplink-pirate-ecutlass-name = Energy Cutlass
-uplink-pirate-ecutlass-desc = An energy cutlass!
-
-uplink-pirate-anchor-name = Pirate Anchor
-uplink-pirate-anchor-desc = A large, heavy anchor to beat down anyone and anything standing between you and your plunder.
-
-uplink-pirate-redgrenade-name = Red Pirate Grenade
-uplink-pirate-redgrenade-desc = A grenade that's hot to the touch; prone to catch things on fire.
-
-uplink-pirate-greengrenade-name = Green Pirate Grenade
-uplink-pirate-greengrenade-desc = A foul-smelling grenade that makes you feel fuzzy.
-
-uplink-pirate-graygrenade-name = Gray Pirate Grenade
-uplink-pirate-graygrenade-desc = A solid grenade that feels like a cannonball.
-
-uplink-pirate-accessconfigurator-captain-name = Black Market Access Configurator
-uplink-pirate-accessconfigurator-captain-desc = An access configurator that is sold on the black market. Lock ya booty behind pirate access today!
-
-uplink-pirate-radio-implanter-name = Radio Implanter
-uplink-pirate-radio-implanter-desc = Implants a Freelance radio, allowing covert communication without a headset.
-
+uplink-pirate-EVA-name = 海盜 EVA 防護服
+uplink-pirate-EVA-desc = 一套笨重的太空服，能提供基本的防護，抵禦深空嚴酷寒冷的環境。
+uplink-pirate-hardsuit-captain-name = 海盜船長的重型機甲
+uplink-pirate-hardsuit-captain-desc = 一套古老的裝甲硬式戰甲，非常適合抵禦太空壞血病，以及那些手持工具箱的搗蛋鬼。
+uplink-pirate-hardsuit-rogue-name = 流氓重型裝甲
+uplink-pirate-hardsuit-rogue-desc = 這款輕型裝甲硬式戰甲，專為提供你所需的速度而設計，讓你能迅速突襲並撤離。
+uplink-pirate-hardsuit-elite-name = 精英海盜的強化戰甲
+uplink-pirate-hardsuit-elite-desc = 一款由一名身份不明的鬍子男子設計、結構堅如磚牆的古代精英級裝甲硬式戰甲。
+uplink-pirate-crate-captain-name = 海盜船長的寶箱
+uplink-pirate-crate-captain-desc = 一個裝滿海盜船長所需寶物的寶箱。
+uplink-pirate-crate-name = 海盜寶箱
+uplink-pirate-crate-desc = 一個裝滿海盜必備好東西的寶箱。
+uplink-pirate-wooden-keg-rum-name = 一桶蘭姆酒
+uplink-pirate-wooden-keg-rum-desc = 一桶裝滿海盜所需所有朗姆酒的酒桶，務必喝到死才能好好慶祝！
+uplink-pirate-magboots-name = 海盜魔靴
+uplink-pirate-magboots-desc = 海盜磁力靴，常在太空行走期間使用，以確保使用者能安全地固定在載具上。
+uplink-pirate-hoverbike-name = 海盜懸浮機車
+uplink-pirate-hoverbike-desc = 哇嗚！這是我那艘至高無上的太空梭。好了，我的蘭姆酒在哪裡？
+uplink-pirate-blunderbuss-name = 短管火槍
+uplink-pirate-blunderbuss-desc = 在近距離內極具殺傷力，這是一把常被發現掛在海盜腰間的非法霰彈槍。
+uplink-pirate-revolver-name = 海盜左輪手槍
+uplink-pirate-revolver-desc = 一把造型奇特、非法且外觀陳舊的左輪手槍，深受海盜船員青睞。使用 .45 口徑手槍子彈。
+uplink-pirate-romulan-name = 羅慕倫人
+uplink-pirate-romulan-desc = 哇哈，這是一把經過改裝、非常適合海盜使用的瓦肯槍！使用 .20 口徑步槍子彈。
+uplink-pirate-cannon-name = 海盜大砲
+uplink-pirate-cannon-desc = 砰！
+uplink-pirate-cannonball-name = 砲彈寶箱
+uplink-pirate-cannonball-desc = 一個裝滿專為從大砲中發射而製的彈丸的箱子。
+uplink-pirate-cannonball-emp-name = 衝擊射擊 胸甲
+uplink-pirate-cannonball-emp-desc = 一個裝滿帶電彈丸的箱子，這些彈丸在撞擊時會引發電磁脈衝。
+uplink-pirate-grapeshot-name = 葡萄彈箱
+uplink-pirate-grapeshot-desc = 一個裝滿簇狀彈丸的彈箱，用於發射範圍廣泛的小型彈丸。
+uplink-pirate-glassshot-name = 玻璃彈藥箱
+uplink-pirate-glassshot-desc = 一個裝滿易碎玻璃球的箱子，能發射多發彈丸，並形成密集的散射範圍。
+uplink-pirate-satchel-name = 海盜肩包
+uplink-pirate-satchel-desc = 一個不起眼的肩背包，裡面裝滿了海盜寶物。
+uplink-pirate-flintlock-name = 燧發手槍
+uplink-pirate-flintlock-desc = 一名海盜船長的夥伴。哇噠！使用 .60 口徑反器材彈藥。
+uplink-pirate-shotgunammo-name = 短管火槍彈藥盒
+uplink-pirate-shotgunammo-desc = 一盒 .50 口徑霰彈槍彈，用於短管霰彈槍。
+uplink-pirate-revolverammo-name = 海盜左輪手槍彈藥箱
+uplink-pirate-revolverammo-desc = 一盒 .45 口徑手槍子彈，用於海盜左輪手槍。
+uplink-pirate-flintlockammo-name = 燧發手槍彈藥盒
+uplink-pirate-flintlockammo-desc = 一盒 .60 口徑的反器材子彈，用於燧發手槍。
+uplink-pirate-ecutlass-name = 能量卡特拉斯
+uplink-pirate-ecutlass-desc = 一把能量短劍！
+uplink-pirate-anchor-name = 海盜錨
+uplink-pirate-anchor-desc = 一顆巨大而沉重的錨，足以擊潰擋在你與戰利品之間的一切人與物。
+uplink-pirate-redgrenade-name = 紅色海盜手榴彈
+uplink-pirate-redgrenade-desc = 一顆摸起來燙手的手榴彈；容易引燃周圍物品。
+uplink-pirate-greengrenade-name = 綠色海盜手榴彈
+uplink-pirate-greengrenade-desc = 一枚散發惡臭、會讓人頭暈目眩的手榴彈。
+uplink-pirate-graygrenade-name = 灰色海盜手榴彈
+uplink-pirate-graygrenade-desc = 一枚手榴彈，拿在手上就像一顆砲彈。
+uplink-pirate-accessconfigurator-captain-name = 黑市存取設定工具
+uplink-pirate-accessconfigurator-captain-desc = 一款在黑市上販售的存取配置工具。今天就用盜版存取工具鎖緊你的寶貝吧！
+uplink-pirate-radio-implanter-name = 無線射頻植入機
+uplink-pirate-radio-implanter-desc = 植入一款「自由電台」裝置，讓使用者無需耳機即可進行秘密通訊。
 uplink-pirate-yarrped-name = YarRPED
-uplink-pirate-yarrped-desc = A reverse-engineered RPED that installs the worst parts available and stores the valuable parts it removes.
-
-uplink-pirate-pmag-name = Machine Liberator
-uplink-pirate-pmag-desc = Removes station-binding machine DRM. A pirate's best friend.
-
-uplink-pirate-repair-kit-name = Pirate Computer Repair Kit
-uplink-pirate-repair-kit-desc = A collection of tools used to repair a pirate console. For those times when you have a string of bad luck.
-
-uplink-pirate-ionized-dust-bag-name = Ionized Bluespace Dust
-uplink-pirate-ionized-dust-bag-desc = A bag of dust that can clear pinpointers pointing at a given object, supposedly.
-
-uplink-pirate-pinpointer-target-scanner-name = Pinpointer Target Scanner
-uplink-pirate-pinpointer-target-scanner-desc = A jury-rigged scanner that can find objects targeted by pinpointers. Batteries included, lubber.
-
-uplink-pirate-pirate-stitcher-name = Pirate Stitcher
-uplink-pirate-pirate-stitcher-desc = A circuit board for a pirate stitcher. Assemble it to make pirate clothing and goodies!
-
-uplink-pirate-pouch-captain-name = Pirate Captain's Pouch
-uplink-pirate-pouch-captain-desc = This pouch shows your status as the captain. Also useful for organizing miscellaneous items.
-
-uplink-pirate-pouch-name = Pirate's Pouch
-uplink-pirate-pouch-desc = A pouch for organizing miscellaneous items.
-
-uplink-pirate-jetpack-name = Pirate Jetpack
-uplink-pirate-jetpack-desc = This jetpack hides your radar signature, allowing you to fly undetected in outer space.
-
+uplink-pirate-yarrped-desc = 一款經過逆向工程的 RPED，它會安裝市面上最劣質的零件，並將拆下的珍貴零件妥善保存起來。
+uplink-pirate-pmag-name = 機器解放者
+uplink-pirate-pmag-desc = 移除電台綁定機的數位版權管理（DRM）。盜版者的最佳夥伴。
+uplink-pirate-repair-kit-name = 海盜電腦維修套件
+uplink-pirate-repair-kit-desc = 一套用於修復盜版遊戲主機的工具組。專為那些倒楣連連的時候而準備。
+uplink-pirate-ionized-dust-bag-name = 離子化的藍色空間塵埃
+uplink-pirate-ionized-dust-bag-desc = 據說，這袋灰塵能清除指向特定物體的「定位器」。
+uplink-pirate-pinpointer-target-scanner-name = 精準定位器 目標掃描器
+uplink-pirate-pinpointer-target-scanner-desc = 一台臨時拼湊而成的掃描器，能偵測到定位器鎖定的目標。電池已隨附，笨蛋。
+uplink-pirate-pirate-stitcher-name = 海盜縫紉師
+uplink-pirate-pirate-stitcher-desc = 一款海盜縫紉機的電路板。組裝它，就能製作海盜服裝和小玩意兒！
+uplink-pirate-pouch-captain-name = 海盜船長的小袋子
+uplink-pirate-pouch-captain-desc = 這個小袋子能彰顯您身為隊長的身份，同時也方便收納各種零散物品。
+uplink-pirate-pouch-name = 海盜錢袋
+uplink-pirate-pouch-desc = 一個用來收納各種雜物的收納袋。
+uplink-pirate-jetpack-name = 海盜噴射背包
+uplink-pirate-jetpack-desc = 這款噴射背包能隱藏你的雷達蹤跡，讓你能在太空中不被發現地飛行。
 uplink-pirate-shipyard-rcd-name = ShipYARRd RCD
-uplink-pirate-shipyard-rcd-desc = This special shipyard RCD has a modified catalog to better suit the freelancer aesthetic. Patch up holes in the hull, expand the ship... So many applications!
-
+uplink-pirate-shipyard-rcd-desc = 這座特殊的船廠 RCD 提供了經過修改的產品目錄，以更貼合自由職業者追求的美學風格。修補船體上的破洞、擴建船體……用途多不勝數！
 uplink-pirate-yarrmag-name = Yarrmag
-uplink-pirate-yarrmag-desc = A disposable card made by the Freebooters to hack devices. Works one time.
-
-uplink-pirate-id-chip-name = Bootleg Cyborg Chip
-uplink-pirate-id-chip-desc = A makeshift identification chip to insert into your silicon mateys. Grants cyborgs access to yer vessel.
-
+uplink-pirate-yarrmag-desc = 由「Freebooters」製作的一張一次性卡片，用於駭入裝置。僅能使用一次。
+uplink-pirate-id-chip-name = 盜版賽博格晶片
+uplink-pirate-id-chip-desc = 一枚可插入你們這些「矽基夥伴」體內的臨時識別晶片。讓賽博格得以進入你們的船隻。
 # region Syndicate
-uplink-emp-grenade-launcher-bundle-name = EMP China-Lake Bundle
-uplink-emp-grenade-launcher-bundle-desc = An old China-Lake grenade launcher bundled with 8 rounds of EMP.
-
-uplink-spaceblade-syndicate-name = Contra SpaceBlade
-uplink-spaceblade-syndicate-desc = Made from real metal!
-
-uplink-emag-pass-name = Disposable Emag
-uplink-emag-pass-desc = A card used to hack devices. Usable three times.
-
+uplink-emp-grenade-launcher-bundle-name = EMP 中國-外灘套裝
+uplink-emp-grenade-launcher-bundle-desc = 一把舊款的「中國湖」榴彈發射器，附帶 8 發電磁脈衝彈。
+uplink-spaceblade-syndicate-name = 《Contra SpaceBlade》
+uplink-spaceblade-syndicate-desc = 採用真實金屬製成！
+uplink-emag-pass-name = 拋棄式 Emag
+uplink-emag-pass-desc = 一張用於駭入裝置的卡片。可使用三次。
 uplink-revolver-ritland-name = Ritland-45
-uplink-revolver-ritland-desc = Usually reliable, heavy revolver. Do you feel lucky, punk?
-
-uplink-pistol-cobra45-desc = A rugged, robust operator handgun with inbuilt silencer. Uses .45 pistol ammo.
-
-uplink-pistol-magazine-cobra-name = Cobra .45 Pistol Magazine
-uplink-pistol-magazine-cobra-desc = A loaded magazine for Cobra .45 pistol.
-
+uplink-revolver-ritland-desc = 這是一把通常很可靠、份量十足的左輪手槍。小混蛋，你覺得自己很走運嗎？
+uplink-pistol-cobra45-desc = 一款堅固耐用的操作員手槍，內建消音器。使用 .45 口徑手槍子彈。
+uplink-pistol-magazine-cobra-name = Cobra .45 手槍彈匣
+uplink-pistol-magazine-cobra-desc = 一把裝有子彈的「Cobra .45」手槍彈匣。
 uplink-speedloader-magnum-non-ap-name = .45 Pistol Speed Loader
-uplink-speedloader-magnum-non-ap-desc = A .45 pistol speed loader with 6 .45 pistol caliber rounds.
-
-uplink-syndicate-segway-name = Syndicate Segway
-uplink-syndicate-segway-desc = Move around in style without dirtying your blood red boots.
-
-uplink-syndicate-spray-painter-name = Syndicate Spray Painter
-uplink-syndicate-spray-painter-desc = Turn your evil house into an evil home. Includes patented syndicate designs not provided by NT spray painters.
+uplink-speedloader-magnum-non-ap-desc = 一個裝有 6 發 .45 口徑手槍子彈的 .45 口徑手槍快速裝彈器。
+uplink-syndicate-segway-name = 「辛迪加」賽格威
+uplink-syndicate-segway-desc = 以時尚姿態四處走動，同時不弄髒你那雙血紅色的靴子。
+uplink-syndicate-spray-painter-name = 「辛迪加」噴漆師
+uplink-syndicate-spray-painter-desc = 將你的邪惡屋子轉變為邪惡的家園。內含 NT 噴漆師未提供的專利集團設計。

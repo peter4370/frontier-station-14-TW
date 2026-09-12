@@ -1,207 +1,208 @@
-<Document>
-  # Argocytes
-  
-  A distant relative of Xenos, Argocytes are known throughout the sector for their ability to eat and digest almost anything, from organic matter to reinforced plastitanium vault walls. Just like Xenos, this species is well-acclimated to hostile environments: neither the vacuum of space nor the extreme heat and pressure of a planet consumed by plasma fire can kill these creatures.
 
-  From our observations, we know Argocytes live in large hives, and have two specialized morphotypes: "Stalkers" and "Guardians". Stalkers are the hive's scouts and workers, hunting for sustainance and digging tunnels with their sharp claws and teeth. Guardians are builders and soldiers, defending and maintaining the hive and accompanying stalkers when the hive needs to settle new areas.
-  
-  This species has fluorosulfuric acid for blood. Argocytes can be butchered for xeno meat (questionably edible), and their stomachs may contain reclaimable construction materials.
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Known Variants
-  # "Slurva"
-  
-  The first lifecycle stage of the Stalker morphotype. A pathetic creature, incapable of doing much. It is better to kill it now before it has a chance to mature.
-  
+<Document>
+  # 阿爾戈細胞
+
+  阿爾戈細胞是克塞諾斯的遠親，在整個星區以能夠吞食並消化幾乎任何東西而聞名，從有機物質到強化塑鈦合金金庫牆壁皆不例外。 就像克塞諾斯一樣，這個物種已完全適應了惡劣的環境：無論是太空的真空，還是被等離子火焰吞噬的行星所產生的極端高溫與高壓，都無法殺死這些生物。
+
+  根據我們的觀察，我們知道阿爾戈細胞生活在大型蜂巢中，並具有兩種專一化的形態類型：「追蹤者」和「守護者」。 追蹤者是蜂巢中的偵察兵和工蜂，負責覓食，並利用鋒利的爪子和牙齒挖掘隧道。 守護者既是建造者也是戰士，負責捍衛與維護蜂巢，並在蜂巢需要開拓新區域時，陪伴追獵者一同行動。
+
+  該物種的血液中含有氟硫酸。 阿爾戈細胞可以被宰殺以取得異種肉（其可食性尚有爭議），而牠們的胃部可能含有可回收的建築材料。
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 已知變體
+  # 「Slurva」
+
+  「Stalker」形態類型的第一生命週期階段。 一個可憐的傢伙，沒什麼本事。 趁它還來不及成熟之前，現在就將它消滅掉比較好。
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteSlurvaExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 15 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3 m/s (3 m/s)[bold][color=#a4885c]*[/color][/bold]
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 3 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
-  [bold][color=#a4885c]*[/color][/bold] - [italic]an average human can run at 4.5 m/s and walk at 2.5 m/s.[/italic]
-  
-  [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Skitter"
-  
-  The second lifecycle stage of the Stalker morphotype. Still small, these creatures tend to travel in small packs for safety.
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 15（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 3 公尺/秒 (3 公尺/秒)[bold][color=#a4885c]*[/color][/bold]
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 3 [color=red]斬擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
+  [bold][color=#a4885c]*[/color][/bold] - [italic]一般人類的奔跑速度為 4.5 公尺/秒，步行速度為 2.5 公尺/秒。[/斜體]
+
+  [粗體][color=#a4885c]________________________________________________________________________[/color]
+
+  # 「斯基特」
+
+  「追蹤者」形態類型的第二個生命週期階段。 這些生物體型尚小，為了安全起見，通常會結成小群行動。
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteSkitterExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 30 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 6 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 30（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/bold] 3.5 公尺/秒 (3.5 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 6 [color=red]斬擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Swiper"
-  
-  The third lifecycle stage of the Stalker morphotype. Roaming scavengers, usually out on reconnaisance or gathering materials.
-  
+
+  # 「斯威珀」
+
+  「追蹤者」形態的第三個生命週期階段。 四處遊蕩的拾荒者，通常正在進行偵察或蒐集材料。
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteSwiperExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 40 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 40（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 3.5 公尺/秒（3 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 8 [color=red]斬擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Glider"
-  
-  The fourth lifecycle stage of the Stalker morphotype. Born and bred hunters, these stalk and prey upon smaller wildlife.
-  
+
+  # 「滑翔者」
+
+  「追蹤者」形態的第四個生命週期階段。 這些天生就是獵手的動物，會潛行接近並獵捕體型較小的野生動物。
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteGliderExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 50 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (4.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 50（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒 (4.5 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 10 [color=red]斬擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Crawler"
-  
-  The fifth lifecycle stage of the Stalker morphotype. These deadly pack animals ambush and maul unsuspecting travelers.
-  
+
+  # 「爬行者」
+
+  「追蹤者」形態類型的第五個生命週期階段。 這些致命的群居動物會伏擊並撕咬毫無防備的旅人。
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteCrawlerExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 60 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 5 m/s (5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 12 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 60（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/bold] 5 公尺/秒 (5 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 12 [color=red]斬擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Founder"
-  
-  The last known lifecycle stage of the Stalker morphotype. Most often seen in mature hives preparing for an expansion.
-  
+
+  # 「創始者」
+
+  「追蹤者」形態的最後已知生命週期階段。 最常出現在正準備擴張的成熟蜂群中。
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteFounderExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 150 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 4.5 m/s (4.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=red]Slash[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 150（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 4.5 公尺/秒 (4.5 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 16 [color=red]斬擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Barrier"
-  
-  The first lifecycle stage of the Guardian morphotype. Equally as pathetic as the "Slurva". Not yet fully formed, its protective plates are still soft.
-  
+
+  # 「屏障」
+
+  守護者形態的第一個生命週期階段。 和「Slurva」一樣可悲。 它尚未完全發育成熟，其保護性甲板仍很柔軟。
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteBarrierExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 35 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 3 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 35（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/bold] 3.5 公尺/秒（3 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 3 [color=red]鈍擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Molder"
-  
-  The second lifecycle stage of the Guardian morphotype. Usually seen building and repairing structures in the hive.
-  
+
+  # 「腐化者」
+
+  守護者形態的第二個生命週期階段。 通常可見牠們在蜂巢中建造和修繕結構。
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteMolderExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 80 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 80（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 3.5 公尺/秒 (3.5 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 8 [color=red]鈍擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Pouncer"
-  
-  The third lifecycle stage of the Guardian morphotype. Provides rapid response for minor threats to the hive.
-  
+
+  # 「撲擊者」
+
+  守護者形態的第三個生命週期階段。 針對蜂巢面臨的輕微威脅，能迅速作出反應。
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocytePouncerExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 100 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 10 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 100（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/bold] 3.5 公尺/秒 (3.5 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 10 [color=red]鈍擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Harvester"
-  
-  A mutation that develops in the third lifecycle stage of the Guardian morphotype. "Harvesters" use their highly caustic saliva to break down and process materials for the hive.
-  
+
+  # 「收割者」
+
+  一種在守護者形態的第三個生命週期階段中演化而成的突變體。 「採集者」利用其強鹼性的唾液，將材料分解並加工，以供蜂巢使用。
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteHarvesterExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 90 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 8 [color=orange]Caustic[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [bold][color=#a4885c]生命值閾值：[/color][/bold] 90（死亡）
+  - [bold][color=#a4885c]奔跑（步行）速度：[/color][/bold] 3.5 公尺/秒 (3.5 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 8 [color=orange]腐蝕[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Enforcer"
-  
-  The fourth lifecycle stage of the Guardian morphotype. The main guards of the hive, these fend off would-be attackers.
-  
+
+  # 「執法者」
+
+  守護者形態的第四個生命週期階段。 作為蜂巢的主要守衛，牠們負責抵禦潛在的攻擊者。
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteEnforcerExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 140 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 16 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 140（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/bold] 3.5 公尺/秒（3.5 公尺/秒）
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 16 [color=red]鈍擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # "Leviathing"
-  
-  The final known lifecycle stage of the Guardian morphotype. These hulking beasts lead attacks on the hive's enemies.
-  
+
+  # 「利維亞桑」
+
+  守護者形態已知生命週期的最後階段。 這些龐然巨獸會率領部隊攻擊蜂巢的敵人。
+
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteLeviathingExpeditions"/>
   </Box>
-  - [bold][color=#a4885c]Health thresholds:[/color][/bold] 500 (death)
-  - [bold][color=#a4885c]Run (walk) speed:[/color][/bold] 3.5 m/s (3.5 m/s)
-  - [bold][color=#a4885c]Damage (type):[/color][/bold] 25 [color=red]Blunt[/color]
-  - [bold][color=#a4885c]Damage resistances:[/color][/bold] none
-  - [bold][color=#a4885c]Special abilities:[/color][/bold] none
-  
+  - [粗體][color=#a4885c]生命值閾值：[/color][/粗體] 500（死亡）
+  - [粗體][color=#a4885c]奔跑（步行）速度：[/color][/bold] 3.5 公尺/秒 (3.5 公尺/秒)
+  - [bold][color=#a4885c]傷害（類型）：[/color][/bold] 25 [color=red]鈍擊[/color]
+  - [bold][color=#a4885c]傷害抗性：[/color][/bold] 無
+  - [bold][color=#a4885c]特殊能力：[/color][/bold] 無
+
   [bold][color=#a4885c]________________________________________________________________________[/color]
-  
-  # Mission Objectives
-  ## Elimination
+
+  # 任務目標
+  ## 消滅
   <Box>
   <GuideEntityEmbed Entity="MobArgocyteLeviathingExpeditions"/>
   </Box>
-  Eliminate a large and dangerous creature - a [color=#a4885c]leviathing[/color] within given time constraints.
-  
+  在指定時間內消滅一隻龐大且危險的生物——一隻 [color=#a4885c]利維坦[/color]。
+
   ## Destruction
   <Box>
   <GuideEntityEmbed Entity="ArgocyteEgg"/>
   </Box>
-  Destroy a certain number of [color=#a4885c]argocyte eggs[/color] within given time constraints.
+  在指定的時間限制內，摧毀一定數量的 [color=#a4885c]阿戈細胞卵[/color]。
 </Document>

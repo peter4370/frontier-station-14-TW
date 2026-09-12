@@ -2,7 +2,7 @@
   parent: BaseItem
   id: DoorRemoteDefault
   name: door remote
-  description: A gadget which can open and bolt doors remotely.
+  description: 一款能夠遠端開啟和上鎖門的裝置。
   abstract: true
   components:
   - type: Sprite
@@ -17,7 +17,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseC2ContrabandUnredeemable] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: DoorRemoteCommand
-  name: command door remote
+  name: 門控遙控器
   components:
   - type: Sprite
     layers:
@@ -34,8 +34,8 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseCommandContraband]
   id: DoorRemoteCustom
-  name: custom door remote
-  description: A gadget which can open and bolt doors remotely. This advanced variant does not have built-in access, instead inheriting the ID access of the user.
+  name: 客製化車庫門遙控器
+  description: 一款可遠端開啟及鎖門的小型裝置。此進階版本未內建存取功能，而是繼承使用者的身分識別存取權限。
   components:
   - type: Sprite
     layers:
@@ -51,7 +51,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseC2ContrabandUnredeemable] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: DoorRemoteSecurity
-  name: security door remote
+  name: 防盜門遙控器
   components:
   - type: Sprite
     layers:
@@ -67,7 +67,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseC2ContrabandUnredeemable] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: DoorRemoteArmory
-  name: armory door remote
+  name: 武器庫門遙控器
   components:
   - type: Sprite
     layers:
@@ -83,7 +83,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseC2ContrabandUnredeemable] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: DoorRemoteService
-  name: service door remote
+  name: 服務門遙控器
   components:
   - type: Sprite
     layers:
@@ -99,7 +99,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseC2ContrabandUnredeemable] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: DoorRemoteResearch
-  name: research door remote
+  name: 研究用門遙控器
   components:
   - type: Sprite
     layers:
@@ -115,7 +115,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseC2ContrabandUnredeemable] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: DoorRemoteCargo
-  name: cargo door remote
+  name: 後車廂門遙控器
   components:
   - type: Sprite
     layers:
@@ -131,7 +131,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseC2ContrabandUnredeemable] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: DoorRemoteMedical
-  name: medical door remote
+  name: 醫療用門遙控器
   components:
   - type: Sprite
     layers:
@@ -147,7 +147,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseC2ContrabandUnredeemable] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: DoorRemoteEngineering
-  name: engineering door remote
+  name: 工程用門遙控器
   components:
   - type: Sprite
     layers:
@@ -163,7 +163,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseC2ContrabandUnredeemable] # Frontier: BaseCommandContraband<BaseC2ContrabandUnredeemable
   id: DoorRemoteAll
-  name: super door remote
+  name: 超級車庫門遙控器
   suffix: Admeme
   components:
   - type: Sprite
@@ -188,7 +188,7 @@
 - type: entity
   parent: [ DoorRemoteDefault, BaseXenoborgContraband ]
   id: DoorRemoteXenoborg
-  name: xenoborg door remote
+  name: Xenoborg 門用遙控器
   components:
   - type: Sprite
     layers:

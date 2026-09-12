@@ -1,8 +1,8 @@
 ## Admin menu
 
-ui-options-enable-overlay-nf-balance = Show balance
+ui-options-enable-overlay-nf-balance = 顯示餘額
 
 ## Controls menu
 
-ui-options-function-smart-equip-wallet = Smart-equip to wallet
-ui-options-function-open-wallet = Open wallet
+ui-options-function-smart-equip-wallet = Smart-equip 至錢包
+ui-options-function-open-wallet = 打開錢包

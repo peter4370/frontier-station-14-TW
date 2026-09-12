@@ -1,5 +1,6 @@
+
 <Document>
-  # BOCADILLO-CLASS SERVICE SHUTTLE
+  # 博卡迪略級接駁車服務
   <Box>
   <GuideEntityEmbed Entity="hydroponicsTray"/>
   <GuideEntityEmbed Entity="KitchenMicrowave"/>
@@ -8,37 +9,37 @@
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapBocadillo" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Small
+  [color=#a4885c]船隻尺寸：[/color] 小型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-2
+  [color=#a4885c]建議乘員人數：[/color] 1-2 人
 
-  [color=#a4885c]Power Gen Type:[/color] Uranium
+  [color=#a4885c]動力類型：[/color] 鈾
 
-  # Shuttle Brief
+  # 飛船簡介
 
-  "A tiny food truck perfect for a solo chef or a small crew."
+  「一輛迷你餐車，非常適合單人主廚或小型船員。」
 
-  # Ship Functions
+  # 船艦功能
 
-  # Entertainment
+  # 娛樂
 
-  [textlink="Food Recipes" link="FoodRecipes"/]
+  [textlink="食譜" link="FoodRecipes"/]
 
-  [textlink="Drinks" link="Drinks"/]
+  [textlink="飲品" link="Drinks"/]
 
-  [textlink="Botany" link="Botany"/]
+  [textlink="植物學" link="Botany"/]
 
-  # Piloting
+  # 駕駛
 
-  [textlink="Piloting" link="Piloting"/]
+  [textlink="駕駛" link="駕駛"/]
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="星區拓撲" link="星區拓撲"/]
 
-  # Hiring crew
+  # 僱用船員
 
-  [textlink="Hiring" link="Hiring"/]
+  [textlink="僱用" link="僱用"/]
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員。
 
   # PREFLIGHT CHECKLIST
 

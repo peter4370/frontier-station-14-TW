@@ -2,7 +2,7 @@
   name: lamp
   parent: BaseItem
   id: ArabianLamp
-  description: Why the heck won't this piece of junk open!?
+  description: 這破玩意兒到底為什麼就是打不開啊！？
   components:
   - type: Appearance
   - type: AccessReader

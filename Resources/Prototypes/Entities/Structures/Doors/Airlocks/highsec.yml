@@ -1,8 +1,8 @@
 - type: entity
   id: HighSecDoor
   parent: BaseStructure
-  name: high security door
-  description: Keeps the bad out and keeps the good in.
+  name: 高安全性門
+  description: 將壞的東西擋在外面，將好的東西留在外面。
   placement:
     mode: SnapgridCenter
   components:

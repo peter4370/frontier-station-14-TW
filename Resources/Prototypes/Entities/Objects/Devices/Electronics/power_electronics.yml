@@ -3,7 +3,7 @@
   id: APCElectronics
   parent: BaseElectronics
   name: APC electronics
-  description: Circuit used in APC construction.
+  description: APC 製造所使用的電路。
   components:
     - type: ApcElectronics
     - type: Sprite
@@ -21,8 +21,8 @@
 - type: entity
   id: WallmountSubstationElectronics
   parent: BaseElectronics
-  name: wallmount substation electronics
-  description: Circuit used to construct a wallmount substation.
+  name: 壁掛式變電站電子設備
+  description: 用於建造壁掛式變電站的電路。
   components:
     - type: Sprite
       sprite: Objects/Misc/module.rsi
@@ -37,8 +37,8 @@
 - type: entity
   parent: BaseElectronics
   id: WallmountGeneratorElectronics
-  name: wallmount generator electronics
-  description: Circuit used to construct a wallmount generator.
+  name: 壁掛式發電機電子元件
+  description: 用於組裝壁掛式發電器的電路。
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -56,8 +56,8 @@
 - type: entity
   id: WallmountGeneratorAPUElectronics
   parent: BaseElectronics
-  name: wallmount APU electronics
-  description: Circuit used to construct a wallmount APU.
+  name: 壁掛式輔助動力單元（APU）電子設備
+  description: 用於組裝壁掛式 APU 的電路。
   components:
     - type: Sprite
       sprite: Objects/Misc/module.rsi
@@ -73,7 +73,7 @@
   parent: BaseElectronics
   id: SolarTrackerElectronics
   name: solar tracker electronics
-  description: Advanced circuit board used to track the nearest star.
+  description: 用於追蹤最近恆星的先進電路板。
   components:
     - type: Sprite
       sprite: Objects/Misc/module.rsi

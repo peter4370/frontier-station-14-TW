@@ -45,8 +45,8 @@
 - type: entity
   parent: ClothingMaskBase
   id: ClothingMaskGoldenCursed
-  name: golden mask
-  description: An ancient-looking mask bearing the visage of some simian monarch. You swear it looks cursed. # Frontier: doesn't contort, not really cursed
+  name: 金色面具
+  description: 一頂外觀古樸的面具，上面刻著某位猿類君主的容顏。你敢發誓，那面具看起來彷彿被詛咒了一般。 #Frontier: doesn't contort, not really cursed
   components:
   - type: Sprite
     sprite: Clothing/Mask/goldenmask.rsi

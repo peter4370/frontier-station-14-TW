@@ -1,7 +1,7 @@
 - type: entity
   id: AmeController
-  name: AME controller
-  description: It's a controller for the antimatter engine.
+  name: AME 控制器
+  description: 這是反物質引擎的控制器。
   placement:
     mode: SnapgridCenter
   components:
@@ -128,8 +128,8 @@
 
 - type: entity
   id: AmeShielding
-  name: AME shielding
-  description: Keeps the antimatter in and the matter out.
+  name: AME 屏蔽
+  description: 將反物質封在裡面，並將物質阻隔在外。
   placement:
     mode: SnapgridCenter
   components:

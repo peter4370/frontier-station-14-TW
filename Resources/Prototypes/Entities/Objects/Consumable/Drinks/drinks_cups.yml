@@ -25,7 +25,7 @@
   parent: [ DrinkBaseMaterialPorcelain, DrinkBaseCup, DrinkVisualsFill ]
   id: DrinkBaseMug
   name: mug
-  description: A mug.
+  description: 一個馬克杯。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/mug.rsi
@@ -38,8 +38,8 @@
 - type: entity
   parent: [DrinkBaseMaterialGold, DrinkBaseCup]
   id: DrinkGoldenCup
-  name: golden cup
-  description: A golden cup.
+  name: 金盃
+  description: 一座金杯。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/golden_cup.rsi
@@ -53,9 +53,9 @@
 - type: entity
   parent: DrinkBaseMug # a teacup is basically a mug
   id: DrinkTeacupEmpty
-  name: teacup
+  name: 茶杯
   suffix : Empty # Frontier
-  description: A plain white porcelain teacup.
+  description: 一個素面白色瓷茶杯。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/teacup.rsi
@@ -84,8 +84,8 @@
 - type: entity
   parent: [ DrinkBaseMaterialGlass, DrinkBaseCup, DrinkVisualsFillOverlay ]
   id: DrinkGlassCoupeShaped
-  name: coupe glass
-  description: A classic thin neck coupe glass, the icon of fragile labels on crates around the galaxy.
+  name: 杯型玻璃杯
+  description: 一款經典的細頸雙耳酒杯，是銀河系各地木箱上「易碎品」標籤的象徵。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/glass_coupe_shape.rsi
@@ -95,8 +95,8 @@
 - type: entity
   parent: [DrinkBaseMaterialCardboard, DrinkBaseCup, DrinkBaseEmptyTrash, DrinkVisualsFill]
   id: DrinkWaterCup
-  name: water cup
-  description: A paper water cup.
+  name: 水杯
+  description: 一個紙製水杯。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -127,7 +127,7 @@
   parent: DrinkBaseMug
   id: DrinkMug
   name: mug
-  description: A plain white mug.
+  description: 一個素白的馬克杯。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/mug.rsi
@@ -135,8 +135,8 @@
 - type: entity
   parent: DrinkBaseMug
   id: DrinkMugBlack
-  name: black mug
-  description: A sleek black mug.
+  name: 黑色馬克杯
+  description: 一款流線型的黑色馬克杯。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/mug_black.rsi
@@ -144,8 +144,8 @@
 - type: entity
   parent: DrinkBaseMug
   id: DrinkMugBlue
-  name: blue mug
-  description: A blue and black mug.
+  name: 藍色馬克杯
+  description: 一個藍黑色的馬克杯。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/mug_blue.rsi
@@ -153,8 +153,8 @@
 - type: entity
   parent: DrinkBaseMug
   id: DrinkMugGreen
-  name: green mug
-  description: A pale green and pink mug.
+  name: 綠色馬克杯
+  description: 一個淡綠色和粉紅色的馬克杯。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/mug_green.rsi
@@ -162,8 +162,8 @@
 - type: entity
   parent: DrinkBaseMug
   id: DrinkMugDog
-  name: funny dog mug
-  description: It looks like a cartoon beagle.
+  name: 搞笑狗狗馬克杯
+  description: 它看起來像一隻卡通比格犬。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/mug_dog.rsi
@@ -171,8 +171,8 @@
 - type: entity
   parent: DrinkBaseMug
   id: DrinkMugHeart
-  name: heart mug
-  description: A white mug, it prominently features a red heart.
+  name: 心形馬克杯
+  description: 一個白色的馬克杯，上面醒目地印著一個紅心。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/mug_heart.rsi
@@ -180,8 +180,8 @@
 - type: entity
   parent: [DrinkBaseMaterialMetal, DrinkBaseMug]
   id: DrinkMugMetal
-  name: metal mug
-  description: A metal mug. You're not sure which metal.
+  name: 金屬馬克杯
+  description: 一個金屬馬克杯。你不確定是什麼金屬。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/mug_metal.rsi
@@ -189,8 +189,8 @@
 - type: entity
   parent: DrinkBaseMug
   id: DrinkMugMoebius
-  name: moebius mug
-  description: A mug with a Moebius Laboratories logo on it. Not even your morning coffee is safe from corporate advertising.
+  name: 莫比烏斯馬克杯
+  description: 一個印有「莫比烏斯實驗室」標誌的馬克杯。就連你的晨間咖啡，也逃不過企業廣告的魔掌。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/mug_moebius.rsi
@@ -198,8 +198,8 @@
 - type: entity
   parent: DrinkBaseMug
   id: DrinkMugOne
-  name: "#1 mug"
-  description: "A white mug, it prominently features a #1."
+  name: "#1 馬克杯"
+  description: "一個白色的馬克杯，上面醒目地印著一個「#1」。"
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/mug_one.rsi
@@ -207,8 +207,8 @@
 - type: entity
   parent: DrinkBaseMug
   id: DrinkMugRainbow
-  name: rainbow mug
-  description: A rainbow mug. The colors are almost as blinding as a welder.
+  name: 彩虹馬克杯
+  description: 一個彩虹馬克杯。它的顏色幾乎和焊工的閃光一樣刺眼。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/mug_rainbow.rsi
@@ -216,8 +216,8 @@
 - type: entity
   parent: DrinkBaseMug
   id: DrinkMugRed
-  name: red mug
-  description: A red and black mug.
+  name: 紅色馬克杯
+  description: 一個紅黑相間的馬克杯。
   components:
   - type: Sprite
     sprite: Objects/Consumable/Drinks/mug_red.rsi
@@ -227,9 +227,9 @@
 - type: entity
   parent: DrinkBaseMug
   id: DrinkHotCoco
-  name: hot chocolate
+  name: 熱巧克力
   suffix: Full
-  description: A heated drink consisting melted chocolate and heated milk.
+  description: 一種由融化的巧克力與熱牛奶調製而成的熱飲。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -253,7 +253,7 @@
   id: DrinkHotCoffee
   name: coffee
   suffix: Full
-  description: Coffee is a brewed drink prepared from roasted seeds, commonly called coffee beans, of the coffee plant.
+  description: 咖啡是一種以咖啡樹的烘焙種子（通常稱為咖啡豆）沖泡而成的飲品。
   components:
   - type: SolutionContainerManager
     solutions:
@@ -339,7 +339,7 @@
   parent: [DrinkBaseMaterialPlastic, DrinkBaseCup]
   id: DrinkLean
   name: grape juice
-  description: Damn, no fun allowed.
+  description: 該死，根本不讓玩。
   components:
   - type: SolutionContainerManager
     solutions:

@@ -3,7 +3,7 @@
 - type: entity
   id: ShuttleGunBase
   parent: BaseStructure
-  name: shittle gun
+  name: 屎槍
   abstract: true
   components:
   - type: Appearance
@@ -43,8 +43,8 @@
 - type: entity
   id: ShuttleGunSvalinnMachineGun
   parent: [ ShuttleGunBase, ConstructibleMachine]
-  name: LSE-400c "Svalinn machine gun"
-  description: Basic stationary laser unit. Effective against live targets and electronics. Uses regular power cells to fire, and has an extremely high rate of fire.
+  name: LSE-400c「斯瓦林機槍」
+  description: 基本型固定式雷射武器。對活體目標及電子設備皆具殺傷力。使用普通電源電池發射，且射速極高。
   categories: [ DoNotMap ]
   components:
   - type: Sprite
@@ -101,8 +101,8 @@
 - type: entity
   id: ShuttleGunPerforator
   parent: [ ShuttleGunBase, ConstructibleMachine]
-  name: LSE-1200c "Perforator"
-  description: Advanced stationary laser unit. Annihilates electronics and is extremely dangerous to health! Uses the power cage to fire.
+  name: LSE-1200c「Perforator」
+  description: 先進的固定式雷射裝置。會摧毀電子設備，且對健康極為危險！透過能量籠進行發射。
   categories: [ DoNotMap ]
   components:
   - type: Sprite
@@ -161,8 +161,8 @@
 - type: entity
   id: ShuttleGunFriendship
   parent: [ShuttleGunBase] # Frontier: Removed ConstructibleMachine
-  name: EXP-320g "Friendship"
-  description: A small stationary grenade launcher that holds 2 grenades.
+  name: EXP-320g「友誼」
+  description: 一款可裝載 2 枚手榴彈的小型固定式榴彈發射器。
   categories: [ DoNotMap ]
   components:
   - type: Sprite
@@ -216,8 +216,8 @@
 - type: entity
   id: ShuttleGunDuster
   parent: [ShuttleGunBase, ConstructibleMachine]
-  name: EXP-2100g "Duster"
-  description: A powerful stationary grenade launcher. A cartridge is required for use.
+  name: EXP-2100g「Duster」
+  description: 一款威力強大的固定式榴彈發射器。使用時需裝填彈匣。
   categories: [ DoNotMap ]
   components:
   - type: Sprite
@@ -277,7 +277,7 @@
 - type: entity
   id: ShuttleGunPirateCannon
   parent: [BaseStructureDisableToolUse, ShuttleGunBase, BaseC3PirateContrabandNoValue] # Frontier: Added BaseStructureDisableToolUse, BaseC3PirateContrabandNoValue
-  name: pirate ship cannon
+  name: 海盜船大砲
   description: Kaboom!
   components:
   - type: ContainerContainer
@@ -319,8 +319,8 @@
 - type: entity
   id: ShuttleGunKinetic
   parent: [ ShuttleGunBase, ConstructibleMachine]
-  name: PTK-1500e "Matter Dematerializer" # Frontier: "800"<"1500e" (consistent with naming scheme)
-  description: Mining turret, effective for blasting hardened targets, but overpowered for softer rock. Gradually accumulates charges on its own. # Frontier: description changed
+  name: PTK-1500e「物質解體器」 #Frontier: "800"<"1500e" (consistent with naming scheme)
+  description: 採礦炮塔，對爆破硬化目標十分有效，但對於較軟的岩石而言則過於強大。會自行逐漸累積炸藥。 # Frontier: description changed
   categories: [ DoNotMap ]
   components:
   - type: Sprite
@@ -375,8 +375,8 @@
 - type: entity
   parent: ShuttleGunBase
   id: ShuttleGunKineticOld
-  name: exomorphic dematerializer
-  description: An ancient ship gun, utilizing biomechanical systems to store and release energy. While unique in its design, it has been rendered obsolete due to its inferior charging and firing speed compared to mechanical constructions.
+  name: 外形解質器
+  description: 一門古老的艦砲，運用生物力學系統來儲存與釋放能量。儘管其設計獨特，但由於其裝填與射擊速度遜於機械結構，已逐漸被淘汰。
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Shuttles/xeno.rsi

@@ -1,14 +1,10 @@
 marking-HumanNoseSchnozz = Schnozz
-marking-HumanNoseSchnozz-schnozz = Nose
-
-marking-HumanNoseNubby = Nubby Nose
+marking-HumanNoseSchnozz-schnozz = 鼻子
+marking-HumanNoseNubby = 小圓鼻子
 marking-HumanNoseNubby-nubby = Nose
-
-marking-HumanNoseDroop = Droopy Nose
+marking-HumanNoseDroop = 下垂的鼻子
 marking-HumanNoseDroop-droop = Nose
-
-marking-HumanNoseBlob = Blobby Nose
+marking-HumanNoseBlob = 圓溜溜的鼻子
 marking-HumanNoseBlob-blob = Nose
-
-marking-HumanNoseUppie = Uppie Nose
+marking-HumanNoseUppie = 翹鼻子
 marking-HumanNoseUppie-uppie = Nose

@@ -19,7 +19,6 @@ dock-label-station-six-c = 6C
 dock-label-station-seven-a = 7A
 dock-label-station-seven-b = 7B
 dock-label-station-seven-c = 7C
-
 dock-label-trade-cargo-bay-one = CB1
 dock-label-trade-cargo-bay-two = CB2
 dock-label-trade-cargo-bay-three = CB3
@@ -40,9 +39,8 @@ dock-label-trade-seven = D7
 dock-label-trade-seven-a = D7A
 dock-label-trade-seven-b = D7B
 dock-label-trade-seven-c = D7C
-
-dock-label-bus = Bus Dock
-dock-label-janitor = Jani
-dock-label-guard = Guard
+dock-label-bus = 公車停靠站
+dock-label-janitor = 雅妮
+dock-label-guard = 守衛
 dock-label-nfsd = NFSD
-dock-label-drive-thru = McDrive Thru
+dock-label-drive-thru = 麥當勞得來速

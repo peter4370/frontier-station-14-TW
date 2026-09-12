@@ -1,45 +1,46 @@
+
 <Document>
-# CRESCENT-CLASS MOBILE STATION SHUTTLE
+# 新月級行動站穿梭機
 <Box>
-  <GuideEntityEmbed Entity="BannerMedical" Caption="Recover"/>
+  <GuideEntityEmbed Entity="BannerMedical" Caption="恢復"/>
   <GuideEntityEmbed Entity="BannerNanotrasen" Caption="Research"/>
-  <GuideEntityEmbed Entity="BannerScience" Caption="Restore"/>
+  <GuideEntityEmbed Entity="BannerScience" Caption="還原"/>
 </Box>
   <Box>
     <GuideEntityEmbed Entity="ShuttleMapCrescent" Caption=""/>
   </Box>
 
-[color=#a4885c]Ship Size:[/color] Large - Carrier
+[color=#a4885c]船隻尺寸：[/color] 大型 - 航母
 
-[color=#a4885c]Recommended Crew:[/color] 4-10
+[color=#a4885c]建議船員人數：[/color] 4-10 人
 
-[color=#a4885c]Power Gen Type:[/color] Bananium
+[color=#a4885c]動力產生類型：[/color] 巴納尼姆
 
-# Shuttle Brief
+# 穿梭機簡介
 
-"The Crescent is the crown jewel of Nanotrasen's outbound exploratory efforts. Serving as the anchor for any deep space venture, the Crescent is an entirely self sufficient deep space exploratory carrier."
+「『新月號』是納諾特拉森外太空探索計畫中的皇冠明珠。 「作為任何深空探險任務的支柱，『新月號』是一艘完全自給自足的深空探索航母。」
 
 # Ship Functions
 
 <Box>
-  <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Bolt Exterior Airlocks"/>
-  <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Actuate Blast Doors"/>
-  <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Actuate Shutters"/>
+  <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Bolt 外部氣閘"/>
+  <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Actuate 防爆門"/>
+  <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="操作百葉窗"/>
 </Box>
 
-# Special Controls
+# 特殊控制裝置
 
-"Thruster power controls are located in the primary substation closets in the port and starboard nacelles."
+「推進器動力控制裝置位於左舷與右舷發動機艙內的主變電室中。」
 
-# Medical
+# 醫學
 
-[textlink="Medicine" link="Medical Doctor"/]
+[textlink="醫學" link="醫師"/]
 
-[textlink="Chemistry" link="Chemist"/]
+[textlink="化學" link="化學家"/]
 
-[textlink="Chemicals" link="Chemicals"/]
+[textlink="化學品" link="化學品"/]
 
-[textlink="Cryogenics" link="Cryogenics"/]
+[textlink="極低溫技術" link="極低溫技術"/]
 
 # CRESCENT STAFFING
 
@@ -65,43 +66,43 @@
   <GuideEntityEmbed Entity="RandomHumanoidVisitorChaplain" Caption=""/>
 </Box>
 
-# PREFLIGHT CHECKLIST
+# 飛行前檢查清單
 
-# Science
+# 科學
 
-[textlink="Science" link="Science"/]
+[textlink="科學" link="科學"/]
 
-# Medical
+# 醫學
 
-[textlink="Medicine" link="Medical Doctor"/]
+[textlink="醫學" link="醫師"/]
 
-[textlink="Chemistry" link="Chemist"/]
+[textlink="化學" link="化學家"/]
 
-[textlink="Chemicals" link="Chemicals"/]
+[textlink="化學品" link="化學品"/]
 
-[textlink="Cryogenics" link="Cryogenics"/]
+[textlink="低溫技術" link="低溫技術"/]
 
-[textlink="Botany" link="Botany"/]
+[textlink="植物學" link="植物學"/]
 
-# Entertainment
+# 娛樂
 
-[textlink="Food Recipes" link="FoodRecipes"/]
+[textlink="食譜" link="食譜"/]
 
-[textlink="Drinks" link="Drinks"/]
+[textlink="飲品" link="飲品"/]
 
-[textlink="Botany" link="Botany"/]
+[textlink="植物學" link="植物學"/]
 
-# Piloting
+# 駕駛
 
-[textlink="Piloting" link="Piloting"/]
+[textlink="駕駛" link="駕駛"/]
 
-[textlink="Sector Topology" link="SectorTopology"/]
+[textlink="區塊拓撲" link="SectorTopology"/]
 
-# Hiring crew
+# 招募船員
 
-[textlink="Hiring" link="Hiring"/]
+[textlink="招募" link="招募"/]
 
-As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+身為納諾特拉森（Nanotrasen）船隻的船長，你有權隨意僱用、解僱、降職或晉升船員。
 
 # PREFLIGHT CHECKLIST
 

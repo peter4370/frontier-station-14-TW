@@ -1,5 +1,6 @@
+
 <Document>
-  # CHARON CLASS RO-RO EQUIPMENT TRANSPORT
+  # 卡戎級滾裝設備運輸船
   <Box>
   <GuideEntityEmbed Entity="BannerCargo"/>
   <GuideEntityEmbed Entity="CargoTechFabNF"/>
@@ -9,33 +10,33 @@
   <Box>
     <GuideEntityEmbed Entity="ShuttleMapCharon" Caption=""/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Medium
+  [color=#a4885c]船隻尺寸：[/color] 中型
 
-  [color=#a4885c]Recommended Crew:[/color] 2-4
+  [color=#a4885c]建議船員人數：[/color] 2-4 人
 
-  [color=#a4885c]Power Gen Type:[/color] AME
+  [color=#a4885c]動力產生類型：[/color] AME
 
-  [color=#a4885c]Expeditions:[/color] Yes
+  [color=#a4885c]探勘任務：[/color] 是
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  Originally built as a roll-on, roll-off transport for heavy terraforming equipment. Since its obsolescence and appearance on the secondary market, the Charon has become a favorite of upfitters for the broad possibilities afforded by its open equipment bay. A product of Endurance Industrial Shipyards.
+  最初是作為重型地球化設備的滾裝運輸船所建造。 自從「卡戎」型停產並出現在二手市場以來，由於其開放式設備艙提供了廣泛的改裝可能性，已成為改裝業者最喜愛的車款。 由 Endurance 工業造船廠製造。
 
-  # Expeditions
+  # 探險任務
 
-  [textlink="Expeditions" link="Expeditions"/]
+  [textlink="探險任務" link="探險任務"/]
 
-  # Piloting
+  # 試飛
 
-  [textlink="Piloting" link="Piloting"/]
+  [textlink="試飛" link="試飛"/]
 
-  [textlink="Sector Topology" link="SectorTopology"/]
+  [textlink="星區拓撲" link="星區拓撲"/]
 
-  # Hiring crew
+  # 招募船員
 
-  [textlink="Hiring" link="Hiring"/]
+  [textlink="招募" link="招募"/]
 
-  As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+  身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員。
 
   # PREFLIGHT CHECKLIST
 

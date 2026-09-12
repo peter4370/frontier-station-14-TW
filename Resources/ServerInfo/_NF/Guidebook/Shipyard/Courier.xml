@@ -1,5 +1,6 @@
+
 <Document>
-# COURIER-CLASS CARGO SHUTTLE
+# 快遞級貨運穿梭機
 <Box>
   <GuideEntityEmbed Entity="CrateTradeSecureNormal" Caption="Transport"/>
   <GuideEntityEmbed Entity="NFPosterContrabandFscLogo" Caption="Profit"/>
@@ -9,15 +10,15 @@
 <GuideEntityEmbed Entity="ShuttleMapCourier" Caption=""/>
 </Box>
 
-[color=#a4885c]Ship Size:[/color] Small
+[color=#a4885c]船隻尺寸：[/color] 小型
 
-[color=#a4885c]Recommended Crew:[/color] 1-3
+[color=#a4885c]建議船員人數：[/color] 1-3 人
 
-[color=#a4885c]Power Gen Type:[/color] Uranium
+[color=#a4885c]動力類型：[/color] 鈾
 
-# Shuttle Brief
+# 穿梭機簡介
 
-"A minimalist bulk goods and cargo transport shuttle fielded by the Far Star Corporation to manage its inter-system freight and transport needs."
+「由遠星公司投入服役的一款極簡風格散裝貨物與貨運穿梭機，用於處理其星系間的貨運與運輸需求。」
 
 # Ship Functions
 
@@ -27,21 +28,21 @@
   <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Toggle Shutters"/>
 </Box>
 
-# Cargo
+# 貨運
 
-[textlink="Cargo Hauling" link="CargoHauling"/]
+[textlink="貨運運輸" link="CargoHauling"/]
 
-# Piloting
+# 引航
 
-[textlink="Piloting" link="Piloting"/]
+[textlink="引航" link="Piloting"/]
 
-[textlink="Sector Topology" link="SectorTopology"/]
+[textlink="星區拓撲" link="SectorTopology"/]
 
-# Hiring crew
+# 招募船員
 
-[textlink="Hiring" link="Hiring"/]
+[textlink="招募" link="Hiring"/]
 
-As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will.
+身為納諾特拉森（Nanotrasen）船隻的船長，你有權隨意僱用、解僱、降級或晉升船員。
 
 # PREFLIGHT CHECKLIST
 

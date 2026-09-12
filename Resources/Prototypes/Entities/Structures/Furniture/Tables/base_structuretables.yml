@@ -2,7 +2,7 @@
   id: TableBase
   parent: BaseStructure
   name: table
-  description: A square piece of metal standing on four metal legs.
+  description: 一塊方形金屬片，立於四條金屬腳上。
   abstract: true
   components:
   - type: Animateable
@@ -44,7 +44,7 @@
 - type: entity
   id: CounterBase
   parent: TableBase
-  name: counter
+  name: 計數器
   abstract: true
   components:
   - type: Fixtures

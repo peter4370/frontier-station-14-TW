@@ -53,8 +53,8 @@
 - type: entity
   parent: CableBase
   id: CableHV
-  name: HV power cable
-  description: An orange high voltage power cable.
+  name: 高壓電力電纜
+  description: 一條橘色的高壓電纜。
   components:
   - type: Sprite
     sprite: Structures/Power/Cables/hv_cable.rsi
@@ -111,8 +111,8 @@
 - type: entity
   parent: CableBase
   id: CableMV
-  name: MV power cable
-  description: A medium voltage power cable.
+  name: 中壓電力電纜
+  description: 一條中壓電力電纜。
   components:
   - type: Sprite
     sprite: Structures/Power/Cables/mv_cable.rsi
@@ -165,8 +165,8 @@
 - type: entity
   parent: CableBase
   id: CableApcExtension
-  name: LV power cable
-  description: A cable used to connect machines to an APC. #APCs aren't area defined anymore so need this cable to connect things to the APC. This description should be dynamic in future.
+  name: 高壓電纜
+  description: 用於將機器連接至 APC 的纜線。 #APCs aren't area defined anymore so need this cable to connect things to the APC. This description should be dynamic in future.
   components:
   - type: Sprite
     color: Green

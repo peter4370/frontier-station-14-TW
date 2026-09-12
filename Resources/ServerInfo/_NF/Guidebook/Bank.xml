@@ -1,27 +1,28 @@
+
 <Document>
-  # NT Galactic Bank
+  # NT 銀河銀行
 
-As a contractor with Nanotrasen, you have a persistent bank account.
-Money that you [bold]deposit[/bold] at an [color=#44cc00]ATM[/color] on Frontier Outpost or Tinnia's rest will be stored in your account.
+身為 Nanotrasen 的承包商，您擁有一個永久有效的銀行帳戶。
+您在「邊境前哨站」或「蒂尼亞的休憩處」的 [color=#44cc00]自動櫃員機[/color] 上 [bold]存入[/bold] 的金錢，將會存入您的帳戶中。
 
-## ATMs
+## 自動櫃員機
   <Box>
     <GuideEntityEmbed Entity="ComputerBankATM"/>
     <GuideEntityEmbed Entity="SpaceCash1000"/>
   </Box>
-  You can access your personal bank account at any time to withdraw your hard-earned [color=#44cc00]Spesos[/color] at any [color=#44cc00]Galactic Bank ATM[/color].
+  您可以隨時登入個人銀行帳戶，並在任何 [color=#44cc00]銀河銀行自動櫃員機[/color] 提取您辛苦賺來的 [color=#44cc00]Spesos[/color]。
 
-Only ATMs on Frontier Outpost and Tinnia's Rest allow you to deposit money.
-Make sure you deposit your cash and sell off your ship before ending your shift!
+只有位於「邊境前哨站」和「蒂尼亞驛站」的自動櫃員機才允許您存入現金。
+請務必在結束班次前將現金存入，並出售您的船隻！
 
-## Account Access
+## 帳戶存取
   <Box>
     <GuideEntityEmbed Entity="VendingMachineAstroVend"/>
     <GuideEntityEmbed Entity="ComputerCargoOrders"/>
     <GuideEntityEmbed Entity="VendingMachineAmmo"/>
   </Box>
-  Your bank account can be used through [color=#44cc00]Galactic Bank ATMs[/color], [color=#44cc00]cargo computers[/color], and [color=#44cc00]vending machines[/color].
+  您可以透過 [color=#44cc00]銀河銀行自動櫃員機[/color]、[color=#44cc00]貨艙電腦[/color] 以及 [color=#44cc00]自動販賣機[/color] 使用您的銀行帳戶。
 
-When trading with other people, you'll usually deal in stacks of [color=#44cc00]Spesos[/color].
-Be sure to deposit these at an [color=#44cc00]ATM[/color] before ending your shift.
+與他人交易時，通常會以一疊疊的 [color=#44cc00]斯佩索[/color] 作為交易媒介。
+請務必在下班前將這些款項存入[color=#44cc00]自動櫃員機[/color]。
 </Document>

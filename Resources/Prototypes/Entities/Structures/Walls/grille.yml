@@ -1,8 +1,8 @@
 - type: entity
   id: Grille
   parent: BaseStructure
-  name: grille
-  description: A flimsy framework of iron rods.
+  name: 格柵
+  description: 一個由鐵桿組成的脆弱框架。
   components:
     - type: MeleeSound
       soundGroups:
@@ -89,8 +89,8 @@
 - type: entity
   id: ClockworkGrille
   parent: Grille
-  name: clockwork grille
-  description: A flimsy framework of iron rods assembled in traditional Ratvarian fashion.
+  name: 發條格柵
+  description: 一個以傳統拉特瓦里亞方式組裝而成的、由鐵桿構成的簡陋框架。
   components:
   - type: Sprite
     drawdepth: Walls
@@ -110,7 +110,7 @@
   id: GrilleBroken
   parent: BaseStructure
   name: grille
-  description: A flimsy framework of iron rods. It has seen better days.
+  description: 一個由鐵桿組成的簡陋框架。它早已不復往日的風采。
   components:
   - type: Sprite
     drawdepth: Walls
@@ -152,7 +152,7 @@
   id: ClockworkGrilleBroken
   parent: GrilleBroken
   name: clockwork grille
-  description: A flimsy framework of iron rods assembled in traditional Ratvarian fashion. It has seen better days.
+  description: 這是一個以傳統拉特瓦里亞方式組裝而成的、由鐵桿構成的簡陋框架。它早已不復當年之盛。
   components:
   - type: Sprite
     drawdepth: Walls
@@ -168,7 +168,7 @@
 - type: entity
   id: GrilleDiagonal
   parent: Grille
-  name: diagonal grille
+  name: 對角線格柵
   components:
   - type: Sprite
     drawdepth: Walls
@@ -206,7 +206,7 @@
 - type: entity
   id: ClockworkGrilleDiagonal
   parent: ClockworkGrille
-  name: diagonal clockwork grille
+  name: 對角線狀的齒輪狀格柵
   components:
   - type: Sprite
     drawdepth: Walls

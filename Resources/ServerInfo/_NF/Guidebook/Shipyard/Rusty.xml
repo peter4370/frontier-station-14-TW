@@ -1,42 +1,43 @@
+
 <Document>
-  # RUSTY-CLASS TRANSPORT SHUTTLE
+  # 鏽蝕級運輸接駁船
   <Box Margin="-100">
   <GuideEntityEmbed Entity="ShuttleBannerRusty" Caption="" Margin="-20"/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="ShuttleMapRusty" Caption="" Margin="-20"/>
   </Box>
-  [color=#a4885c]Ship Size:[/color] Micro
+  [color=#a4885c]船隻尺寸：[/color] 微型
 
-  [color=#a4885c]Recommended Crew:[/color] 1-2
+  [color=#a4885c]建議船員人數：[/color] 1-2 人
 
-  [color=#a4885c]Power Gen Type:[/color] WeldFuel
+  [color=#a4885c]動力類型：[/color] 熔融燃料
 
-  # Shuttle Brief
+  # 穿梭機簡介
 
-  "A small cheap yet reliable old shuttle for those who wants to travel."
+  「一艘小巧、便宜卻可靠的老式穿梭機，專為渴望旅行的人而設計。」
 
-  [italic]Brought to you by Settler's Spacecraft Firm.[/italic]
+  [斜體]由 Settler's Spacecraft Firm 呈獻。[/斜體]
 
-  # Ship Functions
-  ## Ship Buttons
+  # 飛船功能
+  ## 飛船按鈕
   <Box>
   <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Power Down Thrusters"/>
   </Box>
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # Piloting
-  ### Piloting Equipment Specifications:
-  [color=#a4885c]Thrusters:[/color] [bold]3 Small, 1 Standard[/bold] [color=#999999](1 Forward, 1 Small Backward, 1 Small Left, 1 Small Right.)[/color]
+  # 駕駛
+  ### 駕駛設備規格：
+  [color=#a4885c]推進器：[/color] [bold]3 具小型、1 具標準型[/bold] [color=#999999](1 具向前、1 具小型向後、1 具小型向左、1 具小型向右。)[/color]
 
-  [color=#a4885c]Gyroscopes:[/color] [bold]1 Small[/bold]
+  [color=#a4885c]陀螺儀：[/color] [bold]1 個小型[/bold]
 
-  [color=#a4885c]This shuttle is equipped with a thruster/gyroscope switch, check the ship functions section.[/color]
+  [color=#a4885c]這艘太空梭配備了推進器/陀螺儀切換開關，請參閱「飛船功能」章節。[/color]
 
   [bold][color=#a4885c]__________[/color]
-  
-  ## Related Guides
+
+  ## 相關指南
 
 <Table Columns="2">
     <ColorBox Color="#a88b5e">
@@ -64,15 +65,15 @@
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # Hiring crew
+  # 招募船員
 
-  - [textlink="For details on the process of Hiring, click here." link="Hiring"/]
+  - [textlink="如需了解招募流程的詳細資訊，請點擊此處。" link="招募"/]
 
-  [color=#a4885c] As a Captain of a Nanotrasen vessel, you have the authority to hire, fire, demote, or promote crew members at will. [/color]
+  [color=#a4885c] 身為納諾特拉森（Nanotrasen）船隻的船長，您有權隨意僱用、解僱、降職或晉升船員。 [/color]
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # Fuel and Power
+  # 燃料與動力
 
 <Table Columns="2">
     <ColorBox Color="#a88b5e">
@@ -100,7 +101,7 @@
 
   [bold][color=#a4885c]________________________________________________________________________[/color]
 
-  # PREFLIGHT CHECKLIST
+  # 起飛前檢查清單
 
-  - [textlink="Preflight Checklist" link="PreflightChecklist"/]
+  - [textlink="起飛前檢查清單" link="PreflightChecklist"/]
 </Document>

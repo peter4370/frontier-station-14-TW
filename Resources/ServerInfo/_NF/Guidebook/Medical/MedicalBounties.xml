@@ -1,36 +1,37 @@
+
 <Document>
-# Medical Bounties
+# 醫療懸賞
 
-With space being as dangerous as it is on the Frontier, NT has created an initiative to reward retrieving, healing, and transporting valuable corpses back to medical facilities on inner worlds.
+鑑於太空環境與邊疆地區同樣危險，新塔（NT）推出了一項計畫，旨在獎勵那些尋回、救治並將有價值的遺體運回內世界醫療設施的人士。
 
-Remember, 70% of your value is in your biogenetic IP!
+請記住，您70%的價值在於您的生物遺傳智慧財產權！
 
-## Finding Bounties
+## 尋找懸賞任務
 
 <Box>
 <GuideEntityEmbed Entity="MedicalPod"/>
 </Box>
 
-These life-saving emergency pods can be found on [color=#88b0d1]ship wreckage[/color]. Each emergency pod comes equipped with [color=#ffff00]blinking indicators[/color]. You can see these at a glance in the dark, and they have an distinct [color=#80b9c4]health analyzer[/color] display on the side.
+這些能拯救生命的緊急逃生艙，可於 [color=#88b0d1]沉船殘骸[/color] 上找到。 每個緊急艙都配備了 [color=#ffff00]閃爍指示燈[/color]。 即使在黑暗中也能一眼看清這些裝置，而且它們側面設有醒目的 [color=#80b9c4]生命值分析儀[/color] 顯示幕。
 
-These pods tend to be anchored to their ship, but they are [bold]heavy[/bold]. If needed, the occupant can be ejected and brought into safety quickly. Remember, they're still vulnerable to barotrauma.
+這些艙體通常會固定在母艦上，但它們[bold]很重[/bold]。 如有需要，可迅速將車內人員救出並帶往安全地點。 請記住，牠們仍然容易受到氣壓傷的影響。
 
-## Recovering Bounties
+## 領取賞金
 
-In order to safely transport the bodies, [bold]before the bounty can be redeemed, they must first be resuscitated back to health[/bold].  Ensure that the body is alive, stable and breathing. [color=#00ffff]Cryogenic[/color] medications used in cryo pods are recommended for cases with extreme damage for efficient use of resources.
+為了安全運送屍體，[bold]在領取賞金之前，必須先將屍體復活並恢復健康[/bold]。  確認患者尚有生命跡象、狀況穩定且正在呼吸。 為有效利用資源，建議將冷凍艙中使用的[color=#00ffff]低溫[/color]藥物，用於損傷極為嚴重的病例。
 
-## Claiming Bounties
+## 領取懸賞金
 
-Once the bountied asset is stable, they'll likely remain in a catatonic state. Don't worry, this is normal, and you will not be held liable for malpractice.
+一旦被懸賞的資產狀況穩定下來，它們很可能仍會處於木然狀態。 別擔心，這是正常的，您不會因此被追究醫療疏失的責任。
 
-When you are ready to redeem the bounty, return the asset to the nearest [color=#469bbd]body retrieval unit[/color]. Simply insert the revived asset into the unit. [color=#d40606]Both lights[/color] should be on. Open the panel on the unit and hit the "Redeem" button, and enjoy the hard-earned spesos.
+當您準備兌換賞金時，請將該資產交還給最近的 [color=#469bbd]遺體回收單位[/color]。 只需將復甦後的資產插入該單元即可。 [color=#d40606]兩盞燈[/color] 都應該亮著。 打開機器的面板，按下「兌換」按鈕，盡情享受這來之不易的 spesos 吧。
 
 <Box>
 <GuideEntityEmbed Entity="MachineMedicalBountyRedemption"/>
 </Box>
 
-## History
+## 歷史
 
-Starting in 2472, safety initiatives within Nanotrasen promoted the creation of LifeSavior emergency medical pods, for use in catastrophic incidents aboard stations and shuttles. This initiative ended two years ago due to mounting pressure over unfounded, unprovable claims that emergency pod-based fatalities outnumbered saved lives by 5:1.
+自 2472 年起，Nanotrasen 內部推動的安全措施促成了「LifeSavior」緊急醫療艙的研發，供太空站及穿梭機上發生重大事故時使用。 這項計畫因面臨日益增大的壓力而於兩年前終止，起因是有人提出毫無根據且無法證實的指控，聲稱緊急隔艙措施導致的死亡人數是獲救人數的五倍。
 
 </Document>

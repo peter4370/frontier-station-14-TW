@@ -1,23 +1,15 @@
 mech-verb-enter = Enter
-mech-verb-exit = Remove pilot
-
-mech-equipment-begin-install = Installing the {THE($item)}...
-mech-equipment-finish-install = Finished installing the {THE($item)}
-
-mech-equipment-select-popup = {$item} selected
-mech-equipment-select-none-popup = Nothing selected
-
-mech-ui-open-verb = Open control panel
-
-mech-menu-title = mech control panel
-
-mech-integrity-display = Integrity: {$amount}%
-mech-energy-display = Energy: {$amount}%
-mech-energy-missing = Energy: MISSING
-mech-slot-display = Open Slots: {$amount}
-
-mech-no-enter = You cannot pilot this.
-
-mech-eject-pilot-alert = {$user} is pulling the pilot out of the {$item}!
-
-mech-construction-guide-string = All mech parts must be attached to the harness.
+mech-verb-exit = 移除導引彈
+mech-equipment-begin-install = 正在安裝 { THE($item) }...
+mech-equipment-finish-install = 已完成安裝 { THE($item) }
+mech-equipment-select-popup = { $item } 已選中
+mech-equipment-select-none-popup = 未選取任何項目
+mech-ui-open-verb = 開啟控制台
+mech-menu-title = 機甲控制面板
+mech-integrity-display = 誠信：{ $amount }%
+mech-energy-display = 能量：{ $amount }%
+mech-energy-missing = 能源：缺失
+mech-slot-display = 尚有空位：{ $amount }
+mech-no-enter = 你無法駕駛這台。
+mech-eject-pilot-alert = { $user } 正將試播集從 { $item } 中移除！
+mech-construction-guide-string = 所有機械零件都必須安裝在線束上。

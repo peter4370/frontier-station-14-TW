@@ -1,8 +1,8 @@
 - type: entity
-  name: stun prod
+  name: 電擊棒
   parent: [BaseItem, BaseC1Contraband] # Frontier: BaseMinorContraband<BaseC1Contraband
   id: Stunprod
-  description: A stun prod for questionably legal incapacitation. # Frontier: illegal<questionably legal
+  description: 一種用於合法性存疑的致失能處置的電擊棒。 # Frontier: illegal<questionably legal
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/stunprod.rsi
